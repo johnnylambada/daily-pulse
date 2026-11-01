@@ -26,10 +26,13 @@ AI
 | Order | Topic | Bullets |
 |---|---|---|
 | 1 | Top Stories | 10 |
-| 2 | AI | 10 |
-| 3 | Investing & Markets | 10 |
-| 4 | General Tech | 10 |
-| 5 | Huntington Beach / OC Local | 3 |
+| 2 | US News | 10 |
+| 3 | World News | 10 |
+| 4 | AI | 10 |
+| 5 | Investing & Markets | 10 |
+| 6 | General Tech | 10 |
+| 7 | Cybersecurity | 10 |
+| 8 | Huntington Beach / OC Local | 3 |
 
 Topics, order, per-topic counts, sources, and search terms all live in `config.yaml`. We expect to iterate a lot, so changes shouldn't require code edits.
 
@@ -42,6 +45,19 @@ topics:
     count: 10
     feeds: [https://presto-ferry-g7bz.here.now/api/v1/pulses/top-20.json]   # RSS alt: /feeds/top-20.xml
     x_search: []
+  - id: us
+    title: US News
+    count: 10
+    feeds:   # no Scoble feed; verified RSS (Nov 1, 2026)
+      - https://feeds.npr.org/1003/rss.xml                       # NPR National
+      - https://rss.nytimes.com/services/xml/rss/nyt/US.xml      # NYT U.S.
+      - https://www.cbsnews.com/latest/rss/us                    # CBS News U.S.
+      - https://feeds.content.dowjones.io/public/rss/RSSUSnews   # WSJ U.S.
+    x_search: ["breaking US news", "from:AP OR from:Reuters OR from:NPR"]
+  - id: world
+    title: World News
+    count: 10
+    feeds: [https://presto-ferry-g7bz.here.now/api/v1/pulses/world-news.json]
   - id: ai
     title: AI
     count: 10
@@ -55,6 +71,10 @@ topics:
     title: General Tech
     count: 10
     feeds: [https://presto-ferry-g7bz.here.now/api/v1/pulses/general-tech.json]
+  - id: cyber
+    title: Cybersecurity
+    count: 10
+    feeds: [https://presto-ferry-g7bz.here.now/api/v1/pulses/cybersecurity.json]
   - id: hb
     title: Huntington Beach / OC Local
     count: 3
@@ -65,6 +85,7 @@ topics:
 ## 4. Sources
 - **Scoble's RSS feeds**: `https://presto-ferry-g7bz.here.now/feeds/top-20.xml`, plus the sibling per-topic feeds, OPML, and `index.json`. Items mostly link to x.com and include a title, summary, "why it matters," and a category.
 - **Own X searches** via Grok Bot public X reads (limits: 30 calls/min, 1,000/day, 25 results/call). These fill gaps and serve as the fallback when a feed is stale.
+- **US News** has no Scoble feed. It uses the RSS listed in config plus our own X searches. AP's public RSS failed to load, and Reuters has no official public RSS, so they appear only via X searches.
 - **Local news** comes from OC news sites (OC Register, Voice of OC, City of Huntington Beach feeds) plus **Reddit r/huntingtonbeach**, not from X.
 - *Future / back burner:* Discord local communities.
 
@@ -75,7 +96,7 @@ Index: https://presto-ferry-g7bz.here.now/api/v1/index.json. It's public, needs 
 - Mapping: Top Stories → `top-20`; AI → `ai-industry` + `ai-companies` (optional: `ai-community`, `ai-organizations`, `creative-ai`); Markets → `investor` (optional: `crypto-web3`); Tech → `general-tech`. Also relevant: `world-news`, `weather-climate`, `tesla-ev`, `cybersecurity`.
 - **There's no local / California / OC pulse**, so the HB/OC topic relies on our own local sources.
 - Item fields: `id`, `pulse`, `pulseName`, `title`, `url` (main X post), `synopsis`, `also[]`, `section`, `publishedAt`, `firstSeenAt`, `editionAt`, `rank`, `whyItMatters`, `image`.
-- **There are no engagement metrics** (no likes, reposts, or views). The only ranking signal is Scoble's `rank` within an edition. To rank by engagement, we fetch public metrics for the item's X post (status ID from `url`) via Grok Bot X reads. That costs about one call per item, or fewer with batch lookups, against the 1,000/day budget. `rank` serves as a tiebreaker or fallback.
+- **There are no engagement metrics** (no likes, reposts, or views). The only ranking signal is Scoble's `rank` within an edition. To rank by engagement, we fetch public metrics for the item's X post (status ID from `url`) via Grok Bot X reads. That costs about one call per item, or fewer with batch lookups, against the 1,000/day budget. **Budget estimate (8 topics):** about 75 published bullets/day, ranked from roughly 150-250 candidates. That's about 150-250 metric lookups (far fewer if batched up to 100 IDs/call), plus about 20-40 gap-fill searches. Total ≈ 200-300 calls/day, roughly 20-30% of the 1,000/day cap, with headroom for a manual rerun. `rank` serves as a tiebreaker or fallback.
 
 ## 5. Pipeline
 ```mermaid
