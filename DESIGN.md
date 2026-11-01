@@ -6,14 +6,15 @@ Status: **Draft / design only**. Nothing gets built until John says go.
 A personal news pulse, just for John, in the spirit of Robert Scoble's [News Pulse](https://news-pulse-docs-4g7j.pages.grok.bot/). It's a long list of very short, linked bullets on topics he wants to follow up on. It's published as a **Grok Bot Page** and auto-refreshed daily at **5:00 AM PT** by a Grok Bot routine.
 
 ## 2. Look & feel (Hacker News style)
-- A dense numbered list with minimal whitespace and small type. Each bullet is one line.
-- Bullets are headline-only. **The bullet text is a link to its own source** (X post or article) and opens in a new tab (`target="_blank" rel="noopener"`).
+- **Mobile-first** (~90% of reading is on a phone). It's a dense numbered list in Hacker News style, but the type stays readable and the tap targets are comfortable: about 44px tall rows, full-width links, and no tiny hit areas.
+- Bullets are kept short so most fit on one or two lines on a phone.
+- Bullets are **headlines only**, with no summaries or hover "why it matters" text. **The bullet text is a link to its own source** (X post or article) and opens in a new tab (`target="_blank" rel="noopener"`).
 - A small gray source domain follows each headline, e.g. `(x.com)` or `(ocregister.com)`.
-- A thin header shows the date, the refresh timestamp, a Refresh button, and ← previous / next → links.
+- A thin header shows the date, the refresh timestamp, and ← previous / next → links.
 - The footer credits Robert Scoble / Scobleizer for the feeds.
 
 ```
-Daily Pulse · Mon Nov 2, 2026 · refreshed 5:00 AM PT   [Refresh]  ← prev | index
+Daily Pulse · Mon Nov 2, 2026 · refreshed 5:00 AM PT   ← prev | index
 TOP STORIES
  1. Headline text goes here (x.com)
  2. Another headline (reuters.com)
@@ -57,19 +58,20 @@ topics:
   - id: hb
     title: Huntington Beach / OC Local
     count: 3
-    feeds: [<OC Register>, <Voice of OC>, <City of HB news>]
+    feeds: [<OC Register>, <Voice of OC>, <City of HB news>, https://www.reddit.com/r/huntingtonbeach/.rss]
     use_x: false
 ```
 
 ## 4. Sources
 - **Scoble's RSS feeds**: `https://presto-ferry-g7bz.here.now/feeds/top-20.xml`, plus the sibling per-topic feeds, OPML, and `index.json`. Items mostly link to x.com and include a title, summary, "why it matters," and a category.
 - **Own X searches** via Grok Bot public X reads (limits: 30 calls/min, 1,000/day, 25 results/call). These fill gaps and serve as the fallback when a feed is stale.
-- **Local news** comes from OC news sites (OC Register, Voice of OC, City of Huntington Beach feeds), not from X.
+- **Local news** comes from OC news sites (OC Register, Voice of OC, City of Huntington Beach feeds) plus **Reddit r/huntingtonbeach**, not from X.
+- *Future / back burner:* Discord local communities.
 
 ## 5. Pipeline
 ```mermaid
 flowchart LR
-  A[Routine 5 AM PT / Refresh] --> B[Load config.yaml]
+  A[Routine 5 AM PT] --> B[Load config.yaml]
   B --> C[Fetch Scoble RSS feeds]
   B --> D[Fetch OC local feeds]
   C --> E{Feed fresh?}
@@ -77,7 +79,7 @@ flowchart LR
   E -- yes --> G[Items from last 24h]
   F --> G
   D --> G
-  G --> H[Dedupe + drop items seen in prior runs]
+  G --> H[Dedupe by normalized URL, incl. prior runs]
   H --> I[Rank per topic]
   I --> J{N items?}
   J -- short --> F2[Fill gaps with X searches] --> K
@@ -86,18 +88,23 @@ flowchart LR
   L --> M[Save snapshot YYYY-MM-DD_HHMM]
   M --> N[Update prev/next links + index]
   N --> O[Publish Grok Bot Page]
+  O --> P[git commit + push snapshot]
 ```
 
 ## 6. Snapshots & history
 - Each run writes its own file, named by date and time, e.g. `runs/2026-11-02_0500.html`.
 - Each page links ← previous / next →.
 - An `index` page lists all runs, newest first.
-- `state/seen.json` tracks item URLs from prior runs so they don't repeat.
+- **Snapshots are kept forever**, with no pruning.
+- **Every run's snapshot is committed to this repo** (along with the updated index and `state/seen.json`) and pushed.
 
-## 7. Refresh button
-The goal is a button on the page that reruns the pulse right away and creates a new timestamped snapshot.
-- **Unverified:** whether a Grok Bot Page can trigger a routine/run directly.
-- **Fallback:** the button copies a "refresh my pulse" request to paste into chat, or John simply asks in chat.
+## 6a. Dedupe rule
+- Dedupe by **exact article / URL only**. The same story or topic may come back in later runs (say, a different outlet's article), but the exact same article never appears twice. That holds within a run and across all prior runs.
+- URLs are normalized before comparing: lowercase the scheme and host, strip `www.` and `m.`, drop tracking params (`utm_*`, `fbclid`, `gclid`, `ref`, `s`, `t` on x.com), drop fragments and trailing slashes, and collapse `twitter.com`/`mobile.twitter.com` to `x.com`. X posts are keyed by status ID.
+- `state/seen.json` stores the normalized URLs of every published item.
+
+## 7. Refresh button: deferred (not in v1)
+v1 refreshes only on the daily 5 AM PT routine, or when John asks in chat. A later version may add an on-page button. Whether a Page can trigger a run directly is still unverified.
 
 ## 8. Proposed repo layout
 ```
@@ -116,11 +123,14 @@ daily-pulse/
   state/seen.json
 ```
 
-## 9. Open questions
-1. Can a Page button trigger a run? If not, which fallback does John prefer?
-2. Exact URLs for Scoble's AI, Tech, and Investor feeds (read from the OPML / index.json).
-3. Ranking signal: Scoble's order, engagement, recency, or John's interests?
-4. Should summaries / "why it matters" appear on hover, or stay headline-only?
-5. Which City of HB feeds are reliable? Should there be any Discord / other local sources?
-6. Snapshot retention: keep everything, or prune after N days?
-7. Should Page snapshots also be committed to this repo?
+## 9. Decisions (resolved)
+- Headlines only, with no hover summaries. Mobile-first dense layout.
+- Snapshots kept forever, and each run is committed to the repo.
+- Local sources are OC news sites plus r/huntingtonbeach. Discord is a future idea.
+- Dedupe by exact normalized URL only, and topics may recur.
+- Refresh button deferred past v1.
+
+## 10. Open questions
+1. Exact URLs for Scoble's AI, Tech, and Investor feeds (read from the OPML / index.json), and the local feed URLs.
+2. Ranking signal: Scoble's order, engagement, recency, or John's interests?
+3. Which City of HB feeds are reliable, and is Reddit's RSS reachable from the routine?
