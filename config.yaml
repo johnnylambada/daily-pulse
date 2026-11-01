@@ -1,0 +1,70 @@
+# Daily Pulse config. Edit freely: topics, order, counts, sources, weights.
+timezone: America/Los_Angeles
+schedule: "0 5 * * *"
+window_hours: 24          # only items newer than this
+title: Daily Pulse
+user_agent: "Mozilla/5.0 (daily-pulse; personal reader)"
+
+ranking:
+  x: {likes: 1.0, reposts: 2.0, replies: 1.5, quotes: 2.0, views: 0.01}
+  reddit: {score: 1.0, comments: 2.0}
+  recency_half_life_hours: 12
+  scoble_rank_weight: 50   # fallback score bonus for Scoble rank 1 (decays with rank)
+
+x_budget:
+  per_minute: 30
+  per_day: 1000
+
+topics:
+  - id: top
+    title: Top Stories
+    count: 10
+    feeds:
+      - https://presto-ferry-g7bz.here.now/api/v1/pulses/top-20.json
+  - id: us
+    title: US News
+    count: 10
+    feeds:
+      - https://feeds.npr.org/1003/rss.xml
+      - https://rss.nytimes.com/services/xml/rss/nyt/US.xml
+      - https://www.cbsnews.com/latest/rss/us
+      - https://feeds.content.dowjones.io/public/rss/RSSUSnews
+    exclude_title: "^(Opinion|PODCAST|Letters?|Here.s the latest|This week on|Nature:)"
+    # X search disabled for v1: outlet searches returned mostly non-US/sports items.
+    x_search: []
+  - id: world
+    title: World News
+    count: 10
+    feeds:
+      - https://presto-ferry-g7bz.here.now/api/v1/pulses/world-news.json
+  - id: ai
+    title: AI
+    count: 10
+    feeds:
+      - https://presto-ferry-g7bz.here.now/api/v1/pulses/ai-industry.json
+      - https://presto-ferry-g7bz.here.now/api/v1/pulses/ai-companies.json
+  - id: markets
+    title: Investing & Markets
+    count: 10
+    feeds:
+      - https://presto-ferry-g7bz.here.now/api/v1/pulses/investor.json
+  - id: tech
+    title: General Tech
+    count: 10
+    feeds:
+      - https://presto-ferry-g7bz.here.now/api/v1/pulses/general-tech.json
+  - id: cyber
+    title: Cybersecurity
+    count: 10
+    feeds:
+      - https://presto-ferry-g7bz.here.now/api/v1/pulses/cybersecurity.json
+  - id: hb
+    title: Huntington Beach / OC
+    count: 3
+    use_x: false
+    feeds:
+      - https://www.huntingtonbeachca.gov/rss.xml                 # City of HB news
+      - https://voiceofoc.org/feed/                               # Voice of OC
+      - https://www.reddit.com/r/huntingtonbeach/.rss             # r/huntingtonbeach
+      # OC Register blocks feed fetches (403); Google News query covers OCR/Daily Pilot/LA Times HB stories
+      - "https://news.google.com/rss/search?q=%22Huntington+Beach%22+when:2d&hl=en-US&gl=US&ceid=US:en"
