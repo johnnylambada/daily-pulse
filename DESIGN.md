@@ -182,7 +182,7 @@ daily-pulse/
 
 ## 8a. Known risks / execution model
 - **X reads are bot-only.** Grok Bot's free public X reads can only be called by the bot itself, not from a script. So the split is: **code** handles feed fetching, caching, dedupe, ranking, and rendering, and the **bot** performs the X lookups and searches during the 5 AM routine. The bot writes the results as JSON into `cache/<date>/x_metrics/` and `cache/<date>/x_search/`, and the code reads them from there. Order: code fetches feeds and lists the needed X IDs/queries → bot fills the X cache → code ranks, renders, commits.
-- **Multi-Page linking.** Each run is its own Grok Bot Page, so previous/next and index links between Pages must be verified at build start: the URLs must be stable and predictable, and older Pages must be editable to add a "next →" link.
+- **Multi-Page linking.** Each run is its own Grok Bot Page, so previous/next and index links between Pages must be verified at build start: the URLs must be stable and predictable, and older Pages must be editable to add a "next →" link. If not, fall back to GitHub Pages from this repo.
 - **Reddit** may block automated fetches of r/huntingtonbeach RSS. Fallbacks: the old.reddit.com RSS, a custom User-Agent, or skipping Reddit for the day.
 - **X quota exhaustion mid-run** (1,000/day): items without metrics fall back to Scoble `rank`, then recency. The run still completes and logs the shortfall.
 - **Cache growth.** There's no cleanup rule for `cache/<date>/` folders. They're kept because they're cheap, and we can revisit later.
@@ -194,7 +194,7 @@ daily-pulse/
 - Dedupe by exact normalized URL only, and topics may recur.
 - Refresh button deferred past v1.
 - Ranking is by engagement (see section 6b).
-- **Hosting is Grok Bot Pages only** (no Cloudflare). Each run is published as its own Grok Bot Page (WriteCanvas) with previous/next links to the other run Pages, plus an index Page listing all runs. Each snapshot's HTML/source is also committed to the repo under `runs/`.
+- **Hosting: Grok Bot Pages first, GitHub Pages fallback** (Cloudflare not needed). If multi-Page dated snapshots with prev/next links don't work on Grok Bot Pages, serve `runs/` and the index via GitHub Pages from this repo. Making the repo public is fine with John. Each run is published as its own Grok Bot Page (WriteCanvas) with previous/next links to the other run Pages, plus an index Page listing all runs. Each snapshot's HTML/source is also committed to the repo under `runs/`.
 - John subscribes to the NYT and WSJ, so their paywalled articles are fine as sources.
 
 ## 10. Open questions
