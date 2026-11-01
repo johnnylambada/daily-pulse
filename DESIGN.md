@@ -40,21 +40,21 @@ topics:
   - id: top
     title: Top Stories
     count: 10
-    feeds: [https://presto-ferry-g7bz.here.now/feeds/top-20.xml]
+    feeds: [https://presto-ferry-g7bz.here.now/api/v1/pulses/top-20.json]   # RSS alt: /feeds/top-20.xml
     x_search: []
   - id: ai
     title: AI
     count: 10
-    feeds: [<scoble ai feed>]
+    feeds: [https://presto-ferry-g7bz.here.now/api/v1/pulses/ai-industry.json, https://presto-ferry-g7bz.here.now/api/v1/pulses/ai-companies.json]
     x_search: ["AI model release", "OpenAI OR Anthropic OR xAI"]
   - id: markets
     title: Investing & Markets
     count: 10
-    feeds: [<scoble investor feed>]
+    feeds: [https://presto-ferry-g7bz.here.now/api/v1/pulses/investor.json]
   - id: tech
     title: General Tech
     count: 10
-    feeds: [<scoble tech feed>]
+    feeds: [https://presto-ferry-g7bz.here.now/api/v1/pulses/general-tech.json]
   - id: hb
     title: Huntington Beach / OC Local
     count: 3
@@ -67,6 +67,15 @@ topics:
 - **Own X searches** via Grok Bot public X reads (limits: 30 calls/min, 1,000/day, 25 results/call). These fill gaps and serve as the fallback when a feed is stale.
 - **Local news** comes from OC news sites (OC Register, Voice of OC, City of Huntington Beach feeds) plus **Reddit r/huntingtonbeach**, not from X.
 - *Future / back burner:* Discord local communities.
+
+## 4a. Scoble News Pulse API (resolved)
+Index: https://presto-ferry-g7bz.here.now/api/v1/index.json. It's public, needs no key, has CORS enabled, and regenerates hourly at about :20. Attribution "Scobleizer News Pulse" is appreciated. We **prefer the JSON** because it has richer fields than RSS.
+- Per-pulse JSON: `https://presto-ferry-g7bz.here.now/api/v1/pulses/<slug>.json` (newest ≤100 items). Per-pulse RSS: `https://presto-ferry-g7bz.here.now/feeds/<slug>.xml`.
+- Other endpoints: `latest.json` (newest edition of every pulse), `all.json` (latest 500), `pulses.json`, `sections.json`.
+- Mapping: Top Stories → `top-20`; AI → `ai-industry` + `ai-companies` (optional: `ai-community`, `ai-organizations`, `creative-ai`); Markets → `investor` (optional: `crypto-web3`); Tech → `general-tech`. Also relevant: `world-news`, `weather-climate`, `tesla-ev`, `cybersecurity`.
+- **There's no local / California / OC pulse**, so the HB/OC topic relies on our own local sources.
+- Item fields: `id`, `pulse`, `pulseName`, `title`, `url` (main X post), `synopsis`, `also[]`, `section`, `publishedAt`, `firstSeenAt`, `editionAt`, `rank`, `whyItMatters`, `image`.
+- **There are no engagement metrics** (no likes, reposts, or views). The only ranking signal is Scoble's `rank` within an edition. To rank by engagement, we fetch public metrics for the item's X post (status ID from `url`) via Grok Bot X reads. That costs about one call per item, or fewer with batch lookups, against the 1,000/day budget. `rank` serves as a tiebreaker or fallback.
 
 ## 5. Pipeline
 ```mermaid
@@ -146,5 +155,5 @@ daily-pulse/
 - Ranking is by engagement (see section 6b).
 
 ## 10. Open questions
-1. Exact URLs for Scoble's AI, Tech, and Investor feeds (read from the OPML / index.json), and the local feed URLs.
+1. Exact local feed URLs (OC Register, Voice of OC, City of HB). Scoble's feeds are resolved (section 4a).
 2. Which City of HB feeds are reliable, and is Reddit's RSS reachable from the routine?
