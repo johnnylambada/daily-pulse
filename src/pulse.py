@@ -171,8 +171,10 @@ def cmd_build(a):
         gcache = json.load(open(gcache_f)) if os.path.exists(gcache_f) else {}
         for it in pool:
             if "news.google.com" in it["url"]:
-                if it["url"] not in gcache: gcache[it["url"]] = gnews.resolve(it["url"])
-                it = {**it, "url": gcache[it["url"]]}
+                if it["url"] not in gcache:
+                    r = gnews.resolve(it["url"])
+                    if r != it["url"]: gcache[it["url"]] = r  # cache successes only
+                it = {**it, "url": gcache.get(it["url"], it["url"])}
             n = norm_url(it["url"])
             if n in used or (n in seen and seen[n] != run_id): continue
             if not it["title"]: continue
