@@ -80,7 +80,7 @@ flowchart LR
   F --> G
   D --> G
   G --> H[Dedupe by normalized URL, incl. prior runs]
-  H --> I[Rank per topic]
+  H --> I[Rank by engagement / recency]
   I --> J{N items?}
   J -- short --> F2[Fill gaps with X searches] --> K
   J -- yes --> K[Take N per topic]
@@ -102,6 +102,20 @@ flowchart LR
 - Dedupe by **exact article / URL only**. The same story or topic may come back in later runs (say, a different outlet's article), but the exact same article never appears twice. That holds within a run and across all prior runs.
 - URLs are normalized before comparing: lowercase the scheme and host, strip `www.` and `m.`, drop tracking params (`utm_*`, `fbclid`, `gclid`, `ref`, `s`, `t` on x.com), drop fragments and trailing slashes, and collapse `twitter.com`/`mobile.twitter.com` to `x.com`. X posts are keyed by status ID.
 - `state/seen.json` stores the normalized URLs of every published item.
+
+## 6b. Ranking (engagement)
+- **X posts:** a weighted score from public metrics (likes, reposts, replies, views), normalized by recency (age decay), so a fresh post with strong traction beats an old viral one.
+- **Web articles:** ranked by the engagement of the X posts and Reddit threads sharing them. For r/huntingtonbeach that means Reddit score and comment count.
+- **No signals:** items fall back to recency.
+- Weights live in `config.yaml` and can be overridden per topic:
+
+```yaml
+ranking:
+  x:      {likes: 1.0, reposts: 2.0, replies: 1.5, views: 0.01}
+  reddit: {score: 1.0, comments: 2.0}
+  recency_half_life_hours: 12
+  fallback: recency
+```
 
 ## 7. Refresh button: deferred (not in v1)
 v1 refreshes only on the daily 5 AM PT routine, or when John asks in chat. A later version may add an on-page button. Whether a Page can trigger a run directly is still unverified.
@@ -129,8 +143,8 @@ daily-pulse/
 - Local sources are OC news sites plus r/huntingtonbeach. Discord is a future idea.
 - Dedupe by exact normalized URL only, and topics may recur.
 - Refresh button deferred past v1.
+- Ranking is by engagement (see section 6b).
 
 ## 10. Open questions
 1. Exact URLs for Scoble's AI, Tech, and Investor feeds (read from the OPML / index.json), and the local feed URLs.
-2. Ranking signal: Scoble's order, engagement, recency, or John's interests?
-3. Which City of HB feeds are reliable, and is Reddit's RSS reachable from the routine?
+2. Which City of HB feeds are reliable, and is Reddit's RSS reachable from the routine?
