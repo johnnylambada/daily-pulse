@@ -10,10 +10,10 @@ Repo: `/workspace/daily-pulse` (GitHub `johnnylambada/daily-pulse`). Python: `.v
    Writes `cache/$D/candidates.json` and `cache/$D/x_needed.json` (`metric_ids`, `searches`).
    Manual reruns the same day: omit `--refresh` → zero new fetches.
 2. **X metrics** (agent-only; scripts can't call X): read `cache/$D/x_needed.json`. For each chunk of ≤100 `metric_ids`, call
-   `x.get_posts_by_ids` with `ids=<comma list>` and `post.fields=public_metrics,created_at`, `write_to_file: true`
+   `x.get_posts_by_ids` with `ids=<comma list>` and `post.fields=public_metrics,created_at,entities`, `write_to_file: true`
    (pass ids inline; `$file:` isn't supported). Then:
    `.venv/bin/python src/ingest_x.py metrics $D <raw file 1> <raw file 2> ...`
-   Typical: ~450 ids → 5 calls. Stay under 30 calls/min, 1000/day. If X fails or quota runs out, skip; ranking falls back to Scoble rank + recency.
+   Ids include each item's post plus up to 2 Scoble `also` posts; posts already cached with entities are skipped. Typical: ~450–770 ids → 5–8 calls  Stay under 30 calls/min, 1000/day. If X fails or quota runs out, skip; ranking falls back to Scoble rank + recency.
 3. **X searches** (only if `searches` non-empty; v1 has none): `x.search_posts_all` with `query`, `max_results=25`,
    `sort_order=relevancy`, `start_time=<24h ago UTC>`, `post.fields=public_metrics,created_at`, then
    `.venv/bin/python src/ingest_x.py search $D "<query>" <raw file>`.
@@ -21,6 +21,9 @@ Repo: `/workspace/daily-pulse` (GitHub `johnnylambada/daily-pulse`). Python: `.v
    Print `runs/<RUN>.json` sections.
 5. **Commit & push**: `git add -A && git commit -m "Run <RUN>" && git push`.
 6. Log in the commit message / reply: run id, item counts per topic, feed cache hits, X calls used.
+
+## Manual rerun the same day
+`pulse.py build --date=$D --new-run` writes a new timestamped run and keeps the earlier one. Dedupe only applies against previous days, so the rerun can reuse today's stories.
 
 ## Rules
 - Site: https://johnnylambada.github.io/daily-pulse/ redeploys automatically ~1 min after push. Optionally verify with `curl -s https://johnnylambada.github.io/daily-pulse/ | grep <RUN stamp>`.

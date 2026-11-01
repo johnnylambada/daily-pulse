@@ -37,6 +37,18 @@ def domain(u):
     h = urlsplit(u).netloc.lower()
     return h[4:] if h.startswith("www.") else h
 
+SKIP = re.compile(r"(^|\.)(x\.com|twitter\.com|t\.co|pic\.twitter\.com|youtube\.com|youtu\.be|instagram\.com|tiktok\.com|imgur\.com|giphy\.com|vimeo\.com|twimg\.com|bit\.ly|linktr\.ee)$")
+def article_for(it, xm):
+    """Primary non-X article URL for an X-sourced item (post entities, then Scoble 'also' posts)."""
+    for u in [it["url"]] + it.get("also", []):
+        sid = status_id(u)
+        if not sid and u != it["url"] and not SKIP.search(domain(u)): return u
+        for l in (xm.get(sid) or {}).get("links", []) if sid else []:
+            if l and not SKIP.search(domain(l)) and not re.search(r"\.(jpe?g|png|gif|mp4)(\?|$)", l): return l
+    return None
+def handle(u):
+    m = re.match(r"https?://(?:www\.)?(?:x|twitter)\.com/([^/]+)/status/", u); return m and m.group(1)
+
 def h(s): return hashlib.sha1(s.encode()).hexdigest()[:16]
 
 def args():
@@ -46,6 +58,7 @@ def args():
         elif x in ("--refresh", "--no-cache"): a["refresh"] = "all"
         elif x.startswith("--refresh="): a["refresh"] = x[10:]
         elif x == "--offline": a["offline"] = True
+        elif x == "--new-run": a["new_run"] = True
     a["date"] = a["date"] or dt.datetime.now(TZ).strftime("%Y-%m-%d")
     return a
 
@@ -71,7 +84,7 @@ def parse(url, body):
     if url.endswith(".json"):
         for it in json.loads(body).get("items", []):
             items.append({"title": it["title"], "url": it["url"], "published": it.get("publishedAt"),
-                          "scoble_rank": it.get("rank"), "edition": it.get("editionAt"), "source": "scoble"})
+                          "scoble_rank": it.get("rank"), "also": it.get("also") or [], "edition": it.get("editionAt"), "source": "scoble"})
         return items
     fp = feedparser.parse(body)
     for e in fp.entries:
@@ -122,7 +135,8 @@ def cmd_fetch(a):
     json.dump(meta, open(meta_f, "w"))
     json.dump(cands, open(os.path.join(cdir(a["date"]), "candidates.json"), "w"), indent=1)
     have = load(a["date"], "x_metrics.json", {})
-    ids = sorted({status_id(i["url"]) for l in cands.values() for i in l if status_id(i["url"])} - set(have))
+    want = {status_id(u) for l in cands.values() for i in l for u in [i["url"]] + i.get("also", [])[:2]}
+    ids = sorted({x for x in want if x and not (have.get(x) or {}).get("ent")})
     searches = [q for t in CFG["topics"] if t.get("use_x", True) for q in t.get("x_search", [])]
     have_s = load(a["date"], "x_search.json", {})
     need = {"metric_ids": ids, "searches": [q for q in searches if q not in have_s]}
@@ -156,7 +170,7 @@ def cmd_build(a):
     meta = load(date, "meta.json", {})
     seen_f = os.path.join(ROOT, "state", "seen.json")
     seen = json.load(open(seen_f)) if os.path.exists(seen_f) else {}
-    stamp = meta.get("fetched_at", dt.datetime.now(TZ).strftime("%Y-%m-%d %H:%M"))
+    stamp = dt.datetime.now(TZ).strftime("%Y-%m-%d %H:%M") if a.get("new_run") else meta.get("fetched_at", dt.datetime.now(TZ).strftime("%Y-%m-%d %H:%M"))
     run_id = stamp.replace(" ", "_").replace(":", "")
     out = []; used = set()
     for t in CFG["topics"]:
@@ -176,15 +190,25 @@ def cmd_build(a):
                     if r != it["url"]: gcache[it["url"]] = r  # cache successes only
                 it = {**it, "url": gcache.get(it["url"], it["url"])}
             n = norm_url(it["url"])
-            if n in used or (n in seen and seen[n] != run_id): continue
+            if n in used or (n in seen and seen[n][:10] < date): continue  # dedupe vs earlier days only
             if not it["title"]: continue
-            used.add(n); picked.append({"t": it["title"][:160], "u": it["url"],
-                                        "d": it.get("srcdomain") or domain(it["url"])})
+            rec = {"t": it["title"][:160], "u": it["url"], "d": it.get("srcdomain") or domain(it["url"])}
+            hd = handle(it["url"])
+            if hd:
+                art = article_for(it, xm)
+                rec.update({"x": it["url"], "h": hd})
+                if art: rec["u"] = art; rec["d"] = domain(art)
+                else: rec["d"] = "x.com"
+                if art and norm_url(art) in used: continue
+                if art: used.add(norm_url(art))
+            used.add(n); picked.append(rec)
             if len(picked) >= t["count"]: break
         json.dump(gcache, open(gcache_f, "w"))
         if picked: out.append({"id": t["id"], "title": t["title"], "items": picked})
     for s in out:
-        for i in s["items"]: seen[norm_url(i["u"])] = run_id
+        for i in s["items"]:
+            seen[norm_url(i["u"])] = run_id
+            if i.get("x"): seen[norm_url(i["x"])] = run_id
     json.dump(seen, open(seen_f, "w"), indent=0, sort_keys=True)
     runs = sorted(f[:-5] for f in os.listdir(os.path.join(ROOT, "runs")) if f.endswith(".json") and f != "index.json")
     if run_id not in runs: runs.append(run_id); runs.sort()
@@ -203,7 +227,7 @@ CSS = """body{font:15px/1.35 -apple-system,Verdana,sans-serif;margin:0;backgroun
 header{background:#ff6600;padding:6px 10px;font-size:14px}header b{margin-right:8px}header a{color:#000}
 h2{font-size:13px;margin:12px 10px 2px;color:#828282;text-transform:uppercase;letter-spacing:.04em}
 ol{margin:0;padding:0 10px 0 34px}li{padding:7px 0;color:#828282}li a{color:#000;text-decoration:none;display:inline}
-li a:visited{color:#828282}.d{font-size:12px;color:#828282}footer{font-size:12px;color:#828282;padding:14px 10px}
+li a:visited{color:#828282}.d{font-size:12px;color:#828282}.d a{color:#828282;text-decoration:underline}footer{font-size:12px;color:#828282;padding:14px 10px}
 @media(prefers-color-scheme:dark){body{background:#1b1b1b;color:#ddd}li a{color:#ddd}header{background:#c50}}"""
 
 def page(title, body, base="./"):
@@ -213,6 +237,10 @@ def page(title, body, base="./"):
 <meta name="theme-color" content="#ff6600"><link rel="apple-touch-icon" href="{base}apple-touch-icon.png">
 <link rel="icon" href="{base}apple-touch-icon.png">
 <title>{html.escape(title)}</title><style>{CSS}</style></head><body>{body}</body></html>"""
+
+def meta(x):
+    v = f' · <a href="{html.escape(x["x"])}" target="_blank" rel="noopener">{"via " if x["d"] != "x.com" else ""}@{html.escape(x["h"])}</a>' if x.get("h") else ""
+    return html.escape(x["d"]) + v
 
 def write_html(d, runs, latest=False):
     i = runs.index(d["run"]); prev = runs[i-1] if i else None; nxt = runs[i+1] if i+1 < len(runs) else None
@@ -225,7 +253,7 @@ def write_html(d, runs, latest=False):
     b = f'<header><b>Daily Pulse</b>{html.escape(d["stamp"])} PT · ' + " · ".join(nav) + '</header>'
     for s in d["sections"]:
         b += f'<h2>{html.escape(s["title"])}</h2><ol>' + "".join(
-            f'<li><a href="{html.escape(x["u"])}" target="_blank" rel="noopener">{html.escape(x["t"])}</a> <span class="d">({html.escape(x["d"])})</span></li>'
+            f'<li><a href="{html.escape(x["u"])}" target="_blank" rel="noopener">{html.escape(x["t"])}</a> <span class="d">{meta(x)}</span></li>'
             for x in s["items"]) + "</ol>"
     b += '<footer>Top, World, AI, Markets, Tech, Cyber via <a href="https://presto-ferry-g7bz.here.now/" target="_blank" rel="noopener">Scobleizer News Pulse</a>. Ranked by X engagement.</footer>'
     out = os.path.join(ROOT, "index.html") if latest else os.path.join(ROOT, "runs", d["run"] + ".html")

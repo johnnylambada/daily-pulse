@@ -200,3 +200,9 @@ daily-pulse/
 ## 10. Open questions
 1. Exact local feed URLs (OC Register, Voice of OC, City of HB). Scoble's feeds are resolved (section 4a).
 2. Which City of HB feeds are reliable, and is Reddit's RSS reachable from the routine?
+
+## Source attribution (Nov 1, 2026)
+Most Scoble items are X posts. For each one, the build looks for the primary article URL in the post's `entities.urls` (unwound_url, then expanded_url), which comes back in the same `get_posts_by_ids` metrics call (`post.fields=public_metrics,created_at,entities`). If the post has none, it checks the posts in Scoble's `also` related links (up to 2). It skips x.com, twitter.com, t.co, and image or video hosts (YouTube, Instagram, TikTok, Imgur, Vimeo, twimg, and so on).
+- **Article found:** the headline links to the article, and the gray meta reads `reuters.com · via @handle`, with @handle linking to the X post.
+- **No article:** the headline links to the X post, and the meta reads `x.com · @handle`.
+Dedupe records both the article URL and the X URL. This adds no new sources or services. On Nov 1, most top X items were native posts with only photos or videos, so they keep x.com.
