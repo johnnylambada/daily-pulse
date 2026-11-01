@@ -96,7 +96,7 @@ Index: https://presto-ferry-g7bz.here.now/api/v1/index.json. It's public, needs 
 - Mapping: Top Stories → `top-20`; AI → `ai-industry` + `ai-companies` (optional: `ai-community`, `ai-organizations`, `creative-ai`); Markets → `investor` (optional: `crypto-web3`); Tech → `general-tech`. Also relevant: `world-news`, `weather-climate`, `tesla-ev`, `cybersecurity`.
 - **There's no local / California / OC pulse**, so the HB/OC topic relies on our own local sources.
 - Item fields: `id`, `pulse`, `pulseName`, `title`, `url` (main X post), `synopsis`, `also[]`, `section`, `publishedAt`, `firstSeenAt`, `editionAt`, `rank`, `whyItMatters`, `image`.
-- **There are no engagement metrics** (no likes, reposts, or views). The only ranking signal is Scoble's `rank` within an edition. To rank by engagement, we fetch public metrics for the item's X post (status ID from `url`) via Grok Bot X reads. That costs about one call per item, or fewer with batch lookups, against the 1,000/day budget. **Budget estimate (8 topics):** about 75 published bullets/day, ranked from roughly 150-250 candidates. That's about 150-250 metric lookups (far fewer if batched up to 100 IDs/call), plus about 20-40 gap-fill searches. Total ≈ 200-300 calls/day, roughly 20-30% of the 1,000/day cap, for the first run of a TTL window. **Reruns within the TTLs cost ~0 X calls** thanks to the cache (6c), so dev retries don't eat the budget. Only cache misses (new posts, expired entries, `--refresh`) count. `rank` serves as a tiebreaker or fallback.
+- **There are no engagement metrics** (no likes, reposts, or views). The only ranking signal is Scoble's `rank` within an edition. To rank by engagement, we fetch public metrics for the item's X post (status ID from `url`) via Grok Bot X reads. That costs about one call per item, or fewer with batch lookups, against the 1,000/day budget. **Budget estimate (8 topics):** about 75 published bullets/day, ranked from roughly 150-250 candidates. That's about 150-250 metric lookups (far fewer if batched up to 100 IDs/call), plus about 20-40 gap-fill searches. Total ≈ 200-300 calls/day, roughly 20-30% of the 1,000/day cap, for the scheduled daily run. **Manual reruns cost 0 X calls** thanks to the cache (6c), so dev retries don't eat the budget. Only the scheduled run and explicit `--refresh` count. `rank` serves as a tiebreaker or fallback.
 
 ## 5. Pipeline
 ```mermaid
@@ -148,22 +148,17 @@ ranking:
 ```
 
 ## 6c. Caching (no repeated lookups on reruns)
-During development there will be many reruns. **A retry must never repeat an X lookup, an X search, or a feed fetch** that is still fresh in cache.
-- **Where:** an on-disk `cache/` dir, **gitignored**. It's a local working cache, not history. Snapshots and `state/seen.json` are what get committed.
-- **Keys:**
-  - X post metrics → X post (status) ID: `cache/x_metrics/<id>.json`
-  - X searches → hash of the normalized query + time window (window rounded, e.g. to the hour, so retries hit): `cache/x_search/<hash>.json`
-  - Feeds/RSS/JSON → hash of the normalized URL: `cache/feeds/<hash>.json` (also stores ETag/Last-Modified for conditional GETs)
-- Each entry stores `fetched_at`, the request, and the raw response.
-- **TTLs in `config.yaml`:**
-```yaml
-cache:
-  dir: cache/
-  ttl: {x_metrics: 6h, x_search: 6h, feeds: 1h}
-```
-- **Flags:** `--refresh` (alias `--no-cache`) ignores the cache and refetches everything, then rewrites the cache. `--refresh=feeds|x_search|x_metrics` forces only one kind. `--offline` renders strictly from cache and makes no network calls.
-- **Rerun behavior:** a rerun within the TTLs renders entirely from cache, with **zero new X calls**.
-- **Logging:** each run logs cache hits/misses per kind and the X calls used (and the total for today), e.g. `cache: feeds 12/12 hit, x_metrics 180/184 hit, x_search 30/30 hit · X calls this run: 4 (today: 212/1000)`. This line is also saved in the snapshot's metadata.
+During development there will be many reruns. **A retry must never repeat an X lookup, an X search, or a feed fetch.**
+- **Rule:** each **scheduled daily run** fetches everything fresh and saves it under that run's date: `cache/<run-date>/` (e.g. `cache/2026-11-02/`). **Manual retries reuse that run's cache with zero new calls.** There are no expiry timers or TTLs.
+- **Where:** the `cache/` dir is **gitignored**. Snapshots and `state/seen.json` are what get committed.
+- **Layout and keys inside `cache/<run-date>/`:**
+  - `x_metrics/<status-id>.json`: X post metrics
+  - `x_search/<hash of normalized query+window>.json`: X searches
+  - `feeds/<hash of normalized URL>.json`: feed/RSS/JSON fetches
+  - Each entry stores `fetched_at`, the request, and the raw response.
+- **Post content** (text, author, timestamps of an X post or article, but not its changing metrics) may be cached forever in `cache/posts/<id>.json` and shared across run dates.
+- **Flags:** `--refresh` (alias `--no-cache`) refetches everything and overwrites the run's cache. `--refresh=feeds|x_search|x_metrics` forces only one kind. `--offline` renders strictly from cache and makes no network calls.
+- **Logging:** each run logs cache hits/misses per kind and the X calls used (and the total for today), e.g. `cache 2026-11-02: feeds 12/12 hit, x_metrics 184/184 hit, x_search 30/30 hit · X calls this run: 0 (today: 212/1000)`. This line is also saved in the snapshot metadata.
 
 ## 7. Refresh button: deferred (not in v1)
 v1 refreshes only on the daily 5 AM PT routine, or when John asks in chat. A later version may add an on-page button. Whether a Page can trigger a run directly is still unverified.
