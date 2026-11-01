@@ -8,6 +8,8 @@ import sys, os, json, re, hashlib, time, html, math, datetime as dt
 from urllib.parse import urljoin, urlsplit, urlunsplit, parse_qsl, urlencode
 import urllib.request
 import yaml, feedparser
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import gnews
 from zoneinfo import ZoneInfo
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -165,13 +167,19 @@ def cmd_build(a):
                              "metrics": p.get("metrics"), "source": "x"})
         pool.sort(key=lambda i: -score(i, xm, now))
         picked = []
+        gcache_f = os.path.join(cdir(date), "gnews.json")
+        gcache = json.load(open(gcache_f)) if os.path.exists(gcache_f) else {}
         for it in pool:
+            if "news.google.com" in it["url"]:
+                if it["url"] not in gcache: gcache[it["url"]] = gnews.resolve(it["url"])
+                it = {**it, "url": gcache[it["url"]]}
             n = norm_url(it["url"])
             if n in used or (n in seen and seen[n] != run_id): continue
             if not it["title"]: continue
             used.add(n); picked.append({"t": it["title"][:160], "u": it["url"],
                                         "d": it.get("srcdomain") or domain(it["url"])})
             if len(picked) >= t["count"]: break
+        json.dump(gcache, open(gcache_f, "w"))
         if picked: out.append({"id": t["id"], "title": t["title"], "items": picked})
     for s in out:
         for i in s["items"]: seen[norm_url(i["u"])] = run_id
@@ -180,37 +188,46 @@ def cmd_build(a):
     if run_id not in runs: runs.append(run_id); runs.sort()
     data = {"run": run_id, "stamp": stamp, "date": date, "sections": out}
     json.dump(data, open(os.path.join(ROOT, "runs", run_id + ".json"), "w"), indent=1)
-    write_html(data, runs)
     for r in runs:  # refresh prev/next on all snapshots
         d = json.load(open(os.path.join(ROOT, "runs", r + ".json"))); write_html(d, runs)
-    idx = [{"run": r, "html": r + ".html"} for r in reversed(runs)]
-    json.dump(idx, open(os.path.join(ROOT, "runs", "index.json"), "w"), indent=1)
-    open(os.path.join(ROOT, "runs", "index.html"), "w").write(page("Daily Pulse · all runs",
-        "<ol>" + "".join(f'<li><a href="{r}.html">{r.replace("_", " ")}</a></li>' for r in reversed(runs)) + "</ol>"))
+    write_html(data, runs, latest=True)
+    json.dump([{"run": r, "html": f"runs/{r}.html"} for r in reversed(runs)], open(os.path.join(ROOT, "runs", "index.json"), "w"), indent=1)
+    open(os.path.join(ROOT, "archive.html"), "w").write(page("Daily Pulse · archive",
+        '<header><b>Daily Pulse</b>archive · <a href="./">latest</a></header><ol>' +
+        "".join(f'<li><a href="runs/{r}.html">{r[:10]} {r[11:13]}:{r[13:]} PT</a></li>' for r in reversed(runs)) + "</ol>", "./"))
     print(f"built {run_id}: " + ", ".join(f"{s['id']}={len(s['items'])}" for s in out))
 
 CSS = """body{font:15px/1.35 -apple-system,Verdana,sans-serif;margin:0;background:#f6f6ef;color:#000}
 header{background:#ff6600;padding:6px 10px;font-size:14px}header b{margin-right:8px}header a{color:#000}
 h2{font-size:13px;margin:12px 10px 2px;color:#828282;text-transform:uppercase;letter-spacing:.04em}
-ol{margin:0;padding:0 10px 0 34px}li{padding:5px 0;color:#828282}li a{color:#000;text-decoration:none;display:inline}
+ol{margin:0;padding:0 10px 0 34px}li{padding:7px 0;color:#828282}li a{color:#000;text-decoration:none;display:inline}
 li a:visited{color:#828282}.d{font-size:12px;color:#828282}footer{font-size:12px;color:#828282;padding:14px 10px}
 @media(prefers-color-scheme:dark){body{background:#1b1b1b;color:#ddd}li a{color:#ddd}header{background:#c50}}"""
 
-def page(title, body):
-    return f"""<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="Pulse">
+def page(title, body, base="./"):
+    return f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes"><meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Pulse"><meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="theme-color" content="#ff6600"><link rel="apple-touch-icon" href="{base}apple-touch-icon.png">
+<link rel="icon" href="{base}apple-touch-icon.png">
 <title>{html.escape(title)}</title><style>{CSS}</style></head><body>{body}</body></html>"""
 
-def write_html(d, runs):
+def write_html(d, runs, latest=False):
     i = runs.index(d["run"]); prev = runs[i-1] if i else None; nxt = runs[i+1] if i+1 < len(runs) else None
-    nav = (f'<a href="{prev}.html">← prev</a> ' if prev else "") + (f'<a href="{nxt}.html">next →</a> ' if nxt else "") + '<a href="index.html">all</a>'
-    b = f'<header><b>Daily Pulse</b>{html.escape(d["stamp"])} PT · {nav}</header>'
+    pre = "runs/" if latest else ""; base = "./" if latest else "../"
+    nav = []
+    if prev: nav.append(f'<a href="{pre}{prev}.html">← prev</a>')
+    if nxt and not latest: nav.append(f'<a href="{nxt}.html">next →</a>')
+    if not latest: nav.append('<a href="../">latest</a>')
+    nav.append(f'<a href="{base}archive.html">archive</a>')
+    b = f'<header><b>Daily Pulse</b>{html.escape(d["stamp"])} PT · ' + " · ".join(nav) + '</header>'
     for s in d["sections"]:
         b += f'<h2>{html.escape(s["title"])}</h2><ol>' + "".join(
             f'<li><a href="{html.escape(x["u"])}" target="_blank" rel="noopener">{html.escape(x["t"])}</a> <span class="d">({html.escape(x["d"])})</span></li>'
             for x in s["items"]) + "</ol>"
-    b += '<footer>AI, Top, World, Markets, Tech, Cyber via <a href="https://presto-ferry-g7bz.here.now/" target="_blank">Scobleizer News Pulse</a>.</footer>'
-    open(os.path.join(ROOT, "runs", d["run"] + ".html"), "w").write(page("Daily Pulse " + d["stamp"], b))
+    b += '<footer>Top, World, AI, Markets, Tech, Cyber via <a href="https://presto-ferry-g7bz.here.now/" target="_blank" rel="noopener">Scobleizer News Pulse</a>. Ranked by X engagement.</footer>'
+    out = os.path.join(ROOT, "index.html") if latest else os.path.join(ROOT, "runs", d["run"] + ".html")
+    open(out, "w").write(page("Daily Pulse " + d["stamp"], b, base))
 
 if __name__ == "__main__":
     a = args()
