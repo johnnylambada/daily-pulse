@@ -1,0 +1,540 @@
+{
+ "run": "2026-11-02_0501",
+ "stamp": "2026-11-02 05:01",
+ "date": "2026-11-02",
+ "sections": [
+  {
+   "id": "top",
+   "title": "Top Stories",
+   "items": [
+    {
+     "t": "Unconfirmed: Tucker Carlson claims the US may be days from a nuclear strike on Iran",
+     "u": "https://x.com/TuckerCarlson/status/2117071025955389828",
+     "d": "x.com",
+     "x": "https://x.com/TuckerCarlson/status/2117071025955389828",
+     "h": "TuckerCarlson"
+    },
+    {
+     "t": "Musk says the cost of serving Grok Bot was 'unsustainably high relative to revenue,' explaining tighter usage limits",
+     "u": "https://x.com/elonmusk/status/2116992258520064397",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2116992258520064397",
+     "h": "elonmusk"
+    },
+    {
+     "t": "Karpathy builds 'HackerTube,' a login-free YouTube alternative, in about two hours with Claude",
+     "u": "https://hackertube.org/",
+     "d": "hackertube.org",
+     "x": "https://x.com/karpathy/status/2116957135661945283",
+     "h": "karpathy"
+    },
+    {
+     "t": "Update: Final Times/Siena polls show Democrats ahead in all seven states likeliest to decide the Senate, as Stevens doubles down on CNN",
+     "u": "https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html",
+     "d": "nytimes.com",
+     "x": "https://x.com/Nate_Cohn/status/2117058821231112701",
+     "h": "Nate_Cohn"
+    },
+    {
+     "t": "B300 rental prices reportedly fall from $7.90 to $4.60 an hour as investors argue over a compute glut",
+     "u": "https://x.com/Akashi203/status/2116992424459567297",
+     "d": "x.com",
+     "x": "https://x.com/Akashi203/status/2116992424459567297",
+     "h": "Akashi203"
+    },
+    {
+     "t": "BTCPay Server warns attackers are sweeping hot wallets and tells operators to shut down now",
+     "u": "https://x.com/BtcpayServer/status/2117020340815819262",
+     "d": "x.com",
+     "x": "https://x.com/BtcpayServer/status/2117020340815819262",
+     "h": "BtcpayServer"
+    },
+    {
+     "t": "Palo Alto Networks CEO Nikesh Arora: AI means attacks 'will accelerate from here on'",
+     "u": "https://x.com/nikesharora/status/2117052005617434847",
+     "d": "x.com",
+     "x": "https://x.com/nikesharora/status/2117052005617434847",
+     "h": "nikesharora"
+    },
+    {
+     "t": "SemiAnalysis's GDPx agent benchmark: the best model scores 12%, Google's Carbon wins on cost, and agents broke rules on real tasks",
+     "u": "https://x.com/sundarpichai/status/2117113121102045347",
+     "d": "x.com",
+     "x": "https://x.com/sundarpichai/status/2117113121102045347",
+     "h": "sundarpichai"
+    },
+    {
+     "t": "A Neuralink participant steers his wheelchair using only his N1 implant",
+     "u": "https://x.com/PairedWith_P7/status/2116922250712535115",
+     "d": "x.com",
+     "x": "https://x.com/PairedWith_P7/status/2116922250712535115",
+     "h": "PairedWith_P7"
+    },
+    {
+     "t": "Tesla launches Robotaxi rides in Fort Worth on Monday at 6 AM",
+     "u": "https://x.com/SawyerMerritt/status/2117129992815726783",
+     "d": "x.com",
+     "x": "https://x.com/SawyerMerritt/status/2117129992815726783",
+     "h": "SawyerMerritt"
+    }
+   ]
+  },
+  {
+   "id": "us",
+   "title": "US News",
+   "items": [
+    {
+     "t": "Lindsay Clancy's attorneys reveals details about her condition",
+     "u": "https://www.cbsnews.com/news/lindsay-clancy-horrible-dreams-suicide-watch-attorneys/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "2026 midterm election races to watch",
+     "u": "https://www.cbsnews.com/news/2026-midterm-election-races/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "Daylight saving time ended Sunday. Here's what to know.",
+     "u": "https://www.cbsnews.com/news/daylight-saving-time-ends-2026/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "What to Know About the Florida Plane Crash That Killed 9",
+     "u": "https://www.nytimes.com/2026/11/01/us/learjet-crash-florida-palm-beach.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Murderous 17th century pirate linked to iconic New York figure",
+     "u": "https://www.cbsnews.com/news/murderous-pirate-capt-henry-every-linked-thomas-jones-historian/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "Jet from Texas crashes near homes in Palm Beach, Florida, killing 9 on board",
+     "u": "https://www.cbsnews.com/news/texas-jet-florida-crash-11-1-2026/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "Learjet Plummets to Ground in Florida, Killing 9",
+     "u": "https://www.nytimes.com/2026/11/01/us/florida-plane-crash-palm-beach-county.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Why Do Pilots Say \u2018Mayday\u2019? The Story Behind the Distress Call",
+     "u": "https://www.nytimes.com/2026/11/02/us/florida-lear-jet-crash-mayday-call-meaning.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Senator Chris Murphy Is \u2018Awake and Alert\u2019 After Suffering a Stroke",
+     "u": "https://www.nytimes.com/2026/11/01/us/politics/chris-murphy-stroke.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Can a Progressive Win a Swing State?",
+     "u": "https://www.nytimes.com/video/us/politics/100000011250893/can-a-progressive-win-a-swing-state.html",
+     "d": "nytimes.com"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "World News",
+   "items": [
+    {
+     "t": "Kimi Antonelli becomes the youngest Formula 1 world champion",
+     "u": "https://www.dailymail.com/sport/formulaone/article-16256565/Kimi-Antonelli-youngest-champion-F1-history-place-finish-Mexico-Grand-Prix-secures-title-triumph-20-year-old-superstar-race-won-Max-Verstappen.html?ns_mchannel=rss&ns_campaign=1490&ito=social-twitter_mailonline",
+     "d": "dailymail.com",
+     "x": "https://x.com/F1/status/2117019889076781379",
+     "h": "F1"
+    },
+    {
+     "t": "Learjet crashes into a mobile-home community in Palm Beach County, Florida",
+     "u": "https://www.dailymail.com/news/article-16257059/flames-Palm-beach-Mar-Lago-florida.html?ns_mchannel=rss&ns_campaign=1490&ito=social-twitter_mailonline",
+     "d": "dailymail.com",
+     "x": "https://x.com/WBC24News/status/2116969539334516921",
+     "h": "WBC24News"
+    },
+    {
+     "t": "Michigan Democrat Haley Stevens endorses Republican Mike Rogers for Senate two days before the midterms",
+     "u": "https://www.cnn.com/2026/11/01/politics/live-news/midterm-election-congress?post-id=cmvy3x7bf001e3b6udwmqq551&Date=20261101&Profile=CNN&utm_content=1793555662&utm_medium=social&utm_source=twitter",
+     "d": "cnn.com",
+     "x": "https://x.com/CNN/status/2116952030749057531",
+     "h": "CNN"
+    },
+    {
+     "t": "Trump's rally remarks on Ashley Hinson's weight and on Somalis draw criticism",
+     "u": "https://x.com/samstein/status/2117025847035191569",
+     "d": "x.com",
+     "x": "https://x.com/samstein/status/2117025847035191569",
+     "h": "samstein"
+    },
+    {
+     "t": "US housing tilts further toward buyers: 44% of listings have price cuts",
+     "u": "https://x.com/unusual_whales/status/2117014066535542995",
+     "d": "x.com",
+     "x": "https://x.com/unusual_whales/status/2117014066535542995",
+     "h": "unusual_whales"
+    },
+    {
+     "t": "Tens of thousands mark the Novi Sad disaster anniversary in Serbia",
+     "u": "https://x.com/Reuters/status/2116960967397363742",
+     "d": "x.com",
+     "x": "https://x.com/Reuters/status/2116960967397363742",
+     "h": "Reuters"
+    },
+    {
+     "t": "Update: Haley Stevens loses Democrats' voter database access; El-Sayed raises $1.2 million in hours",
+     "u": "https://www.politico.com/storyline/live/2026/11/01/2026-midterm-elections-preview-sunday/exclusive-el-sayed-raised-1-2-million-in-hours-since-haley-stevens-endorsed-his-rival",
+     "d": "politico.com",
+     "x": "https://x.com/politico/status/2117024796189847891",
+     "h": "politico"
+    },
+    {
+     "t": "Update: All nine aboard killed in the Palm Beach Learjet crash; NTSB sends a go-team",
+     "u": "https://www.washingtonpost.com/nation/2026/11/01/business-jet-crashes-florida-killing-all-nine-board/?utm_campaign=wp_main&utm_source=twitter&utm_medium=social",
+     "d": "washingtonpost.com",
+     "x": "https://x.com/Breaking911/status/2117026834537754853",
+     "h": "Breaking911"
+    },
+    {
+     "t": "Update: Trump stops short of fully backing Nvidia's Jensen Huang after the spy-plot report",
+     "u": "https://www.washingtonpost.com/politics/2026/11/01/trump-says-jensen-huang-situation-is-very-complex/?utm_campaign=wp_main&utm_source=twitter&utm_medium=social",
+     "d": "washingtonpost.com",
+     "x": "https://x.com/washingtonpost/status/2117017594905452693",
+     "h": "washingtonpost"
+    },
+    {
+     "t": "Update: DeSantis calls the Palm Beach Learjet crash 'cataclysmic' as the debris search continues",
+     "u": "https://nypost.com/2026/11/01/us-news/desantis-says-learjet-crash-into-florida-mobile-home-was-cataclysmic-as-search-for-debris-continues/?utm_campaign=nypost&utm_medium=social&utm_source=twitter",
+     "d": "nypost.com",
+     "x": "https://x.com/nypost/status/2117061766559445180",
+     "h": "nypost"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI",
+   "items": [
+    {
+     "t": "Developer landed about 1,150 PRs on a game in four days with an agent",
+     "u": "https://x.com/poteto/status/2117043478140276847",
+     "d": "x.com",
+     "x": "https://x.com/poteto/status/2117043478140276847",
+     "h": "poteto"
+    },
+    {
+     "t": "Jason Calacanis says under $40K a year in AI tools has replaced seven full-time jobs",
+     "u": "https://x.com/Jason/status/2117126320962351277",
+     "d": "x.com",
+     "x": "https://x.com/Jason/status/2117126320962351277",
+     "h": "Jason"
+    },
+    {
+     "t": "\"Own your intelligence\": Rauch makes the case for local and open models",
+     "u": "https://x.com/rauchg/status/2117000819623243925",
+     "d": "x.com",
+     "x": "https://x.com/rauchg/status/2117000819623243925",
+     "h": "rauchg"
+    },
+    {
+     "t": "Update: Grok Bot cost debate turns to what AI workers are worth",
+     "u": "https://x.com/Jason/status/2117049243152400412",
+     "d": "x.com",
+     "x": "https://x.com/Jason/status/2117049243152400412",
+     "h": "Jason"
+    },
+    {
+     "t": "levelsio: Claude Code edited his whole vlog on its own",
+     "u": "https://x.com/levelsio/status/2116959423117857026",
+     "d": "x.com",
+     "x": "https://x.com/levelsio/status/2116959423117857026",
+     "h": "levelsio"
+    },
+    {
+     "t": "Hacker Papers: an arXiv version of Karpathy's HackerTube",
+     "u": "https://academy.dair.ai/papers/collections/hacker-papers",
+     "d": "academy.dair.ai",
+     "x": "https://x.com/omarsar0/status/2117053859516285354",
+     "h": "omarsar0"
+    },
+    {
+     "t": "HalachaBench tests AI models on Israel's rabbinical ordination exam",
+     "u": "https://x.com/HalachaBench/status/2116997953785413996",
+     "d": "x.com",
+     "x": "https://x.com/HalachaBench/status/2116997953785413996",
+     "h": "HalachaBench"
+    },
+    {
+     "t": "Update: Gavin Baker pushes back on the FT's \"it isn't AI yet\" productivity reading",
+     "u": "https://x.com/GavinSBaker/status/2116973459519709591",
+     "d": "x.com",
+     "x": "https://x.com/GavinSBaker/status/2116973459519709591",
+     "h": "GavinSBaker"
+    },
+    {
+     "t": "Developers say AI is ending old arguments about how to organize code",
+     "u": "https://x.com/thdxr/status/2116931627947294881",
+     "d": "x.com",
+     "x": "https://x.com/thdxr/status/2116931627947294881",
+     "h": "thdxr"
+    },
+    {
+     "t": "Axios: OpenAI plans a policy push right after Tuesday's midterms",
+     "u": "https://www.theinformation.com/articles/candidates-backing-data-center-pauses-win-15-governors-races",
+     "d": "theinformation.com",
+     "x": "https://x.com/AndrewCurran_/status/2116959876576649420",
+     "h": "AndrewCurran_"
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "title": "Investing & Markets",
+   "items": [
+    {
+     "t": "Fastlane 2.0 launches with a $3.5M seed round",
+     "u": "https://x.com/jock_ferguson/status/2117097426502963366",
+     "d": "x.com",
+     "x": "https://x.com/jock_ferguson/status/2117097426502963366",
+     "h": "jock_ferguson"
+    },
+    {
+     "t": "Paul Graham: just talking to investors damages startups",
+     "u": "https://x.com/paulg/status/2117025520336744578",
+     "d": "x.com",
+     "x": "https://x.com/paulg/status/2117025520336744578",
+     "h": "paulg"
+    },
+    {
+     "t": "Temple, a health wearable worn at the temple, opens pre-orders",
+     "u": "https://temple.com",
+     "d": "temple.com",
+     "x": "https://x.com/deepigoyal/status/2116923242137227329",
+     "h": "deepigoyal"
+    },
+    {
+     "t": "Sequoia's Alfred Lin publishes Kalshi's Series A deck",
+     "u": "https://x.com/Alfred_Lin/status/2116924431960535365",
+     "d": "x.com",
+     "x": "https://x.com/Alfred_Lin/status/2116924431960535365",
+     "h": "Alfred_Lin"
+    },
+    {
+     "t": "Cheap AI subscriptions look to be ending (bearish on flat-rate AI pricing, new)",
+     "u": "https://x.com/amasad/status/2117010858845089805",
+     "d": "x.com",
+     "x": "https://x.com/amasad/status/2117010858845089805",
+     "h": "amasad"
+    },
+    {
+     "t": "SemiAnalysis's GDPx has Dylan Patel apologizing to Google (bullish on Alphabet's models, steady)",
+     "u": "https://x.com/dylan522p/status/2117092550842683671",
+     "d": "x.com",
+     "x": "https://x.com/dylan522p/status/2117092550842683671",
+     "h": "dylan522p"
+    },
+    {
+     "t": "Update: Shaun Maguire challenges his SpaceX-model critic to a live debate at noon PT (bullish on SpaceX, continuing)",
+     "u": "https://x.com/shaunmmaguire/status/2116910590639915440",
+     "d": "x.com",
+     "x": "https://x.com/shaunmmaguire/status/2116910590639915440",
+     "h": "shaunmmaguire"
+    },
+    {
+     "t": "PopVax opens an AI-designed personalized cancer vaccine factory in Hyderabad",
+     "u": "https://x.com/martinvars/status/2116906824335024341",
+     "d": "x.com",
+     "x": "https://x.com/martinvars/status/2116906824335024341",
+     "h": "martinvars"
+    },
+    {
+     "t": "Rajan Anandan points to an IIT Kanpur artificial heart as India's deep-tech moment",
+     "u": "https://x.com/RajanAnandan/status/2117105598655598778",
+     "d": "x.com",
+     "x": "https://x.com/RajanAnandan/status/2117105598655598778",
+     "h": "RajanAnandan"
+    },
+    {
+     "t": "Australia's new capital gains rules draw investor alarm (bearish on Australian startup investing)",
+     "u": "https://x.com/GeoffWilsonWAM/status/2117051434059657248",
+     "d": "x.com",
+     "x": "https://x.com/GeoffWilsonWAM/status/2117051434059657248",
+     "h": "GeoffWilsonWAM"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "General Tech",
+   "items": [
+    {
+     "t": "@mcuban on starting out broke",
+     "u": "https://x.com/mcuban/status/2116941371013804066",
+     "d": "x.com",
+     "x": "https://x.com/mcuban/status/2116941371013804066",
+     "h": "mcuban"
+    },
+    {
+     "t": "Elon Musk agrees that not using AI for financial modeling will soon be negligence",
+     "u": "https://x.com/elonmusk/status/2116970572592861616",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2116970572592861616",
+     "h": "elonmusk"
+    },
+    {
+     "t": "@chamath: power is the binding constraint on AI",
+     "u": "https://x.com/chamath/status/2116926625657024819",
+     "d": "x.com",
+     "x": "https://x.com/chamath/status/2116926625657024819",
+     "h": "chamath"
+    },
+    {
+     "t": "Elon Musk amplifies a claim that Google's Gemma 4 is running in a space data center",
+     "u": "https://x.com/Saboo_Shubham_/status/2116740612372435274",
+     "d": "x.com",
+     "x": "https://x.com/Saboo_Shubham_/status/2116740612372435274",
+     "h": "Saboo_Shubham_"
+    },
+    {
+     "t": "Memory and SSD shortages expected to last until 2028",
+     "u": "https://pc.watch.impress.co.jp/docs/topic/feature/2152921.html",
+     "d": "pc.watch.impress.co.jp",
+     "x": "https://x.com/pc_watch/status/2116999250722935198",
+     "h": "pc_watch"
+    },
+    {
+     "t": "Update: Binance says only 2.1% of funds left in the 12 hours after withdrawals resumed",
+     "u": "https://x.com/cz_binance/status/2116946265422573686",
+     "d": "x.com",
+     "x": "https://x.com/cz_binance/status/2116946265422573686",
+     "h": "cz_binance"
+    },
+    {
+     "t": "Xiaomi 18 Pro series goes global this November",
+     "u": "https://x.com/Xiaomi/status/2117093615734526024",
+     "d": "x.com",
+     "x": "https://x.com/Xiaomi/status/2117093615734526024",
+     "h": "Xiaomi"
+    },
+    {
+     "t": "Shopify says moving to a monorepo has been a boon for coding agents",
+     "u": "https://x.com/tobi/status/2116918113450983504",
+     "d": "x.com",
+     "x": "https://x.com/tobi/status/2116918113450983504",
+     "h": "tobi"
+    },
+    {
+     "t": "Apple charges $400 more for the touch, OLED MacBook Pro",
+     "u": "https://x.com/markgurman/status/2116924976246993024",
+     "d": "x.com",
+     "x": "https://x.com/markgurman/status/2116924976246993024",
+     "h": "markgurman"
+    },
+    {
+     "t": "Steam Deck plugin makes SteamOS look like a PS5, Xbox or PS2",
+     "u": "https://x.com/Pirat_Nation/status/2116968522186182887",
+     "d": "x.com",
+     "x": "https://x.com/Pirat_Nation/status/2116968522186182887",
+     "h": "Pirat_Nation"
+    }
+   ]
+  },
+  {
+   "id": "cyber",
+   "title": "Cybersecurity",
+   "items": [
+    {
+     "t": "Update: Secret Service says it froze a large share of the $6 billion stolen from Binance",
+     "u": "https://x.com/SecretService/status/2116956218887389218",
+     "d": "x.com",
+     "x": "https://x.com/SecretService/status/2116956218887389218",
+     "h": "SecretService"
+    },
+    {
+     "t": "Update: Ubuntu and Red Hat still have no fix for Linux kernel flaw CVE-2026-98432",
+     "u": "https://x.com/IntCyberDigest/status/2116982861391917315",
+     "d": "x.com",
+     "x": "https://x.com/IntCyberDigest/status/2116982861391917315",
+     "h": "IntCyberDigest"
+    },
+    {
+     "t": "Reports say Russian hackers sent fake nuclear-strike alerts through Ukraine's warning system, and Ukraine hit back (unconfirmed)",
+     "u": "https://x.com/Faytuks/status/2117053381952893017",
+     "d": "x.com",
+     "x": "https://x.com/Faytuks/status/2117053381952893017",
+     "h": "Faytuks"
+    },
+    {
+     "t": "ADStrike: an AI-orchestrated Active Directory attack toolkit with 52 modules",
+     "u": "https://hackers-arise.com/artificial-intelligence-ai-in-cybersecurity-part-28-using-adstrike-to-compromise-active-directory/",
+     "d": "hackers-arise.com",
+     "x": "https://x.com/co11ateral/status/2116879132382388414",
+     "h": "co11ateral"
+    },
+    {
+     "t": "Fake IT-support callers breached four of Canada's top law firms",
+     "u": "https://x.com/IntCyberDigest/status/2116782288621220064",
+     "d": "x.com",
+     "x": "https://x.com/IntCyberDigest/status/2116782288621220064",
+     "h": "IntCyberDigest"
+    },
+    {
+     "t": "Attackers are draining Bitcoin hot wallets on BTCPay Servers; operators told to shut down now",
+     "u": "https://cybersecuritynews.com/btcpay-server-warns/",
+     "d": "cybersecuritynews.com",
+     "x": "https://x.com/The_Cyber_News/status/2117106825632076167",
+     "h": "The_Cyber_News"
+    },
+    {
+     "t": "Indian appliance maker Atomberg allegedly hit by a 980 GB data leak (unverified)",
+     "u": "https://x.com/DailyDarkWeb/status/2117081193887977913",
+     "d": "x.com",
+     "x": "https://x.com/DailyDarkWeb/status/2117081193887977913",
+     "h": "DailyDarkWeb"
+    },
+    {
+     "t": "New MCP server lets Claude drive Windows reverse-engineering tools",
+     "u": "https://x.com/0x0SojalSec/status/2117041039764857117",
+     "d": "x.com",
+     "x": "https://x.com/0x0SojalSec/status/2117041039764857117",
+     "h": "0x0SojalSec"
+    },
+    {
+     "t": "Citizen database with Aadhaar numbers, linked to India's ICMR, offered for sale (unverified)",
+     "u": "https://x.com/DailyDarkWeb/status/2116914463672816025",
+     "d": "x.com",
+     "x": "https://x.com/DailyDarkWeb/status/2116914463672816025",
+     "h": "DailyDarkWeb"
+    },
+    {
+     "t": "Update: Linux CVE-2026-98432 debate goes viral as researchers ask Anthropic to clarify real-world risk",
+     "u": "https://x.com/S1r1u5_/status/2116949613555159161",
+     "d": "x.com",
+     "x": "https://x.com/S1r1u5_/status/2116949613555159161",
+     "h": "S1r1u5_"
+    }
+   ]
+  },
+  {
+   "id": "hb",
+   "title": "Huntington Beach / OC",
+   "items": [
+    {
+     "t": "Prep talk: Brianna Padilla-Massion discovers love for flag football",
+     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdzd2SGNVZUZ5V0JwNWNyRzRpejZEQUFYT1VfWi1oNnJ0Z2xiZ01HNWxvaEpGZHVvV3lOaVJ0eXFvN1pxOW4xc3I4NGxEVll2MER2dk9aellSNnNWWVg3alRaQ1UyUEU4Zl9tSHZfRjFUU3BrYWl6RlRUeHpCYlpVMkJSMkc1WHFTVlhmb3pIWHY4YW9TN3Ziak91Q3IyM3VCOTJqT1AydjNwOUJvWlJtWmtXZi1pdw?oc=5",
+     "d": "latimes.com"
+    },
+    {
+     "t": "Ryann Ratliff",
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYl9kN2lCak9EdTJXQjZjUUJLc3lkZExFRzV6OEt1eUVPMlFkN2l1M2g4cV9KMUJrUkEySWU1Tk5XMGJpNHR4aHRxbG15YmluZ05OWjBVaTdNRFZia2ZmN2lhTHh5Rnc1Z2ZMaFJZM1NxU0NjNGtDVnQ5LUdlOFh6R05nRkhJS2hQb2lnWXdxbUJkd0VpRTN0REs0QnBHTkE0U3Q4Yl84X2NqN2V1SDQ5ZlNBcjZsYzYxbjQ5dlZpRHNRQVRKR3c?oc=5",
+     "d": "si.com"
+    },
+    {
+     "t": "John Joseph Meade Obituary",
+     "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYVpIMWlwTTZoSWFLNTg4Mjk2bEpyT25Nczg2Tm16UmJnR0NBVUUxdi11NGlJWmdoNXNUZ2Nkb29uZHE3QVdNdFd3TWdNd0hVRkQ4ZVZHYksyUFM4eE9vWXVSbkozbzFlb2NzSGRmMS1xS3A0TllvNDZMTWg0czN5QllhQmN1aUlK?oc=5",
+     "d": "ocregister.com"
+    }
+   ]
+  }
+ ]
+}
