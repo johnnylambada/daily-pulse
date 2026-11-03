@@ -1,0 +1,540 @@
+{
+ "run": "2026-11-03_0506",
+ "stamp": "2026-11-03 05:06",
+ "date": "2026-11-03",
+ "sections": [
+  {
+   "id": "top",
+   "title": "Top Stories",
+   "items": [
+    {
+     "t": "GPT-6 Astra fixed a small model by editing 0.016% of its weights directly, with no training",
+     "u": "https://x.com/rikiyatakehi/status/2117313742891327994",
+     "d": "x.com",
+     "x": "https://x.com/rikiyatakehi/status/2117313742891327994",
+     "h": "rikiyatakehi"
+    },
+    {
+     "t": "Crypto security: North Korea denies the $6.3 billion Binance hack, a mystery $106 million theft hits an EU entity, and Aave freezes its tBTC market",
+     "u": "https://decrypt.co/382383/mystery-106-million-crypto-theft-eu-entity-binance-hack?utm_source=twitter&utm_medium=social&utm_campaign=auto",
+     "d": "decrypt.co",
+     "x": "https://x.com/WatcherGuru/status/2117364961781645366",
+     "h": "WatcherGuru"
+    },
+    {
+     "t": "OpenAI brings in Cathedral Systems for its next security sprint and more than quadruples bug bounties, up to $172,000",
+     "u": "https://cybersecuritynews.com/openai-security-sprint/",
+     "d": "cybersecuritynews.com",
+     "x": "https://x.com/OpenAI/status/2117444048227123277",
+     "h": "OpenAI"
+    },
+    {
+     "t": "Update: GPT-6 Astra's weight-editing result is reproduced and audited, while experts split over what it means",
+     "u": "https://www.honesty.tools/",
+     "d": "honesty.tools",
+     "x": "https://x.com/AlexKrentsel/status/2117376683724660898",
+     "h": "AlexKrentsel"
+    },
+    {
+     "t": "Anthropic ships server-side message threads, extends its hidden watermark to older Claude models, and steers Claude Code away from game clones",
+     "u": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks",
+     "d": "tomshardware.com",
+     "x": "https://x.com/ClaudeDevs/status/2117332449382510884",
+     "h": "ClaudeDevs"
+    },
+    {
+     "t": "Enterprise AI pushback: Revolut reportedly moves 2,000 engineers to open-source GLM at a tenth of the cost, and Goldman reportedly bans AI coding tools",
+     "u": "https://x.com/m0xt_/status/2117228989010088395",
+     "d": "x.com",
+     "x": "https://x.com/m0xt_/status/2117228989010088395",
+     "h": "m0xt_"
+    },
+    {
+     "t": "Trajectory raises $60 million, with Sequoia leading at a $300 million valuation, and launches a post-training platform",
+     "u": "https://x.com/rronak_/status/2117361747913015381",
+     "d": "x.com",
+     "x": "https://x.com/rronak_/status/2117361747913015381",
+     "h": "rronak_"
+    },
+    {
+     "t": "Meta ends feature development for Quest 2 and Quest Pro",
+     "u": "https://developers.meta.com/vr/blog/meta-quest-2-quest-pro-end-of-feature-development-what-to-know/?utm_source=social-x&utm_medium=MVRD&utm_campaign=organic&utm_content=QuestEOF",
+     "d": "developers.meta.com",
+     "x": "https://x.com/MetaVRDevs/status/2117332750395232649",
+     "h": "MetaVRDevs"
+    },
+    {
+     "t": "Update: Three US officials tell CBS the Qeshm Island strikes were 'limited defensive strikes'; Qatari mediators fly to Tehran",
+     "u": "https://www.reuters.com/markets/commodities/oil-rises-after-report-us-strike-irans-qeshm-island-2026-11-03/?taid=6ae93dd013e4ae00016142d7&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
+     "d": "reuters.com",
+     "x": "https://x.com/CBSNews/status/2117455474937172315",
+     "h": "CBSNews"
+    },
+    {
+     "t": "Palantir's revenue grows 96% as US commercial sales pass US government revenue for the first time",
+     "u": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html?__source=twitter%7Ctech&taid=6ae8fd39ec3fc200011e1583&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter",
+     "d": "cnbc.com",
+     "x": "https://x.com/PalantirTech/status/2117362675743093025",
+     "h": "PalantirTech"
+    }
+   ]
+  },
+  {
+   "id": "us",
+   "title": "US News",
+   "items": [
+    {
+     "t": "Election Day live updates with House and Senate control at stake",
+     "u": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "Latinos are now America\u2019s most important swing voters.",
+     "u": "https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump/latinos-are-now-americas-most-important-swing-voters",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "6 Themes to Watch for in the Midterms Elections Results",
+     "u": "https://www.nytimes.com/2026/11/03/us/midterm-elections-trump-democrats-republicans-key-themes.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "What You Can and Can\u2019t Do at Polling Places",
+     "u": "https://www.nytimes.com/2026/11/03/us/voting-election-day-polling-site-rules.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Election Day Could Be a Rainy One in Some Areas",
+     "u": "https://www.nytimes.com/2026/11/03/us/politics/election-day-weather-storms.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "How Will the Midterms Play Out? These Races May Provide Early Clues.",
+     "u": "https://www.nytimes.com/2026/11/03/us/midterm-election-key-house-senate-races.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Federal authorities investigate cause of deadly plane crash in Florida",
+     "u": "https://www.npr.org/2026/11/03/nx-s1-6026568/federal-authorities-investigate-cause-of-deadly-plane-crash-in-florida",
+     "d": "npr.org"
+    },
+    {
+     "t": "How to Follow The New York Times\u2019s 2026 Midterm Election Results and Coverage",
+     "u": "https://www.nytimes.com/2026/11/03/us/politics/how-to-watch-midterm-election-results.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "What\u2019s at Stake in Today\u2019s Elections",
+     "u": "https://www.nytimes.com/video/us/politics/100000011228221/whats-at-stake-in-todays-elections.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Are the Polls Right About Democrats?",
+     "u": "https://www.nytimes.com/video/us/elections/100000011242167/are-the-polls-right-about-democrats.html",
+     "d": "nytimes.com"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "World News",
+   "items": [
+    {
+     "t": "Update: UK settlement consultation was dominated by current visa holders",
+     "u": "https://x.com/PolitlcsUK/status/2117317354665414852",
+     "d": "x.com",
+     "x": "https://x.com/PolitlcsUK/status/2117317354665414852",
+     "h": "PolitlcsUK"
+    },
+    {
+     "t": "Trump administration prepares to deport at least 150 Afghans within 48 hours",
+     "u": "https://x.com/NewsHour/status/2117403274244407475",
+     "d": "x.com",
+     "x": "https://x.com/NewsHour/status/2117403274244407475",
+     "h": "NewsHour"
+    },
+    {
+     "t": "Nine men go on trial in Manchester over the drugging and abuse of a woman by her husband over two decades",
+     "u": "https://x.com/CNN/status/2117430710214541575",
+     "d": "x.com",
+     "x": "https://x.com/CNN/status/2117430710214541575",
+     "h": "CNN"
+    },
+    {
+     "t": "Update: US officials confirm 'limited strikes' on Iran's Qeshm Island, per the Wall Street Journal",
+     "u": "https://nypost.com/2026/11/02/world-news/us-forces-hit-irans-qeshm-island-as-part-of-a-series-of-secret-strikes-report/?utm_medium=social&utm_campaign=nypost&utm_source=twitter",
+     "d": "nypost.com",
+     "x": "https://x.com/nypost/status/2117426898695303410",
+     "h": "nypost"
+    },
+    {
+     "t": "Child dies of measles in New York, the state's first measles death in 30 years",
+     "u": "https://www.cnn.com/2026/11/02/health/new-york-measles-death?Date=20261103&Profile=CNN&utm_content=1793669404&utm_medium=social&utm_source=twitter",
+     "d": "cnn.com",
+     "x": "https://x.com/CNN/status/2117429067871871339",
+     "h": "CNN"
+    },
+    {
+     "t": "AI-infrastructure borrowers (no single ticker; via Apollo, APO) \u2014 bearish, new",
+     "u": "https://x.com/WallStRollup/status/2117302419457536319",
+     "d": "x.com",
+     "x": "https://x.com/WallStRollup/status/2117302419457536319",
+     "h": "WallStRollup"
+    },
+    {
+     "t": "Election night timing: first Alaska results not before 12:45 AM ET; Texas early vote tops 2022 in many counties",
+     "u": "https://projects.votebeat.org/2026/when-to-expect-midterm-election-results-2026/",
+     "d": "projects.votebeat.org",
+     "x": "https://x.com/ReedReports/status/2117296674015965218",
+     "h": "ReedReports"
+    },
+    {
+     "t": "Update: NTSB says the Learjet that crashed in Florida, killing nine, may have broken apart in the air",
+     "u": "https://abcnews.com/US/learjet-breaking-crashed-florida-ntsb/story?id=137781527&cid=social_twitter_wnt",
+     "d": "abcnews.com",
+     "x": "https://x.com/ABCWorldNews/status/2117436606000877860",
+     "h": "ABCWorldNews"
+    },
+    {
+     "t": "Australia's central bank raises rates to 4.85%, an 18-year high, as Asian markets slide",
+     "u": "https://www.news24.com.au/politics/australian-politics/calls-grow-for-albanese-government-to-rein-in-spending-as-rba-lifts-cash-rate-to-485-per-cent-with-unemployment-forecast-to-top-5-per-cent/news-story/3565d2c67fb676e92e446e39139914c5",
+     "d": "news24.com.au",
+     "x": "https://x.com/Ryandally08/status/2117460034263326924",
+     "h": "Ryandally08"
+    },
+    {
+     "t": "Tesla (TSLA) \u2014 bullish",
+     "u": "https://x.com/cb_doge/status/2117310995609833887",
+     "d": "x.com",
+     "x": "https://x.com/cb_doge/status/2117310995609833887",
+     "h": "cb_doge"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI",
+   "items": [
+    {
+     "t": "Update: Elon Musk puts numbers on why space data centers are easy to cool",
+     "u": "https://x.com/elonmusk/status/2117462581371719779",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2117462581371719779",
+     "h": "elonmusk"
+    },
+    {
+     "t": "DeepSeek Harness adds Creator Mode for building your own plugins",
+     "u": "https://x.com/DeepSeekHarness/status/2117256196227019194",
+     "d": "x.com",
+     "x": "https://x.com/DeepSeekHarness/status/2117256196227019194",
+     "h": "DeepSeekHarness"
+    },
+    {
+     "t": "Hume launches an Audio Decision API that answers questions straight from sound",
+     "u": "https://x.com/hume_ai/status/2117285608745820372",
+     "d": "x.com",
+     "x": "https://x.com/hume_ai/status/2117285608745820372",
+     "h": "hume_ai"
+    },
+    {
+     "t": "Fable 5.5 makes animated films entirely in code, with no image or video model",
+     "u": "https://x.com/chetaslua/status/2117169796290916732",
+     "d": "x.com",
+     "x": "https://x.com/chetaslua/status/2117169796290916732",
+     "h": "chetaslua"
+    },
+    {
+     "t": "OpenAI introduces LifeVal, a benchmark for everyday personal-assistant tasks",
+     "u": "https://x.com/OpenAI/status/2117307611338997846",
+     "d": "x.com",
+     "x": "https://x.com/OpenAI/status/2117307611338997846",
+     "h": "OpenAI"
+    },
+    {
+     "t": "OpusClip 4.0 edits whole videos, not just highlights",
+     "u": "https://www.opus.pro/",
+     "d": "opus.pro",
+     "x": "https://x.com/OpusClip/status/2117293015308145051",
+     "h": "OpusClip"
+    },
+    {
+     "t": "Levanto Labs introduces Sage2 for turning language into structured data and decisions",
+     "u": "https://x.com/levantolabs/status/2117304026911908020",
+     "d": "x.com",
+     "x": "https://x.com/levantolabs/status/2117304026911908020",
+     "h": "levantolabs"
+    },
+    {
+     "t": "Latent Sparse Attention promises much faster attention at 10 million tokens of context",
+     "u": "https://x.com/jcrwhittington/status/2117317159777177602",
+     "d": "x.com",
+     "x": "https://x.com/jcrwhittington/status/2117317159777177602",
+     "h": "jcrwhittington"
+    },
+    {
+     "t": "Wanaka launches Studio 1.0, an AI-native game engine",
+     "u": "https://x.com/wanakaofficial/status/2117315926588846082",
+     "d": "x.com",
+     "x": "https://x.com/wanakaofficial/status/2117315926588846082",
+     "h": "wanakaofficial"
+    },
+    {
+     "t": "Zyphra introduces Zyphra Hierarchical Attention (ZHA)",
+     "u": "https://x.com/ZyphraAI/status/2117377426242367669",
+     "d": "x.com",
+     "x": "https://x.com/ZyphraAI/status/2117377426242367669",
+     "h": "ZyphraAI"
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "title": "Investing & Markets",
+   "items": [
+    {
+     "t": "Goldman Sachs reportedly bans bankers and traders from AI coding tools (bearish on AI tools in finance, new)",
+     "u": "https://x.com/amasad/status/2117481616943820843",
+     "d": "x.com",
+     "x": "https://x.com/amasad/status/2117481616943820843",
+     "h": "amasad"
+    },
+    {
+     "t": "CRSHMARKET raises a $3.5M seed for livestream prediction markets",
+     "u": "https://x.com/crshmarket/status/2117294423168135186",
+     "d": "x.com",
+     "x": "https://x.com/crshmarket/status/2117294423168135186",
+     "h": "crshmarket"
+    },
+    {
+     "t": "Investors buzz over models that edit other models' weights directly (mixed, new)",
+     "u": "https://x.com/tobi/status/2117399082050163090",
+     "d": "x.com",
+     "x": "https://x.com/tobi/status/2117399082050163090",
+     "h": "tobi"
+    },
+    {
+     "t": "Firecrawl launches a headless Clay-style enrichment tool for agents",
+     "u": "https://www.firecrawl.dev/alexandria/categories/people",
+     "d": "firecrawl.dev",
+     "x": "https://x.com/firecrawl/status/2117297576131060140",
+     "h": "firecrawl"
+    },
+    {
+     "t": "A viral post lists signs the AI trade is cracking (bearish, new)",
+     "u": "https://x.com/cryptopunk7213/status/2117454357306257866",
+     "d": "x.com",
+     "x": "https://x.com/cryptopunk7213/status/2117454357306257866",
+     "h": "cryptopunk7213"
+    },
+    {
+     "t": "Northwood raises a $375M Series C for Earth-to-space connectivity",
+     "u": "https://x.com/NorthwoodSpace/status/2117206333598638242",
+     "d": "x.com",
+     "x": "https://x.com/NorthwoodSpace/status/2117206333598638242",
+     "h": "NorthwoodSpace"
+    },
+    {
+     "t": "Tutor Intelligence raises a $75M Series B led by a16z to deploy teleoperated robots now",
+     "u": "https://x.com/joshgruenstein/status/2117286162146746434",
+     "d": "x.com",
+     "x": "https://x.com/joshgruenstein/status/2117286162146746434",
+     "h": "joshgruenstein"
+    },
+    {
+     "t": "tinygrad cuts its exabox AI supercomputer to $5M, with a $100K preorder",
+     "u": "https://x.com/__tinygrad__/status/2117442713947873292",
+     "d": "x.com",
+     "x": "https://x.com/__tinygrad__/status/2117442713947873292",
+     "h": "__tinygrad__"
+    },
+    {
+     "t": "Greg Isenberg pitches agents-as-employees for small businesses at about $12 an hour",
+     "u": "https://x.com/gregisenberg/status/2117355427138543629",
+     "d": "x.com",
+     "x": "https://x.com/gregisenberg/status/2117355427138543629",
+     "h": "gregisenberg"
+    },
+    {
+     "t": "OpenAI partners with Cathedral Systems, the AI-security startup backed at founding by Shaun Maguire and Marc Andreessen",
+     "u": "https://x.com/shaunmmaguire/status/2117454702887788671",
+     "d": "x.com",
+     "x": "https://x.com/shaunmmaguire/status/2117454702887788671",
+     "h": "shaunmmaguire"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "General Tech",
+   "items": [
+    {
+     "t": "Goldman Sachs reportedly bans bankers and traders from using AI tools like Claude Code",
+     "u": "https://x.com/exec_sum/status/2117284426128179638",
+     "d": "x.com",
+     "x": "https://x.com/exec_sum/status/2117284426128179638",
+     "h": "exec_sum"
+    },
+    {
+     "t": "Update: CZ says Binance has allocated 100% of the hack funds from its own balance sheet",
+     "u": "https://news.bitcoin.com/market-updates/binance-hack-fallout-keeps-bitcoin-price-under-pressure-77k/",
+     "d": "news.bitcoin.com",
+     "x": "https://x.com/cz_binance/status/2117300264738889901",
+     "h": "cz_binance"
+    },
+    {
+     "t": "SpaceX launches a website for Starfall, a 1,000 kg microgravity service",
+     "u": "https://x.com/SawyerMerritt/status/2117387827403227288",
+     "d": "x.com",
+     "x": "https://x.com/SawyerMerritt/status/2117387827403227288",
+     "h": "SawyerMerritt"
+    },
+    {
+     "t": "OpenAI builds Pando, a Git backend for huge monorepos, and may offer it to others",
+     "u": "https://x.com/gdb/status/2117435285021810921",
+     "d": "x.com",
+     "x": "https://x.com/gdb/status/2117435285021810921",
+     "h": "gdb"
+    },
+    {
+     "t": "OpenRouter passes a 10 quadrillion annual token run rate, and Chamath says that is the wrong metric",
+     "u": "https://x.com/chamath/status/2117349011913068715",
+     "d": "x.com",
+     "x": "https://x.com/chamath/status/2117349011913068715",
+     "h": "chamath"
+    },
+    {
+     "t": "Coinbase adds a sign-up page for AI agents",
+     "u": "https://www.coinbase.com/agents",
+     "d": "coinbase.com",
+     "x": "https://x.com/brian_armstrong/status/2117400236360708585",
+     "h": "brian_armstrong"
+    },
+    {
+     "t": "Tesla's fleet passes 17 billion miles on FSD (Supervised)",
+     "u": "https://x.com/SawyerMerritt/status/2117302241933893727",
+     "d": "x.com",
+     "x": "https://x.com/SawyerMerritt/status/2117302241933893727",
+     "h": "SawyerMerritt"
+    },
+    {
+     "t": "Chamath: AI model makers are moving up the stack, and AI-native apps will be the first victims",
+     "u": "https://x.com/chamath/status/2117387643478786311",
+     "d": "x.com",
+     "x": "https://x.com/chamath/status/2117387643478786311",
+     "h": "chamath"
+    },
+    {
+     "t": "DHH backs Geoffrey Huntley's call to retire open-source codes of conduct",
+     "u": "https://x.com/dhh/status/2117290527850668121",
+     "d": "x.com",
+     "x": "https://x.com/dhh/status/2117290527850668121",
+     "h": "dhh"
+    },
+    {
+     "t": "Shopify relaunches its WebMCP tools, and Tobi L\u00fctke says they beat browser-use agents",
+     "u": "https://x.com/tobi/status/2117323545164554480",
+     "d": "x.com",
+     "x": "https://x.com/tobi/status/2117323545164554480",
+     "h": "tobi"
+    }
+   ]
+  },
+  {
+   "id": "cyber",
+   "title": "Cybersecurity",
+   "items": [
+    {
+     "t": "Update: European supermarket freezer attacks spread to Italy and Romania, reaching at least 10 countries",
+     "u": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
+     "d": "nytimes.com",
+     "x": "https://x.com/lopp/status/2117403097970749536",
+     "h": "lopp"
+    },
+    {
+     "t": "Update: North Korea denies being behind the reported $6.3 billion Binance hack",
+     "u": "https://x.com/DarkWebInformer/status/2117390571798991292",
+     "d": "x.com",
+     "x": "https://x.com/DarkWebInformer/status/2117390571798991292",
+     "h": "DarkWebInformer"
+    },
+    {
+     "t": "Jason Haddix releases SpikeStrip, decoys meant to trip up AI pentesting tools like ARTEX",
+     "u": "https://x.com/Jhaddix/status/2117342447445627141",
+     "d": "x.com",
+     "x": "https://x.com/Jhaddix/status/2117342447445627141",
+     "h": "Jhaddix"
+    },
+    {
+     "t": "Qilin ransomware claims Chilean health insurer Isapre Consalud",
+     "u": "https://www.consalud.cl/",
+     "d": "consalud.cl",
+     "x": "https://x.com/DailyDarkWeb/status/2117364082852458739",
+     "h": "DailyDarkWeb"
+    },
+    {
+     "t": "Update: Hackers also targeted a Danish food producer's fridges the night European supermarket freezers were heated",
+     "u": "https://x.com/IntCyberDigest/status/2117320837573366107",
+     "d": "x.com",
+     "x": "https://x.com/IntCyberDigest/status/2117320837573366107",
+     "h": "IntCyberDigest"
+    },
+    {
+     "t": "Iran-linked DarkBlinders hackers breached an Israeli target and an Iraqi Kurdistan government cloud",
+     "u": "https://x.com/TheHackersNews/status/2117267680986292567",
+     "d": "x.com",
+     "x": "https://x.com/TheHackersNews/status/2117267680986292567",
+     "h": "TheHackersNews"
+    },
+    {
+     "t": "Researcher emulates the firmware of Apple's Lightning Digital AV Adapter and gets the dongle's stripped-down XNU running Doom",
+     "u": "https://x.com/_inside/status/2117374630532895219",
+     "d": "x.com",
+     "x": "https://x.com/_inside/status/2117374630532895219",
+     "h": "_inside"
+    },
+    {
+     "t": "Update: Polymarket pays out $3.9 million after a hijacked DebugBear monitoring script drained $2.7 million from 726 wallets",
+     "u": "https://x.com/IntCyberDigest/status/2117351036423696694",
+     "d": "x.com",
+     "x": "https://x.com/IntCyberDigest/status/2117351036423696694",
+     "h": "IntCyberDigest"
+    },
+    {
+     "t": "Researcher: most open and frontier models now reach RCE in his lab with an agent harness, but Mistral-Large-4 can't",
+     "u": "https://x.com/migtissera/status/2117432700563017802",
+     "d": "x.com",
+     "x": "https://x.com/migtissera/status/2117432700563017802",
+     "h": "migtissera"
+    },
+    {
+     "t": "Update: Synology names C3RB3R as the ransomware hitting its NAS devices",
+     "u": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",
+     "d": "bleepingcomputer.com",
+     "x": "https://x.com/BleepinComputer/status/2117217395697746101",
+     "h": "BleepinComputer"
+    }
+   ]
+  },
+  {
+   "id": "hb",
+   "title": "Huntington Beach / OC",
+   "items": [
+    {
+     "t": "Thinking about adding an ADU",
+     "u": "https://www.reddit.com/r/huntingtonbeach/comments/1xmo2tl/thinking_about_adding_an_adu/",
+     "d": "reddit.com"
+    },
+    {
+     "t": "Steve Hilton makes final campaign push in California governor's race",
+     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcFYyenNLdUV4NlZDRnZOOHVzLTRDa1ZoM2lkRVpaRUNjbWl3cWtvNm5DOW5aTWdacDRsb2UxVGJIejJkLTdjeDAtSHJqcVVlY2I4cWVwM1l6NGdiTUZSZ2xmMkxJNFFIZ3NOeDRHSklDSGpKbGxtZ20tZEE0TFhNbm81ZEJRWlNUV3g1UHFQcjg3ZGNJbXdMOVFGYURQWW1y?oc=5",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "California King Tides Ran Up to 1.7 Feet Above Forecast, and Newport Beach Warns of Near 9-Foot Tides by Christmas Eve",
+     "u": "https://www.natureworldnews.com/articles/73706/20261103/california-king-tides-ran-17-feet-above-forecast-newport-beach-warns-near-9-foot-tides.htm",
+     "d": "natureworldnews.com"
+    }
+   ]
+  }
+ ]
+}
