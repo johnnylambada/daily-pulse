@@ -1,0 +1,540 @@
+{
+ "run": "2026-11-04_0506",
+ "stamp": "2026-11-04 05:06",
+ "date": "2026-11-04",
+ "sections": [
+  {
+   "id": "top",
+   "title": "Top Stories",
+   "items": [
+    {
+     "t": "Update: New York City's mayor and Lina Khan pile on Google's school AI policy, as Google AI staff seek freedom to warn about risks",
+     "u": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+     "d": "nytimes.com",
+     "x": "https://x.com/NYCMayor/status/2117692668213940677",
+     "h": "NYCMayor"
+    },
+    {
+     "t": "Claude Code leader Cat Wu leaves Anthropic as pre-IPO departures pile up",
+     "u": "https://x.com/_catwu/status/2117731934340337676",
+     "d": "x.com",
+     "x": "https://x.com/_catwu/status/2117731934340337676",
+     "h": "_catwu"
+    },
+    {
+     "t": "Election Day: Democrats favored in polls for Congress, as the administration warns illegal voters will be 'hunted down'",
+     "u": "https://www.politico.com/news/2026/11/03/democrats-affordability-2026-midterms-cost-living-01145086",
+     "d": "politico.com",
+     "x": "https://x.com/NBCNews/status/2117673189157298639",
+     "h": "NBCNews"
+    },
+    {
+     "t": "Election Day: Florida's Republican turnout edge narrows from 2024, as White House talking points say Trump isn't to blame for losses",
+     "u": "https://www.axios.com/2026/11/03/inside-the-white-houses-election-day-messaging-strategy",
+     "d": "axios.com",
+     "x": "https://x.com/i/status/2117698990040912016",
+     "h": "i"
+    },
+    {
+     "t": "Grok Bot launches a shopping experience that finds deals, compares items and tracks orders",
+     "u": "https://x.com/bot/status/2117736249444507834",
+     "d": "x.com",
+     "x": "https://x.com/bot/status/2117736249444507834",
+     "h": "bot"
+    },
+    {
+     "t": "Update: CZ says Binance's $6.34 billion hack exposed serious security failures; a French bank's $133M loss is reported but unconfirmed",
+     "u": "https://x.com/cz_binance/status/2117846768666755491",
+     "d": "x.com",
+     "x": "https://x.com/cz_binance/status/2117846768666755491",
+     "h": "cz_binance"
+    },
+    {
+     "t": "OpenAI shows ChatGPT and Codex doing hardware engineering, fueling talk of an imminent GPT-6.2",
+     "u": "https://x.com/OpenAI/status/2117692475775258785",
+     "d": "x.com",
+     "x": "https://x.com/OpenAI/status/2117692475775258785",
+     "h": "OpenAI"
+    },
+    {
+     "t": "Traversal raises $120 million at a $1 billion valuation for AI that keeps production software running",
+     "u": "https://x.com/_anish_agarwal/status/2117663133145911689",
+     "d": "x.com",
+     "x": "https://x.com/_anish_agarwal/status/2117663133145911689",
+     "h": "_anish_agarwal"
+    },
+    {
+     "t": "AI and crypto money on the ballot: data-center bans, a pro-AI PAC's likely loss and $176M in crypto spending",
+     "u": "https://x.com/jdcapelouto/status/2117786709173645427",
+     "d": "x.com",
+     "x": "https://x.com/jdcapelouto/status/2117786709173645427",
+     "h": "jdcapelouto"
+    },
+    {
+     "t": "Update: A Supreme Court majority signals Catholic preschools taking state money can turn away children of same-sex couples",
+     "u": "https://www.cnn.com/2026/11/03/politics/supreme-court-prepared-rule-religious-schools-gay-couples?Date=20261103&Profile=CNN&utm_content=1793735332&utm_medium=social&utm_source=twitter",
+     "d": "cnn.com",
+     "x": "https://x.com/CNN/status/2117705592957448263",
+     "h": "CNN"
+    }
+   ]
+  },
+  {
+   "id": "us",
+   "title": "US News",
+   "items": [
+    {
+     "t": "Democrats win House majority with Trump approval at historic low",
+     "u": "https://www.cbsnews.com/live-updates/house-election-results-2026/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "Democrats Deliver a Big Blue Bludgeoning",
+     "u": "https://www.nytimes.com/2026/11/04/us/politics/democrats-deliver-a-big-blue-bludgeoning.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Stranded U.S. cruise ship leaves Cambodia with no passengers",
+     "u": "https://www.cbsnews.com/news/us-cruise-ship-odyssey-leaves-cambodia-no-passengers/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "How Astronauts Voted From Space in the Midterm Elections",
+     "u": "https://www.nytimes.com/2026/11/04/us/politics/midterm-elections-remote-voting-astronauts-space-antarctica.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Melat Kiros becomes first woman from Gen Z elected to Congress",
+     "u": "https://www.cbsnews.com/news/melat-kiros-first-gen-z-woman-congress-colorado/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "Hakeem Jeffries is poised to become the first Black speaker of the House",
+     "u": "https://www.npr.org/2026/11/04/g-s1-150030/hakeem-jeffries-speaker-of-the-house-midterms",
+     "d": "npr.org"
+    },
+    {
+     "t": "These 9 candidates for governor just made history",
+     "u": "https://www.npr.org/2026/11/04/nx-s1-6028546/governor-candidates-history-election-2026",
+     "d": "npr.org"
+    },
+    {
+     "t": "Nevada Attorney General Aaron Ford beats GOP incumbent for governor",
+     "u": "https://www.npr.org/2026/11/04/g-s1-151138/midterms-ford-nevada-governor-lombardo",
+     "d": "npr.org"
+    },
+    {
+     "t": "Pete Ricketts wins Nebraska Senate election, CBS News projects",
+     "u": "https://www.cbsnews.com/news/nebraska-2026-senate-ricketts-osborn/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "Democratic Rep. Marcy Kaptur wins Ohio rematch",
+     "u": "https://www.cbsnews.com/news/ohio-9th-district-results-marcy-kaptur-derek-merrin/",
+     "d": "cbsnews.com"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "World News",
+   "items": [
+    {
+     "t": "Israel's Likud accuses the attorney general of blocking investigations of Arab party lawmakers in an election probe",
+     "u": "https://x.com/netanyahu/status/2117706355058639061",
+     "d": "x.com",
+     "x": "https://x.com/netanyahu/status/2117706355058639061",
+     "h": "netanyahu"
+    },
+    {
+     "t": "Republican Ada Calvo is reported to have won Guam's governorship, flipping it from Democrats",
+     "u": "https://x.com/i/status/2117649223088775290",
+     "d": "x.com",
+     "x": "https://x.com/i/status/2117649223088775290",
+     "h": "i"
+    },
+    {
+     "t": "Six European countries' hockey federations refuse to play Russia, Ukraine's foreign minister says",
+     "u": "https://x.com/andrii_sybiha/status/2117665280734253487",
+     "d": "x.com",
+     "x": "https://x.com/andrii_sybiha/status/2117665280734253487",
+     "h": "andrii_sybiha"
+    },
+    {
+     "t": "Update: Florida stays red at the top: Ashley Moody's Senate win is now called by NBC, CBS, ABC, AP and Fox, and Byron Donalds wins governor",
+     "u": "https://www.nbcnews.com/politics/2026-special-elections/florida-senate-results",
+     "d": "nbcnews.com",
+     "x": "https://x.com/NBCNews/status/2117792062414151739",
+     "h": "NBCNews"
+    },
+    {
+     "t": "Amy Acton beats Vivek Ramaswamy to become Ohio's first female governor",
+     "u": "https://x.com/CNN/status/2117856626497475066",
+     "d": "x.com",
+     "x": "https://x.com/CNN/status/2117856626497475066",
+     "h": "CNN"
+    },
+    {
+     "t": "Turnout signals conflict: Texas reports record Democratic strongholds and rural Republican underperformance",
+     "u": "https://x.com/scottbraddock/status/2117748970458157196",
+     "d": "x.com",
+     "x": "https://x.com/scottbraddock/status/2117748970458157196",
+     "h": "scottbraddock"
+    },
+    {
+     "t": "Roy Cooper flips North Carolina's Senate seat, the Democrats' first pickup of the night",
+     "u": "https://www.cnn.com/2026/11/03/politics/live-news/midterm-election-congress?Date=20261104&Profile=CNN&utm_content=1793755991&utm_medium=social&utm_source=twitter",
+     "d": "cnn.com",
+     "x": "https://x.com/CNN/status/2117792259634520483",
+     "h": "CNN"
+    },
+    {
+     "t": "First exit polls: majorities say immigration enforcement has gone too far and the economy is in poor shape",
+     "u": "https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763/rcrd122620?canonicalCard=true",
+     "d": "nbcnews.com",
+     "x": "https://x.com/NBCNews/status/2117751200284082345",
+     "h": "NBCNews"
+    },
+    {
+     "t": "Update: NBC and CBS now project Troy Jackson's win over Susan Collins in Maine; the AP has not called it",
+     "u": "https://www.nbcnews.com/politics/2026-elections/maine-senate-results?cid=sm_npd_nn_tw_ma&taid=4c824059-5803-4019-beea-e7a039833dac&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter",
+     "d": "nbcnews.com",
+     "x": "https://x.com/NBCNews/status/2117856651147456649",
+     "h": "NBCNews"
+    },
+    {
+     "t": "Update: Democrats flip North Carolina's 11th District as NC Republicans trail across the board",
+     "u": "https://www.nbcnews.com/politics/2026-elections/north-carolina-us-house-district-11-results?cid=sm_npd_nn_tw_ma&taid=bcd8f70c-c231-44b2-b85e-520e1ef92677&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter",
+     "d": "nbcnews.com",
+     "x": "https://x.com/NBCNews/status/2117795402367770969",
+     "h": "NBCNews"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI",
+   "items": [
+    {
+     "t": "Abacus AI open-sources Smaug-Audio-Decisions for voice agents",
+     "u": "https://x.com/bindureddy/status/2117659234448154646",
+     "d": "x.com",
+     "x": "https://x.com/bindureddy/status/2117659234448154646",
+     "h": "bindureddy"
+    },
+    {
+     "t": "Sexbot comes out of stealth with $5 million and draws sharp criticism",
+     "u": "https://x.com/luis_vale/status/2117670671626998220",
+     "d": "x.com",
+     "x": "https://x.com/luis_vale/status/2117670671626998220",
+     "h": "luis_vale"
+    },
+    {
+     "t": "A Claude Fable 5.1 user says it hand-wrote the weights of a working 100k-parameter network",
+     "u": "https://x.com/jacsebl/status/2117606206764175543",
+     "d": "x.com",
+     "x": "https://x.com/jacsebl/status/2117606206764175543",
+     "h": "jacsebl"
+    },
+    {
+     "t": "Claude Code's October recap: cheaper resumed sessions, \"ultrathink\" per turn and a monthly API credit on top plans",
+     "u": "https://x.com/ClaudeDevs/status/2117670658113155075",
+     "d": "x.com",
+     "x": "https://x.com/ClaudeDevs/status/2117670658113155075",
+     "h": "ClaudeDevs"
+    },
+    {
+     "t": "Claude plugins can now auto-connect at login, with admin-managed auth for whole organizations",
+     "u": "https://modelcontextprotocol.io/extensions/auth/enterprise-managed-authorization",
+     "d": "modelcontextprotocol.io",
+     "x": "https://x.com/ClaudeDevs/status/2117680635561312732",
+     "h": "ClaudeDevs"
+    },
+    {
+     "t": "Anthropic introduces FlashProve, open-source provable inference for LLMs",
+     "u": "https://www.anthropic.com/research/provable-inference",
+     "d": "anthropic.com",
+     "x": "https://x.com/AnthropicAI/status/2117710942826123294",
+     "h": "AnthropicAI"
+    },
+    {
+     "t": "Debate: will smarter models make AI code review and verification unnecessary?",
+     "u": "https://x.com/trq212/status/2117670540148347273",
+     "d": "x.com",
+     "x": "https://x.com/trq212/status/2117670540148347273",
+     "h": "trq212"
+    },
+    {
+     "t": "Devin makes SWE-2 free until November 30",
+     "u": "https://x.com/dabit3/status/2117712332134682680",
+     "d": "x.com",
+     "x": "https://x.com/dabit3/status/2117712332134682680",
+     "h": "dabit3"
+    },
+    {
+     "t": "fal raises $1.65B across Series E and F rounds, with Nvidia investing again",
+     "u": "https://x.com/fal/status/2117679688860508283",
+     "d": "x.com",
+     "x": "https://x.com/fal/status/2117679688860508283",
+     "h": "fal"
+    },
+    {
+     "t": "Developer uses Claude Code to geolocate a webcam from aircraft sounds in its audio",
+     "u": "https://x.com/paraschopra/status/2117561731065274562",
+     "d": "x.com",
+     "x": "https://x.com/paraschopra/status/2117561731065274562",
+     "h": "paraschopra"
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "title": "Investing & Markets",
+   "items": [
+    {
+     "t": "Nomura argues AI infrastructure is already profitable, and the cash flows will follow (bullish counterpoint, steady)",
+     "u": "https://x.com/exencial_RP/status/2117526762519196058",
+     "d": "x.com",
+     "x": "https://x.com/exencial_RP/status/2117526762519196058",
+     "h": "exencial_RP"
+    },
+    {
+     "t": "Daytona goes from $1M to $100M in run rate in four quarters (bullish on agent infrastructure, new)",
+     "u": "https://www.daytona.io/dotfiles/1m-to-100m-run-rate-in-4-quarters",
+     "d": "daytona.io",
+     "x": "https://x.com/ivanburazin/status/2117664468603670928",
+     "h": "ivanburazin"
+    },
+    {
+     "t": "Superlinked launches SIE Serverless, managed inference for small models",
+     "u": "https://x.com/svonava/status/2117664970762846449",
+     "d": "x.com",
+     "x": "https://x.com/svonava/status/2117664970762846449",
+     "h": "svonava"
+    },
+    {
+     "t": "Vibe-coded software may lose ground to secure SaaS (bullish on SaaS incumbents, a shift)",
+     "u": "https://x.com/scottbelsky/status/2117694229770371254",
+     "d": "x.com",
+     "x": "https://x.com/scottbelsky/status/2117694229770371254",
+     "h": "scottbelsky"
+    },
+    {
+     "t": "Opendoor launches \"Buy with Opendoor\" in Texas",
+     "u": "https://www.opendoor.com/buywithopendoor",
+     "d": "opendoor.com",
+     "x": "https://x.com/nejatian/status/2117604114335228410",
+     "h": "nejatian"
+    },
+    {
+     "t": "Workers IO launches to verify AI-written code with simulated failures",
+     "u": "https://x.com/chaaai/status/2117331381206516115",
+     "d": "x.com",
+     "x": "https://x.com/chaaai/status/2117331381206516115",
+     "h": "chaaai"
+    },
+    {
+     "t": "Syncere raises an $11M pre-seed for Lume, a robot lamp that does chores",
+     "u": "https://syncere.com/",
+     "d": "syncere.com",
+     "x": "https://x.com/aaronistan/status/2117663101688709214",
+     "h": "aaronistan"
+    },
+    {
+     "t": "The S&P 500 looks oversold while half its stocks look overbought (mixed, new)",
+     "u": "https://x.com/bespokeinvest/status/2117669756157522328",
+     "d": "x.com",
+     "x": "https://x.com/bespokeinvest/status/2117669756157522328",
+     "h": "bespokeinvest"
+    },
+    {
+     "t": "Update: Data center limits win almost every ballot vote (bearish on Texas AI buildout, deepening)",
+     "u": "https://x.com/biancoresearch/status/2117840352614711619",
+     "d": "x.com",
+     "x": "https://x.com/biancoresearch/status/2117840352614711619",
+     "h": "biancoresearch"
+    },
+    {
+     "t": "Evertrue Capital launches with an oversubscribed $17M debut fund",
+     "u": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
+     "d": "techcrunch.com",
+     "x": "https://x.com/i/status/2117659495245418825",
+     "h": "i"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "General Tech",
+   "items": [
+    {
+     "t": "Naval: \"Greed can be satisfied. Envy, cannot.\"",
+     "u": "https://x.com/naval/status/2117848335264702710",
+     "d": "x.com",
+     "x": "https://x.com/naval/status/2117848335264702710",
+     "h": "naval"
+    },
+    {
+     "t": "Elon Musk touts Grok Bot booking doctor's appointments and complex trips",
+     "u": "https://x.com/elonmusk/status/2117665964862939320",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2117665964862939320",
+     "h": "elonmusk"
+    },
+    {
+     "t": "Xbox unveils a one-of-a-kind 'Series X-BITE' console swallowed by an alligator",
+     "u": "https://news.xbox.com/en-us/2026/11/03/xbox-series-x-bite-console-sweepstakes/",
+     "d": "news.xbox.com",
+     "x": "https://x.com/XBOXWire/status/2117663611929673783",
+     "h": "XBOXWire"
+    },
+    {
+     "t": "Starlink offers free dish upgrades to its earliest customers",
+     "u": "https://x.com/SawyerMerritt/status/2117745806996340890",
+     "d": "x.com",
+     "x": "https://x.com/SawyerMerritt/status/2117745806996340890",
+     "h": "SawyerMerritt"
+    },
+    {
+     "t": "Update: Google will switch AI and Search off by default for students from early 2027, and schools can't keep one without the other",
+     "u": "https://x.com/Pirat_Nation/status/2117672052903514171",
+     "d": "x.com",
+     "x": "https://x.com/Pirat_Nation/status/2117672052903514171",
+     "h": "Pirat_Nation"
+    },
+    {
+     "t": "Fans use AI to remaster Final Fantasy Resonance's pixel art in HD",
+     "u": "https://x.com/Pirat_Nation/status/2117846803508777463",
+     "d": "x.com",
+     "x": "https://x.com/Pirat_Nation/status/2117846803508777463",
+     "h": "Pirat_Nation"
+    },
+    {
+     "t": "Sony offers PS5 owners up to $400 to trade in their consoles",
+     "u": "https://x.com/Pirat_Nation/status/2117783835962147086",
+     "d": "x.com",
+     "x": "https://x.com/Pirat_Nation/status/2117783835962147086",
+     "h": "Pirat_Nation"
+    },
+    {
+     "t": "Cloudflare launches Zero Wire, a public vulnerability news feed",
+     "u": "https://blog.cloudflare.com/zero-wire?utm_campaign=cf_blog&utm_content=20261103&utm_medium=organic_social&utm_source=twitter",
+     "d": "blog.cloudflare.com",
+     "x": "https://x.com/eastdakota/status/2117749317150630207",
+     "h": "eastdakota"
+    },
+    {
+     "t": "Coinbase launches Coinbase for Agents",
+     "u": "https://x.com/brian_armstrong/status/2117671744274051210",
+     "d": "x.com",
+     "x": "https://x.com/brian_armstrong/status/2117671744274051210",
+     "h": "brian_armstrong"
+    },
+    {
+     "t": "Eric Berger hits back at critics of his SpaceX Superbird-9 story",
+     "u": "https://x.com/SciGuySpace/status/2117795743373070598",
+     "d": "x.com",
+     "x": "https://x.com/SciGuySpace/status/2117795743373070598",
+     "h": "SciGuySpace"
+    }
+   ]
+  },
+  {
+   "id": "cyber",
+   "title": "Cybersecurity",
+   "items": [
+    {
+     "t": "Update: Railway's @JustJake says an employee's off-hours DeepSeek bug-bounty tool caused the alleged breach attempt",
+     "u": "https://x.com/JustJake/status/2117746864745578719",
+     "d": "x.com",
+     "x": "https://x.com/JustJake/status/2117746864745578719",
+     "h": "JustJake"
+    },
+    {
+     "t": "Researcher pwnlambda plans to publish an iOS kernel read/write exploit and writeup within about a week",
+     "u": "https://x.com/pwnlambda/status/2117668187873448013",
+     "d": "x.com",
+     "x": "https://x.com/pwnlambda/status/2117668187873448013",
+     "h": "pwnlambda"
+    },
+    {
+     "t": "Vercel begins rolling out Device Bound Session Credentials to stop session-cookie theft",
+     "u": "https://x.com/cramforce/status/2117645359082315988",
+     "d": "x.com",
+     "x": "https://x.com/cramforce/status/2117645359082315988",
+     "h": "cramforce"
+    },
+    {
+     "t": "Theorem Labs formally verifies a prototype hypervisor so guest code can't modify host files",
+     "u": "https://theorem.dev/blog/proving-agent-sandboxes/",
+     "d": "theorem.dev",
+     "x": "https://x.com/theoremlabs/status/2117733487428169938",
+     "h": "theoremlabs"
+    },
+    {
+     "t": "pwnlambda and Bruce Dang post slides from their talk \"0clicks in an AI World\"",
+     "u": "https://github.com/pwnlambda/talks/blob/main/unprompted_0clicks.pdf",
+     "d": "github.com",
+     "x": "https://x.com/pwnlambda/status/2117639557566865906",
+     "h": "pwnlambda"
+    },
+    {
+     "t": "Researcher says the ARTEX offensive-agent Docker image appears to ship with an unauthenticated backdoor",
+     "u": "https://x.com/GrahamHelton3/status/2117782531856581004",
+     "d": "x.com",
+     "x": "https://x.com/GrahamHelton3/status/2117782531856581004",
+     "h": "GrahamHelton3"
+    },
+    {
+     "t": "Andrea Barisani releases eggshell, a bare-metal Go unikernel that runs unmodified Linux programs",
+     "u": "https://github.com/usbarmory/eggshell",
+     "d": "github.com",
+     "x": "https://x.com/AndreaBarisani/status/2117682900619448593",
+     "h": "AndreaBarisani"
+    },
+    {
+     "t": "UK NCSC publishes its 2026 annual review, \"The State of the Cyber Nation\"",
+     "u": "https://www.ncsc.gov.uk/collection/annual-review-2026",
+     "d": "ncsc.gov.uk",
+     "x": "https://x.com/NCSC/status/2117512148406427956",
+     "h": "NCSC"
+    },
+    {
+     "t": "Update: WordPress core pre-auth RCE finder warns that the update process itself can expose the bug",
+     "u": "https://x.com/taisic_/status/2117694088682340365",
+     "d": "x.com",
+     "x": "https://x.com/taisic_/status/2117694088682340365",
+     "h": "taisic_"
+    },
+    {
+     "t": "Update: Binance theft traced to a Homebrew installer from a malicious Google ad; Chainalysis says it is 95% of North Korea's all-time haul",
+     "u": "https://github.com/Homebrew/install",
+     "d": "github.com",
+     "x": "https://x.com/officer_secret/status/2117632023720313314",
+     "h": "officer_secret"
+    }
+   ]
+  },
+  {
+   "id": "hb",
+   "title": "Huntington Beach / OC",
+   "items": [
+    {
+     "t": "Looking for local paint correction/wax for my car",
+     "u": "https://www.reddit.com/r/huntingtonbeach/comments/1xnkawa/looking_for_local_paint_correctionwax_for_my_car/",
+     "d": "reddit.com"
+    },
+    {
+     "t": "Phillip Andrew King Obituary",
+     "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSlU2bXZFVE9fRW9lTXlKVVVYZWk0RmNPNUxzb1Zscm1ET2pIVHZiTE1qdkxfZGwyajQzbDRjUEdtQ3U2VzBtQ2FYeE02YlJXcFlVS3I0YW9FamZ0eUYtOUpYZmRpaFgtTndIUkozODNjVUJ0TWdDaHFvM1h0dkRoTzNNT3M?oc=5",
+     "d": "ocregister.com"
+    },
+    {
+     "t": "Tuesday\u2019s Southern Section playoff results and schedule \u2014 High school boys\u2019 water polo",
+     "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNam4xUVR4RExaemNpTk9yWTdYVVhwYmZsZU85dVRRTmZWTWczREx5U2FzeV8tQjAyeXo2UkpDVjNKWVZGUFl4NlBLWkk0MjVCUzdmWUltS3c5UzE3ZXRRS0JEdktMYmQtdnRHZnRwY1lOVkZhampwTHd5VDg3SGY0eHRlX1kzelI0Q1lqV0xlTHhMY0pZblFaY2R5Ujc?oc=5",
+     "d": "cedarnews.net"
+    }
+   ]
+  }
+ ]
+}
