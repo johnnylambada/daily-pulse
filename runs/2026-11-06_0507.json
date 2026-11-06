@@ -1,0 +1,540 @@
+{
+ "run": "2026-11-06_0507",
+ "stamp": "2026-11-06 05:07",
+ "date": "2026-11-06",
+ "sections": [
+  {
+   "id": "top",
+   "title": "Top Stories",
+   "items": [
+    {
+     "t": "Texas governor-elect says currently permitted data centers can finish construction",
+     "u": "https://x.com/GavinSBaker/status/2118420042283102604",
+     "d": "x.com",
+     "x": "https://x.com/GavinSBaker/status/2118420042283102604",
+     "h": "GavinSBaker"
+    },
+    {
+     "t": "OpenAI launches GPT-6 Cyber; same line of work finds 111 Firefox renderer RCEs",
+     "u": "https://x.com/OpenAI/status/2118390190246879554",
+     "d": "x.com",
+     "x": "https://x.com/OpenAI/status/2118390190246879554",
+     "h": "OpenAI"
+    },
+    {
+     "t": "METR: Anthropic has likely crossed its 2x AI R&D acceleration threshold",
+     "u": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
+     "d": "metr.org",
+     "x": "https://x.com/METR_Evals/status/2118412183860351084",
+     "h": "METR_Evals"
+    },
+    {
+     "t": "Cursor ships live apps you can build and share from a link",
+     "u": "https://vercel.com/for/platforms",
+     "d": "vercel.com",
+     "x": "https://x.com/cursor_ai/status/2118458629091426304",
+     "h": "cursor_ai"
+    },
+    {
+     "t": "Tesla raises Cybertruck prices up to 9%, pauses base Dual Motor orders",
+     "u": "https://x.com/SawyerMerritt/status/2118571031455470067",
+     "d": "x.com",
+     "x": "https://x.com/SawyerMerritt/status/2118571031455470067",
+     "h": "SawyerMerritt"
+    },
+    {
+     "t": "Anthropic\u2019s October run rate tops $80B as Reuters flags IPO timing risk",
+     "u": "https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b",
+     "d": "wsj.com",
+     "x": "https://x.com/KateClarkTweets/status/2118563680694751405",
+     "h": "KateClarkTweets"
+    },
+    {
+     "t": "Federal judge blocks Trump\u2019s triumphal arch for 14 days",
+     "u": "https://www.cnn.com/2026/11/05/politics/trump-arch-ncpc-final-approval?Date=20261106&Profile=CNN&utm_content=1793942845&utm_medium=social&utm_source=twitter",
+     "d": "cnn.com",
+     "x": "https://x.com/CNN/status/2118575993421955310",
+     "h": "CNN"
+    },
+    {
+     "t": "World Labs ships Frameboy: real-time Atlas worlds at up to 15 fps",
+     "u": "https://frameboy.worldlabs.ai",
+     "d": "frameboy.worldlabs.ai",
+     "x": "https://x.com/theworldlabs/status/2118424455873741028",
+     "h": "theworldlabs"
+    },
+    {
+     "t": "Democrats projected above 250 House seats; Mississippi and Alaska Senate races remain uncalled",
+     "u": "https://www.cnn.com/2026/11/05/politics/live-news/midterm-election-congress?Date=20261106&Profile=CNN&utm_content=1793927188&utm_medium=social&utm_source=twitter",
+     "d": "cnn.com",
+     "x": "https://x.com/CNN/status/2118510353529139229",
+     "h": "CNN"
+    },
+    {
+     "t": "X web rewrite is live on Vite with a reported 22s\u21922.7s profile load",
+     "u": "https://x.com/evanyou/status/2118566402911281623",
+     "d": "x.com",
+     "x": "https://x.com/evanyou/status/2118566402911281623",
+     "h": "evanyou"
+    }
+   ]
+  },
+  {
+   "id": "us",
+   "title": "US News",
+   "items": [
+    {
+     "t": "Day Drinking With the President",
+     "u": "https://www.nytimes.com/2026/11/06/us/politics/lbj-ranch-1965-robert-b-semple-jr.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Fed Up With Politics and Struggle, Young Voters Rose Up",
+     "u": "https://www.nytimes.com/2026/11/06/us/politics/young-voters-democratic-wave-midterms.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "How the College Board Is Fighting A.I. Cheating on the SAT Tests",
+     "u": "https://www.nytimes.com/2026/11/06/us/college-board-cheating-sat.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "3 Are Injured in Shooting at Des Moines Post Office",
+     "u": "https://www.nytimes.com/2026/11/05/us/des-moines-post-office-shooting-iowa.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "3 charged with using AI to steal some $129 million from companies",
+     "u": "https://www.cbsnews.com/news/3-ai-steal-129-million-companies-impersonating-executives-lawyers/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "Newly empowered Democrats could revive plans for court reforms",
+     "u": "https://www.cbsnews.com/news/democrats-house-senate-supreme-court-reforms/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "The Unlikely College Football Powerhouse Fueled by Texas Gas Money",
+     "u": "https://www.wsj.com/sports/football/the-unlikely-college-football-powerhouse-fueled-by-texas-gas-money-343541cd?mod=rss_usnews",
+     "d": "wsj.com"
+    },
+    {
+     "t": "Colleges Struggle to Stop \u2018Melt\u2019: Students Who Commit, Then Don\u2019t Show Up",
+     "u": "https://www.wsj.com/us-news/education/colleges-struggle-to-stop-melt-students-who-commit-then-dont-show-up-e80d4263?mod=rss_usnews",
+     "d": "wsj.com"
+    },
+    {
+     "t": "YouTuber Accused of Child Sexual Abuse Is Arrested After Discussing Behavior in Film",
+     "u": "https://www.nytimes.com/2026/11/06/us/edp445-youtuber-arrested-sex-crimes.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "A Democrat Will Govern Texas. Republicans Won\u2019t Make It Easy.",
+     "u": "https://www.nytimes.com/2026/11/06/us/texas-governor-democrat-gina-hinojosa.html",
+     "d": "nytimes.com"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "World News",
+   "items": [
+    {
+     "t": "Paraguay's President Santiago Pe\u00f1a resigns over a bank collapse",
+     "u": "https://www.cnn.com/2026/11/05/americas/president-paraguay-resigns-latam-intl?Date=20261105&Profile=cnnbrk&utm_content=1793899560&utm_medium=social&utm_source=twitter",
+     "d": "cnn.com",
+     "x": "https://x.com/CNN/status/2118394484685754391",
+     "h": "CNN"
+    },
+    {
+     "t": "Nithya Raman unseats Los Angeles Mayor Karen Bass",
+     "u": "https://www.nbcnews.com/politics/2026-election/nithya-raman-los-angeles-mayor-win-democratic-socialist-karen-bass-rcna603379?cid=sm_npd_nn_tw_ma&taid=6aecc15253d11a0001919adf&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter",
+     "d": "nbcnews.com",
+     "x": "https://x.com/NBCNews/status/2118399959301058856",
+     "h": "NBCNews"
+    },
+    {
+     "t": "Update: Nithya Raman wins Los Angeles mayor as Karen Bass concedes",
+     "u": "https://www.latimes.com/california/story/2026-11-05/nithya-raman-defeats-bass-to-become-next-la-mayor",
+     "d": "latimes.com",
+     "x": "https://x.com/latimes/status/2118427473885245925",
+     "h": "latimes"
+    },
+    {
+     "t": "DOT begins replacing floppy disks so air-traffic controllers get digital safety data",
+     "u": "https://x.com/ABC/status/2118512465864700199",
+     "d": "x.com",
+     "x": "https://x.com/ABC/status/2118512465864700199",
+     "h": "ABC"
+    },
+    {
+     "t": "Democrat JoAnna Mendoza wins Arizona's 6th House seat",
+     "u": "https://www.nbcnews.com/politics/2026-elections/arizona-us-house-district-6-results?cid=sm_npd_nn_tw_ma&taid=9d74abcc-4b41-4c0c-a11a-4a4a2358020b&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter",
+     "d": "nbcnews.com",
+     "x": "https://x.com/NBCNews/status/2118428020104917270",
+     "h": "NBCNews"
+    },
+    {
+     "t": "Vitamin K shots at birth are falling, raising bleeding risk for newborns",
+     "u": "https://abcnews.com/Health/parents-declining-vitamin-shots-newborns-putting-babies-risk/story?id=137823394&cid=social_twitter_abcn",
+     "d": "abcnews.com",
+     "x": "https://x.com/ABC/status/2118424590103855221",
+     "h": "ABC"
+    },
+    {
+     "t": "Republican Brent Taylor flips Tennessee's redrawn 9th District",
+     "u": "https://www.cnn.com/2026/11/05/politics/live-news/midterm-election-congress?Date=20261105&Profile=cnnbrk&utm_content=1793897777&utm_medium=social&utm_source=twitter",
+     "d": "cnn.com",
+     "x": "https://x.com/CNN/status/2118387583407272408",
+     "h": "CNN"
+    },
+    {
+     "t": "California voters reject Proposition 39 on voter ID",
+     "u": "https://www.nbcnews.com/politics/2026-elections/california-ballot-measures?cid=sm_npd_nn_tw_ma&taid=25ee442b-a4fd-4f0d-b6cc-21e01bd547c7&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter",
+     "d": "nbcnews.com",
+     "x": "https://x.com/NBCNews/status/2118399764198834343",
+     "h": "NBCNews"
+    },
+    {
+     "t": "Update: Markets tumble; Musk's fortune drops about $80 billion",
+     "u": "https://www.forbes.com/sites/antoniopequenoiv/2026/11/05/elon-musks-fortune-drops-80-billion-amid-tech-stock-rout/?utm_campaign=forbes&utm_medium=social&utm_source=twitter&utm_term=se-breaking",
+     "d": "forbes.com",
+     "x": "https://x.com/Forbes/status/2118423127776497881",
+     "h": "Forbes"
+    },
+    {
+     "t": "Latino voters' shift from Republicans helped Democrats break a three-decade state hold",
+     "u": "https://x.com/NBCNews/status/2118473450134143282",
+     "d": "x.com",
+     "x": "https://x.com/NBCNews/status/2118473450134143282",
+     "h": "NBCNews"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI",
+   "items": [
+    {
+     "t": "Tibo: formal proofs at tens of millions of lines make hypersecure software plausible",
+     "u": "https://x.com/thsottiaux/status/2118569235953893573",
+     "d": "x.com",
+     "x": "https://x.com/thsottiaux/status/2118569235953893573",
+     "h": "thsottiaux"
+    },
+    {
+     "t": "Box and NVIDIA bring Nemotron models into Box AI at BoxWorks",
+     "u": "https://blog.box.com/box-partners-nvidia-deliver-trusted-content-layer-enterprise-ai",
+     "d": "blog.box.com",
+     "x": "https://x.com/Box/status/2118380342109495472",
+     "h": "Box"
+    },
+    {
+     "t": "Conductor is joining Meta's Superintelligence Labs",
+     "u": "https://x.com/charlieholtz/status/2118045232218743264",
+     "d": "x.com",
+     "x": "https://x.com/charlieholtz/status/2118045232218743264",
+     "h": "charlieholtz"
+    },
+    {
+     "t": "r-1 mini aims at premium OCR at $1 per 1,000 pages",
+     "u": "https://x.com/aditabrm/status/2118387155974414710",
+     "d": "x.com",
+     "x": "https://x.com/aditabrm/status/2118387155974414710",
+     "h": "aditabrm"
+    },
+    {
+     "t": "OpenAI says ChatGPT and its API now generate more than 4 billion images a week",
+     "u": "https://x.com/thsottiaux/status/2118469621011677521",
+     "d": "x.com",
+     "x": "https://x.com/thsottiaux/status/2118469621011677521",
+     "h": "thsottiaux"
+    },
+    {
+     "t": "Dwarkesh spends $20,000 of API credits benchmarking models at social deception",
+     "u": "https://x.com/dwarkesh_sp/status/2118449808402681911",
+     "d": "x.com",
+     "x": "https://x.com/dwarkesh_sp/status/2118449808402681911",
+     "h": "dwarkesh_sp"
+    },
+    {
+     "t": "TinyFish introduces TinyResearch and TinySet",
+     "u": "https://www.tinyfish.ai/deep-work",
+     "d": "tinyfish.ai",
+     "x": "https://x.com/Tiny_Fish/status/2118387912945611186",
+     "h": "Tiny_Fish"
+    },
+    {
+     "t": "IREN says AI Cloud revenue nearly tripled to $200 million last quarter",
+     "u": "https://x.com/IREN_Ltd/status/2118460614209306788",
+     "d": "x.com",
+     "x": "https://x.com/IREN_Ltd/status/2118460614209306788",
+     "h": "IREN_Ltd"
+    },
+    {
+     "t": "Google launches Gemini Omni 1.2 Flash with 15-second video and 30% lower cost",
+     "u": "https://x.com/GoogleAI/status/2118389961426874879",
+     "d": "x.com",
+     "x": "https://x.com/GoogleAI/status/2118389961426874879",
+     "h": "GoogleAI"
+    },
+    {
+     "t": "Sequoia forced out three US partners in its overhaul",
+     "u": "https://x.com/followthemani/status/2118423968088728041",
+     "d": "x.com",
+     "x": "https://x.com/followthemani/status/2118423968088728041",
+     "h": "followthemani"
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "title": "Investing & Markets",
+   "items": [
+    {
+     "t": "Robinhood Chain AMA: Vlad Tenev courts builders",
+     "u": "https://x.com/vladtenev/status/2118421590421708999",
+     "d": "x.com",
+     "x": "https://x.com/vladtenev/status/2118421590421708999",
+     "h": "vladtenev"
+    },
+    {
+     "t": "Lucky closes a Series B led by Keith Rabois",
+     "u": "https://sekai.ai/play/50b44739-ade6-41b3-98fb-cf549a091370?share_channel=clipboard&share_format=link&share_id=1b333b6f-fb3f-4e1d-bfb9-d4e124a12a92&sharer=1957997&share_target_type=content&share_target_id=50b44739-ade6-41b3-98fb-cf549a091370",
+     "d": "sekai.ai",
+     "x": "https://x.com/lucky_z2/status/2118380354545615262",
+     "h": "lucky_z2"
+    },
+    {
+     "t": "Zipline raises $1.5B at a $21.5B valuation led by Paradigm",
+     "u": "https://x.com/Keller/status/2118379917503000778",
+     "d": "x.com",
+     "x": "https://x.com/Keller/status/2118379917503000778",
+     "h": "Keller"
+    },
+    {
+     "t": "Sequoia overhaul: three U.S. partners forced out; Scouts left dark (mixed org change)",
+     "u": "https://x.com/swyx/status/2118512013228077063",
+     "d": "x.com",
+     "x": "https://x.com/swyx/status/2118512013228077063",
+     "h": "swyx"
+    },
+    {
+     "t": "Mercury launches Agent Controls for AI that touch bank accounts",
+     "u": "https://x.com/immad/status/2118392980084269451",
+     "d": "x.com",
+     "x": "https://x.com/immad/status/2118392980084269451",
+     "h": "immad"
+    },
+    {
+     "t": "Perplexity launches Teammates, persistent work agents for Max users",
+     "u": "https://x.com/AravSrinivas/status/2118388400730591469",
+     "d": "x.com",
+     "x": "https://x.com/AravSrinivas/status/2118388400730591469",
+     "h": "AravSrinivas"
+    },
+    {
+     "t": "Gene Munster says he was buying AI stocks into the drop (bullish contrary, a change)",
+     "u": "https://x.com/munster_gene/status/2118467980296073391",
+     "d": "x.com",
+     "x": "https://x.com/munster_gene/status/2118467980296073391",
+     "h": "munster_gene"
+    },
+    {
+     "t": "SoftBank sits on last chart support after a head-and-shoulders break (bearish, continuing)",
+     "u": "https://x.com/DarioCpx/status/2118506379615035646",
+     "d": "x.com",
+     "x": "https://x.com/DarioCpx/status/2118506379615035646",
+     "h": "DarioCpx"
+    },
+    {
+     "t": "Voters want data-center moratoriums like tariffs\u2014until the tradeoffs hit (mixed, continuing)",
+     "u": "https://x.com/evanjconrad/status/2118438245893915124",
+     "d": "x.com",
+     "x": "https://x.com/evanjconrad/status/2118438245893915124",
+     "h": "evanjconrad"
+    },
+    {
+     "t": "LionBio raises a $6M pre-seed from SPC for nasal-spray GLP-1",
+     "u": "https://x.com/zebird0/status/2118382227423887413",
+     "d": "x.com",
+     "x": "https://x.com/zebird0/status/2118382227423887413",
+     "h": "zebird0"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "General Tech",
+   "items": [
+    {
+     "t": "Microsoft's Xbox app on Windows gets up to 60% faster",
+     "u": "https://x.com/asha_shar/status/2118387881039593544",
+     "d": "x.com",
+     "x": "https://x.com/asha_shar/status/2118387881039593544",
+     "h": "asha_shar"
+    },
+    {
+     "t": "Box launches Architect and deepens its NVIDIA tie-up at BoxWorks",
+     "u": "https://blog.box.com/box-unveils-architect-reimagine-content-workflows-frontier-ai",
+     "d": "blog.box.com",
+     "x": "https://x.com/Box/status/2118373090531197352",
+     "h": "Box"
+    },
+    {
+     "t": "Steam backlog draws fire as a Square Enix alum mocks Valve\u2019s \u201cboats\u201d spending",
+     "u": "https://x.com/Pirat_Nation/status/2118509671380353103",
+     "d": "x.com",
+     "x": "https://x.com/Pirat_Nation/status/2118509671380353103",
+     "h": "Pirat_Nation"
+    },
+    {
+     "t": "CZ warns iPhone users about the DarkSword exploit and SignalPlus API keys",
+     "u": "https://x.com/cz_binance/status/2118299658355454117",
+     "d": "x.com",
+     "x": "https://x.com/cz_binance/status/2118299658355454117",
+     "h": "cz_binance"
+    },
+    {
+     "t": "Jason Calacanis: a 'generational moment to buy' and a pro-AI pitch for Democrats",
+     "u": "https://x.com/Jason/status/2118379932195684418",
+     "d": "x.com",
+     "x": "https://x.com/Jason/status/2118379932195684418",
+     "h": "Jason"
+    },
+    {
+     "t": "Quixel's full Megascans library goes free, with AI training allowed",
+     "u": "https://quixel.com/news/update-megascans-are-going-free-again",
+     "d": "quixel.com",
+     "x": "https://x.com/quixeltools/status/2118346475528994821",
+     "h": "quixeltools"
+    },
+    {
+     "t": "Tim Sweeney says anti-AI campaigns are being astroturfed",
+     "u": "https://x.com/TimSweeneyEpic/status/2118349812894675101",
+     "d": "x.com",
+     "x": "https://x.com/TimSweeneyEpic/status/2118349812894675101",
+     "h": "TimSweeneyEpic"
+    },
+    {
+     "t": "Meta's public time service now supports secure Network Time Security",
+     "u": "https://nts.meta.com",
+     "d": "nts.meta.com",
+     "x": "https://x.com/Meta_Engineers/status/2118389127036985731",
+     "h": "Meta_Engineers"
+    },
+    {
+     "t": "Henry Cavill and Google launch Mustache Protocol for Movember",
+     "u": "https://x.com/Pirat_Nation/status/2118570321204695168",
+     "d": "x.com",
+     "x": "https://x.com/Pirat_Nation/status/2118570321204695168",
+     "h": "Pirat_Nation"
+    },
+    {
+     "t": "Jason Calacanis: Newsom\u2019s data-center conditions are leverage, not a ban",
+     "u": "https://x.com/Jason/status/2118508157823828335",
+     "d": "x.com",
+     "x": "https://x.com/Jason/status/2118508157823828335",
+     "h": "Jason"
+    }
+   ]
+  },
+  {
+   "id": "cyber",
+   "title": "Cybersecurity",
+   "items": [
+    {
+     "t": "Microsoft Paint CVE-2026-83844 (CVSS 8.1) network RCE with Store version confusion",
+     "u": "https://cybersecuritynews.com/windows-paint-rce-vulnerability/",
+     "d": "cybersecuritynews.com",
+     "x": "https://x.com/The_Cyber_News/status/2118513873972277757",
+     "h": "The_Cyber_News"
+    },
+    {
+     "t": "Update: FBI, CISA and three other agencies issue a joint fact sheet on attacks against refrigeration and cold-chain systems",
+     "u": "https://go.dhs.gov/59J",
+     "d": "go.dhs.gov",
+     "x": "https://x.com/FBICyberBranch/status/2118388213555290487",
+     "h": "FBICyberBranch"
+    },
+    {
+     "t": "Graham Helton publishes a free workshop book on harness engineering for vulnerability research",
+     "u": "https://grahamhelton.github.io/harness-engineering-workshop-book/introduction.html",
+     "d": "grahamhelton.github.io",
+     "x": "https://x.com/mqst_/status/2118361709375357336",
+     "h": "mqst_"
+    },
+    {
+     "t": "a16z: attacks now land before disclosure while patching slows",
+     "u": "https://x.com/a16z/status/2118361452583289082",
+     "d": "x.com",
+     "x": "https://x.com/a16z/status/2118361452583289082",
+     "h": "a16z"
+    },
+    {
+     "t": "\"sshole\" (CVE-2026-123158): any 257-byte password logs in as root on unpatched Alpine and other musl-based SSH servers",
+     "u": "https://sshhole.com",
+     "d": "sshhole.com",
+     "x": "https://x.com/0xacb/status/2118387414527832065",
+     "h": "0xacb"
+    },
+    {
+     "t": "Check Point tracks 2,000+ ARTEX servers and reads the agents' own hacking logs",
+     "u": "https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/",
+     "d": "research.checkpoint.com",
+     "x": "https://x.com/_CPResearch_/status/2118395415364079679",
+     "h": "_CPResearch_"
+    },
+    {
+     "t": "Fake IT-helpdesk calls are stealing Microsoft sign-in tokens, and a cluster of bank \"helpdesk\" domains has appeared",
+     "u": "https://x.com/techspence/status/2118414806658973930",
+     "d": "x.com",
+     "x": "https://x.com/techspence/status/2118414806658973930",
+     "h": "techspence"
+    },
+    {
+     "t": "FBI and CISA warn of cyberattacks on refrigeration systems",
+     "u": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
+     "d": "bleepingcomputer.com",
+     "x": "https://x.com/BleepinComputer/status/2118507947433091173",
+     "h": "BleepinComputer"
+    },
+    {
+     "t": "UniFi WiFiman RCE chain CVE-2026-119249 / CVE-2026-119250 (remote access \u2192 file write \u2192 shell)",
+     "u": "https://community.ui.com/releases/Security-Advisory-Bulletin-072/351a6d54-3ef7-49b4-ac99-b3a5388a9808",
+     "d": "community.ui.com",
+     "x": "https://x.com/AndrewMohawk/status/2118507489843179698",
+     "h": "AndrewMohawk"
+    },
+    {
+     "t": "Update: a second team publishes a full Firecracker microVM escape to host root, with proof-of-concept code",
+     "u": "https://x.com/PaulosYibelo/status/2118384713387700705",
+     "d": "x.com",
+     "x": "https://x.com/PaulosYibelo/status/2118384713387700705",
+     "h": "PaulosYibelo"
+    }
+   ]
+  },
+  {
+   "id": "hb",
+   "title": "Huntington Beach / OC",
+   "items": [
+    {
+     "t": "Edison Varsity Football @ Oak Hills",
+     "u": "https://www.maxpreps.com/ca/football/game/edison-huntington-beach-vs-oak-hills-hesperia/11-6-2026/?c=aa1ad998-e673-4153-8763-30ea3c84c0c6",
+     "d": "maxpreps.com"
+    },
+    {
+     "t": "Huntington Beach Varsity Football @ Inglewood",
+     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWUZCaHVqdFB1bEFiM1hxN0hRaVh2ZU40akh5dnN0LWdxTkcySFdYandhNThRYzBMNVJieUxpQjBnTE5NQ2hhZjNqdzZoVUo3LW13MVFPczlVZUNPZXUwX2tnVUo5c0VUVW45NFlkZ0lTYTNqMUE0Sm1KNng1UkF5ekZRaF9zWlQxeEtNM3NKNHRCT1ktdjZ1MUxvMmV6Y1RsdllnOW5zVUFYaUZvOERZMmdzRnhhd0ZJcmJUdWdR?oc=5",
+     "d": "maxpreps.com"
+    },
+    {
+     "t": "Crane: Metrolink Trains Will Be Cut, the Surfliner Won\u2019t Help You",
+     "u": "https://voiceofoc.org/2026/11/crane-metrolink-trains-will-be-cut-the-surfliner-wont-help-you/",
+     "d": "voiceofoc.org"
+    }
+   ]
+  }
+ ]
+}
