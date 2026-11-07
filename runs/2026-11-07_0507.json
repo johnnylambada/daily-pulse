@@ -1,0 +1,540 @@
+{
+ "run": "2026-11-07_0507",
+ "stamp": "2026-11-07 05:07",
+ "date": "2026-11-07",
+ "sections": [
+  {
+   "id": "top",
+   "title": "Top Stories",
+   "items": [
+    {
+     "t": "SpaceX\u2019s next flight aims for both a Super Heavy and Starship catch",
+     "u": "https://x.com/elonmusk/status/2118732082843435305",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2118732082843435305",
+     "h": "elonmusk"
+    },
+    {
+     "t": "Higgsfield Miracle promises editable video layers, but remains private beta",
+     "u": "https://x.com/higgsfield/status/2118732716346933423",
+     "d": "x.com",
+     "x": "https://x.com/higgsfield/status/2118732716346933423",
+     "h": "higgsfield"
+    },
+    {
+     "t": "Musk says StarMind computer details next year will \u201cblow people\u2019s minds\u201d",
+     "u": "https://x.com/elonmusk/status/2118811926163841429",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2118811926163841429",
+     "h": "elonmusk"
+    },
+    {
+     "t": "Perceptual attacks: tampered video steers frontier-model robot agents into harmful actions",
+     "u": "https://x.com/robocurve/status/2118791723606593694",
+     "d": "x.com",
+     "x": "https://x.com/robocurve/status/2118791723606593694",
+     "h": "robocurve"
+    },
+    {
+     "t": "Discord is rebuilding its Android client in Rust",
+     "u": "https://x.com/discord/status/2118755849367896539",
+     "d": "x.com",
+     "x": "https://x.com/discord/status/2118755849367896539",
+     "h": "discord"
+    },
+    {
+     "t": "Apple\u2019s new MacBook Pro, iPad mini, and iMac are available to buy today",
+     "u": "https://x.com/johnternus/status/2118770565100265570",
+     "d": "x.com",
+     "x": "https://x.com/johnternus/status/2118770565100265570",
+     "h": "johnternus"
+    },
+    {
+     "t": "OpenAI launches BioBasicsBench with Ligo for wet-lab agent analysis",
+     "u": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
+     "d": "openai.com",
+     "x": "https://x.com/OpenAI/status/2118782708767965238",
+     "h": "OpenAI"
+    },
+    {
+     "t": "DeepMind\u2019s agents find weaknesses in legacy RSA\u2014not a break of modern RSA-2048",
+     "u": "https://eprint.iacr.org/2026/2131",
+     "d": "eprint.iacr.org",
+     "x": "https://x.com/GoogleDeepMind/status/2118755418675765656",
+     "h": "GoogleDeepMind"
+    },
+    {
+     "t": "Russia fires up to 25 Tsirkon and Iskander missiles at Kyiv energy sites",
+     "u": "https://www.washingtontimes.com/news/2026/nov/6/volodymyr-zelenskyy-calls-explicit-guarantees-ukraine-brussels-talks/?utm_content=bufferaec91&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
+     "d": "washingtontimes.com",
+     "x": "https://x.com/Gerashchenko_en/status/2118853680896086397",
+     "h": "Gerashchenko_en"
+    },
+    {
+     "t": "Maxine Waters says Democrats will pass bitcoin and crypto legislation",
+     "u": "https://x.com/pete_rizzo_/status/2118804866588098830",
+     "d": "x.com",
+     "x": "https://x.com/pete_rizzo_/status/2118804866588098830",
+     "h": "pete_rizzo_"
+    }
+   ]
+  },
+  {
+   "id": "us",
+   "title": "US News",
+   "items": [
+    {
+     "t": "From AC to PA: HVAC tech Chris Donisi wins contest to become the voice of Logan Airport",
+     "u": "https://www.npr.org/2026/11/07/nx-s1-6030790/from-ac-to-pa-hvac-tech-chris-donisi-wins-contest-to-become-the-voice-of-logan-airport",
+     "d": "npr.org"
+    },
+    {
+     "t": "The Good, the Bad and the Cringe: 10 Ads That Defined the Midterms",
+     "u": "https://www.nytimes.com/2026/11/07/us/politics/midterm-ads-republicans-democrats.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "From Powerhouse to Punchline: The North Carolina G.O.P. Implosion",
+     "u": "https://www.nytimes.com/2026/11/07/us/elections/north-carolina-republicans.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "He\u2019ll Be Clerk of One of the Country\u2019s Largest Counties. He\u2019s 19.",
+     "u": "https://www.nytimes.com/2026/11/07/us/politics/asu-student-maricopa-county-clerk-election.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Mysterious Request Scrambles Major Supreme Court Gun Case Against Cook County",
+     "u": "https://www.nytimes.com/2026/11/07/us/politics/supreme-court-guns-plaintiff.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Democrats, Newly Ascendant, Begin a Fight to Shape the Party\u2019s Future",
+     "u": "https://www.nytimes.com/2026/11/07/us/politics/democrats-midterms-2028-presidential-race.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Turning Point Bet on the Midterms and Lost. Some Republicans Are Furious.",
+     "u": "https://www.nytimes.com/2026/11/07/us/turning-point-arizona-midterms.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
+     "u": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium",
+     "d": "npr.org"
+    },
+    {
+     "t": "Southern Democrats Now Have a Chance to Lead. What Will They Do With It?",
+     "u": "https://www.nytimes.com/2026/11/06/us/southern-democrats-georgia-north-carolina.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "2 Skydivers Die After Midair Collision in Southern California",
+     "u": "https://www.nytimes.com/2026/11/06/us/california-lake-elsinore-skydiving-deaths.html",
+     "d": "nytimes.com"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "World News",
+   "items": [
+    {
+     "t": "UK Greens\u2019 Polanski clashes with Labour and Conservatives over Gaza language",
+     "u": "https://x.com/DropSiteNews/status/2118853076324962696",
+     "d": "x.com",
+     "x": "https://x.com/DropSiteNews/status/2118853076324962696",
+     "h": "DropSiteNews"
+    },
+    {
+     "t": "Nvidia ($NVDA) \u2014 bearish (change: from supply-chain risk to espionage scrutiny)",
+     "u": "https://x.com/NickKristof/status/2118942435619287278",
+     "d": "x.com",
+     "x": "https://x.com/NickKristof/status/2118942435619287278",
+     "h": "NickKristof"
+    },
+    {
+     "t": "TMC\u2019s Abhishek Banerjee says BJP supporters attacked his Kolkata home",
+     "u": "https://x.com/IndianExpress/status/2118931527547633941",
+     "d": "x.com",
+     "x": "https://x.com/IndianExpress/status/2118931527547633941",
+     "h": "IndianExpress"
+    },
+    {
+     "t": "Viasat (VSAT) \u2014 bearish (U.S. satellite-internet subscribers down 83% since 2020)",
+     "u": "https://x.com/cb_doge/status/2118805615791546629",
+     "d": "x.com",
+     "x": "https://x.com/cb_doge/status/2118805615791546629",
+     "h": "cb_doge"
+    },
+    {
+     "t": "Kyiv hopes a Democratic Congress will restore Ukraine funding",
+     "u": "https://foreignpolicy.com/2026/11/03/soviet-ukraine-russia-realism-history-nostalgia/",
+     "d": "foreignpolicy.com",
+     "x": "https://x.com/washingtonpost/status/2118923908128649672",
+     "h": "washingtonpost"
+    },
+    {
+     "t": "Trump names Stephen Miller White House chief of staff after Wiles resigns",
+     "u": "https://x.com/CBSNews/status/2118808320530108538",
+     "d": "x.com",
+     "x": "https://x.com/CBSNews/status/2118808320530108538",
+     "h": "CBSNews"
+    },
+    {
+     "t": "DeSantis is preparing a 2028 Republican presidential run",
+     "u": "https://www.washingtonpost.com/politics/2026/11/06/ron-desantis-plans-another-white-house-bid-after-failing-2024/?utm_campaign=wp_main&utm_source=twitter&utm_medium=social",
+     "d": "washingtonpost.com",
+     "x": "https://x.com/washingtonpost/status/2118931468223136047",
+     "h": "washingtonpost"
+    },
+    {
+     "t": "Ukraine hits Russia\u2019s Saratov oil refinery for the seventh time in two weeks",
+     "u": "https://x.com/rshereme/status/2118941659111006348",
+     "d": "x.com",
+     "x": "https://x.com/rshereme/status/2118941659111006348",
+     "h": "rshereme"
+    },
+    {
+     "t": "U.S. intelligence believes China\u2019s MSS recruited a woman romantically linked to Nvidia\u2019s Jensen Huang",
+     "u": "https://x.com/WBC24News/status/2118921376178254137",
+     "d": "x.com",
+     "x": "https://x.com/WBC24News/status/2118921376178254137",
+     "h": "WBC24News"
+    },
+    {
+     "t": "Starlink cutoffs push Myanmar students out of opposition-run schools",
+     "u": "https://www.economist.com/asia/2026/11/05/dead-starlink-terminals-in-myanmar-are-getting-people-killed?taid=6aeea6f449b1f20001a92ace&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter",
+     "d": "economist.com",
+     "x": "https://x.com/TheEconomist/status/2118921400316469584",
+     "h": "TheEconomist"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI",
+   "items": [
+    {
+     "t": "Report: US intelligence linked Jensen Huang to an alleged Chinese spy",
+     "u": "https://x.com/ChrisRMcGuire/status/2118907457749533098",
+     "d": "x.com",
+     "x": "https://x.com/ChrisRMcGuire/status/2118907457749533098",
+     "h": "ChrisRMcGuire"
+    },
+    {
+     "t": "Anthropic details \u201cdreaming\u201d for Claude agent memory",
+     "u": "https://www.anthropic.com/research/components-of-agent-memory",
+     "d": "anthropic.com",
+     "x": "https://x.com/AnthropicAI/status/2118814753154064501",
+     "h": "AnthropicAI"
+    },
+    {
+     "t": "Nous Research releases Arete-27B to strip state-aligned bias from Qwen",
+     "u": "https://nousresearch.com/arete",
+     "d": "nousresearch.com",
+     "x": "https://x.com/NousResearch/status/2118822925445050435",
+     "h": "NousResearch"
+    },
+    {
+     "t": "Vork: a 3D and VFX engine built for AI agents",
+     "u": "https://x.com/ravisparikh/status/2118744950825275680",
+     "d": "x.com",
+     "x": "https://x.com/ravisparikh/status/2118744950825275680",
+     "h": "ravisparikh"
+    },
+    {
+     "t": "Claude Code cloud sessions auto-build repo environments on Pro, Max, Ultra",
+     "u": "https://x.com/ClaudeDevs/status/2118795192090386454",
+     "d": "x.com",
+     "x": "https://x.com/ClaudeDevs/status/2118795192090386454",
+     "h": "ClaudeDevs"
+    },
+    {
+     "t": "Meta shows off Muse voice in a new demo",
+     "u": "https://x.com/alexandr_wang/status/2118923825232621998",
+     "d": "x.com",
+     "x": "https://x.com/alexandr_wang/status/2118923825232621998",
+     "h": "alexandr_wang"
+    },
+    {
+     "t": "Anthropic Science Blog: AI starts writing, fitting, and revising scientific models",
+     "u": "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models",
+     "d": "anthropic.com",
+     "x": "https://x.com/AnthropicAI/status/2118792930211107115",
+     "h": "AnthropicAI"
+    },
+    {
+     "t": "Hugging Face\u2019s Thom Wolf: MoE handbook after 800k GPU-hours; dense \u201cbasically over\u201d",
+     "u": "https://x.com/Thom_Wolf/status/2118432475730882627",
+     "d": "x.com",
+     "x": "https://x.com/Thom_Wolf/status/2118432475730882627",
+     "h": "Thom_Wolf"
+    },
+    {
+     "t": "Empero Manta claims a 100-million-token single-prompt context window",
+     "u": "https://empero.org/manta",
+     "d": "empero.org",
+     "x": "https://x.com/EmperoAI/status/2118741676852396043",
+     "h": "EmperoAI"
+    },
+    {
+     "t": "OpenAI and Frontier Model Forum publish a cyber jailbreak rating framework",
+     "u": "https://www.frontiermodelforum.org/updates/introducing-the-fmf-jailbreak-rating-framework-for-frontier-cyber-threats/",
+     "d": "frontiermodelforum.org",
+     "x": "https://x.com/OpenAI/status/2118795218099253606",
+     "h": "OpenAI"
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "title": "Investing & Markets",
+   "items": [
+    {
+     "t": "October AI usage graph shocks a decade-long investor (bullish / change)",
+     "u": "https://x.com/omooretweets/status/2118754423400759531",
+     "d": "x.com",
+     "x": "https://x.com/omooretweets/status/2118754423400759531",
+     "h": "omooretweets"
+    },
+    {
+     "t": "Sequoia sunsets its Scouts program; first Scout Jason Calacanis reacts (mixed VC talent / new)",
+     "u": "https://x.com/Jason/status/2118905831592735216",
+     "d": "x.com",
+     "x": "https://x.com/Jason/status/2118905831592735216",
+     "h": "Jason"
+    },
+    {
+     "t": "Data centers cast as municipal money printers versus \u201cslopulist\u201d opposition (bullish DC infra / change)",
+     "u": "https://x.com/kane/status/2118924535642931420",
+     "d": "x.com",
+     "x": "https://x.com/kane/status/2118924535642931420",
+     "h": "kane"
+    },
+    {
+     "t": "Alfred Lin: next decade rewards audacity plus discipline, not tourists (bullish on enduring builders)",
+     "u": "https://x.com/Alfred_Lin/status/2118718517617058114",
+     "d": "x.com",
+     "x": "https://x.com/Alfred_Lin/status/2118718517617058114",
+     "h": "Alfred_Lin"
+    },
+    {
+     "t": "Venture tape: fast rounds, \u201ccuck tranches,\u201d and seed risk at Series D prices (mixed / frothy continuing)",
+     "u": "https://x.com/patrick_oshag/status/2118694780825649624",
+     "d": "x.com",
+     "x": "https://x.com/patrick_oshag/status/2118694780825649624",
+     "h": "patrick_oshag"
+    },
+    {
+     "t": "BizScout cites a $5M seed from Valor, Balaji, Sean Rad, and Bill Perkins",
+     "u": "https://x.com/Codie_Sanchez/status/2118787325467435040",
+     "d": "x.com",
+     "x": "https://x.com/Codie_Sanchez/status/2118787325467435040",
+     "h": "Codie_Sanchez"
+    },
+    {
+     "t": "a16z debate: Salesforce\u2019s Somorjai says vals \u201cway too high\u201d vs bigger exit math (mixed / continuing)",
+     "u": "https://x.com/a16z/status/2118803269455884626",
+     "d": "x.com",
+     "x": "https://x.com/a16z/status/2118803269455884626",
+     "h": "a16z"
+    },
+    {
+     "t": "Polymarket still prices Anthropic IPO ~73% by year-end near $1.65T (bullish IPO timing)",
+     "u": "https://x.com/hosseeb/status/2118752483485135279",
+     "d": "x.com",
+     "x": "https://x.com/hosseeb/status/2118752483485135279",
+     "h": "hosseeb"
+    },
+    {
+     "t": "Rumor: New York Times buying Letterboxd for about $330M",
+     "u": "https://x.com/packyM/status/2118800179675668950",
+     "d": "x.com",
+     "x": "https://x.com/packyM/status/2118800179675668950",
+     "h": "packyM"
+    },
+    {
+     "t": "Cloudflare\u2019s Prince: neoclouds aren\u2019t a financial-engineering business (bearish neocloud / new)",
+     "u": "https://x.com/EugeneNg/status/2118909028512542940",
+     "d": "x.com",
+     "x": "https://x.com/EugeneNg/status/2118909028512542940",
+     "h": "EugeneNg"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "General Tech",
+   "items": [
+    {
+     "t": "Tesla says it arrives in Argentina on November 20",
+     "u": "https://x.com/elonmusk/status/2118787365426893002",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2118787365426893002",
+     "h": "elonmusk"
+    },
+    {
+     "t": "Elon Musk: Starlink V4 lasers could outcompete undersea cables",
+     "u": "https://x.com/elonmusk/status/2118788513365954734",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2118788513365954734",
+     "h": "elonmusk"
+    },
+    {
+     "t": "Musk: SpaceX\u2019s quarter will top NASA\u2019s annual budget; Tesla has no U.S. EV incentives left",
+     "u": "https://x.com/elonmusk/status/2118761981037723848",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2118761981037723848",
+     "h": "elonmusk"
+    },
+    {
+     "t": "Update: Musk says Tesla\u2019s Terafab chip effort is \u201cmoving fast\u201d",
+     "u": "https://x.com/elonmusk/status/2118620772268990966",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2118620772268990966",
+     "h": "elonmusk"
+    },
+    {
+     "t": "Musk: Starlink is enabling education in remote classrooms",
+     "u": "https://x.com/elonmusk/status/2118637614068912548",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2118637614068912548",
+     "h": "elonmusk"
+    },
+    {
+     "t": "Jason Calacanis condemns Scott Galloway for doubling down on calls to execute Elon Musk",
+     "u": "https://x.com/Jason/status/2118770858084958323",
+     "d": "x.com",
+     "x": "https://x.com/Jason/status/2118770858084958323",
+     "h": "Jason"
+    },
+    {
+     "t": "Tesla says it is launching in Argentina later this month",
+     "u": "https://x.com/Tesla/status/2118720752379899907",
+     "d": "x.com",
+     "x": "https://x.com/Tesla/status/2118720752379899907",
+     "h": "Tesla"
+    },
+    {
+     "t": "An $11.4 million NVIDIA hardware shipment was stolen in California",
+     "u": "https://overclock3d.net/news/gpu-displays/nvidia-cargo-heist-sees-11-4-million-in-hardware-stolen/",
+     "d": "overclock3d.net",
+     "x": "https://x.com/Pirat_Nation/status/2118796310153413013",
+     "h": "Pirat_Nation"
+    },
+    {
+     "t": "Mark Cuban: feed your health-insurance PDFs into two LLMs and ask where you\u2019re getting screwed",
+     "u": "https://x.com/mcuban/status/2118774673328746842",
+     "d": "x.com",
+     "x": "https://x.com/mcuban/status/2118774673328746842",
+     "h": "mcuban"
+    },
+    {
+     "t": "Alpine Linux OpenSSH bug sat open for a decade\u2014CZ tells operators to patch",
+     "u": "https://x.com/cz_binance/status/2118613991752929700",
+     "d": "x.com",
+     "x": "https://x.com/cz_binance/status/2118613991752929700",
+     "h": "cz_binance"
+    }
+   ]
+  },
+  {
+   "id": "cyber",
+   "title": "Cybersecurity",
+   "items": [
+    {
+     "t": "OpenAI partners with Hacktron to probe third-party connection vulnerabilities",
+     "u": "https://x.com/HacktronAI/status/2118778928265638000",
+     "d": "x.com",
+     "x": "https://x.com/HacktronAI/status/2118778928265638000",
+     "h": "HacktronAI"
+    },
+    {
+     "t": "Xbow: best offensive-security AI model depends on your token budget",
+     "u": "https://xbow.com/blog/top-ai-models-for-offensive-security-fall-2026",
+     "d": "xbow.com",
+     "x": "https://x.com/Xbow/status/2118780322028638283",
+     "h": "Xbow"
+    },
+    {
+     "t": "MyCERT: C3RB3R ransomware mass-encrypting internet-exposed Synology NAS; Node2Shell (CVE-2026-111497) actively exploited",
+     "u": "https://mycert.org.my/portal/advisory?id=MA-1500.112026",
+     "d": "mycert.org.my",
+     "x": "https://x.com/mycert/status/2118922494916596000",
+     "h": "mycert"
+    },
+    {
+     "t": "adshell-rs: interactive Active Directory attack shell over LDAP(S) and ADWS",
+     "u": "https://x.com/g0h4n_0/status/2118815784281518552",
+     "d": "x.com",
+     "x": "https://x.com/g0h4n_0/status/2118815784281518552",
+     "h": "g0h4n_0"
+    },
+    {
+     "t": "Report: Claude Code sent user emails to third-party sites via User-Agent headers",
+     "u": "https://cybersecuritynews.com/claude-code-leaks-user-email/",
+     "d": "cybersecuritynews.com",
+     "x": "https://x.com/The_Cyber_News/status/2118716305243312209",
+     "h": "The_Cyber_News"
+    },
+    {
+     "t": "Fake security tools on GitHub deliver backdoors and infostealers",
+     "u": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
+     "d": "bleepingcomputer.com",
+     "x": "https://x.com/BleepinComputer/status/2118777215710068912",
+     "h": "BleepinComputer"
+    },
+    {
+     "t": "Kostas Sale maps ClickFix-style PowerShell chain from decimal IP curl to credential theft",
+     "u": "https://x.com/Kostastsale/status/2118814389294055537",
+     "d": "x.com",
+     "x": "https://x.com/Kostastsale/status/2118814389294055537",
+     "h": "Kostastsale"
+    },
+    {
+     "t": "WorkOS: runaway ARTEX AI hacking agent escaped a lab sandbox and pulled customer sales data",
+     "u": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+     "d": "bleepingcomputer.com",
+     "x": "https://x.com/BleepinComputer/status/2118832715097076160",
+     "h": "BleepinComputer"
+    },
+    {
+     "t": "Qorexa Labs (AS402425) flagged as Moonstone Sleet front; network operators urged to de-peer",
+     "u": "https://x.com/atoonk/status/2118787222254370832",
+     "d": "x.com",
+     "x": "https://x.com/atoonk/status/2118787222254370832",
+     "h": "atoonk"
+    },
+    {
+     "t": "OrcaRouter outage: users across multiple regions couldn't reach the AI routing service",
+     "u": "https://x.com/OrcaRouter/status/2118936485831573563",
+     "d": "x.com",
+     "x": "https://x.com/OrcaRouter/status/2118936485831573563",
+     "h": "OrcaRouter"
+    }
+   ]
+  },
+  {
+   "id": "hb",
+   "title": "Huntington Beach / OC",
+   "items": [
+    {
+     "t": "Dan Albano\u2019s reactions to the first round of the CIF-SS football playoffs",
+     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUGt1Ti1CRlVzeHJzX29wMnQwaDZ3UTFLVWJpMXRESnEyUXhpc1Z3a29OMTIwYmhlNmgyeU1MUjc3Q25HR3djSXJUMXU3Vjh4NXkzNkRwalJJem1MS3FHbllnTHVxeFJFOE14SktVRVhyb1RCck5LaHhmMmtSUDFLTERUaXljaWtVSTh6TkpzUjNGa1A5SlhRRTRzbkt6S1Z4bTZzaW03aFZQcG1pLVowNg?oc=5",
+     "d": "ocregister.com"
+    },
+    {
+     "t": "Inglewood football gets back on track after bye week with win over Huntington Beach",
+     "u": "https://www.dailybreeze.com/2026/11/07/inglewood-football-gets-back-on-track-after-bye-week-with-win-over-huntington-beach/",
+     "d": "dailybreeze.com"
+    },
+    {
+     "t": "Darker Waves Festival Parking and Shuttles?",
+     "u": "https://www.reddit.com/r/huntingtonbeach/comments/1xq0md3/darker_waves_festival_parking_and_shuttles/",
+     "d": "reddit.com"
+    }
+   ]
+  }
+ ]
+}
