@@ -1,0 +1,540 @@
+{
+ "run": "2026-11-08_0504",
+ "stamp": "2026-11-08 05:04",
+ "date": "2026-11-08",
+ "sections": [
+  {
+   "id": "top",
+   "title": "Top Stories",
+   "items": [
+    {
+     "t": "Update: Cybertruck backlog exceeds what Tesla can build before the line converts to Cybercab; Optimus production starts in Fremont",
+     "u": "https://x.com/elonmusk/status/2119130949434888330",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2119130949434888330",
+     "h": "elonmusk"
+    },
+    {
+     "t": "Starship Flight 15 targets Nov 13 for the first dual-stage catch attempt",
+     "u": "https://www.spacex.com/launches/starship-flight-15",
+     "d": "spacex.com",
+     "x": "https://x.com/elonmusk/status/2119111269718364631",
+     "h": "elonmusk"
+    },
+    {
+     "t": "AMD calls itself \u201ca data center-first company\u201d as gaming revenue drops 40%",
+     "u": "https://x.com/Pirat_Nation/status/2119053001814098023",
+     "d": "x.com",
+     "x": "https://x.com/Pirat_Nation/status/2119053001814098023",
+     "h": "Pirat_Nation"
+    },
+    {
+     "t": "Rich Sutton: \u201cBrute force computation is not enough for intelligence\u201d",
+     "u": "https://x.com/RichardSSutton/status/2119142310894334262",
+     "d": "x.com",
+     "x": "https://x.com/RichardSSutton/status/2119142310894334262",
+     "h": "RichardSSutton"
+    },
+    {
+     "t": "MaxxBench shakes confidence in coding-agent leaderboard ties",
+     "u": "https://maxxbench.unlap.ai/",
+     "d": "maxxbench.unlap.ai",
+     "x": "https://x.com/loresjpg/status/2118880329490637049",
+     "h": "loresjpg"
+    },
+    {
+     "t": "Anthropic tells users an outside security firm accessed its internal systems without authorization",
+     "u": "https://x.com/theonejvo/status/2119019762906804395",
+     "d": "x.com",
+     "x": "https://x.com/theonejvo/status/2119019762906804395",
+     "h": "theonejvo"
+    },
+    {
+     "t": "Sam Altman meets Samsung and SK hynix executives to lock down memory for OpenAI",
+     "u": "https://x.com/Pirat_Nation/status/2119023054521020805",
+     "d": "x.com",
+     "x": "https://x.com/Pirat_Nation/status/2119023054521020805",
+     "h": "Pirat_Nation"
+    },
+    {
+     "t": "Update: Jensen Huang is called before Congress as reports describe a romantic tie to the suspected spy",
+     "u": "https://www.tomshardware.com/tech-industry/big-tech/nvidias-jensen-huang-officially-called-to-congress-due-to-reports-of-a-chinese-spy-plot-officials-mention-growing-concerns-over-national-security",
+     "d": "tomshardware.com",
+     "x": "https://x.com/Pirat_Nation/status/2119174049289191826",
+     "h": "Pirat_Nation"
+    },
+    {
+     "t": "Hugging Face Chat admin bypass reportedly exposed every user\u2019s private chats",
+     "u": "https://x.com/v12sec/status/2118442075574464848",
+     "d": "x.com",
+     "x": "https://x.com/v12sec/status/2118442075574464848",
+     "h": "v12sec"
+    },
+    {
+     "t": "CoRL week starts Monday in Austin, led by Jim Fan\u2019s teased keynote",
+     "u": "https://www.corl.org/",
+     "d": "corl.org",
+     "x": "https://x.com/DrJimFan/status/2119116338765685094",
+     "h": "DrJimFan"
+    }
+   ]
+  },
+  {
+   "id": "us",
+   "title": "US News",
+   "items": [
+    {
+     "t": "ICE unlikely to scale back crackdown, sources say, citing Stephen Miller",
+     "u": "https://www.cbsnews.com/news/ice-crackdown-stephen-miller-illegal-immigration/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "Climate change is altering the colors we see in the world: an illustrated journey",
+     "u": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
+     "d": "npr.org"
+    },
+    {
+     "t": "In Maine, a new approach to practicing medicine in the sky",
+     "u": "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing",
+     "d": "npr.org"
+    },
+    {
+     "t": "For Trump and America, a Clear Election Verdict but a Murky Future",
+     "u": "https://www.nytimes.com/2026/11/08/us/politics/for-trump-and-america-a-clear-election-verdict-leaves-a-murky-future.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "How Mississippi Reached the Verge of Electing a Black Senator",
+     "u": "https://www.nytimes.com/2026/11/08/us/elections/mississippi-black-senator.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Gina Hinojosa Takes on the Texas Government Republicans Built",
+     "u": "https://www.nytimes.com/2026/11/08/us/gina-hinojosa-texas-priorities.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Republicans Point Fingers, but Trump Does Not Appear to Be Listening",
+     "u": "https://www.nytimes.com/2026/11/08/us/politics/republican-blame-trump-midterms.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "In Talarico\u2019s Texas, a Different Kind of Christianity Ascends",
+     "u": "https://www.nytimes.com/2026/11/08/us/james-talarico-christianity-texas.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Texas Led on Hard-Line Immigration Policies. Democrats Plan a Reversal.",
+     "u": "https://www.nytimes.com/2026/11/08/us/texas-border-immigration-ice.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "How an Intern and a Biologist Rescued an Orphaned Walrus in Alaska",
+     "u": "https://www.nytimes.com/2026/11/08/us/walrus-alaska-rescue.html",
+     "d": "nytimes.com"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "World News",
+   "items": [
+    {
+     "t": "Washington Post: Laura Loomer was paid by private clients for undisclosed political posts",
+     "u": "https://www.washingtonpost.com/business/2026/11/07/trump-ally-laura-loomer-paid-thousands-political-tweets-people-familiar-say/?utm_campaign=wp_main&utm_source=twitter&utm_medium=social",
+     "d": "washingtonpost.com",
+     "x": "https://x.com/washingtonpost/status/2119110735397630367",
+     "h": "washingtonpost"
+    },
+    {
+     "t": "Pope Leo cites his lung cancer surgery in an appeal for universal health care",
+     "u": "https://x.com/CBSNews/status/2119125899442282924",
+     "d": "x.com",
+     "x": "https://x.com/CBSNews/status/2119125899442282924",
+     "h": "CBSNews"
+    },
+    {
+     "t": "VoteHub projects Cindy Holscher wins the Kansas governor\u2019s race",
+     "u": "https://x.com/shannonrwatts/status/2119169937209987083",
+     "d": "x.com",
+     "x": "https://x.com/shannonrwatts/status/2119169937209987083",
+     "h": "shannonrwatts"
+    },
+    {
+     "t": "Heavy rain floods tens of thousands of tents in Gaza",
+     "u": "https://www.bbc.com/news/articles/cx240e5py64jo?xtor=AL-71-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_medium=social&at_campaign_type=owned&at_format=link&at_ptr_name=twitter&at_link_id=F7AB7FA0-DAC8-11F1-A747-88BC5119A64B&at_link_type=web_link&at_campaign=Social_Flow&at_bbc_team=editorial&at_link_origin=BBCNews",
+     "d": "bbc.com",
+     "x": "https://x.com/BBCNews/status/2119105990700249153",
+     "h": "BBCNews"
+    },
+    {
+     "t": "National Park Service cuts show up as repair backlogs at memorials and parks",
+     "u": "https://www.washingtonpost.com/dc-md-va/2026/11/07/dc-monuments-sit-dark-national-park-repairs-lag-nationwide/?utm_campaign=wp_main&utm_source=twitter&utm_medium=social",
+     "d": "washingtonpost.com",
+     "x": "https://x.com/washingtonpost/status/2119278757605175508",
+     "h": "washingtonpost"
+    },
+    {
+     "t": "South Korea unveils its largest-ever budget and nearly doubles AI and chip spending",
+     "u": "https://x.com/CNBC/status/2119278779369447934",
+     "d": "x.com",
+     "x": "https://x.com/CNBC/status/2119278779369447934",
+     "h": "CNBC"
+    },
+    {
+     "t": "Trump signs a proclamation aimed at locking in Oval Office and Cabinet Room changes",
+     "u": "https://abcnews.com/Politics/trump-moves-make-oval-office-national-monument-aiming/story?id=137894328&cid=social_twitter_abcn",
+     "d": "abcnews.com",
+     "x": "https://x.com/ABC/status/2119288341417930989",
+     "h": "ABC"
+    },
+    {
+     "t": "Update: Herzog gives Gadi Eisenkot the first chance to form Israel\u2019s next government",
+     "u": "https://www.chicagotribune.com/2026/11/07/eisenkot-not-netanyahu-israel-prime-minister/?utm_campaign=mrf-twitter-chicagotribune&utm_source=twitter&utm_medium=social&mrfcid=202611076aef85869a359c79726a0f28",
+     "d": "chicagotribune.com",
+     "x": "https://x.com/CBSNews/status/2119168921966133593",
+     "h": "CBSNews"
+    },
+    {
+     "t": "Hakeem Jeffries previews Democrats\u2019 Day One agenda",
+     "u": "https://x.com/shannonrwatts/status/2119214453342572699",
+     "d": "x.com",
+     "x": "https://x.com/shannonrwatts/status/2119214453342572699",
+     "h": "shannonrwatts"
+    },
+    {
+     "t": "The Economist says voters repudiated the substance of Trumpism, not just the style",
+     "u": "https://www.economist.com/united-states/2026/11/05/republicans-are-in-for-a-brutal-presidential-contest?taid=6aefb6d393ecc90001db7e88&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter",
+     "d": "economist.com",
+     "x": "https://x.com/TheEconomist/status/2119213322432024929",
+     "h": "TheEconomist"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI",
+   "items": [
+    {
+     "t": "Matic robot vacuum gets a rare 10/10 from WIRED",
+     "u": "https://x.com/maticrobots/status/2118978454192300342",
+     "d": "x.com",
+     "x": "https://x.com/maticrobots/status/2118978454192300342",
+     "h": "maticrobots"
+    },
+    {
+     "t": "OpenAI\u2019s Tibo: all Pro plans have no 5-hour limits",
+     "u": "https://x.com/thsottiaux/status/2119296267545419987",
+     "d": "x.com",
+     "x": "https://x.com/thsottiaux/status/2119296267545419987",
+     "h": "thsottiaux"
+    },
+    {
+     "t": "Bolna and partners release DECIDE, a voice-agent decision benchmark",
+     "u": "https://benchmark.tazolabs.com/",
+     "d": "benchmark.tazolabs.com",
+     "x": "https://x.com/i/status/2119067348120600779",
+     "h": "i"
+    },
+    {
+     "t": "Shizuku AI introduces Shizuku-Duplex for full-duplex character speech",
+     "u": "https://shizuku.ai/en/blog/1/",
+     "d": "shizuku.ai",
+     "x": "https://x.com/ShizukuAILabs/status/2119266216040898635",
+     "h": "ShizukuAILabs"
+    },
+    {
+     "t": "@steipete criticizes Asahi over new restrictions and its AI rejection",
+     "u": "https://x.com/steipete/status/2119264334627090514",
+     "d": "x.com",
+     "x": "https://x.com/steipete/status/2119264334627090514",
+     "h": "steipete"
+    },
+    {
+     "t": "Taelin\u2019s HOC cuts its raise to $8M at a $120M cap and goes all in on symbolic AI",
+     "u": "https://x.com/VictorTaelin/status/2119102876521824572",
+     "d": "x.com",
+     "x": "https://x.com/VictorTaelin/status/2119102876521824572",
+     "h": "VictorTaelin"
+    },
+    {
+     "t": "Reason Machines launches as a coding teammate app",
+     "u": "https://reasonmachines.com",
+     "d": "reasonmachines.com",
+     "x": "https://x.com/reasonmachines/status/2119127751902839050",
+     "h": "reasonmachines"
+    },
+    {
+     "t": "Ethan Mollick: worry about AI factual errors in everyday work is overblown",
+     "u": "https://x.com/emollick/status/2119140502746308674",
+     "d": "x.com",
+     "x": "https://x.com/emollick/status/2119140502746308674",
+     "h": "emollick"
+    },
+    {
+     "t": "Spot GB300 racks quoted at $9\u201310/hr with short commit",
+     "u": "https://x.com/thdxr/status/2119037007452356966",
+     "d": "x.com",
+     "x": "https://x.com/thdxr/status/2119037007452356966",
+     "h": "thdxr"
+    },
+    {
+     "t": "AI 2027 tracker says Anthropic\u2019s internal models are ahead of the curve",
+     "u": "https://x.com/AndrewCurran_/status/2119084460344053998",
+     "d": "x.com",
+     "x": "https://x.com/AndrewCurran_/status/2119084460344053998",
+     "h": "AndrewCurran_"
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "title": "Investing & Markets",
+   "items": [
+    {
+     "t": "Thiel-backed Shinkei uses AI robots to process fish at sea",
+     "u": "https://x.com/itsolelehmann/status/2118783732316573851",
+     "d": "x.com",
+     "x": "https://x.com/itsolelehmann/status/2118783732316573851",
+     "h": "itsolelehmann"
+    },
+    {
+     "t": "Crypto influencer \u201cside wallet\u201d expos\u00e9s weigh on social trading (bearish crypto retail / new)",
+     "u": "https://x.com/bubblemaps/status/2118706624651026622",
+     "d": "x.com",
+     "x": "https://x.com/bubblemaps/status/2118706624651026622",
+     "h": "bubblemaps"
+    },
+    {
+     "t": "Micron reportedly pays bonuses of 35\u201368 months\u2019 salary (bullish memory / continuing)",
+     "u": "https://x.com/TicTocTick/status/2118839127273562407",
+     "d": "x.com",
+     "x": "https://x.com/TicTocTick/status/2118839127273562407",
+     "h": "TicTocTick"
+    },
+    {
+     "t": "Update: Perplexity says Teammate automation runs grew 3.7x on day two",
+     "u": "https://x.com/AravSrinivas/status/2119211310424654034",
+     "d": "x.com",
+     "x": "https://x.com/AravSrinivas/status/2119211310424654034",
+     "h": "AravSrinivas"
+    },
+    {
+     "t": "Investors say AI now does most of the work at some firms (bullish agentic investing / new)",
+     "u": "https://x.com/patrick_oshag/status/2119184059590942765",
+     "d": "x.com",
+     "x": "https://x.com/patrick_oshag/status/2119184059590942765",
+     "h": "patrick_oshag"
+    },
+    {
+     "t": "Theseus Robotics (YC F26) launches robots that restock supermarket shelves overnight",
+     "u": "https://x.com/theseuscom/status/2119125226969849933",
+     "d": "x.com",
+     "x": "https://x.com/theseuscom/status/2119125226969849933",
+     "h": "theseuscom"
+    },
+    {
+     "t": "Berkshire Q3: buybacks double, cash near $357B, net seller again (cautious / continuing)",
+     "u": "https://x.com/EconomyApp/status/2119098885826359614",
+     "d": "x.com",
+     "x": "https://x.com/EconomyApp/status/2119098885826359614",
+     "h": "EconomyApp"
+    },
+    {
+     "t": "Is more venture money good for founders? (mixed VC sentiment / continuing)",
+     "u": "https://x.com/martin_casado/status/2119142295031464305",
+     "d": "x.com",
+     "x": "https://x.com/martin_casado/status/2119142295031464305",
+     "h": "martin_casado"
+    },
+    {
+     "t": "Big U.S. banks target 2027 for a shared tokenized-deposit network (bullish tokenization / continuing)",
+     "u": "https://x.com/IOV_OWL/status/2119121941596413968",
+     "d": "x.com",
+     "x": "https://x.com/IOV_OWL/status/2119121941596413968",
+     "h": "IOV_OWL"
+    },
+    {
+     "t": "Call for a private-credit fund aimed at young asset-heavy founders",
+     "u": "https://x.com/katieruthmishra/status/2119145611471839696",
+     "d": "x.com",
+     "x": "https://x.com/katieruthmishra/status/2119145611471839696",
+     "h": "katieruthmishra"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "General Tech",
+   "items": [
+    {
+     "t": "Jason Calacanis says advertisers have dropped Kara Swisher and Scott Galloway\u2019s podcasts",
+     "u": "https://x.com/Jason/status/2119151950503596154",
+     "d": "x.com",
+     "x": "https://x.com/Jason/status/2119151950503596154",
+     "h": "Jason"
+    },
+    {
+     "t": "Brian Armstrong now runs one lead AI agent per area, overseen by a chief of staff agent",
+     "u": "https://x.com/brian_armstrong/status/2119112609223827547",
+     "d": "x.com",
+     "x": "https://x.com/brian_armstrong/status/2119112609223827547",
+     "h": "brian_armstrong"
+    },
+    {
+     "t": "Andrej Karpathy one-shots \u201cTristanTube\u201d with Claude Code in three minutes",
+     "u": "https://thume.ca/2026/11/01/youtube-tier-list-2026/",
+     "d": "thume.ca",
+     "x": "https://x.com/karpathy/status/2119114537442189652",
+     "h": "karpathy"
+    },
+    {
+     "t": "Jim Cramer questions Berkshire\u2019s big Alphabet bet",
+     "u": "https://x.com/jimcramer/status/2119185730358669402",
+     "d": "x.com",
+     "x": "https://x.com/jimcramer/status/2119185730358669402",
+     "h": "jimcramer"
+    },
+    {
+     "t": "GTA 6 Ultimate Edition bonuses will unlock chapter by chapter",
+     "u": "https://kotaku.com/former-rockstar-developer-says-they-should-hurry-up-on-gta-6s-pc-version-before-ai-gets-there-first-2000754810",
+     "d": "kotaku.com",
+     "x": "https://x.com/Pirat_Nation/status/2119129505268638015",
+     "h": "Pirat_Nation"
+    },
+    {
+     "t": "Musk teases a liquid silver Cybercab",
+     "u": "https://x.com/SawyerMerritt/status/2119171203441320183",
+     "d": "x.com",
+     "x": "https://x.com/SawyerMerritt/status/2119171203441320183",
+     "h": "SawyerMerritt"
+    },
+    {
+     "t": "SpaceX targets November 13 for Starship Flight 15, its first try at catching both stages",
+     "u": "https://x.com/SawyerMerritt/status/2119095373620736058",
+     "d": "x.com",
+     "x": "https://x.com/SawyerMerritt/status/2119095373620736058",
+     "h": "SawyerMerritt"
+    },
+    {
+     "t": "Starlink is headed to rural clinics in La Serena, Chile",
+     "u": "https://x.com/elonmusk/status/2119302996224082049",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2119302996224082049",
+     "h": "elonmusk"
+    },
+    {
+     "t": "Yann LeCun resurfaces his 2023 warning about AI regulatory capture",
+     "u": "https://x.com/ylecun/status/2119184445987287449",
+     "d": "x.com",
+     "x": "https://x.com/ylecun/status/2119184445987287449",
+     "h": "ylecun"
+    },
+    {
+     "t": "Update: Jason Calacanis launches a \u201creverse boycott\u201d amid the Swisher and Galloway fight",
+     "u": "https://x.com/Jason/status/2119199697093177416",
+     "d": "x.com",
+     "x": "https://x.com/Jason/status/2119199697093177416",
+     "h": "Jason"
+    }
+   ]
+  },
+  {
+   "id": "cyber",
+   "title": "Cybersecurity",
+   "items": [
+    {
+     "t": "Researcher Lyra Rebane says Google paid a record $1,333,337 VRP bounty for a now-fixed Chrome bug",
+     "u": "https://x.com/rebane2001/status/2119178106359763263",
+     "d": "x.com",
+     "x": "https://x.com/rebane2001/status/2119178106359763263",
+     "h": "rebane2001"
+    },
+    {
+     "t": "eMudhra key leaks let attackers bypass Android Factory Reset Protection",
+     "u": "https://x.com/AlexAltea/status/2117694189441880137",
+     "d": "x.com",
+     "x": "https://x.com/AlexAltea/status/2117694189441880137",
+     "h": "AlexAltea"
+    },
+    {
+     "t": "Microsoft Entra Device Registration flaw rated CVSS 10.0, exploitable without authentication",
+     "u": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-109469",
+     "d": "msrc.microsoft.com",
+     "x": "https://x.com/valentinvaleanu/status/2119046745095029088",
+     "h": "valentinvaleanu"
+    },
+    {
+     "t": "Kali NetHunter 2026.3 ships with a new NFC Arsenal toolset",
+     "u": "https://x.com/androidmalware2/status/2119060190188179564",
+     "d": "x.com",
+     "x": "https://x.com/androidmalware2/status/2119060190188179564",
+     "h": "androidmalware2"
+    },
+    {
+     "t": "ForgeRock path confusion chained to RCE let researchers send remote commands to two automakers' cars",
+     "u": "https://samcurry.net/forgerock",
+     "d": "samcurry.net",
+     "x": "https://x.com/samwcyo/status/2119030320171266117",
+     "h": "samwcyo"
+    },
+    {
+     "t": "El Expediente: Colombian prosecutors arrest a DNI technology official accused of keeping a copy of the SICC intelligence system",
+     "u": "https://elexpediente.co/capturado-en-neiva-el-hacker-de-la-dni-de-petro-que-se-llevo-una-copia-del-sistema-de-inteligencia-del-estado/",
+     "d": "elexpediente.co",
+     "x": "https://x.com/jofpin/status/2119187328606580739",
+     "h": "jofpin"
+    },
+    {
+     "t": "Defenders say AI-assisted intrusions are noisy, not novel",
+     "u": "https://x.com/PandaRE__/status/2119153366169235958",
+     "d": "x.com",
+     "x": "https://x.com/PandaRE__/status/2119153366169235958",
+     "h": "PandaRE__"
+    },
+    {
+     "t": "SSRF filters that block only \"127.0.0.1\" and \"localhost\" are easy to get around",
+     "u": "https://x.com/WebSecAcademy/status/2119162980579344420",
+     "d": "x.com",
+     "x": "https://x.com/WebSecAcademy/status/2119162980579344420",
+     "h": "WebSecAcademy"
+    },
+    {
+     "t": "Hackers steal about $133 million from French bank Cr\u00e9dit Mutuel Ark\u00e9a through a service provider",
+     "u": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
+     "d": "bleepingcomputer.com",
+     "x": "https://x.com/BleepinComputer/status/2119089297642918202",
+     "h": "BleepinComputer"
+    },
+    {
+     "t": "RCE on a WARDOGS hosting partner leaked the game's private server binary and admin keys",
+     "u": "https://samcurry.net/wardogs",
+     "d": "samcurry.net",
+     "x": "https://x.com/samwcyo/status/2119030321505079440",
+     "h": "samwcyo"
+    }
+   ]
+  },
+  {
+   "id": "hb",
+   "title": "Huntington Beach / OC",
+   "items": [
+    {
+     "t": "First Time Candidate Takes Lead in Tight Santa Ana Mayoral Race",
+     "u": "https://voiceofoc.org/2026/11/first-time-candidate-takes-lead-in-tight-santa-ana-mayoral-race/",
+     "d": "voiceofoc.org"
+    },
+    {
+     "t": "Lead Flips in Tight State Assembly Race to Represent the Heart of OC",
+     "u": "https://voiceofoc.org/2026/11/lead-flips-in-tight-state-assembly-race-to-represent-the-heart-of-oc/",
+     "d": "voiceofoc.org"
+    },
+    {
+     "t": "Bonfire gathering/hangout at Beach",
+     "u": "https://www.reddit.com/r/huntingtonbeach/comments/1xqkgoa/bonfire_gatheringhangout_at_beach/",
+     "d": "reddit.com"
+    }
+   ]
+  }
+ ]
+}
