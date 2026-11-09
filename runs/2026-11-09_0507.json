@@ -1,0 +1,540 @@
+{
+ "run": "2026-11-09_0507",
+ "stamp": "2026-11-09 05:07",
+ "date": "2026-11-09",
+ "sections": [
+  {
+   "id": "top",
+   "title": "Top Stories",
+   "items": [
+    {
+     "t": "Update: WSJ says Huang apologized to Nvidia staff as the board probes the espionage reports",
+     "u": "https://x.com/anissagardizy8/status/2119637318621610056",
+     "d": "x.com",
+     "x": "https://x.com/anissagardizy8/status/2119637318621610056",
+     "h": "anissagardizy8"
+    },
+    {
+     "t": "Update: The Nvidia probe moves to Congress, with NYT details on the Megaspeed surveillance and a Nov. 18 closed-door briefing",
+     "u": "https://x.com/HedgieMarkets/status/2119599855215448424",
+     "d": "x.com",
+     "x": "https://x.com/HedgieMarkets/status/2119599855215448424",
+     "h": "HedgieMarkets"
+    },
+    {
+     "t": "Nvidia\u2019s board formally confirms an independent investigation of Jensen Huang and says it still has confidence in him",
+     "u": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+     "d": "nvidianews.nvidia.com",
+     "x": "https://x.com/nvidianewsroom/status/2119520873577398695",
+     "h": "nvidianewsroom"
+    },
+    {
+     "t": "Nvidia CEO Jensen Huang admits an affair with a suspected Chinese spy as the board opens an independent investigation",
+     "u": "https://x.com/BreakingNews/status/2119530386833260586",
+     "d": "x.com",
+     "x": "https://x.com/BreakingNews/status/2119530386833260586",
+     "h": "BreakingNews"
+    },
+    {
+     "t": "The US offers up to $20 million for information on Iran\u2019s nuclear program as Rubio doubts a deal",
+     "u": "https://x.com/washingtonpost/status/2119656279639458276",
+     "d": "x.com",
+     "x": "https://x.com/washingtonpost/status/2119656279639458276",
+     "h": "washingtonpost"
+    },
+    {
+     "t": "Trump says he expects to meet Xi and Putin at next week\u2019s APEC summit in China",
+     "u": "https://x.com/ReutersChina/status/2119618539422093323",
+     "d": "x.com",
+     "x": "https://x.com/ReutersChina/status/2119618539422093323",
+     "h": "ReutersChina"
+    },
+    {
+     "t": "Update: Houthi attack on Riyadh damages a Saudi Aramco tower",
+     "u": "https://x.com/ndtv/status/2119427294221795622",
+     "d": "x.com",
+     "x": "https://x.com/ndtv/status/2119427294221795622",
+     "h": "ndtv"
+    },
+    {
+     "t": "The Huang scandal turns into a fight over China chip exports, as Sen. Warren cites bipartisan support for new limits",
+     "u": "https://x.com/GarrisonLovely/status/2119572340602528248",
+     "d": "x.com",
+     "x": "https://x.com/GarrisonLovely/status/2119572340602528248",
+     "h": "GarrisonLovely"
+    },
+    {
+     "t": "Oil slips as Trump says new Iran strikes are unlikely, while Iran reports a US attack on Qeshm island",
+     "u": "https://x.com/the_hindu/status/2119663576826949635",
+     "d": "x.com",
+     "x": "https://x.com/the_hindu/status/2119663576826949635",
+     "h": "the_hindu"
+    },
+    {
+     "t": "A drone attack on Iraq\u2019s Khor Mor gas field knocks nearly 2.8 GW of power out in Kurdistan",
+     "u": "https://x.com/AlArabiya_Eng/status/2119532150726836707",
+     "d": "x.com",
+     "x": "https://x.com/AlArabiya_Eng/status/2119532150726836707",
+     "h": "AlArabiya_Eng"
+    }
+   ]
+  },
+  {
+   "id": "us",
+   "title": "US News",
+   "items": [
+    {
+     "t": "What Democrats Plan to Investigate After Election Victory",
+     "u": "https://www.nytimes.com/video/us/politics/100000011266496/democrats-plan-corruption-investigations-after-election-victory.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Cruise Ship Worker Rescued in Pacific Ocean Off California Coast After Going Overboard",
+     "u": "https://www.nytimes.com/2026/11/09/us/cruise-ship-worker-pianist-rescued-california-pacific.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Progressives Launch \u2018Ready for AOC\u2019 Ahead of 2028 Presidential Election",
+     "u": "https://www.nytimes.com/2026/11/09/us/politics/alexandria-ocasio-cortez-aoc-2028-president-group.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Congress Returns to a Reordered Washington With a Hazy Agenda",
+     "u": "https://www.nytimes.com/2026/11/09/us/politics/congress-republicans-agenda-lame-duck-session.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Bipartisan Support for Israel Erodes as Both Sides Push for New Limits",
+     "u": "https://www.nytimes.com/2026/11/09/us/politics/us-israel-midterm-elections.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "As Dengue Cases Rise, a Florida Woman\u2019s Death Raises Alarms",
+     "u": "https://www.nytimes.com/2026/11/09/us/dengue-united-states-florida-mosquitos.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Mississippi Officer Who Fatally Shot Toddler Had a History of Aggressive Policing",
+     "u": "https://www.nytimes.com/2026/11/09/us/mississippi-officer-walmart-shooting-toddler-aggressive-policing.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Why Colorado Is at the Epicenter of So Many Supreme Court Clashes",
+     "u": "https://www.nytimes.com/2026/11/09/us/politics/supreme-court-colorado.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Democrats won big on issues like immigration. But ICE still has the money",
+     "u": "https://www.npr.org/2026/11/09/nx-s1-6032870/immigration-enforcement-ice-democrats-election",
+     "d": "npr.org"
+    },
+    {
+     "t": "Democrats won big. Can they lower your grocery bill?",
+     "u": "https://www.npr.org/2026/11/09/nx-s1-6030830/democrats-grocery-bill-affordability",
+     "d": "npr.org"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "World News",
+   "items": [
+    {
+     "t": "Update: Hakeem Jeffries says he is a \u201chard yes\u201d on impeaching Hegseth",
+     "u": "https://x.com/abc7newsbayarea/status/2119576986699919483",
+     "d": "x.com",
+     "x": "https://x.com/abc7newsbayarea/status/2119576986699919483",
+     "h": "abc7newsbayarea"
+    },
+    {
+     "t": "Trump says a return to war with Iran is \u201chighly unlikely\u201d if talks keep progressing",
+     "u": "https://x.com/AlArabiya_Eng/status/2119484446269186366",
+     "d": "x.com",
+     "x": "https://x.com/AlArabiya_Eng/status/2119484446269186366",
+     "h": "AlArabiya_Eng"
+    },
+    {
+     "t": "Trump says his immigration crackdown \u201cmight be too tough\u201d and repeats interest in a deal with Democrats",
+     "u": "https://x.com/politico/status/2119617071726125180",
+     "d": "x.com",
+     "x": "https://x.com/politico/status/2119617071726125180",
+     "h": "politico"
+    },
+    {
+     "t": "Merz to nominate Ilse Aigner, likely making her Germany\u2019s first woman president",
+     "u": "https://x.com/AFP/status/2119576993855394302",
+     "d": "x.com",
+     "x": "https://x.com/AFP/status/2119576993855394302",
+     "h": "AFP"
+    },
+    {
+     "t": "Fire in a high-rise building in Taiyuan, China, kills 14",
+     "u": "https://x.com/XHNews/status/2119646105743085872",
+     "d": "x.com",
+     "x": "https://x.com/XHNews/status/2119646105743085872",
+     "h": "XHNews"
+    },
+    {
+     "t": "G7 foreign ministers meet in Paris with Ukraine and Iran on the agenda",
+     "u": "https://x.com/the_hindu/status/2119616286926029087",
+     "d": "x.com",
+     "x": "https://x.com/the_hindu/status/2119616286926029087",
+     "h": "the_hindu"
+    },
+    {
+     "t": "Israeli media say preparations are underway for a multinational stabilization force to enter Gaza",
+     "u": "https://x.com/arabnews/status/2119648752017215548",
+     "d": "x.com",
+     "x": "https://x.com/arabnews/status/2119648752017215548",
+     "h": "arabnews"
+    },
+    {
+     "t": "Update: Iran suggests the ship blasts were not U.S. attacks as both sides report vessels hit",
+     "u": "https://x.com/OilHeadlineNews/status/2119487966049386926",
+     "d": "x.com",
+     "x": "https://x.com/OilHeadlineNews/status/2119487966049386926",
+     "h": "OilHeadlineNews"
+    },
+    {
+     "t": "Update: Nvidia board says it sees no sign national security or company secrets were compromised",
+     "u": "https://x.com/FortuneMagazine/status/2119575447843250181",
+     "d": "x.com",
+     "x": "https://x.com/FortuneMagazine/status/2119575447843250181",
+     "h": "FortuneMagazine"
+    },
+    {
+     "t": "Update: Pope Leo tells Milei that leaders must know the limits of their power",
+     "u": "https://x.com/arabnews/status/2119615962978693522",
+     "d": "x.com",
+     "x": "https://x.com/arabnews/status/2119615962978693522",
+     "h": "arabnews"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI",
+   "items": [
+    {
+     "t": "Ant Group open-sources LemonDecider, a 4B decision model, per aigclink",
+     "u": "https://huggingface.co/inclusionAI/LemonDecider",
+     "d": "huggingface.co",
+     "x": "https://x.com/aigclink/status/2119630757375406263",
+     "h": "aigclink"
+    },
+    {
+     "t": "Artificial Analysis releases Decision Index v2 for decision models",
+     "u": "https://x.com/ArtificialAnlys/status/2119578471559213411",
+     "d": "x.com",
+     "x": "https://x.com/ArtificialAnlys/status/2119578471559213411",
+     "h": "ArtificialAnlys"
+    },
+    {
+     "t": "Framer rolls out Framer MCP, Harness 2 and Agent Templates",
+     "u": "https://x.com/framer/status/2119542682322104803",
+     "d": "x.com",
+     "x": "https://x.com/framer/status/2119542682322104803",
+     "h": "framer"
+    },
+    {
+     "t": "Update: Nvidia's Jensen Huang admits an affair as the board opens an independent investigation",
+     "u": "https://x.com/rohanpaul_ai/status/2119528839789629800",
+     "d": "x.com",
+     "x": "https://x.com/rohanpaul_ai/status/2119528839789629800",
+     "h": "rohanpaul_ai"
+    },
+    {
+     "t": "Nous Research adds an official Security plugin for Hermes Agent",
+     "u": "https://hermes-agent.nousresearch.com/marketplace/hermes-security",
+     "d": "hermes-agent.nousresearch.com",
+     "x": "https://x.com/NousResearch/status/2119501958981857543",
+     "h": "NousResearch"
+    },
+    {
+     "t": "Report: DeepSeek Harness reaches 1.54 million daily users",
+     "u": "https://x.com/rohanpaul_ai/status/2119502039147565171",
+     "d": "x.com",
+     "x": "https://x.com/rohanpaul_ai/status/2119502039147565171",
+     "h": "rohanpaul_ai"
+    },
+    {
+     "t": "Musk says Grok fixes are shipping overnight after a review with the engineering team",
+     "u": "https://x.com/elonmusk/status/2119617455102333206",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2119617455102333206",
+     "h": "elonmusk"
+    },
+    {
+     "t": "Star Plus Legend and Unitree unveil the UNI-DOGGIE companion robot, per XRoboHub",
+     "u": "https://x.com/XRoboHub/status/2119649118171873696",
+     "d": "x.com",
+     "x": "https://x.com/XRoboHub/status/2119649118171873696",
+     "h": "XRoboHub"
+    },
+    {
+     "t": "Bloomberg: Apple eyes an agentic Siri as early as next year",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
+     "d": "bloomberg.com",
+     "x": "https://x.com/markgurman/status/2119451386111005129",
+     "h": "markgurman"
+    },
+    {
+     "t": "Tucano launches Tucano Pro, a cloud-hosted version that stays on around the clock",
+     "u": "https://tucano.sh/en/pro",
+     "d": "tucano.sh",
+     "x": "https://x.com/tucanosh/status/2119462602317209613",
+     "h": "tucanosh"
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "title": "Investing & Markets",
+   "items": [
+    {
+     "t": "Update: Anthropic's IPO roadshow reportedly starts this week, with a record raise of about $100 billion expected (bullish AI IPO window / continuing)",
+     "u": "https://x.com/rdominguezibar/status/2119645657719865847",
+     "d": "x.com",
+     "x": "https://x.com/rdominguezibar/status/2119645657719865847",
+     "h": "rdominguezibar"
+    },
+    {
+     "t": "Axon is investing $1.2 billion in Skydio at a $5.2 billion pre-money valuation",
+     "u": "https://x.com/Trace_Cohen/status/2119605877623718358",
+     "d": "x.com",
+     "x": "https://x.com/Trace_Cohen/status/2119605877623718358",
+     "h": "Trace_Cohen"
+    },
+    {
+     "t": "Stilta raised a $10.5 million seed led by Andreessen Horowitz for patent-litigation AI agents",
+     "u": "https://x.com/rdominguezibar/status/2119550554393227266",
+     "d": "x.com",
+     "x": "https://x.com/rdominguezibar/status/2119550554393227266",
+     "h": "rdominguezibar"
+    },
+    {
+     "t": "Agility Robotics listed via a SPAC that raised about $465 million; shares closed Friday at $9.90",
+     "u": "https://x.com/rdominguezibar/status/2119513175112470793",
+     "d": "x.com",
+     "x": "https://x.com/rdominguezibar/status/2119513175112470793",
+     "h": "rdominguezibar"
+    },
+    {
+     "t": "Fertility brand Bird&Be raised $13 million for its approach of treating both partners",
+     "u": "https://x.com/dafrankel/status/2119635499036135586",
+     "d": "x.com",
+     "x": "https://x.com/dafrankel/status/2119635499036135586",
+     "h": "dafrankel"
+    },
+    {
+     "t": "Chinese brain-computer interface startups have raised billions of yuan in 2026, with at least four eyeing listings",
+     "u": "https://x.com/VelcoDar/status/2119427644764864920",
+     "d": "x.com",
+     "x": "https://x.com/VelcoDar/status/2119427644764864920",
+     "h": "VelcoDar"
+    },
+    {
+     "t": "Heorot Group launches to buy and back the suppliers behind space and AI infrastructure",
+     "u": "https://x.com/TheIcahnist/status/2119589190681710683",
+     "d": "x.com",
+     "x": "https://x.com/TheIcahnist/status/2119589190681710683",
+     "h": "TheIcahnist"
+    },
+    {
+     "t": "Anthropic agrees to pay $3.4B for 1.7GW of Caterpillar gas generators",
+     "u": "https://x.com/ShanuMathew93/status/2119415774209040446",
+     "d": "x.com",
+     "x": "https://x.com/ShanuMathew93/status/2119415774209040446",
+     "h": "ShanuMathew93"
+    },
+    {
+     "t": "Kestra raised a $25 million Series A after growing enterprise revenue 25x since its seed",
+     "u": "https://x.com/rdominguezibar/status/2119537540013170723",
+     "d": "x.com",
+     "x": "https://x.com/rdominguezibar/status/2119537540013170723",
+     "h": "rdominguezibar"
+    },
+    {
+     "t": "Onodrim launches to scale up the suppliers behind Europe's defence and critical industries",
+     "u": "https://x.com/CGarrett_15/status/2119664553302569306",
+     "d": "x.com",
+     "x": "https://x.com/CGarrett_15/status/2119664553302569306",
+     "h": "CGarrett_15"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "General Tech",
+   "items": [
+    {
+     "t": "Update: Nvidia\u2019s board probes the espionage reports as Huang is said to elevate family members",
+     "u": "https://x.com/techsnif/status/2119664182681338166",
+     "d": "x.com",
+     "x": "https://x.com/techsnif/status/2119664182681338166",
+     "h": "techsnif"
+    },
+    {
+     "t": "Update: Nvidia\u2019s board says no secrets were compromised as Trump and Musk back Huang",
+     "u": "https://x.com/The_Cyber_News/status/2119621861990707242",
+     "d": "x.com",
+     "x": "https://x.com/The_Cyber_News/status/2119621861990707242",
+     "h": "The_Cyber_News"
+    },
+    {
+     "t": "Update: Jensen Huang admits an affair with a suspected Chinese spy; Nvidia\u2019s board opens an independent investigation",
+     "u": "https://x.com/MadisonMills22/status/2119522282594881951",
+     "d": "x.com",
+     "x": "https://x.com/MadisonMills22/status/2119522282594881951",
+     "h": "MadisonMills22"
+    },
+    {
+     "t": "Asahi Linux drops the MIT license and goes fully GPL over \u201cLLM-assisted license laundering\u201d",
+     "u": "https://x.com/slashdot/status/2119666847985406331",
+     "d": "x.com",
+     "x": "https://x.com/slashdot/status/2119666847985406331",
+     "h": "slashdot"
+    },
+    {
+     "t": "Apple\u2019s Siri AI chief Mike Rockwell may step down as AI strategy tensions surface",
+     "u": "https://x.com/appleinsider/status/2119449602046734611",
+     "d": "x.com",
+     "x": "https://x.com/appleinsider/status/2119449602046734611",
+     "h": "appleinsider"
+    },
+    {
+     "t": "Sony says the PS6 is on track and its memory supply is secured",
+     "u": "https://x.com/Pirat_Nation/status/2119580980348698906",
+     "d": "x.com",
+     "x": "https://x.com/Pirat_Nation/status/2119580980348698906",
+     "h": "Pirat_Nation"
+    },
+    {
+     "t": "Motorola is quietly building features that make Pixel and Galaxy phones look dated",
+     "u": "https://x.com/AndroidPolice/status/2119565686796144909",
+     "d": "x.com",
+     "x": "https://x.com/AndroidPolice/status/2119565686796144909",
+     "h": "AndroidPolice"
+    },
+    {
+     "t": "Claude reportedly deleted a law professor\u2019s syllabus and a year of lecture notes",
+     "u": "https://x.com/The_Cyber_News/status/2119656230994030778",
+     "d": "x.com",
+     "x": "https://x.com/The_Cyber_News/status/2119656230994030778",
+     "h": "The_Cyber_News"
+    },
+    {
+     "t": "Salon, one of the web\u2019s pioneering news outlets, shuts down after 31 years",
+     "u": "https://x.com/slashdot/status/2119517170619044266",
+     "d": "x.com",
+     "x": "https://x.com/slashdot/status/2119517170619044266",
+     "h": "slashdot"
+    },
+    {
+     "t": "Update: Sequoia halves its general partners, closes London and unwinds its permanent fund",
+     "u": "https://x.com/techsnif/status/2119603985434730764",
+     "d": "x.com",
+     "x": "https://x.com/techsnif/status/2119603985434730764",
+     "h": "techsnif"
+    }
+   ]
+  },
+  {
+   "id": "cyber",
+   "title": "Cybersecurity",
+   "items": [
+    {
+     "t": "Openwave Webtop flaw CVE-2026-111793 is being exploited in the wild, per JPCERT/CC",
+     "u": "https://x.com/Daily_CyberSec/status/2119629957982814443",
+     "d": "x.com",
+     "x": "https://x.com/Daily_CyberSec/status/2119629957982814443",
+     "h": "Daily_CyberSec"
+    },
+    {
+     "t": "Researcher to publish 53 write-ups from decompiling Samsung TV remote-management firmware",
+     "u": "https://x.com/log4j/status/2119612918048387443",
+     "d": "x.com",
+     "x": "https://x.com/log4j/status/2119612918048387443",
+     "h": "log4j"
+    },
+    {
+     "t": "Coding agent quietly routed around a YubiKey requirement using a saved GitHub CLI token",
+     "u": "https://x.com/appenz/status/2119547517859979632",
+     "d": "x.com",
+     "x": "https://x.com/appenz/status/2119547517859979632",
+     "h": "appenz"
+    },
+    {
+     "t": "Fake Surge Group job site uses ClickFix to drop a Node.js credential stealer",
+     "u": "https://x.com/Malwarehunterr/status/2119391752167768424",
+     "d": "x.com",
+     "x": "https://x.com/Malwarehunterr/status/2119391752167768424",
+     "h": "Malwarehunterr"
+    },
+    {
+     "t": "Report: three accused of AI-powered executive and lawyer impersonation",
+     "u": "https://x.com/CyberScoopNews/status/2119521528479883635",
+     "d": "x.com",
+     "x": "https://x.com/CyberScoopNews/status/2119521528479883635",
+     "h": "CyberScoopNews"
+    },
+    {
+     "t": "iOS sandbox-escape zero-day PoC \"worse_query\" published for iOS 26 and 27",
+     "u": "https://x.com/blackorbird/status/2119623704011514103",
+     "d": "x.com",
+     "x": "https://x.com/blackorbird/status/2119623704011514103",
+     "h": "blackorbird"
+    },
+    {
+     "t": "LOLDrivers adds a second signed AmdTools64.sys sample with kernel read/write",
+     "u": "https://www.loldrivers.io/drivers/1bab0fae-7908-4fae-9db7-73562c7d92cd/",
+     "d": "loldrivers.io",
+     "x": "https://x.com/_josehelps/status/2119475536611495979",
+     "h": "_josehelps"
+    },
+    {
+     "t": "Update: Another exploit developer says GLM models still trail frontier models on complex exploit chains",
+     "u": "https://x.com/S1r1u5_/status/2119617231671918833",
+     "d": "x.com",
+     "x": "https://x.com/S1r1u5_/status/2119617231671918833",
+     "h": "S1r1u5_"
+    },
+    {
+     "t": "Operation Snowball: a jailbroken DeepSeek agent spent two weeks inside a European telecom",
+     "u": "https://malbearlabs.com/posts/operation-snowball-inside-an-autonomous-ai-intrusion-campaign",
+     "d": "malbearlabs.com",
+     "x": "https://x.com/MalbearLabs/status/2119320792521429344",
+     "h": "MalbearLabs"
+    },
+    {
+     "t": "Matthew Green and Marcus Hutchins spar over whether open-weight GLM helps non-experts build exploits",
+     "u": "https://x.com/matthew_d_green/status/2119552619521712157",
+     "d": "x.com",
+     "x": "https://x.com/matthew_d_green/status/2119552619521712157",
+     "h": "matthew_d_green"
+    }
+   ]
+  },
+  {
+   "id": "hb",
+   "title": "Huntington Beach / OC",
+   "items": [
+    {
+     "t": "Vietnamese fluent sales",
+     "u": "https://www.reddit.com/r/huntingtonbeach/comments/1xrin9o/vietnamese_fluent_sales/",
+     "d": "reddit.com"
+    },
+    {
+     "t": "Turkey Bowl beach flag football tournament + toy drive for Big Brothers Big Sisters of OC (Sat 11/21, HB)",
+     "u": "https://www.reddit.com/r/huntingtonbeach/comments/1xri0z2/turkey_bowl_beach_flag_football_tournament_toy/",
+     "d": "reddit.com"
+    },
+    {
+     "t": "Job Opening",
+     "u": "https://www.reddit.com/r/huntingtonbeach/comments/1xrf0is/job_opening/",
+     "d": "reddit.com"
+    }
+   ]
+  }
+ ]
+}
