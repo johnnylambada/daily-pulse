@@ -1,0 +1,540 @@
+{
+ "run": "2026-11-10_0504",
+ "stamp": "2026-11-10 05:04",
+ "date": "2026-11-10",
+ "sections": [
+  {
+   "id": "top",
+   "title": "Top Stories",
+   "items": [
+    {
+     "t": "Update: Senior Republicans weigh an Nvidia probe as the WSJ reports Jensen Huang lobbied Trump on chip export controls",
+     "u": "https://x.com/__gabbymiller/status/2119999628565471275",
+     "d": "x.com",
+     "x": "https://x.com/__gabbymiller/status/2119999628565471275",
+     "h": "__gabbymiller"
+    },
+    {
+     "t": "Update: Nvidia closes down 4.3% and faces a proposed class action, as Bloomberg reports its top lawyer called Commerce about the Megaspeed probe",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-intervened-in-us-probe-of-megaspeed-chip-smuggling",
+     "d": "bloomberg.com",
+     "x": "https://x.com/josenajarro/status/2119956785142616499",
+     "h": "josenajarro"
+    },
+    {
+     "t": "Update: Nvidia and Jensen Huang are sued by a shareholder as the stock falls 4.27%, while Trump backs Huang and says the FBI is looking into it",
+     "u": "https://x.com/AndruEdwards/status/2119938728638464413",
+     "d": "x.com",
+     "x": "https://x.com/AndruEdwards/status/2119938728638464413",
+     "h": "AndruEdwards"
+    },
+    {
+     "t": "Anthropic launches Claude Fable 5.2 and Mythos 5.2, and outside benchmarks put Fable first",
+     "u": "https://x.com/claudeai/status/2119867114450268322",
+     "d": "x.com",
+     "x": "https://x.com/claudeai/status/2119867114450268322",
+     "h": "claudeai"
+    },
+    {
+     "t": "US pulls aircraft from a second UK base over an Iranian threat, as Trump calls renewed strikes \u201cquite unlikely\u201d",
+     "u": "https://x.com/arabnews/status/2120019051883663612",
+     "d": "x.com",
+     "x": "https://x.com/arabnews/status/2120019051883663612",
+     "h": "arabnews"
+    },
+    {
+     "t": "Update: Nvidia\u2019s spy scandal reaches Congress as the NYT says Nvidia got a Commerce probe suspended, and NVDA opens about 5% lower",
+     "u": "https://x.com/RyanFedasiuk/status/2119830505298305049",
+     "d": "x.com",
+     "x": "https://x.com/RyanFedasiuk/status/2119830505298305049",
+     "h": "RyanFedasiuk"
+    },
+    {
+     "t": "Washington moves to close the remote-access loophole that lets Chinese labs use Nvidia chips abroad",
+     "u": "https://x.com/amir/status/2119948385751060835",
+     "d": "x.com",
+     "x": "https://x.com/amir/status/2119948385751060835",
+     "h": "amir"
+    },
+    {
+     "t": "Update Chrome now: Google fixes zero-day CVE-2026-125350, which is being exploited in the wild",
+     "u": "https://securityonline.info/chrome-zero-day-cve-2026-125350/",
+     "d": "securityonline.info",
+     "x": "https://x.com/Daily_CyberSec/status/2119937534486614436",
+     "h": "Daily_CyberSec"
+    },
+    {
+     "t": "Patch now: attackers are exploiting a Barracuda email gateway bug chain for root access and Plex flaws to break into QNAP storage boxes",
+     "u": "https://securityonline.info/barracuda-esg-vulnerability-exploited-poc/",
+     "d": "securityonline.info",
+     "x": "https://x.com/Daily_CyberSec/status/2119997227233862097",
+     "h": "Daily_CyberSec"
+    },
+    {
+     "t": "Update: Nvidia scandal hits policy and schedules: Jeffries vows tougher China chip controls, and Huang drops out of Anthropic and ElevenLabs events",
+     "u": "https://x.com/elwasson/status/2119890512500937009",
+     "d": "x.com",
+     "x": "https://x.com/elwasson/status/2119890512500937009",
+     "h": "elwasson"
+    }
+   ]
+  },
+  {
+   "id": "us",
+   "title": "US News",
+   "items": [
+    {
+     "t": "What Trump Has Said About the Hegseth Impeachment Effort",
+     "u": "https://www.nytimes.com/2026/11/10/us/politics/trump-hegseth-impeachment.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Meghan Markle's father ordered to undergo psychiatric exam",
+     "u": "https://www.cbsnews.com/news/thomas-markle-ordered-psychiatric-exam-meghan-markle-father/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "Hegseth to Hold Rare News Conference as Impeachment Vote Looms",
+     "u": "https://www.nytimes.com/2026/11/10/us/politics/hegseth-news-conference-impeachment-vote.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Gas prices slip below $4 a gallon for first time since July",
+     "u": "https://www.cbsnews.com/news/gas-prices-below-4-gallon-november/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "Susie Wiles' old lobbying firm in crosshairs of MAGA feud",
+     "u": "https://www.cbsnews.com/news/susie-wiles-ballard-partners-trump-maga-feud/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "Democrats Will Be in Charge of Congress. Elizabeth Warren Has a Plan for That.",
+     "u": "https://www.nytimes.com/2026/11/10/us/politics/democrats-elizabeth-warren-economic-plan.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Why the California Coast Has So Many Dead Birds",
+     "u": "https://www.nytimes.com/2026/11/10/us/california-sea-birds-dead-el-nino.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "ICE Hides Detainee Locations From Lawyers and Family Under New Policy",
+     "u": "https://www.nytimes.com/2026/11/10/us/ice-detainees-hidden-location-deportation.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Zoo Elephants Have a Right to Liberty, Group Tells Hawaii\u2019s Top Court",
+     "u": "https://www.nytimes.com/2026/11/10/us/elephants-honolulu-zoo-hawaii-court.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "The Blue Wave Washed Across Much of America. But Not Here.",
+     "u": "https://www.nytimes.com/2026/11/10/us/south-dakota-republicans.html",
+     "d": "nytimes.com"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "World News",
+   "items": [
+    {
+     "t": "Update: Trump says the Iran war is \u201cmilitarily effectively over\u201d after meeting Qatar\u2019s prime minister",
+     "u": "https://x.com/ChicagoBreaking/status/2119982203119513775",
+     "d": "x.com",
+     "x": "https://x.com/ChicagoBreaking/status/2119982203119513775",
+     "h": "ChicagoBreaking"
+    },
+    {
+     "t": "Senate advances a bipartisan permitting reform bill in a key test vote",
+     "u": "https://x.com/politico/status/2119941148072415719",
+     "d": "x.com",
+     "x": "https://x.com/politico/status/2119941148072415719",
+     "h": "politico"
+    },
+    {
+     "t": "Democrat Eileen Laubacher defeats Rep. Lauren Boebert in Colorado, CNN projects",
+     "u": "https://x.com/WBC24News/status/2119894175990632746",
+     "d": "x.com",
+     "x": "https://x.com/WBC24News/status/2119894175990632746",
+     "h": "WBC24News"
+    },
+    {
+     "t": "Update: Trump calls renewed Iran strikes \u201cquite unlikely\u201d as Netanyahu reportedly presses him daily to resume",
+     "u": "https://x.com/htTweets/status/2120020662689656901",
+     "d": "x.com",
+     "x": "https://x.com/htTweets/status/2120020662689656901",
+     "h": "htTweets"
+    },
+    {
+     "t": "White House briefly locked down after a car hits a sidewalk at Lafayette Park; two arrested",
+     "u": "https://x.com/NewsX/status/2119850257798553625",
+     "d": "x.com",
+     "x": "https://x.com/NewsX/status/2119850257798553625",
+     "h": "NewsX"
+    },
+    {
+     "t": "California voters reject the billionaire wealth tax, CNN and AP project",
+     "u": "https://x.com/CNN/status/2119983978400592258",
+     "d": "x.com",
+     "x": "https://x.com/CNN/status/2119983978400592258",
+     "h": "CNN"
+    },
+    {
+     "t": "Update: Trump says he would \u201cstand by\u201d Hegseth even if he is impeached",
+     "u": "https://x.com/ABC/status/2119938777338507482",
+     "d": "x.com",
+     "x": "https://x.com/ABC/status/2119938777338507482",
+     "h": "ABC"
+    },
+    {
+     "t": "Update: Russia\u2013Ukraine talks in Abu Dhabi set to begin Tuesday; Trump sees a \u201cstrong inclination\u201d to end the war",
+     "u": "https://x.com/RFI_En/status/2120030677471228186",
+     "d": "x.com",
+     "x": "https://x.com/RFI_En/status/2120030677471228186",
+     "h": "RFI_En"
+    },
+    {
+     "t": "Update: Rep. Thomas Massie introduces updated impeachment articles against Pete Hegseth",
+     "u": "https://x.com/CBSNews/status/2119895282187911631",
+     "d": "x.com",
+     "x": "https://x.com/CBSNews/status/2119895282187911631",
+     "h": "CBSNews"
+    },
+    {
+     "t": "Saudi-led coalition intercepts Houthi ballistic and cruise missiles fired toward Riyadh",
+     "u": "https://x.com/AlArabiya_Eng/status/2119960631759544351",
+     "d": "x.com",
+     "x": "https://x.com/AlArabiya_Eng/status/2119960631759544351",
+     "h": "AlArabiya_Eng"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI",
+   "items": [
+    {
+     "t": "Fable 5.2 lands above the trendline on more hard benchmarks, including a new life-science visual test",
+     "u": "https://x.com/emollick/status/2120000888974766501",
+     "d": "x.com",
+     "x": "https://x.com/emollick/status/2120000888974766501",
+     "h": "emollick"
+    },
+    {
+     "t": "Underdog releases a Japanese version of its tiny open-weight Woof voice model",
+     "u": "https://x.com/UnderdogAI/status/2120018851773771889",
+     "d": "x.com",
+     "x": "https://x.com/UnderdogAI/status/2120018851773771889",
+     "h": "UnderdogAI"
+    },
+    {
+     "t": "Cisco AI Defense brings Claude Mythos to AI red teaming",
+     "u": "https://x.com/CiscoAI/status/2119958224334110845",
+     "d": "x.com",
+     "x": "https://x.com/CiscoAI/status/2119958224334110845",
+     "h": "CiscoAI"
+    },
+    {
+     "t": "Anthropic's IPO filing points to a raise of up to about $69 billion, then pricing details are pulled back",
+     "u": "https://x.com/firstadopter/status/2119978523766964257",
+     "d": "x.com",
+     "x": "https://x.com/firstadopter/status/2119978523766964257",
+     "h": "firstadopter"
+    },
+    {
+     "t": "Fable 5.2 sets a record on Epoch's capabilities index, and Anthropic says a stronger model stays internal",
+     "u": "https://x.com/ChrisGPT/status/2119934368919781622",
+     "d": "x.com",
+     "x": "https://x.com/ChrisGPT/status/2119934368919781622",
+     "h": "ChrisGPT"
+    },
+    {
+     "t": "Zyphra releases ZONOS3-Mini, an open-source text-to-speech model that runs on a phone",
+     "u": "https://huggingface.co/Zyphra/ZONOS3-Mini",
+     "d": "huggingface.co",
+     "x": "https://x.com/ZyphraAI/status/2119914895861076151",
+     "h": "ZyphraAI"
+    },
+    {
+     "t": "Archon Robotics shows Anchor 1, a whole-body controller for humanoids",
+     "u": "https://x.com/XRoboHub/status/2119992248259711368",
+     "d": "x.com",
+     "x": "https://x.com/XRoboHub/status/2119992248259711368",
+     "h": "XRoboHub"
+    },
+    {
+     "t": "ClickHouse launches Managed Postgres, Observability and Security, and acquires Xata",
+     "u": "https://clickhouse.com/blog/announcing-clickhouse-platform-largest-expansion",
+     "d": "clickhouse.com",
+     "x": "https://x.com/ClickHouseDB/status/2119839187788534222",
+     "h": "ClickHouseDB"
+    },
+    {
+     "t": "Update: Snowflake, Factory, Genspark, Hyperbrowser and Entire add Claude Fable 5.2",
+     "u": "https://x.com/Snowflake/status/2119973965594562966",
+     "d": "x.com",
+     "x": "https://x.com/Snowflake/status/2119973965594562966",
+     "h": "Snowflake"
+    },
+    {
+     "t": "Google adds two more eighth-generation TPU systems, TPU 8i Max and TPU 8tx",
+     "u": "https://x.com/Google/status/2119788086490001906",
+     "d": "x.com",
+     "x": "https://x.com/Google/status/2119788086490001906",
+     "h": "Google"
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "title": "Investing & Markets",
+   "items": [
+    {
+     "t": "Former Apple Watch health product lead Praneeta Pujari has early backing for an AI companion that predicts migraines",
+     "u": "https://x.com/raghavgoyal97/status/2120024446669136035",
+     "d": "x.com",
+     "x": "https://x.com/raghavgoyal97/status/2120024446669136035",
+     "h": "raghavgoyal97"
+    },
+    {
+     "t": "Update: Google, Nvidia, AMD, Broadcom, Micron, Microsoft and TSMC will reportedly invest $26 billion in Anthropic at the IPO price",
+     "u": "https://x.com/HiCagr/status/2119962905760403841",
+     "d": "x.com",
+     "x": "https://x.com/HiCagr/status/2119962905760403841",
+     "h": "HiCagr"
+    },
+    {
+     "t": "ClickHouse bought security startup RunReveal, whose team will now run ClickHouse Security",
+     "u": "https://x.com/robby_mtf/status/2119898683416400327",
+     "d": "x.com",
+     "x": "https://x.com/robby_mtf/status/2119898683416400327",
+     "h": "robby_mtf"
+    },
+    {
+     "t": "Vanta agreed to buy AI security startup Pillar Security, reportedly for $150 million",
+     "u": "https://x.com/guilleflorvs/status/2119875368328851788",
+     "d": "x.com",
+     "x": "https://x.com/guilleflorvs/status/2119875368328851788",
+     "h": "guilleflorvs"
+    },
+    {
+     "t": "An investor argues LP money should anchor small 'discovery' funds instead of megafunds",
+     "u": "https://x.com/arian_ghashghai/status/2119875072852631999",
+     "d": "x.com",
+     "x": "https://x.com/arian_ghashghai/status/2119875072852631999",
+     "h": "arian_ghashghai"
+    },
+    {
+     "t": "Mavria raised a new $100 million round led by Paradigm at a $1 billion valuation to build factory-made AI data centers",
+     "u": "https://x.com/mavriaX/status/2119807269127000146",
+     "d": "x.com",
+     "x": "https://x.com/mavriaX/status/2119807269127000146",
+     "h": "mavriaX"
+    },
+    {
+     "t": "Altimeter is discussing raising more than $3 billion for new venture and growth funds, per a scoop",
+     "u": "https://x.com/nmasc_/status/2119970363572736049",
+     "d": "x.com",
+     "x": "https://x.com/nmasc_/status/2119970363572736049",
+     "h": "nmasc_"
+    },
+    {
+     "t": "Nominal raised a $240 million Series C at a $3 billion valuation, led by Lightspeed",
+     "u": "https://x.com/lightspeedvp/status/2119798762797154728",
+     "d": "x.com",
+     "x": "https://x.com/lightspeedvp/status/2119798762797154728",
+     "h": "lightspeedvp"
+    },
+    {
+     "t": "The Pentagon's Office of Strategic Capital offered Rocket Lab a $150 million conditional loan, and Rocket Lab raised Neutron's price to $70 million",
+     "u": "https://x.com/wcooper19/status/2119913611409740217",
+     "d": "x.com",
+     "x": "https://x.com/wcooper19/status/2119913611409740217",
+     "h": "wcooper19"
+    },
+    {
+     "t": "Lightspeed's Hemant Mohapatra says interchangeable AI models push value up to the products built on them",
+     "u": "https://x.com/LightspeedIndia/status/2120011067023618517",
+     "d": "x.com",
+     "x": "https://x.com/LightspeedIndia/status/2120011067023618517",
+     "h": "LightspeedIndia"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "General Tech",
+   "items": [
+    {
+     "t": "Anthropic won't fix the \"Office Party\" flaw in Claude's Office file tools",
+     "u": "https://x.com/Pirat_Nation/status/2120019369220784359",
+     "d": "x.com",
+     "x": "https://x.com/Pirat_Nation/status/2120019369220784359",
+     "h": "Pirat_Nation"
+    },
+    {
+     "t": "N-able takes N-central offline worldwide after 33 alleged zero-days are published",
+     "u": "https://x.com/The_Cyber_News/status/2119983698938593695",
+     "d": "x.com",
+     "x": "https://x.com/The_Cyber_News/status/2119983698938593695",
+     "h": "The_Cyber_News"
+    },
+    {
+     "t": "Cyberbeast delivery dates slip to March\u2013June 2027 as Tesla winds down the Cybertruck",
+     "u": "https://x.com/SawyerMerritt/status/2120025655785967922",
+     "d": "x.com",
+     "x": "https://x.com/SawyerMerritt/status/2120025655785967922",
+     "h": "SawyerMerritt"
+    },
+    {
+     "t": "Update: House committee chairs summon Jensen Huang as Nvidia slides about 5% and he drops off an ElevenLabs lineup",
+     "u": "https://x.com/ChinaSelect/status/2119806643219161142",
+     "d": "x.com",
+     "x": "https://x.com/ChinaSelect/status/2119806643219161142",
+     "h": "ChinaSelect"
+    },
+    {
+     "t": "California voters reject Proposition 40, the billionaire tax",
+     "u": "https://x.com/laura_nelson/status/2119983491165438132",
+     "d": "x.com",
+     "x": "https://x.com/laura_nelson/status/2119983491165438132",
+     "h": "laura_nelson"
+    },
+    {
+     "t": "Disney picks Adobe as its generative AI partner after Sora",
+     "u": "https://x.com/AndrewCurran_/status/2119911383190085923",
+     "d": "x.com",
+     "x": "https://x.com/AndrewCurran_/status/2119911383190085923",
+     "h": "AndrewCurran_"
+    },
+    {
+     "t": "Update: WSJ says Huang lobbied Trump on chip export controls; Nvidia may slow orders",
+     "u": "https://x.com/WSJTech/status/2120008527364137067",
+     "d": "x.com",
+     "x": "https://x.com/WSJTech/status/2120008527364137067",
+     "h": "WSJTech"
+    },
+    {
+     "t": "The Information: a hack at inference provider Fireworks exposed customer data",
+     "u": "https://x.com/steph_palazzolo/status/2119879358575714545",
+     "d": "x.com",
+     "x": "https://x.com/steph_palazzolo/status/2119879358575714545",
+     "h": "steph_palazzolo"
+    },
+    {
+     "t": "Update: Anthropic is said to target up to $69.3 billion in its IPO",
+     "u": "https://x.com/techsnif/status/2119973863505178782",
+     "d": "x.com",
+     "x": "https://x.com/techsnif/status/2119973863505178782",
+     "h": "techsnif"
+    },
+    {
+     "t": "Update: Fireworks AI says hackers got in through a third-party cloud provider",
+     "u": "https://x.com/The_Cyber_News/status/2120025958988321169",
+     "d": "x.com",
+     "x": "https://x.com/The_Cyber_News/status/2120025958988321169",
+     "h": "The_Cyber_News"
+    }
+   ]
+  },
+  {
+   "id": "cyber",
+   "title": "Cybersecurity",
+   "items": [
+    {
+     "t": "Update: CISA adds exploited OpenSSH, FreeSWITCH, GPUStack and IBM Aspera Faspex bugs to its KEV list",
+     "u": "https://securityonline.info/cisa-kev-catalog-cve-2026-123158-exploited/",
+     "d": "securityonline.info",
+     "x": "https://x.com/Daily_CyberSec/status/2119943288182419594",
+     "h": "Daily_CyberSec"
+    },
+    {
+     "t": "Project Zero files an out-of-bounds read in the Samsung Galaxy S24's WMF media extractor",
+     "u": "https://project-zero.issues.chromium.org/issues/537859150",
+     "d": "project-zero.issues.chromium.org",
+     "x": "https://x.com/ProjectZeroBugs/status/2119874531787714985",
+     "h": "ProjectZeroBugs"
+    },
+    {
+     "t": "Plex2Shell flaws exploited to hack QNAP NAS devices",
+     "u": "https://securityaffairs.com/202708/cyber-crime/qnap-warns-users-as-plex2shell-flaws-are-used-to-hack-nas-devices.html",
+     "d": "securityaffairs.com",
+     "x": "https://x.com/Cyber_O51NT/status/2120013120542245016",
+     "h": "Cyber_O51NT"
+    },
+    {
+     "t": "N-able takes hosted N-central offline after \"Able2Shell\" exploit chain goes public",
+     "u": "https://x.com/PrevidianCyber/status/2119845511079268860",
+     "d": "x.com",
+     "x": "https://x.com/PrevidianCyber/status/2119845511079268860",
+     "h": "PrevidianCyber"
+    },
+    {
+     "t": "SAP November Patch Day fixes nine critical flaws, four rated CVSS 10.0",
+     "u": "https://securityonline.info/sap-security-patch-day-november-2026/",
+     "d": "securityonline.info",
+     "x": "https://x.com/Daily_CyberSec/status/2119972441573204472",
+     "h": "Daily_CyberSec"
+    },
+    {
+     "t": "SCARLETTGROUP ransomware claims Ridgecrest Regional Hospital in California",
+     "u": "https://x.com/FalconFeedsio/status/2119797050380570774",
+     "d": "x.com",
+     "x": "https://x.com/FalconFeedsio/status/2119797050380570774",
+     "h": "FalconFeedsio"
+    },
+    {
+     "t": "Update: N-able takes hosted N-central offline worldwide after 30+ alleged zero-days",
+     "u": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
+     "d": "bleepingcomputer.com",
+     "x": "https://x.com/BleepinComputer/status/2119905778559525251",
+     "h": "BleepinComputer"
+    },
+    {
+     "t": "VulnCheck publishes exploits for Atlassian, GitLab and a Collabora bug used by ransomware",
+     "u": "https://github.com/vulncheck-oss/initial-access-community",
+     "d": "github.com",
+     "x": "https://x.com/catc0n/status/2119987069712024015",
+     "h": "catc0n"
+    },
+    {
+     "t": "GLOBAL SECRET GROUP ransomware claims Arkansas dealer Heartland Honda",
+     "u": "https://x.com/FalconFeedsio/status/2119888024830132364",
+     "d": "x.com",
+     "x": "https://x.com/FalconFeedsio/status/2119888024830132364",
+     "h": "FalconFeedsio"
+    },
+    {
+     "t": "Proof-of-concept exploit published for Windows Search bug CVE-2026-50679",
+     "u": "https://securityonline.info/windows-search-cve-2026-50679-poc/",
+     "d": "securityonline.info",
+     "x": "https://x.com/Daily_CyberSec/status/2119962341773046164",
+     "h": "Daily_CyberSec"
+    }
+   ]
+  },
+  {
+   "id": "hb",
+   "title": "Huntington Beach / OC",
+   "items": [
+    {
+     "t": "El Dorado Girls Varsity Basketball @ Huntington Beach",
+     "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUDlETVJQWlZCZndsZndwR0JBenBDZzVid3YxSU9zdDl5UDdVbnhSTktQU2czZ2J4TTlJRXJDdWduczliZG9EQ0tyZFFmVko4Qmh4TUx3eGY0TmJXYTRWUUZZM0dSZmU1NzdQQWZHcER3VVZUX2ZhcGRNVlhiM2s0bkJxQnhycVA0N252bENUdkpwRmR6cnNPZDlTSV9Za2dlR0l4aU5hblVJenJCSWpacVpkRWpTVTdwOWd6X0xZbVRxRUV5MW1BVTdZLWdfcmljVTFXM0dyYw?oc=5",
+     "d": "maxpreps.com"
+    },
+    {
+     "t": "Fire at Huntington Beach building; videos show firefighters at 7000 block of Beachpoint Circle in California city | Hindustan Times",
+     "u": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQNjJkcE9PbVF0Z1BZMUY2ZF8wR055SlNSNWs2bjJNdHFsMTJ0MlJjeVJXUUNqZUpVX2dDeFNlNHZLN2U0bXZtenh0Uk1mbFRtczlOVTFlRWZEVDh0WGpOQlFQZmZGa21fNzRNcG1jeG1sQ0o4MUh0Wm5Cdkswd0dDZGZUQVJzMkNjWmk3eTFXOWppVzBxeUplbVJ2TC0wU2tqd1FncVJSSTJTUHlId2taOUQzaVByd1ZaMGI2UEpTM1c2dlF6ODdDZlcwdVV6bkY0S0RNQzQ5LXJrSnVWTE1OMjFBbmo3Q2M4X083MGhSU2xpRmFnMFZ2dExFb01RczFBS3JMYXZZX0JpNEJaWV9hT2FETnZZeE5BdXlxU1l1Nml5UUNI0gGqAkFVX3lxTE9sWVpMTkU2eXFWOEdLb2paOUdVelVxNjg1Z3lEMHAyeWEwTTJMc3VGVm0wV1diUF9aUjMwQU9PTmw1U01Xcm9wM3BreTVOOEZXX3NRN29Rdy1XWTRIOTh5VnBKLVBYOEVORGVFeHFGaWQtaHlHeVlqNjFEdG1oRER1WGdHbDZiWVQ3UmJ5R3lIYllIbUxQVWNoUUVlUDZUaGNod3h2dHVGdklfS3dhTFZYV1JweHFDQkt1SnNDVVduTXRyVG81YWpuWGNJSDFQSDVQUVFVZHMyU3JxZXpYQ0NzRXhSTDRWSW15VGJxYnAxYnFjazRKT2x0VDVmUWlIT09ncGtmNWdFMEIxWV9RV2NPWlREYTRhRTc4NFJscUJucEliZUpxWFdVOGc?oc=5",
+     "d": "hindustantimes.com"
+    },
+    {
+     "t": "2026 Elections: As more ballots are counted, these 5 Orange County legislative races remain close",
+     "u": "https://www.ocregister.com/2026/11/09/2026-elections-as-more-ballots-are-counted-these-5-orange-county-legislative-races-remain-close/",
+     "d": "ocregister.com"
+    }
+   ]
+  }
+ ]
+}
