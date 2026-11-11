@@ -1,0 +1,540 @@
+{
+ "run": "2026-11-11_0505",
+ "stamp": "2026-11-11 05:05",
+ "date": "2026-11-11",
+ "sections": [
+  {
+   "id": "top",
+   "title": "Top Stories",
+   "items": [
+    {
+     "t": "Anthropic rolls out Claude Whiteboards, Sheets and Data, reviving fears for software incumbents",
+     "u": "https://x.com/claudeai/status/2120206365759094857",
+     "d": "x.com",
+     "x": "https://x.com/claudeai/status/2120206365759094857",
+     "h": "claudeai"
+    },
+    {
+     "t": "Anthropic gives every paid Claude user one free full usage reset, as Fable 5.2 tops new benchmarks",
+     "u": "https://x.com/ClaudeDevs/status/2120275296637321476",
+     "d": "x.com",
+     "x": "https://x.com/ClaudeDevs/status/2120275296637321476",
+     "h": "ClaudeDevs"
+    },
+    {
+     "t": "OpenAI opens Businesses in ChatGPT with Business Agents, as ChatGPT reaches 1.2 billion weekly users",
+     "u": "https://openai.com/index/introducing-businesses-chatgpt/",
+     "d": "openai.com",
+     "x": "https://x.com/OpenAI/status/2120216592395174382",
+     "h": "OpenAI"
+    },
+    {
+     "t": "Grok Bot can now join personal and company Tailscale networks, and gets a native Obsidian integration on Mac",
+     "u": "https://x.com/bot/status/2120279511707386263",
+     "d": "x.com",
+     "x": "https://x.com/bot/status/2120279511707386263",
+     "h": "bot"
+    },
+    {
+     "t": "Google releases Gemini 4 Carbon, its strongest model, to developers and Ultra subscribers",
+     "u": "https://x.com/GoogleAI/status/2120187753329791341",
+     "d": "x.com",
+     "x": "https://x.com/GoogleAI/status/2120187753329791341",
+     "h": "GoogleAI"
+    },
+    {
+     "t": "Google says Gemini 4 Carbon agents helped formally verify Signal\u2019s protocol down to compiled code, as Logan Kilpatrick teases more \u201cGemini\u201d",
+     "u": "https://x.com/sundarpichai/status/2120207062655549933",
+     "d": "x.com",
+     "x": "https://x.com/sundarpichai/status/2120207062655549933",
+     "h": "sundarpichai"
+    },
+    {
+     "t": "Multiplayer coding agents: Cursor rebuilds Projects for teams, and Google adds /swarm to Antigravity",
+     "u": "https://cursor.com/blog/projects-multiplayer",
+     "d": "cursor.com",
+     "x": "https://x.com/cursor_ai/status/2120295553309565139",
+     "h": "cursor_ai"
+    },
+    {
+     "t": "Update your iPhone and Mac: Apple\u2019s Brotli bug allowed remote compromise from a public Wi-Fi sign-in page, even in Lockdown Mode",
+     "u": "https://x.com/calif_io/status/2120225274877100091",
+     "d": "x.com",
+     "x": "https://x.com/calif_io/status/2120225274877100091",
+     "h": "calif_io"
+    },
+    {
+     "t": "Stripe completes its acquisition of OpenRouter",
+     "u": "https://x.com/stripe/status/2120240651778355306",
+     "d": "x.com",
+     "x": "https://x.com/stripe/status/2120240651778355306",
+     "h": "stripe"
+    },
+    {
+     "t": "Railway says attackers chained AI agents and a build-system flaw to steal customer secrets and run up about $740,000 in charges",
+     "u": "https://blog.railway.com/p/incident-report-october-security-incident",
+     "d": "blog.railway.com",
+     "x": "https://x.com/Railway/status/2120157279177634266",
+     "h": "Railway"
+    }
+   ]
+  },
+  {
+   "id": "us",
+   "title": "US News",
+   "items": [
+    {
+     "t": "What stores are open and closed for Veterans Day 2026?",
+     "u": "https://www.cbsnews.com/news/veterans-day-2026-store-hours-open-closed/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "Michael McCloskey Has Died. He Helped Make the Sierra Club a Political Force.",
+     "u": "https://www.nytimes.com/2026/11/11/us/michael-mccloskey-dead.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "U.S. soldier accused of spying linked to Russia arrested in the U.K.",
+     "u": "https://www.cbsnews.com/news/american-soldier-spying-russia-arrest-uk/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "Trump's judicial confirmations to face resistance in Democratic-controlled Senate",
+     "u": "https://www.cbsnews.com/news/trump-judicial-confirmations-democrats-senate/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "A New Democratic-Tied Dark-Money Group Draws Scrutiny Over Midterm Spending",
+     "u": "https://www.nytimes.com/2026/11/11/us/democratic-dark-money-super-pac-complaint.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Trump to Visit Arlington Cemetery as His Proposed Arch Faces Growing Opposition",
+     "u": "https://www.nytimes.com/2026/11/11/us/politics/trump-arlington-cemetery-arch.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Democrats Pulled in Moderates. Can They Hold On to Them?",
+     "u": "https://www.nytimes.com/2026/11/11/us/elections/trump-voters-democrats-priorities.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Honor and Anguish: A Veterans Day When the Losses Are New",
+     "u": "https://www.nytimes.com/2026/11/11/us/iran-war-deaths-survivors-veterans-day.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Blue Texas? Battleground Kansas? Both Parties Wonder if the Map Has Shifted.",
+     "u": "https://www.nytimes.com/2026/11/11/us/blue-texas-battleground-kansas-both-parties-wonder-if-the-map-has-shifted.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Somali Bodyguard Was Indicted in a Bid to Incriminate Ilhan Omar",
+     "u": "https://www.nytimes.com/2026/11/11/us/ilhan-omar-ex-bodyguard-indicted-abdullahi-mohamed.html",
+     "d": "nytimes.com"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "World News",
+   "items": [
+    {
+     "t": "Voyager 1 will become the first human-made object one light-day from Earth next week",
+     "u": "https://science.nasa.gov/mission/voyager/voyager-1/shine-bright-for-voyagers-light-day/",
+     "d": "science.nasa.gov",
+     "x": "https://x.com/NASAhistory/status/2120257517171233121",
+     "h": "NASAhistory"
+    },
+    {
+     "t": "Biden swarmed by pro-Palestinian protesters in Ireland; two arrested",
+     "u": "https://abcnews.com/?cid=social_twitter_abcn",
+     "d": "abcnews.com",
+     "x": "https://x.com/ABC/status/2120338589456220432",
+     "h": "ABC"
+    },
+    {
+     "t": "Appeals court rules Voice of America director Michael Abramowitz was illegally fired",
+     "u": "https://www.politico.com/news/2026/11/10/appeals-court-blocks-trump-administration-from-ousting-voice-of-america-director-01158491",
+     "d": "politico.com",
+     "x": "https://x.com/washingtonpost/status/2120200897917546793",
+     "h": "washingtonpost"
+    },
+    {
+     "t": "Update: House kills the Hegseth impeachment push, 211\u2013204",
+     "u": "https://www.cnn.com/2026/11/10/politics/live-news/hegseth-impeachment-congress?Date=20261110&Profile=cnnbrk&utm_content=1794352621&utm_medium=social&utm_source=twitter",
+     "d": "cnn.com",
+     "x": "https://x.com/ABC/status/2120295929718968343",
+     "h": "ABC"
+    },
+    {
+     "t": "Greta Thunberg attends COP31, her first climate summit since 2021",
+     "u": "https://www.washingtonpost.com/world/2026/11/08/turkey-cop31-summit-climate-change/2841edec-dbe7-11f1-912c-4fbb80d73f7f_story.html",
+     "d": "washingtonpost.com",
+     "x": "https://x.com/washingtonpost/status/2120298034969883022",
+     "h": "washingtonpost"
+    },
+    {
+     "t": "Update: A Senate Banking Republican calls on Jensen Huang to resign as Nvidia loses about $430 billion in two sessions",
+     "u": "https://www.politico.com/news/2026/11/10/senate-banking-republican-nvidia-ceo-resign-01160543",
+     "d": "politico.com",
+     "x": "https://x.com/politico/status/2120345917110829176",
+     "h": "politico"
+    },
+    {
+     "t": "Unconfirmed: Lithuania issues red air alerts over drones crossing into Polish airspace",
+     "u": "https://x.com/OlgaNYC1211/status/2120298861998506210",
+     "d": "x.com",
+     "x": "https://x.com/OlgaNYC1211/status/2120298861998506210",
+     "h": "OlgaNYC1211"
+    },
+    {
+     "t": "Update: Lutnick was sent a classified memo warning about Jensen Huang\u2019s relationship with a suspected Chinese spy",
+     "u": "https://www.axios.com/2026/11/10/lutnick-nvidia-jensen-huang-china-memo",
+     "d": "axios.com",
+     "x": "https://x.com/axios/status/2120302885443395841",
+     "h": "axios"
+    },
+    {
+     "t": "Meghan\u2019s father Thomas Markle in federal custody after allegedly cutting off his ankle monitor",
+     "u": "https://www.bbc.com/news/articles/c9j3433zy4vro?xtor=AL-71-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_ptr_name=twitter&at_link_id=411D5228-DD47-11F1-85BE-FF5812D4F05A&at_medium=social&at_campaign_type=owned&at_link_origin=BBCNews&at_link_type=web_link&at_campaign=Social_Flow&at_format=link&at_bbc_team=editorial",
+     "d": "bbc.com",
+     "x": "https://x.com/BBCNews/status/2120255833237860590",
+     "h": "BBCNews"
+    },
+    {
+     "t": "Former Pakistan PM Imran Khan returned to prison after medical treatment",
+     "u": "https://www.reuters.com/world/asia-pacific/former-pakistan-pm-imran-khan-returned-prison-after-medical-treatment-sources-2026-11-11/?taid=6af3fd6bc6e52100014ae68f&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
+     "d": "reuters.com",
+     "x": "https://x.com/ReutersWorld/status/2120388630959075611",
+     "h": "ReutersWorld"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI",
+   "items": [
+    {
+     "t": "Musk says xAI rewrote Grok's training and inference stack and Grok 4.8 starts a soft rollout this week",
+     "u": "https://x.com/elonmusk/status/2120088070443655190",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2120088070443655190",
+     "h": "elonmusk"
+    },
+    {
+     "t": "e-means clustering algorithm arrives in FAISS",
+     "u": "https://x.com/swann_bessa/status/2120200714630594911",
+     "d": "x.com",
+     "x": "https://x.com/swann_bessa/status/2120200714630594911",
+     "h": "swann_bessa"
+    },
+    {
+     "t": "Firecrawl launches job search tools for ChatGPT and Claude",
+     "u": "https://alexandria.firecrawl.dev/go/jobtools",
+     "d": "alexandria.firecrawl.dev",
+     "x": "https://x.com/firecrawl/status/2120197091410493731",
+     "h": "firecrawl"
+    },
+    {
+     "t": "Hedra launches Model Factory to train custom real-world models",
+     "u": "https://x.com/hedra_labs/status/2120207555263905973",
+     "d": "x.com",
+     "x": "https://x.com/hedra_labs/status/2120207555263905973",
+     "h": "hedra_labs"
+    },
+    {
+     "t": "Logan Kilpatrick teases more from Google with a one-word \"Gemini\" post",
+     "u": "https://x.com/OfficialLoganK/status/2120372550354280848",
+     "d": "x.com",
+     "x": "https://x.com/OfficialLoganK/status/2120372550354280848",
+     "h": "OfficialLoganK"
+    },
+    {
+     "t": "Alibaba previews Qwen4-Max, and Qoder reveals its stealth model was Qwen",
+     "u": "https://x.com/qoder_ai_ide/status/2120343731673108936",
+     "d": "x.com",
+     "x": "https://x.com/qoder_ai_ide/status/2120343731673108936",
+     "h": "qoder_ai_ide"
+    },
+    {
+     "t": "IFM opens PAN 2, a world model for physical AI",
+     "u": "https://github.com/ifm-ai/PAN2",
+     "d": "github.com",
+     "x": "https://x.com/IFM_AI/status/2120199814696828942",
+     "h": "IFM_AI"
+    },
+    {
+     "t": "Higgsfield says it hit a $1.35 billion annualized run rate in October",
+     "u": "https://x.com/alexmashrabov/status/2120322553600430213",
+     "d": "x.com",
+     "x": "https://x.com/alexmashrabov/status/2120322553600430213",
+     "h": "alexmashrabov"
+    },
+    {
+     "t": "Jack Dorsey's buzz ships version 1.0",
+     "u": "https://buzz.xyz",
+     "d": "buzz.xyz",
+     "x": "https://x.com/jack/status/2120345450612187278",
+     "h": "jack"
+    },
+    {
+     "t": "Mercor raises $750 million at a $20 billion valuation",
+     "u": "https://x.com/BrendanFoody/status/2120182889195466877",
+     "d": "x.com",
+     "x": "https://x.com/BrendanFoody/status/2120182889195466877",
+     "h": "BrendanFoody"
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "title": "Investing & Markets",
+   "items": [
+    {
+     "t": "Graphon raised a $35 million Series A six months after its seed",
+     "u": "https://x.com/graphonfounder/status/2120201264932003990",
+     "d": "x.com",
+     "x": "https://x.com/graphonfounder/status/2120201264932003990",
+     "h": "graphonfounder"
+    },
+    {
+     "t": "A viral claim that Nvidia's CUDA lock-in is fading drew founder agreement (bearish Nvidia moat / change)",
+     "u": "https://x.com/MarceloLima/status/2120295110093254832",
+     "d": "x.com",
+     "x": "https://x.com/MarceloLima/status/2120295110093254832",
+     "h": "MarceloLima"
+    },
+    {
+     "t": "Geodesic launched NovaAtom-Lite, a drug-discovery structure model it says beats AlphaFold 3 on antibody binding",
+     "u": "https://x.com/Geodesiclab/status/2120214931731775587",
+     "d": "x.com",
+     "x": "https://x.com/Geodesiclab/status/2120214931731775587",
+     "h": "Geodesiclab"
+    },
+    {
+     "t": "Investors framed Claude's Office-style tools as a direct threat to Microsoft (bearish incumbent software / continuing)",
+     "u": "https://x.com/Jason/status/2120229243590189500",
+     "d": "x.com",
+     "x": "https://x.com/Jason/status/2120229243590189500",
+     "h": "Jason"
+    },
+    {
+     "t": "OpenAI launched Businesses in ChatGPT, and investors called it a hit to GEO startups",
+     "u": "https://x.com/gregisenberg/status/2120250534670012721",
+     "d": "x.com",
+     "x": "https://x.com/gregisenberg/status/2120250534670012721",
+     "h": "gregisenberg"
+    },
+    {
+     "t": "Investors pushed back on local opposition to data centers (bearish data center siting / continuing)",
+     "u": "https://x.com/yemisi/status/2120168226466267189",
+     "d": "x.com",
+     "x": "https://x.com/yemisi/status/2120168226466267189",
+     "h": "yemisi"
+    },
+    {
+     "t": "MemoriesUpload launched to sell first-person video data to robotics labs",
+     "u": "https://x.com/shawnshenjx/status/2120177161860706806",
+     "d": "x.com",
+     "x": "https://x.com/shawnshenjx/status/2120177161860706806",
+     "h": "shawnshenjx"
+    },
+    {
+     "t": "Rippling cofounder's Vorflux launched AutoBots and disclosed a $15 million seed",
+     "u": "https://x.com/myprasanna/status/2120205408371634624",
+     "d": "x.com",
+     "x": "https://x.com/myprasanna/status/2120205408371634624",
+     "h": "myprasanna"
+    },
+    {
+     "t": "Update: A new report ties Nvidia sales of at least $7.5 billion in China to Alice Huang's company (bearish Nvidia / continuing)",
+     "u": "https://x.com/jingyanghk/status/2120108353171120482",
+     "d": "x.com",
+     "x": "https://x.com/jingyanghk/status/2120108353171120482",
+     "h": "jingyanghk"
+    },
+    {
+     "t": "Investors split on how much the Jensen Huang controversy hurts Nvidia (mixed Nvidia / continuing)",
+     "u": "https://x.com/AntonioGracias/status/2120269518651973803",
+     "d": "x.com",
+     "x": "https://x.com/AntonioGracias/status/2120269518651973803",
+     "h": "AntonioGracias"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "General Tech",
+   "items": [
+    {
+     "t": "Elon Musk: SpaceX ordered 100 GW a year of solar equipment from Singulus",
+     "u": "https://x.com/elonmusk/status/2120302471210033426",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2120302471210033426",
+     "h": "elonmusk"
+    },
+    {
+     "t": "Google launches Gemini 4 Carbon, its strongest model for long-horizon tasks",
+     "u": "https://x.com/Google/status/2120186185423159331",
+     "d": "x.com",
+     "x": "https://x.com/Google/status/2120186185423159331",
+     "h": "Google"
+    },
+    {
+     "t": "Discord's new Rust client brings the long-requested mobile account switcher",
+     "u": "https://x.com/discord/status/2120268703799574698",
+     "d": "x.com",
+     "x": "https://x.com/discord/status/2120268703799574698",
+     "h": "discord"
+    },
+    {
+     "t": "Update: Nvidia's independent directors hire Wachtell and ex-SDNY chief Joon Kim to investigate",
+     "u": "https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board",
+     "d": "nvidianews.nvidia.com",
+     "x": "https://x.com/nvidianewsroom/status/2120245613132702011",
+     "h": "nvidianewsroom"
+    },
+    {
+     "t": "SpaceX unveils Starlink Mini 2 with a built-in, swappable battery",
+     "u": "https://x.com/SawyerMerritt/status/2120208552652345450",
+     "d": "x.com",
+     "x": "https://x.com/SawyerMerritt/status/2120208552652345450",
+     "h": "SawyerMerritt"
+    },
+    {
+     "t": "The Boring Company starts tunneling in San Antonio",
+     "u": "https://x.com/boringcompany/status/2120286900569456800",
+     "d": "x.com",
+     "x": "https://x.com/boringcompany/status/2120286900569456800",
+     "h": "boringcompany"
+    },
+    {
+     "t": "Lenny Rachitsky: engineering job openings have stalled while PM roles boom",
+     "u": "https://x.com/lennysan/status/2120211695453028770",
+     "d": "x.com",
+     "x": "https://x.com/lennysan/status/2120211695453028770",
+     "h": "lennysan"
+    },
+    {
+     "t": "Apple's 16-inch OLED MacBook Pro draws raves and dizziness complaints",
+     "u": "https://appleinsider.com/articles/26/11/10/if-youre-getting-dizzy-using-proled-macbook-pro-you-are-not-alone?utm_source=rss&utm_source=rss&utm_medium=Sendible&utm_campaign=RSS",
+     "d": "appleinsider.com",
+     "x": "https://x.com/SawyerMerritt/status/2120389830559346995",
+     "h": "SawyerMerritt"
+    },
+    {
+     "t": "Jack Dorsey thanks Brian Chesky for his San Francisco parks investment",
+     "u": "https://www.sfchronicle.com/sf/article/airbnb-ceo-donation-parks-lurie-22516918.php?taid=6af2c0f3d0eea10001e9a9bd&utm_campaign=trueanthem%2B3988&utm_medium=social&utm_source=twitter",
+     "d": "sfchronicle.com",
+     "x": "https://x.com/jack/status/2120383841382924537",
+     "h": "jack"
+    },
+    {
+     "t": "@Jason: blocking data centers leaves struggling towns with nothing",
+     "u": "https://x.com/Jason/status/2120185653186986396",
+     "d": "x.com",
+     "x": "https://x.com/Jason/status/2120185653186986396",
+     "h": "Jason"
+    }
+   ]
+  },
+  {
+   "id": "cyber",
+   "title": "Cybersecurity",
+   "items": [
+    {
+     "t": "Google DeepMind formally verifies the production code of the Signal protocol",
+     "u": "https://x.com/pushmeet/status/2120127611137634376",
+     "d": "x.com",
+     "x": "https://x.com/pushmeet/status/2120127611137634376",
+     "h": "pushmeet"
+    },
+    {
+     "t": "Across Protocol tells users not to use its app while it investigates a domain issue",
+     "u": "https://x.com/AcrossProtocol/status/2120231513459433747",
+     "d": "x.com",
+     "x": "https://x.com/AcrossProtocol/status/2120231513459433747",
+     "h": "AcrossProtocol"
+    },
+    {
+     "t": "AWS Security publishes a two-part guide to building an AI vulnerability harness",
+     "u": "https://aws.amazon.com/blogs/security/building-your-ai-vulnerability-harness-part-1/",
+     "d": "aws.amazon.com",
+     "x": "https://x.com/mqst_/status/2120146961533939758",
+     "h": "mqst_"
+    },
+    {
+     "t": "Update: NEAR AI says it fought off the attacks and is back to normal, citing an SGLang flaw",
+     "u": "https://x.com/ilblackdragon/status/2120092118349729863",
+     "d": "x.com",
+     "x": "https://x.com/ilblackdragon/status/2120092118349729863",
+     "h": "ilblackdragon"
+    },
+    {
+     "t": "Paper: adding clean training data can strengthen a triggered backdoor",
+     "u": "https://x.com/OwainEvans_UK/status/2120233091121987620",
+     "d": "x.com",
+     "x": "https://x.com/OwainEvans_UK/status/2120233091121987620",
+     "h": "OwainEvans_UK"
+    },
+    {
+     "t": "Update: Binance warns iPhone users that the worse_query iOS bug can expose wallet keys",
+     "u": "https://x.com/CoinDesk/status/2120130717850185814",
+     "d": "x.com",
+     "x": "https://x.com/CoinDesk/status/2120130717850185814",
+     "h": "CoinDesk"
+    },
+    {
+     "t": "FBI and partners warn of attacks on industrial refrigeration and cold-chain systems worldwide",
+     "u": "https://x.com/FBIDallas/status/2119908665905852772",
+     "d": "x.com",
+     "x": "https://x.com/FBIDallas/status/2119908665905852772",
+     "h": "FBIDallas"
+    },
+    {
+     "t": "Update: NYT says US intelligence has only low confidence that Iran was behind France's cyberattacks",
+     "u": "https://x.com/fs0c131y/status/2120160729479217275",
+     "d": "x.com",
+     "x": "https://x.com/fs0c131y/status/2120160729479217275",
+     "h": "fs0c131y"
+    },
+    {
+     "t": "Google caps its bug bounty Exceptional Quality bonus at $5,000",
+     "u": "https://x.com/GoogleVRP/status/2120199809818640400",
+     "d": "x.com",
+     "x": "https://x.com/GoogleVRP/status/2120199809818640400",
+     "h": "GoogleVRP"
+    },
+    {
+     "t": "Fortinet patches eight critical flaws in FortiManager, FortiAnalyzer and FortiOS, topped by a 9.8 JSON API code-execution bug",
+     "u": "https://securityonline.info/fortinet-critical-vulnerabilities-november-2026/",
+     "d": "securityonline.info",
+     "x": "https://x.com/Daily_CyberSec/status/2120286278696501688",
+     "h": "Daily_CyberSec"
+    }
+   ]
+  },
+  {
+   "id": "hb",
+   "title": "Huntington Beach / OC",
+   "items": [
+    {
+     "t": "Huntington Beach Boys Varsity Basketball @ Marina",
+     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRl9TNkJKQkJ4bU5pem9UYWhGU2FWQjBLM1NRUUFqb09iVXdBOUdHdlRvRUltU3BaM1prb0RzcVlpdVhmN1N0Q3FqdDZaRkN4YXpkSDRlYlpyOVRVUW9lNEtGSTRxT3dWR1BfU3l1M1ZpT2F6Tko4dTgtQkdXM3RxdzBWNjJPT3NySFQzM1dha3RPeG5Ic19Rb0x1NWVIQ2tKUnNfRFZzMnhpVWVIa1JxdERmZ0IzeVRGQ3N2aGk1dWU2cVJWZ2VUdlFoNGtlYlRCRUtF?oc=5",
+     "d": "maxpreps.com"
+    },
+    {
+     "t": "Fountain Valley vs Laguna Beach - Boys Varsity Basketball 12/01/2026 | Live & On Demand",
+     "u": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOd0VFcUh3ZEJyOFB4LTM4QU5NN21QQ3Raa3dpM01COEtxc3c5YklZdHBVWXhQQk0yNEdlZ1pidGJub1R6Wlg2ZXFQWm12aWRwWXlOWDQ3ZTdwbDVvaDBYVFIxZ05CTEZyWFQ3R2VaYTNjR3duSks5WHl0ZHpCSWJ1czRUOGV4SXNDQi1xTjU3TkxuajVFeE1MdEh0bkpnczBQaUoxNjVtT0pUOFZGSS1pWF9tM1Z3U3AyNFJMN0IyM1dienVEWWpRTmY4YlBwWmVBNm1idXFjRWZyNnJ5NWhMUEY5eVJkUWVFMGRtQi01LV9fYUxrMU9VWURFWnJuUklWWmZuLWZleEVaYmpsXzd1OFBGbkZ5OVRHWmlxNzgta0E2MWFuQzh5cjdSYzdqbVE2dU1fbw?oc=5",
+     "d": "nfhsnetwork.com"
+    },
+    {
+     "t": "111 votes separates Chris Kluwe and Gracey Van Der Mark",
+     "u": "https://www.reddit.com/r/huntingtonbeach/comments/1xt638s/111_votes_separates_chris_kluwe_and_gracey_van/",
+     "d": "reddit.com"
+    }
+   ]
+  }
+ ]
+}
