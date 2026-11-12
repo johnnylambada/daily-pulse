@@ -1,0 +1,540 @@
+{
+ "run": "2026-11-12_0505",
+ "stamp": "2026-11-12 05:05",
+ "date": "2026-11-12",
+ "sections": [
+  {
+   "id": "top",
+   "title": "Top Stories",
+   "items": [
+    {
+     "t": "Grok Bot 1.0 launches AI teammates for whole teams",
+     "u": "https://x.com/bot/status/2120582957782200586",
+     "d": "x.com",
+     "x": "https://x.com/bot/status/2120582957782200586",
+     "h": "bot"
+    },
+    {
+     "t": "Tesla extends Cybertruck production through the end of summer 2027, and supervised self-driving is approved in Finland",
+     "u": "https://x.com/elonmusk/status/2120565056429814073",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2120565056429814073",
+     "h": "elonmusk"
+    },
+    {
+     "t": "Google launches Gemini Decision 1 and the Gemini Decisions API, a cheap model that scores choices instead of writing text",
+     "u": "https://x.com/sundarpichai/status/2120581155078729728",
+     "d": "x.com",
+     "x": "https://x.com/sundarpichai/status/2120581155078729728",
+     "h": "sundarpichai"
+    },
+    {
+     "t": "Update: Anthropic IPO chatter turns to a reportedly lower Q4 revenue guide and a secondhand \u201c$1tn ARR\u201d broker-call claim (unconfirmed)",
+     "u": "https://valueaddvc.com/pulse/anthropic-ipo-oversubscribed-1-5t-valuation-pricing-2026",
+     "d": "valueaddvc.com",
+     "x": "https://x.com/chamath/status/2120556609554596007",
+     "h": "chamath"
+    },
+    {
+     "t": "Rumor: Anthropic reportedly told analysts its SpaceX compute contract won\u2019t run past mid-2027 (secondhand)",
+     "u": "https://x.com/jukan05/status/2120483370488750336",
+     "d": "x.com",
+     "x": "https://x.com/jukan05/status/2120483370488750336",
+     "h": "jukan05"
+    },
+    {
+     "t": "Google DeepMind launches AlphaGenome 2 to predict how DNA variants act in specific cell types",
+     "u": "https://www.alphagenomedocs.com/",
+     "d": "alphagenomedocs.com",
+     "x": "https://x.com/GoogleDeepMind/status/2120532824465805749",
+     "h": "GoogleDeepMind"
+    },
+    {
+     "t": "Claude Fable 5.2 takes #1 in Arena\u2019s Agent Arena by a wide margin and leads a new professional-files benchmark",
+     "u": "https://artificialanalysis.ai/evaluations/mka",
+     "d": "artificialanalysis.ai",
+     "x": "https://x.com/arena/status/2120568144687460434",
+     "h": "arena"
+    },
+    {
+     "t": "AI safety: OpenAI finds models get harder to monitor through their chains of thought, and new benchmarks catch every frontier model cheating",
+     "u": "https://alignment.openai.com/cot-monitorability-model-lifecycle",
+     "d": "alignment.openai.com",
+     "x": "https://x.com/jeffreygwang/status/2120581630196879460",
+     "h": "jeffreygwang"
+    },
+    {
+     "t": "Rumor: OpenAI\u2019s GPT-6.2 family is said to launch Thursday, as Fable 5.2 keeps topping benchmarks and developers split on Gemini 4 Carbon",
+     "u": "https://cwe-bench.com",
+     "d": "cwe-bench.com",
+     "x": "https://x.com/TokenGremlin/status/2120530405547806742",
+     "h": "TokenGremlin"
+    },
+    {
+     "t": "Blackmagic unveils a 108-mic ambisonic microphone for spatial audio, as Vision Pro\u2019s TV app adds third-party immersive films",
+     "u": "https://www.blackmagicdesign.com/",
+     "d": "blackmagicdesign.com",
+     "x": "https://x.com/Blackmagic_News/status/2120591437465338366",
+     "h": "Blackmagic_News"
+    }
+   ]
+  },
+  {
+   "id": "us",
+   "title": "US News",
+   "items": [
+    {
+     "t": "Democrat Scott Colom wins Mississippi Senate race in upset",
+     "u": "https://www.cbsnews.com/news/mississippi-2026-senate-scott-colom-cindy-hyde-smith/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "ICE deportations and arrests hit record high",
+     "u": "https://www.cbsnews.com/news/ice-deportations-arrests-hit-record-high/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "With Jim Jordan as leader, House GOP signals it's ready to fight",
+     "u": "https://www.cbsnews.com/news/jim-jordan-house-republican-leader-democrats/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "Scott Colom Will Be Mississippi\u2019s Third Black Senator. Who Were the First Two?",
+     "u": "https://www.nytimes.com/2026/11/11/us/elections/scott-colom-mississippi-black-senators.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "In Mississippi, Scott Colom Supporters Celebrate Historic Senate Win",
+     "u": "https://www.nytimes.com/2026/11/12/us/elections/mississippi-colom-senate-race-black-voters.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Why New England\u2019s Republican Governors Withstood the Blue Wave",
+     "u": "https://www.nytimes.com/2026/11/12/us/scott-vermont-ayotte-nh-governor-republican.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Want to Short a Stock? Kalshi and C.T.F.C. Allow It as \u2018Perpetual Trades.\u2019",
+     "u": "https://www.nytimes.com/2026/11/12/us/politics/kalshi-commodity-futures-stocks.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "How the Legacy of Torture Has Vexed the Quest for 9/11 Justice",
+     "u": "https://www.nytimes.com/2026/11/12/us/politics/torture-9-11.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "San Antonio Fights Plan to Turn Warehouse Into ICE Detention Center",
+     "u": "https://www.nytimes.com/2026/11/12/us/ice-detention-center-san-antonio.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Dubious buys raise alarm over local control of opioid cash",
+     "u": "https://www.cbsnews.com/news/opioid-settlement-funds-questionable-local-spending/",
+     "d": "cbsnews.com"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "World News",
+   "items": [
+    {
+     "t": "Rep. Mike Turner says a Ramaswamy ad cost him his Ohio re-election",
+     "u": "https://thehill.com/homenews/campaign/6213680-turner-blames-ramaswamy-ad-ohio-loss/",
+     "d": "thehill.com",
+     "x": "https://x.com/thehill/status/2120619070173118810",
+     "h": "thehill"
+    },
+    {
+     "t": "Ukraine says it air-dropped a ground robot across the Dnipro for the first time",
+     "u": "https://x.com/Gerashchenko_en/status/2120619233025409380",
+     "d": "x.com",
+     "x": "https://x.com/Gerashchenko_en/status/2120619233025409380",
+     "h": "Gerashchenko_en"
+    },
+    {
+     "t": "ProPublica: staff losses at VA hospitals are delaying care for veterans",
+     "u": "https://x.com/propublica/status/2120518950102650899",
+     "d": "x.com",
+     "x": "https://x.com/propublica/status/2120518950102650899",
+     "h": "propublica"
+    },
+    {
+     "t": "Moody\u2019s raises India\u2019s growth forecast, sees the economy sustaining near 7% growth",
+     "u": "https://www.reuters.com/world/india/moodys-lifts-india-growth-forecast-sees-economy-well-positioned-sustain-near-7-2026-11-11/?taid=6af43cc3191e680001120757&utm_campaign=trueAnthem%3A+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
+     "d": "reuters.com",
+     "x": "https://x.com/ReutersAsia/status/2120456646065267009",
+     "h": "ReutersAsia"
+    },
+    {
+     "t": "Take-Two Interactive (TTWO) \u2014 bullish (new)",
+     "u": "https://www.washingtonpost.com/entertainment/video-games/2026/11/11/grand-theft-auto-vi-reportedly-passes-1b-sales-week-before-release/?utm_campaign=wp_main&utm_source=twitter&utm_medium=social",
+     "d": "washingtonpost.com",
+     "x": "https://x.com/washingtonpost/status/2120618836001013829",
+     "h": "washingtonpost"
+    },
+    {
+     "t": "White House counsel warns Democrats that oversight of the administration could be treated as criminal",
+     "u": "https://abcnews.com/Politics/top-white-house-lawyer-warns-democrats-threats-oversight/story?id=138044143&cid=social_twitter_abcn",
+     "d": "abcnews.com",
+     "x": "https://x.com/ABC/status/2120520750608130216",
+     "h": "ABC"
+    },
+    {
+     "t": "Bernie Sanders says he won\u2019t back Chuck Schumer for majority leader",
+     "u": "https://www.nbcnews.com/politics/congress/bernie-sanders-wont-support-chuck-schumer-senate-democrats-leader-rcna608633?cid=sm_npd_nn_tw_ma&taid=6af47993c6e52100014ae9a3&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter",
+     "d": "nbcnews.com",
+     "x": "https://x.com/NBCNews/status/2120521943409479962",
+     "h": "NBCNews"
+    },
+    {
+     "t": "Trump marks Veterans Day at Arlington National Cemetery",
+     "u": "https://www.dailymail.com/news/article-16284759/Trump-Melania-Veterans-Day-speech.html?ito=social-twitter_mailonline",
+     "d": "dailymail.com",
+     "x": "https://x.com/ABC/status/2120573717990539352",
+     "h": "ABC"
+    },
+    {
+     "t": "Republicans pick Jim Jordan as House minority leader and keep John Thune as Senate leader",
+     "u": "https://www.washingtonpost.com/politics/2026/11/10/house-republicans-elect-jim-jordan-serve-minority-leader-next-year/?utm_campaign=wp_main&utm_source=twitter&utm_medium=social",
+     "d": "washingtonpost.com",
+     "x": "https://x.com/washingtonpost/status/2120527130098389385",
+     "h": "washingtonpost"
+    },
+    {
+     "t": "David Cameron warns Andy Burnham against seeking to rejoin the EU",
+     "u": "https://www.dailymail.com/news/article-16284983/David-Cameron-warns-Andy-Burnham-not-seek-rejoin-EU-tells-PM-Brexit-UKs-economic-woes.html?ns_mchannel=rss&ns_campaign=1490&ito=social-twitter_mailonline",
+     "d": "dailymail.com",
+     "x": "https://x.com/DailyMail/status/2120575112109773199",
+     "h": "DailyMail"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI",
+   "items": [
+    {
+     "t": "n8n Labs launches Nod, an open-source personal agent",
+     "u": "https://x.com/n8n_io/status/2120431328458076315",
+     "d": "x.com",
+     "x": "https://x.com/n8n_io/status/2120431328458076315",
+     "h": "n8n_io"
+    },
+    {
+     "t": "Google launches Gemini Decision 1, a cheap classification model, in the Gemini API",
+     "u": "https://x.com/OfficialLoganK/status/2120581433639198885",
+     "d": "x.com",
+     "x": "https://x.com/OfficialLoganK/status/2120581433639198885",
+     "h": "OfficialLoganK"
+    },
+    {
+     "t": "Developer says a big Chinese lab asked for help distilling Claude Fable",
+     "u": "https://x.com/Da7_Tech/status/2120540672696451162",
+     "d": "x.com",
+     "x": "https://x.com/Da7_Tech/status/2120540672696451162",
+     "h": "Da7_Tech"
+    },
+    {
+     "t": "Brave cloaks Search result links to stop scrapers",
+     "u": "https://x.com/brave/status/2120563631536459876",
+     "d": "x.com",
+     "x": "https://x.com/brave/status/2120563631536459876",
+     "h": "brave"
+    },
+    {
+     "t": "ChatGPT adds a Finances feature to its desktop app",
+     "u": "https://x.com/ChatGPT/status/2120604108893896965",
+     "d": "x.com",
+     "x": "https://x.com/ChatGPT/status/2120604108893896965",
+     "h": "ChatGPT"
+    },
+    {
+     "t": "Google launches the Gemini Decisions API and Gemini Decision 1",
+     "u": "https://openrouter.ai/google/gemini-decision-1",
+     "d": "openrouter.ai",
+     "x": "https://x.com/GoogleAIStudio/status/2120581284690801060",
+     "h": "GoogleAIStudio"
+    },
+    {
+     "t": "Unsloth releases Dynamic V3.1 GGUFs for Qwen3.8-27B",
+     "u": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+     "d": "huggingface.co",
+     "x": "https://x.com/UnslothAI/status/2120536946774769860",
+     "h": "UnslothAI"
+    },
+    {
+     "t": "IREN delivers Horizon 1, its first AI cloud build for Microsoft",
+     "u": "https://x.com/IREN_Ltd/status/2120604293220986956",
+     "d": "x.com",
+     "x": "https://x.com/IREN_Ltd/status/2120604293220986956",
+     "h": "IREN_Ltd"
+    },
+    {
+     "t": "Antigravity rolls out browser use for its coding agent",
+     "u": "https://x.com/antigravity/status/2120556423474028576",
+     "d": "x.com",
+     "x": "https://x.com/antigravity/status/2120556423474028576",
+     "h": "antigravity"
+    },
+    {
+     "t": "Baidu releases ERNIE 5.5 Flash Preview, an open-weight model",
+     "u": "https://openrouter.ai/baidu/ernie-5.5-flash-preview:free",
+     "d": "openrouter.ai",
+     "x": "https://x.com/Baidu_Inc/status/2120391732248637734",
+     "h": "Baidu_Inc"
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "title": "Investing & Markets",
+   "items": [
+    {
+     "t": "a16z laid out a \"B2A\" thesis: agents as the main customers for products",
+     "u": "https://x.com/omooretweets/status/2120554019177611668",
+     "d": "x.com",
+     "x": "https://x.com/omooretweets/status/2120554019177611668",
+     "h": "omooretweets"
+    },
+    {
+     "t": "OpenAI and Anthropic revenue is closing in on GLP-1 drug sales (bullish AI lab revenue / new)",
+     "u": "https://x.com/patrick_oshag/status/2120540366810095769",
+     "d": "x.com",
+     "x": "https://x.com/patrick_oshag/status/2120540366810095769",
+     "h": "patrick_oshag"
+    },
+    {
+     "t": "Fractile raised a $720 million Series C for AI inference chips",
+     "u": "https://x.com/fractile_ai/status/2120519162925654070",
+     "d": "x.com",
+     "x": "https://x.com/fractile_ai/status/2120519162925654070",
+     "h": "fractile_ai"
+    },
+    {
+     "t": "Vine Ventures closed a $236 million Fund III, above its $200 million target",
+     "u": "https://x.com/ericmreiner/status/2120514011506598043",
+     "d": "x.com",
+     "x": "https://x.com/ericmreiner/status/2120514011506598043",
+     "h": "ericmreiner"
+    },
+    {
+     "t": "Anthropic reportedly told analysts its SpaceX compute contract won't be extended past mid-2027 (bearish SpaceX compute revenue / new)",
+     "u": "https://x.com/pitdesi/status/2120518056073957619",
+     "d": "x.com",
+     "x": "https://x.com/pitdesi/status/2120518056073957619",
+     "h": "pitdesi"
+    },
+    {
+     "t": "CoreWeave said prices for GPUs coming off contract rose 50% in a quarter (bullish GPU resale value / change)",
+     "u": "https://www.renaissancecapital.com/IPO-Center/News/122669/ipo-weekly-weigh-in-this-new-ai-stock-has-a-debt-problem",
+     "d": "renaissancecapital.com",
+     "x": "https://x.com/daniel_koss/status/2120421188119805979",
+     "h": "daniel_koss"
+    },
+    {
+     "t": "Fuse said it is now buying and expanding power grids",
+     "u": "https://x.com/i/status/2120532005385371687",
+     "d": "x.com",
+     "x": "https://x.com/i/status/2120532005385371687",
+     "h": "i"
+    },
+    {
+     "t": "Investors asked what happens to $10\u201320 billion startups if IPOs now need $500 billion valuations",
+     "u": "https://x.com/chudson/status/2120420953603834304",
+     "d": "x.com",
+     "x": "https://x.com/chudson/status/2120420953603834304",
+     "h": "chudson"
+    },
+    {
+     "t": "YC startups uxduck and Sintropix launched drone software and an AI-native ERP",
+     "u": "https://x.com/uxduck/status/2120534655950852509",
+     "d": "x.com",
+     "x": "https://x.com/uxduck/status/2120534655950852509",
+     "h": "uxduck"
+    },
+    {
+     "t": "Revolut Pay went live as a payment option on Uber and Uber Eats",
+     "u": "https://x.com/maxkarpis/status/2120440247880470580",
+     "d": "x.com",
+     "x": "https://x.com/maxkarpis/status/2120440247880470580",
+     "h": "maxkarpis"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "General Tech",
+   "items": [
+    {
+     "t": "Pavel Durov mocks spy-agency honeypots",
+     "u": "https://x.com/durov/status/2120614892306919694",
+     "d": "x.com",
+     "x": "https://x.com/durov/status/2120614892306919694",
+     "h": "durov"
+    },
+    {
+     "t": "Tesla's supervised self-driving approved in Finland",
+     "u": "https://x.com/elonmusk/status/2120565179276832797",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2120565179276832797",
+     "h": "elonmusk"
+    },
+    {
+     "t": "Musk says SoftBank put money into WeWork instead of a Tesla buyout",
+     "u": "https://x.com/Jason/status/2120545762207470062",
+     "d": "x.com",
+     "x": "https://x.com/Jason/status/2120545762207470062",
+     "h": "Jason"
+    },
+    {
+     "t": "Telegram says over 1 million Gram wallets were activated in 48 hours",
+     "u": "https://x.com/durov/status/2120495033669525657",
+     "d": "x.com",
+     "x": "https://x.com/durov/status/2120495033669525657",
+     "h": "durov"
+    },
+    {
+     "t": "DHH: Omarchy 4.6 shares local AI models across your tailnet",
+     "u": "https://x.com/dhh/status/2120535700491891109",
+     "d": "x.com",
+     "x": "https://x.com/dhh/status/2120535700491891109",
+     "h": "dhh"
+    },
+    {
+     "t": "Google launches Tabletop and A2UI 1.0",
+     "u": "https://x.com/Google/status/2120561628882125069",
+     "d": "x.com",
+     "x": "https://x.com/Google/status/2120561628882125069",
+     "h": "Google"
+    },
+    {
+     "t": "Canonical hit by a data center outage affecting Ubuntu websites",
+     "u": "https://x.com/ubuntu/status/2120564228541088085",
+     "d": "x.com",
+     "x": "https://x.com/ubuntu/status/2120564228541088085",
+     "h": "ubuntu"
+    },
+    {
+     "t": "AWS launches AWS Emulator and Nitro Sandboxes",
+     "u": "https://x.com/Werner/status/2120577888844148891",
+     "d": "x.com",
+     "x": "https://x.com/Werner/status/2120577888844148891",
+     "h": "Werner"
+    },
+    {
+     "t": "Lenny Rachitsky: forward-deployed engineers are the fastest-growing role",
+     "u": "https://x.com/lennysan/status/2120547244953031043",
+     "d": "x.com",
+     "x": "https://x.com/lennysan/status/2120547244953031043",
+     "h": "lennysan"
+    },
+    {
+     "t": "Peter Diamandis: would $500 off your power bill win your vote for a data center?",
+     "u": "https://x.com/PeterDiamandis/status/2120600120844513493",
+     "d": "x.com",
+     "x": "https://x.com/PeterDiamandis/status/2120600120844513493",
+     "h": "PeterDiamandis"
+    }
+   ]
+  },
+  {
+   "id": "cyber",
+   "title": "Cybersecurity",
+   "items": [
+    {
+     "t": "Apache HTTP Server patches critical mod_http2 race condition (CVE-2026-119618) that can allow unauthenticated RCE",
+     "u": "https://httpd.apache.org/security/vulnerabilities_24.html",
+     "d": "httpd.apache.org",
+     "x": "https://x.com/watchtowrcyber/status/2120589618131124245",
+     "h": "watchtowrcyber"
+    },
+    {
+     "t": "Researchers say 35,578 apps built with Grok Build were open to anyone, including internal SpaceXSI and X apps",
+     "u": "https://cybersecuritynews.com/grok-ai-app-builder-exposes-data/",
+     "d": "cybersecuritynews.com",
+     "x": "https://x.com/The_Cyber_News/status/2120492509860384779",
+     "h": "The_Cyber_News"
+    },
+    {
+     "t": "UK NCSC launches a Cyber Adversary Simulation scheme for critical organisations",
+     "u": "https://www.ncsc.gov.uk/news/ncsc-scheme-help-critical-organisations-test-their-cyber-defences",
+     "d": "ncsc.gov.uk",
+     "x": "https://x.com/NCSC/status/2120509692745015499",
+     "h": "NCSC"
+    },
+    {
+     "t": "Public PoC turns a standard Windows user into SYSTEM via Windows Error Reporting (CVE-2026-97798)",
+     "u": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97798",
+     "d": "msrc.microsoft.com",
+     "x": "https://x.com/0xManan/status/2120434688162697558",
+     "h": "0xManan"
+    },
+    {
+     "t": "Public \"SignDrop\" exploit claims Windows SYSTEM privileges through the CLFS driver, with no patch yet",
+     "u": "https://cybersecuritynews.com/windows-signdrop-zero-day-exploit/",
+     "d": "cybersecuritynews.com",
+     "x": "https://x.com/The_Cyber_News/status/2120516845577130096",
+     "h": "The_Cyber_News"
+    },
+    {
+     "t": "Update: Ivanti has now patched the critical Endpoint Manager SQL injection (CVE-2026-121653, CVSS 9.8) in 2024 SU8",
+     "u": "https://x.com/IntCyberDigest/status/2120556911179215151",
+     "d": "x.com",
+     "x": "https://x.com/IntCyberDigest/status/2120556911179215151",
+     "h": "IntCyberDigest"
+    },
+    {
+     "t": "Ubuntu 26.10 adds certificate revocation checks to curl",
+     "u": "https://cybersecuritynews.com/ubuntu-26-10-adds-protection-to-curl/",
+     "d": "cybersecuritynews.com",
+     "x": "https://x.com/The_Cyber_News/status/2120569228508254284",
+     "h": "The_Cyber_News"
+    },
+    {
+     "t": "OpenRouter warns some users that credentials sent to one AI provider may have been compromised",
+     "u": "https://x.com/craiu/status/2120424263672860930",
+     "d": "x.com",
+     "x": "https://x.com/craiu/status/2120424263672860930",
+     "h": "craiu"
+    },
+    {
+     "t": "Prompt injection in OpenAI Codex's GitHub workflow led to a path to backdoor the official @openai/codex npm package",
+     "u": "https://depi.security/blog/20261111-backdooring-codex/",
+     "d": "depi.security",
+     "x": "https://x.com/julianor/status/2120564710479421871",
+     "h": "julianor"
+    },
+    {
+     "t": "Aikido Arena ranks AI models on finding real CVEs",
+     "u": "https://x.com/AikidoSecurity/status/2120497920084468177",
+     "d": "x.com",
+     "x": "https://x.com/AikidoSecurity/status/2120497920084468177",
+     "h": "AikidoSecurity"
+    }
+   ]
+  },
+  {
+   "id": "hb",
+   "title": "Huntington Beach / OC",
+   "items": [
+    {
+     "t": "Long Beach Poly Varsity Football @ Edison",
+     "u": "https://www.maxpreps.com/ca/football/game/edison-huntington-beach-vs-long-beach-poly/11-13-2026/?c=99c51195-fa4c-4dd3-b2c2-729816dab4e7",
+     "d": "maxpreps.com"
+    },
+    {
+     "t": "HBHS vs Fountain Valley - Girls Varsity Basketball 01/14/2027 | Watch Live & On Demand",
+     "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS3JXQVRPNjFwLWY2S3publlIUTZRVklGdjl4Nkk0cWdaTmZweDh1SndSNWtNTmdXLUgxWk5LVjduUHQwcWg2VTRGS2gtUW8yLWQ3eXdWNkVUczRqMHlCTDBtX2hlQjdxam9zdEhfbEI3ZERKeEZ4NUQ0elBHSHZxUTdYSk9lSXZlNTdoUVI1a216Z2M3RTlQbjYxbW84dw?oc=5",
+     "d": "nfhsnetwork.com"
+    },
+    {
+     "t": "Mavrovouniotis: The County Counsel Is Part of the Problem",
+     "u": "https://voiceofoc.org/2026/11/mavrovouniotis-the-county-counsel-is-part-of-the-problem/",
+     "d": "voiceofoc.org"
+    }
+   ]
+  }
+ ]
+}
