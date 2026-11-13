@@ -1,0 +1,540 @@
+{
+ "run": "2026-11-13_0503",
+ "stamp": "2026-11-13 05:03",
+ "date": "2026-11-13",
+ "sections": [
+  {
+   "id": "top",
+   "title": "Top Stories",
+   "items": [
+    {
+     "t": "Jensen Huang resigns as Nvidia CEO; CFO Colette Kress named interim CEO",
+     "u": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+     "d": "nvidianews.nvidia.com",
+     "x": "https://x.com/nvidianewsroom/status/2120876571829662014",
+     "h": "nvidianewsroom"
+    },
+    {
+     "t": "Will DePue says Chinese open models carry the fingerprint of export-controlled Blackwell GPUs, and critics push back",
+     "u": "https://x.com/willdepue/status/2120992457630326841",
+     "d": "x.com",
+     "x": "https://x.com/willdepue/status/2120992457630326841",
+     "h": "willdepue"
+    },
+    {
+     "t": "Anthropic puts Claude into live video calls with Claude Meetings, and lets companies self-host Managed Agents",
+     "u": "https://x.com/claudeai/status/2120973994191094179",
+     "d": "x.com",
+     "x": "https://x.com/claudeai/status/2120973994191094179",
+     "h": "claudeai"
+    },
+    {
+     "t": "CISA confirms attackers are exploiting an Outlook zero-day; Microsoft has patches out",
+     "u": "https://cybersecuritynews.com/active-exploitation-of-outlook-0-day-vulnerability/",
+     "d": "cybersecuritynews.com",
+     "x": "https://x.com/The_Cyber_News/status/2120885417524216117",
+     "h": "The_Cyber_News"
+    },
+    {
+     "t": "Anthropic's IPO, said to be set for next Wednesday, stays on watch amid Nvidia jitters",
+     "u": "https://ipo.anthropic.com/us/",
+     "d": "ipo.anthropic.com",
+     "x": "https://x.com/AnthropicAI/status/2120841731302154708",
+     "h": "AnthropicAI"
+    },
+    {
+     "t": "TSMC confirms a hack through an outside cloud provider holding employee records",
+     "u": "https://x.com/AndrewCurran_/status/2121053887398601075",
+     "d": "x.com",
+     "x": "https://x.com/AndrewCurran_/status/2121053887398601075",
+     "h": "AndrewCurran_"
+    },
+    {
+     "t": "WSJ: Huang called new interim CEO Kress a \u201cdeer in the headlights\u201d as Nvidia\u2019s $500B financing plans hit trouble; Chinese firms rush for overseas capacity",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-12/nvidia-faced-pressure-to-boost-its-ai-backstop-before-huang-exit",
+     "d": "bloomberg.com",
+     "x": "https://x.com/anissagardizy8/status/2121063114276008272",
+     "h": "anissagardizy8"
+    },
+    {
+     "t": "Andy Rubin\u2019s Genki Robotics shows its humanoid to Japan\u2019s prime minister",
+     "u": "https://x.com/takaichi_sanae/status/2120849499983925614",
+     "d": "x.com",
+     "x": "https://x.com/takaichi_sanae/status/2120849499983925614",
+     "h": "takaichi_sanae"
+    },
+    {
+     "t": "Thinking Machines releases Inkling 2 Small\u2019s weights under Apache 2.0",
+     "u": "https://huggingface.co/thinkingmachines/Inkling-2-Small",
+     "d": "huggingface.co",
+     "x": "https://x.com/thinkymachines/status/2120982625582195011",
+     "h": "thinkymachines"
+    },
+    {
+     "t": "Tesla pulls the $41,990 Model Y AWD from its US order page as waits stretch into 2027",
+     "u": "https://x.com/SawyerMerritt/status/2121106496528216535",
+     "d": "x.com",
+     "x": "https://x.com/SawyerMerritt/status/2121106496528216535",
+     "h": "SawyerMerritt"
+    }
+   ]
+  },
+  {
+   "id": "us",
+   "title": "US News",
+   "items": [
+    {
+     "t": "Huang's exit rocks Nvidia and creates openings for rival firms",
+     "u": "https://www.cbsnews.com/news/nvidia-jensen-huang-resigns-competitors/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "D.C. gunman appeared to vent about problems with luxury condo",
+     "u": "https://www.cbsnews.com/news/dc-shooting-gunman-social-media/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "After Influence Peddling Claims, White House Restricts Lobbyist Meetings",
+     "u": "https://www.nytimes.com/2026/11/13/us/politics/stephen-miller-memo-wiles.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Investigation into what cause deadly Brooklyn building collapse continues",
+     "u": "https://www.npr.org/2026/11/13/nx-s1-6038959/investigation-into-what-cause-deadly-brooklyn-building-collapse-continues",
+     "d": "npr.org"
+    },
+    {
+     "t": "Microsoft battling major worldwide outage",
+     "u": "https://www.cbsnews.com/news/microsoft-battling-major-outage/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "Hegseth awards medal to soldier who chastised him",
+     "u": "https://www.npr.org/2026/11/13/nx-s1-6039845/hegseth-awards-medal-to-soldier-who-chastised-him",
+     "d": "npr.org"
+    },
+    {
+     "t": "\u2018I Had to Have Faith\u2019: How a Democrat Defied Long Odds in Mississippi\u2019s Senate Race",
+     "u": "https://www.nytimes.com/2026/11/13/us/politics/scott-colom-mississippi-democrat-defied-odds.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "The Christian Right Lost Big in the Elections. Where Does It Go Next?",
+     "u": "https://www.nytimes.com/2026/11/13/us/christian-right-collapse.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Burgers, Boycotts and the Ad That Divided an Ohio Community",
+     "u": "https://www.nytimes.com/2026/11/13/us/medina-ohio-boycott-restaurant-ramaswamy.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Rivers in the sky are raining down on the Pacific Northwest. What are they?",
+     "u": "https://www.npr.org/2026/11/13/nx-s1-6032777/rivers-in-the-sky-are-raining-down-on-the-pacific-northwest-what-are-they",
+     "d": "npr.org"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "World News",
+   "items": [
+    {
+     "t": "Iran strikes back at a US radar in Bahrain as four tankers are hit in the Strait of Hormuz",
+     "u": "https://www.aljazeera.com/",
+     "d": "aljazeera.com",
+     "x": "https://x.com/AJENews/status/2121068049172467995",
+     "h": "AJENews"
+    },
+    {
+     "t": "Young Canadians face historically long stretches of unemployment",
+     "u": "https://www.theglobeandmail.com/business/article-young-canadians-are-facing-historically-long-bouts-of-unemployment/",
+     "d": "theglobeandmail.com",
+     "x": "https://x.com/globeandmail/status/2120981714587570312",
+     "h": "globeandmail"
+    },
+    {
+     "t": "Van Hollen launches a challenge to Schumer for Senate majority leader",
+     "u": "https://www.washingtonpost.com/politics/2026/11/12/van-hollen-announces-challenge-schumer-lead-senate/?utm_campaign=wp_main&utm_source=twitter&utm_medium=social",
+     "d": "washingtonpost.com",
+     "x": "https://x.com/washingtonpost/status/2121062392104640801",
+     "h": "washingtonpost"
+    },
+    {
+     "t": "Republicans rush to confirm judges before Democrats take the Senate as Democrats line up probes",
+     "u": "https://www.cnn.com/2026/11/12/politics/senate-gop-push-to-get-trump-judges-confirmed?Date=20261113&Profile=CNNPolitics&utm_content=1794540204&utm_medium=social&utm_source=twitter",
+     "d": "cnn.com",
+     "x": "https://x.com/CNN/status/2121098239474549131",
+     "h": "CNN"
+    },
+    {
+     "t": "Microsoft (MSFT) \u2014 bearish (no change)",
+     "u": "https://www.nbcnews.com/tech/tech-news/outlook-widespread-outage-hits-microsoft-apps-rcna609047?cid=sm_npd_nn_tw_ma&taid=6af66f398a00c90001225f6f&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter",
+     "d": "nbcnews.com",
+     "x": "https://x.com/NBCNews/status/2121060584741318803",
+     "h": "NBCNews"
+    },
+    {
+     "t": "Democrat Jonathan Kreiss-Tomkins wins Alaska\u2019s governor race, CNN projects",
+     "u": "https://www.cnn.com/2026/11/12/politics/live-news/trump-congress?post-id=cmwegud5400003b683d9wo1wn&Date=20261113&Profile=CNN&utm_content=1794544231&utm_medium=social&utm_source=twitter",
+     "d": "cnn.com",
+     "x": "https://x.com/CNNPolitics/status/2121098751519469925",
+     "h": "CNNPolitics"
+    },
+    {
+     "t": "Microsoft (MSFT) \u2014 bearish (no change)",
+     "u": "https://x.com/WBC24News/status/2121097449880113294",
+     "d": "x.com",
+     "x": "https://x.com/WBC24News/status/2121097449880113294",
+     "h": "WBC24News"
+    },
+    {
+     "t": "Microsoft (MSFT) \u2014 bearish (new)",
+     "u": "https://www.usatoday.com/story/tech/2026/11/12/microsoft-down-outlook-365-outage-reports/92744582007/?taid=6af62553c6e52100014d9d7a&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter",
+     "d": "usatoday.com",
+     "x": "https://x.com/RachelTobac/status/2120981749899366468",
+     "h": "RachelTobac"
+    },
+    {
+     "t": "Witkoff says Putin agreed to let European officials join Ukraine peace talks",
+     "u": "https://www.washingtonpost.com/world/2026/11/12/after-meeting-putin-us-envoys-say-europe-join-talks-ending-ukraine-war/?utm_campaign=wp_main&utm_source=twitter&utm_medium=social",
+     "d": "washingtonpost.com",
+     "x": "https://x.com/washingtonpost/status/2120982517691924926",
+     "h": "washingtonpost"
+    },
+    {
+     "t": "Sheikh Hasina says threats of arrest or death won\u2019t stop her returning to Bangladesh",
+     "u": "https://x.com/timesofindia/status/2121105777469313185",
+     "d": "x.com",
+     "x": "https://x.com/timesofindia/status/2121105777469313185",
+     "h": "timesofindia"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI",
+   "items": [
+    {
+     "t": "Update: Hundreds of Nvidia employees reportedly sign a letter demanding Huang's return and the board's resignation",
+     "u": "https://www.theinformation.com/articles/sex-lies-ai-chips-jensen-huangs-last-days-nvidia-ceo?rc=hwneun",
+     "d": "theinformation.com",
+     "x": "https://x.com/zack_overflow/status/2121092676510695723",
+     "h": "zack_overflow"
+    },
+    {
+     "t": "Liquid AI releases LiquidCodec",
+     "u": "https://x.com/liquidai/status/2120947649994228088",
+     "d": "x.com",
+     "x": "https://x.com/liquidai/status/2120947649994228088",
+     "h": "liquidai"
+    },
+    {
+     "t": "Anthropic puts self-hosted Claude Managed Agents into private beta",
+     "u": "https://x.com/ClaudeDevs/status/2120938988165091693",
+     "d": "x.com",
+     "x": "https://x.com/ClaudeDevs/status/2120938988165091693",
+     "h": "ClaudeDevs"
+    },
+    {
+     "t": "Expo releases Expo Simulators",
+     "u": "https://x.com/expo/status/2120924979898601506",
+     "d": "x.com",
+     "x": "https://x.com/expo/status/2120924979898601506",
+     "h": "expo"
+    },
+    {
+     "t": "Retell AI passes $100M revenue run rate",
+     "u": "https://x.com/_bingwu/status/2120925189647315177",
+     "d": "x.com",
+     "x": "https://x.com/_bingwu/status/2120925189647315177",
+     "h": "_bingwu"
+    },
+    {
+     "t": "Breken launches autonomous production engineering",
+     "u": "https://x.com/brekenai/status/2120948175595094253",
+     "d": "x.com",
+     "x": "https://x.com/brekenai/status/2120948175595094253",
+     "h": "brekenai"
+    },
+    {
+     "t": "ChatGPT's \"dot\" gets faster replies and custom instructions",
+     "u": "https://x.com/ChatGPT/status/2120970988796170275",
+     "d": "x.com",
+     "x": "https://x.com/ChatGPT/status/2120970988796170275",
+     "h": "ChatGPT"
+    },
+    {
+     "t": "Vercel introduces the UI SDK",
+     "u": "https://x.com/vercel/status/2120950020249895314",
+     "d": "x.com",
+     "x": "https://x.com/vercel/status/2120950020249895314",
+     "h": "vercel"
+    },
+    {
+     "t": "AI leaders split over Huang's exit and China chip policy",
+     "u": "https://x.com/GavinSBaker/status/2120966316601585854",
+     "d": "x.com",
+     "x": "https://x.com/GavinSBaker/status/2120966316601585854",
+     "h": "GavinSBaker"
+    },
+    {
+     "t": "World Labs ships image-to-world 2.0",
+     "u": "https://x.com/neilsonks/status/2120942205124886879",
+     "d": "x.com",
+     "x": "https://x.com/neilsonks/status/2120942205124886879",
+     "h": "neilsonks"
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "title": "Investing & Markets",
+   "items": [
+    {
+     "t": "Update: Anthropic's IPO was said to be set for next Wednesday (bullish Anthropic IPO / continuing)",
+     "u": "https://x.com/theo/status/2120857265246986589",
+     "d": "x.com",
+     "x": "https://x.com/theo/status/2120857265246986589",
+     "h": "theo"
+    },
+    {
+     "t": "Conductor reverses its wind-down and resumes development",
+     "u": "https://x.com/charlieholtz/status/2120973052024598620",
+     "d": "x.com",
+     "x": "https://x.com/charlieholtz/status/2120973052024598620",
+     "h": "charlieholtz"
+    },
+    {
+     "t": "Mirendil raised a $1 billion Series A led by Kleiner Perkins and Clearlake",
+     "u": "https://x.com/bneyshabur/status/2120926172792127675",
+     "d": "x.com",
+     "x": "https://x.com/bneyshabur/status/2120926172792127675",
+     "h": "bneyshabur"
+    },
+    {
+     "t": "Crypto investors stay gloomy but some keep buying (bearish, unchanged)",
+     "u": "https://x.com/CryptoHayes/status/2121104511628653013",
+     "d": "x.com",
+     "x": "https://x.com/CryptoHayes/status/2121104511628653013",
+     "h": "CryptoHayes"
+    },
+    {
+     "t": "Jash and Neil Mehta fund investment accounts for every San Francisco child born 2016\u20132024",
+     "u": "https://x.com/InvestAmerica24/status/2120943304938516649",
+     "d": "x.com",
+     "x": "https://x.com/InvestAmerica24/status/2120943304938516649",
+     "h": "InvestAmerica24"
+    },
+    {
+     "t": "Databento raised a $100 million Series C at a $1.1 billion valuation",
+     "u": "https://x.com/christinaqi/status/2120851017122382331",
+     "d": "x.com",
+     "x": "https://x.com/christinaqi/status/2120851017122382331",
+     "h": "christinaqi"
+    },
+    {
+     "t": "New early-stage funds: Mission Street Capital and Northside Ventures Fund II",
+     "u": "https://x.com/lisashmulyan/status/2120945593887662426",
+     "d": "x.com",
+     "x": "https://x.com/lisashmulyan/status/2120945593887662426",
+     "h": "lisashmulyan"
+    },
+    {
+     "t": "a16z's Anne Neuberger proposes using AI to defend aging critical infrastructure",
+     "u": "https://x.com/a16z/status/2121030491407294854",
+     "d": "x.com",
+     "x": "https://x.com/a16z/status/2121030491407294854",
+     "h": "a16z"
+    },
+    {
+     "t": "Two inference startups raised: Luminal $25 million and OpenRelay $10 million",
+     "u": "https://x.com/luminal_ai/status/2120917146582577614",
+     "d": "x.com",
+     "x": "https://x.com/luminal_ai/status/2120917146582577614",
+     "h": "luminal_ai"
+    },
+    {
+     "t": "Applied Compute acquired Delegate, and Metalenz acquired PxE Imaging",
+     "u": "https://x.com/ypatil125/status/2120949357101146289",
+     "d": "x.com",
+     "x": "https://x.com/ypatil125/status/2120949357101146289",
+     "h": "ypatil125"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "General Tech",
+   "items": [
+    {
+     "t": "Tech leaders call Huang's exit a mistake",
+     "u": "https://x.com/cz_binance/status/2120888881717612576",
+     "d": "x.com",
+     "x": "https://x.com/cz_binance/status/2120888881717612576",
+     "h": "cz_binance"
+    },
+    {
+     "t": "Lisa Su named Yahoo Finance CEO of the Year",
+     "u": "https://finance.yahoo.com/news/why-amd-ceo-lisa-su-is-yahoo-finances-ceo-of-the-year-120000902.html",
+     "d": "finance.yahoo.com",
+     "x": "https://x.com/AMD/status/2120936758669906296",
+     "h": "AMD"
+    },
+    {
+     "t": "Sacks says the Huang spy narrative is collapsing; Ben Thompson publishes early takes",
+     "u": "https://x.com/DavidSacks/status/2121070881258504395",
+     "d": "x.com",
+     "x": "https://x.com/DavidSacks/status/2121070881258504395",
+     "h": "DavidSacks"
+    },
+    {
+     "t": "YouTube teases a 24-hour livestream for \"the biggest launch of all time\" on Nov 18",
+     "u": "https://x.com/YouTube/status/2120899422796013892",
+     "d": "x.com",
+     "x": "https://x.com/YouTube/status/2120899422796013892",
+     "h": "YouTube"
+    },
+    {
+     "t": "Update: Nvidia staff rally to reinstate Huang as Trump urged him to keep fighting",
+     "u": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
+     "d": "wired.com",
+     "x": "https://x.com/WIRED/status/2121050894607274211",
+     "h": "WIRED"
+    },
+    {
+     "t": "DHH: back up some open-weight AI models",
+     "u": "https://x.com/dhh/status/2120951131497193504",
+     "d": "x.com",
+     "x": "https://x.com/dhh/status/2120951131497193504",
+     "h": "dhh"
+    },
+    {
+     "t": "Brian Halligan returns as HubSpot CEO to \"re-found\" the company",
+     "u": "https://x.com/bhalligan/status/2120869421485003061",
+     "d": "x.com",
+     "x": "https://x.com/bhalligan/status/2120869421485003061",
+     "h": "bhalligan"
+    },
+    {
+     "t": "Update: Microsoft says its 365 outage fixes haven't worked",
+     "u": "https://www.wsj.com/tech/microsoft-working-to-fix-widespread-outage-8df67a4e?mod=e2twd",
+     "d": "wsj.com",
+     "x": "https://x.com/The_Cyber_News/status/2121108964846838066",
+     "h": "The_Cyber_News"
+    },
+    {
+     "t": "Tim Sweeney says Nvidia's ouster raises governance issues; Jessica Lessin pushes back",
+     "u": "https://x.com/TimSweeneyEpic/status/2121083415487205652",
+     "d": "x.com",
+     "x": "https://x.com/TimSweeneyEpic/status/2121083415487205652",
+     "h": "TimSweeneyEpic"
+    },
+    {
+     "t": "Apple HomeView arrives as review embargoes lift",
+     "u": "https://x.com/ijustine/status/2120900541135855708",
+     "d": "x.com",
+     "x": "https://x.com/ijustine/status/2120900541135855708",
+     "h": "ijustine"
+    }
+   ]
+  },
+  {
+   "id": "cyber",
+   "title": "Cybersecurity",
+   "items": [
+    {
+     "t": "Operation Endgame takes down Gootloader, CastleRAT and StealC infrastructure",
+     "u": "https://www.justice.gov/opa/pr/gootloader-malware-disrupted-international-cyber-operation",
+     "d": "justice.gov",
+     "x": "https://x.com/FBICyberBranch/status/2120972344491454941",
+     "h": "FBICyberBranch"
+    },
+    {
+     "t": "Telegram Desktop: new RCE shown on the patched Windows client as a seller advertises an exploit (unverified)",
+     "u": "https://x.com/v12sec/status/2121045471808622776",
+     "d": "x.com",
+     "x": "https://x.com/v12sec/status/2121045471808622776",
+     "h": "v12sec"
+    },
+    {
+     "t": "Major Microsoft 365 outage knocks out Exchange Online, Teams and Copilot",
+     "u": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
+     "d": "bleepingcomputer.com",
+     "x": "https://x.com/BleepinComputer/status/2120973666661900321",
+     "h": "BleepinComputer"
+    },
+    {
+     "t": "New Windows \"SignDrop\" zero-day gives attackers SYSTEM privileges",
+     "u": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
+     "d": "bleepingcomputer.com",
+     "x": "https://x.com/BleepinComputer/status/2120910565698650391",
+     "h": "BleepinComputer"
+    },
+    {
+     "t": "OpenAI posts a web-app testing harness under its Daybreak red-team program",
+     "u": "https://openai.com/daybreak/red-team/",
+     "d": "openai.com",
+     "x": "https://x.com/HackingLZ/status/2120963405179945066",
+     "h": "HackingLZ"
+    },
+    {
+     "t": "@gdb announces Daybreak Defense Factory and Daybreak Red Team cyber products",
+     "u": "https://openai.com/daybreak/defense-factory/",
+     "d": "openai.com",
+     "x": "https://x.com/anton_chuvakin/status/2121083118644064503",
+     "h": "anton_chuvakin"
+    },
+    {
+     "t": "Bloomberg probe backs Citizen Lab findings on Penlink's ad-based Webloc surveillance tool",
+     "u": "https://x.com/citizenlab/status/2120972446396223868",
+     "d": "x.com",
+     "x": "https://x.com/citizenlab/status/2120972446396223868",
+     "h": "citizenlab"
+    },
+    {
+     "t": "Bitcoin Core discloses a high-severity bug affecting miners after a chain reorg (CVE-2025-62861)",
+     "u": "https://x.com/SymbianSyMoh/status/2121108551246721323",
+     "d": "x.com",
+     "x": "https://x.com/SymbianSyMoh/status/2121108551246721323",
+     "h": "SymbianSyMoh"
+    },
+    {
+     "t": "Citrix patches 28 NetScaler ADC and Gateway flaws, including a 9.3 memory overflow in the default configuration (CVE-2026-120868)",
+     "u": "https://www.poppelgaard.com/ctx697305-and-cve-2026-120868-28-new-netscaler-vulnerabilities-what-you-should-know-and-how-to-fix-your-netscaler-adc-netscaler-gateway",
+     "d": "poppelgaard.com",
+     "x": "https://x.com/watchtowrcyber/status/2120876488559853791",
+     "h": "watchtowrcyber"
+    },
+    {
+     "t": "ESET uncovers \"Cereal\", a new Turla .NET toolset",
+     "u": "https://x.com/Dragonkin37/status/2121080162787758415",
+     "d": "x.com",
+     "x": "https://x.com/Dragonkin37/status/2121080162787758415",
+     "h": "Dragonkin37"
+    }
+   ]
+  },
+  {
+   "id": "hb",
+   "title": "Huntington Beach / OC",
+   "items": [
+    {
+     "t": "Thunder",
+     "u": "https://www.reddit.com/r/huntingtonbeach/comments/1xv3qw4/thunder/",
+     "d": "reddit.com"
+    },
+    {
+     "t": "Thunder",
+     "u": "https://www.reddit.com/r/huntingtonbeach/comments/1xv3pwm/thunder/",
+     "d": "reddit.com"
+    },
+    {
+     "t": "The Demon of the Orchard",
+     "u": "https://www.reddit.com/r/huntingtonbeach/comments/1xuz9k2/the_demon_of_the_orchard/",
+     "d": "reddit.com"
+    }
+   ]
+  }
+ ]
+}
