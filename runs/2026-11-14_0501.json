@@ -1,0 +1,540 @@
+{
+ "run": "2026-11-14_0501",
+ "stamp": "2026-11-14 05:01",
+ "date": "2026-11-14",
+ "sections": [
+  {
+   "id": "top",
+   "title": "Top Stories",
+   "items": [
+    {
+     "t": "Microsoft apologizes for its nearly 24-hour global outage, blames a network upgrade and rules out a cyberattack",
+     "u": "https://x.com/Microsoft/status/2121282013600907325",
+     "d": "x.com",
+     "x": "https://x.com/Microsoft/status/2121282013600907325",
+     "h": "Microsoft"
+    },
+    {
+     "t": "Tesla starts selling Cybercab to private buyers: $29,990 plus a $299/month autonomy subscription",
+     "u": "https://x.com/robotaxi/status/2121384435241402737",
+     "d": "x.com",
+     "x": "https://x.com/robotaxi/status/2121384435241402737",
+     "h": "robotaxi"
+    },
+    {
+     "t": "Starship Flight 15 is set for this afternoon, licensed in time, with a livestream on X",
+     "u": "https://x.com/elonmusk/status/2121316611974185273",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2121316611974185273",
+     "h": "elonmusk"
+    },
+    {
+     "t": "Nvidia: Altimeter and Atreides send a letter to the board as the petition to reinstate Jensen Huang grows",
+     "u": "https://standwithjensen.com/#letter",
+     "d": "standwithjensen.com",
+     "x": "https://x.com/altcap/status/2121389561414623679",
+     "h": "altcap"
+    },
+    {
+     "t": "Claude Code Projects gets a more proactive coordinator, reminders and thread sharing",
+     "u": "https://x.com/ClaudeDevs/status/2121375309287301360",
+     "d": "x.com",
+     "x": "https://x.com/ClaudeDevs/status/2121375309287301360",
+     "h": "ClaudeDevs"
+    },
+    {
+     "t": "Grok Bot can now join work meetings to answer questions, take on work and track decisions",
+     "u": "https://x.com/bot/status/2121320089920430181",
+     "d": "x.com",
+     "x": "https://x.com/bot/status/2121320089920430181",
+     "h": "bot"
+    },
+    {
+     "t": "Weather: a 34-foot swell heads for the California coast, and NWS Bay Area says stay off the beach Saturday",
+     "u": "https://x.com/NWSBayArea/status/2121401328647720972",
+     "d": "x.com",
+     "x": "https://x.com/NWSBayArea/status/2121401328647720972",
+     "h": "NWSBayArea"
+    },
+    {
+     "t": "OpenAI launches ChatGPT Wallet so its agents can pay for you",
+     "u": "https://x.com/ChatGPT/status/2121283151729496235",
+     "d": "x.com",
+     "x": "https://x.com/ChatGPT/status/2121283151729496235",
+     "h": "ChatGPT"
+    },
+    {
+     "t": "The FAA halts departures nationwide after an air traffic control communications outage",
+     "u": "https://abcnews.com/US/live-updates/faa-ground-stop-live-updates-hundreds-flights-canceled/?id=138125140&entryId=138126644&cid=social_twitter_abcn",
+     "d": "abcnews.com",
+     "x": "https://x.com/ABC/status/2121389659318088083",
+     "h": "ABC"
+    },
+    {
+     "t": "US Air Force responds to suspected drones over RAF Lakenheath as Gulf states press for action against Iran",
+     "u": "https://www.bbc.com/news/articles/c6jd75geegzyo?xtor=AL-71-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_ptr_name=twitter&at_link_origin=BBCNews&at_medium=social&at_campaign_type=owned&at_link_id=6B669406-DFA2-11F1-9F8C-C551E0B077A0&at_bbc_team=editorial&at_campaign=Social_Flow&at_link_type=web_link&at_format=link",
+     "d": "bbc.com",
+     "x": "https://x.com/BBCNews/status/2121342401239204092",
+     "h": "BBCNews"
+    }
+   ]
+  },
+  {
+   "id": "us",
+   "title": "US News",
+   "items": [
+    {
+     "t": "Bomb found at industrial plant in Peoria, Illinois; rendered safe",
+     "u": "https://www.cbsnews.com/news/peoria-illinois-bomb-threat-evacuation/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "Stuck in airports nationwide, stranded travelers share how they're coping",
+     "u": "https://www.npr.org/2026/11/14/nx-s1-6040931/stuck-in-airports-nationwide-stranded-travelers-share-how-theyre-coping",
+     "d": "npr.org"
+    },
+    {
+     "t": "Over 30 injured, no fatalities after tanker strikes cruise ship in New Orleans",
+     "u": "https://www.npr.org/2026/11/14/nx-s1-6040430/over-30-injured-no-fatalities-after-tanker-strikes-cruise-ship-in-new-orleans",
+     "d": "npr.org"
+    },
+    {
+     "t": "News Quiz for Nov. 14, 2026",
+     "u": "https://www.wsj.com/articles/news-quiz-for-nov-14-2026-07dcac58?mod=rss_usnews",
+     "d": "wsj.com"
+    },
+    {
+     "t": "What\u2019s Behind the Trump-Huang Relationship?",
+     "u": "https://www.nytimes.com/video/us/politics/100000011272223/whats-behind-the-trump-huang-relationship.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Weekend Air Travel Woes Mount After FAA Lifts Nationwide Groundstop",
+     "u": "https://www.wsj.com/us-news/faa-temporarily-halts-flights-across-u-s-b9b06e59?mod=rss_usnews",
+     "d": "wsj.com"
+    },
+    {
+     "t": "As Congress Plans Investigations, White House Prepares Ferocious Response",
+     "u": "https://www.nytimes.com/2026/11/14/us/politics/congress-trump-investigations.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "\u2018Democrat\u2019 in Alaska\u2019s House Race Is Doing Time in a New York Prison",
+     "u": "https://www.nytimes.com/2026/11/14/us/elections/alaska-house-race-felon-eric-hafner.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Top Democrat Eyes Filibuster-Proof Budget Bill to Unlock Affordability Agenda",
+     "u": "https://www.nytimes.com/2026/11/14/us/politics/house-democrats-affordability-costs-budget.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Ex-Convict? Come Live With Memi and Scott.",
+     "u": "https://www.nytimes.com/2026/11/14/us/ex-convicts-halfway-house-oakland.html",
+     "d": "nytimes.com"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "World News",
+   "items": [
+    {
+     "t": "Update: FAA lifts the nationwide ground stop after more than four hours, but disruptions will run into the weekend",
+     "u": "https://www.cnn.com/2026/11/13/us/live-news/flights-ground-stop-faa?t=1794620093147&post-id=cmwfp9dlq00123b6t4h6p1erc&Date=20261114&Profile=CNN&utm_content=1794621161&utm_medium=social&utm_source=twitter",
+     "d": "cnn.com",
+     "x": "https://x.com/CNN/status/2121421063548440702",
+     "h": "CNN"
+    },
+    {
+     "t": "Democrat Eileen Laubacher ousts Rep. Lauren Boebert in Colorado\u2019s 4th District",
+     "u": "https://www.washingtonpost.com/politics/2026/11/13/lauren-boebert-loses-colorado-4th-district-election-eileen-laubacher/?utm_campaign=wp_main&utm_source=twitter&utm_medium=social",
+     "d": "washingtonpost.com",
+     "x": "https://x.com/washingtonpost/status/2121333083584577714",
+     "h": "washingtonpost"
+    },
+    {
+     "t": "Update: Duffy blames overloaded legacy air traffic network gear and asks Congress for billions to replace it",
+     "u": "https://x.com/CBSNews/status/2121420096711139388",
+     "d": "x.com",
+     "x": "https://x.com/CBSNews/status/2121420096711139388",
+     "h": "CBSNews"
+    },
+    {
+     "t": "Update: All aboard the New Orleans riverboat accounted for; 32 hospitalized",
+     "u": "https://x.com/ABC/status/2121374359847862752",
+     "d": "x.com",
+     "x": "https://x.com/ABC/status/2121374359847862752",
+     "h": "ABC"
+    },
+    {
+     "t": "US loses its measles elimination status, according to reports on a PAHO expert commission",
+     "u": "https://www.cnn.com/2026/11/13/health/us-measles-elimination-status?Date=20261114&Profile=CNN&utm_content=1794622797&utm_medium=social&utm_source=twitter",
+     "d": "cnn.com",
+     "x": "https://x.com/CNN/status/2121427900855382118",
+     "h": "CNN"
+    },
+    {
+     "t": "Bomb found at an ethanol plant in Peoria, Illinois; congressman says \u201cpossibly more\u201d",
+     "u": "https://x.com/WBC24News/status/2121479628254740892",
+     "d": "x.com",
+     "x": "https://x.com/WBC24News/status/2121479628254740892",
+     "h": "WBC24News"
+    },
+    {
+     "t": "US measles toll grows: a second child has died in Wisconsin, Dr. Jonathan Reiner says",
+     "u": "https://www.cnn.com/2026/11/13/health/measles-elimination-status-vis?Date=20261114&Profile=CNN&utm_content=1794630313&utm_medium=social&utm_source=twitter",
+     "d": "cnn.com",
+     "x": "https://x.com/CNN/status/2121471949410886060",
+     "h": "CNN"
+    },
+    {
+     "t": "Democrat Jonathan Kreiss-Tomkins wins Alaska\u2019s governor race, NBC News projects",
+     "u": "https://www.nbcnews.com/politics/2026-election/jonathan-kreiss-tomkins-democrat-wins-alaska-governor-race-rcna606558?cid=sm_npd_nn_tw_ma&taid=6af7ef99d0eea100019aebb2&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter",
+     "d": "nbcnews.com",
+     "x": "https://x.com/NBCNews/status/2121473305601302900",
+     "h": "NBCNews"
+    },
+    {
+     "t": "Trump signals he could take military action against Cuba before leaving office",
+     "u": "https://www.nbcnews.com/politics/white-house/trump-cuba-military-force-rubio-rcna609138?cid=sm_npd_nn_tw_ma&taid=6af7422022159d0001dbcb6e&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter",
+     "d": "nbcnews.com",
+     "x": "https://x.com/NBCNews/status/2121287040734019688",
+     "h": "NBCNews"
+    },
+    {
+     "t": "Update: Mullin says there was no cyberattack and no link to the Microsoft outage; Microsoft blames a network change",
+     "u": "https://www.hindustantimes.com/world-news/us-news/trump-says-ageing-aviation-system-likely-behind-faa-ground-stop-not-cyberattack-101794620220849.html",
+     "d": "hindustantimes.com",
+     "x": "https://x.com/CBSNews/status/2121419814971597081",
+     "h": "CBSNews"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI",
+   "items": [
+    {
+     "t": "Claude Code adds custom themes on desktop through mods",
+     "u": "https://code.claude.com/docs/en/plugins/mods/interface#put-a-backdrop-behind-the-conversation",
+     "d": "code.claude.com",
+     "x": "https://x.com/ClaudeDevs/status/2121392666244186327",
+     "h": "ClaudeDevs"
+    },
+    {
+     "t": "Ex-Anthropic researcher says an IPO roadshow chart helped convince him to quit",
+     "u": "https://x.com/hilbertspaess/status/2121331333654086124",
+     "d": "x.com",
+     "x": "https://x.com/hilbertspaess/status/2121331333654086124",
+     "h": "hilbertspaess"
+    },
+    {
+     "t": "Google's Gemini 4 Hydrogen draws builders a day after launch",
+     "u": "https://x.com/GoogleDeepMind/status/2120940338869055788",
+     "d": "x.com",
+     "x": "https://x.com/GoogleDeepMind/status/2120940338869055788",
+     "h": "GoogleDeepMind"
+    },
+    {
+     "t": "DeepSeek opens the full DeepSeek App feature set through its API",
+     "u": "https://x.com/deepseek_ai/status/2121247896918253875",
+     "d": "x.com",
+     "x": "https://x.com/deepseek_ai/status/2121247896918253875",
+     "h": "deepseek_ai"
+    },
+    {
+     "t": "T3 Code lets users restyle the whole app by asking its agent",
+     "u": "https://x.com/theo/status/2121455838414201200",
+     "d": "x.com",
+     "x": "https://x.com/theo/status/2121455838414201200",
+     "h": "theo"
+    },
+    {
+     "t": "Thinking Machines details 4-bit training of its open Inkling 2 Small model",
+     "u": "https://thinkingmachines.ai/blog/end-to-end-4-bit-training/",
+     "d": "thinkingmachines.ai",
+     "x": "https://x.com/thinkymachines/status/2121353292878110868",
+     "h": "thinkymachines"
+    },
+    {
+     "t": "Agent Initiative Benchmark: GPT-6.1 Sol and Astra beat Fable 5.2 on proactive agents",
+     "u": "https://x.com/jakubjurovych/status/2121256499552915586",
+     "d": "x.com",
+     "x": "https://x.com/jakubjurovych/status/2121256499552915586",
+     "h": "jakubjurovych"
+    },
+    {
+     "t": "llama.cpp ships version 1.0",
+     "u": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+     "d": "huggingface.co",
+     "x": "https://x.com/ggerganov/status/2121246103312212124",
+     "h": "ggerganov"
+    },
+    {
+     "t": "Cursor details its security incident: it started with a key exposed at Fireworks",
+     "u": "https://cursor.com/blog/security-incident-update",
+     "d": "cursor.com",
+     "x": "https://x.com/cursor_ai/status/2121411147714970092",
+     "h": "cursor_ai"
+    },
+    {
+     "t": "All-In backs a Huang return while Tae Kim says the CEO broke the rules",
+     "u": "https://x.com/theallinpod/status/2121436091722997834",
+     "d": "x.com",
+     "x": "https://x.com/theallinpod/status/2121436091722997834",
+     "h": "theallinpod"
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "title": "Investing & Markets",
+   "items": [
+    {
+     "t": "Melty Gym turns video games into robot training grounds",
+     "u": "https://x.com/davidmilr/status/2121320174452121635",
+     "d": "x.com",
+     "x": "https://x.com/davidmilr/status/2121320174452121635",
+     "h": "davidmilr"
+    },
+    {
+     "t": "Update: LangChain's Series C is $300 million at a $3 billion valuation",
+     "u": "https://x.com/hwchase17/status/2121279222912352574",
+     "d": "x.com",
+     "x": "https://x.com/hwchase17/status/2121279222912352574",
+     "h": "hwchase17"
+    },
+    {
+     "t": "DI closes a round at a $100 million valuation with OKX Ventures and DraperDragon",
+     "u": "https://x.com/OKX_Ventures/status/2121435837963657230",
+     "d": "x.com",
+     "x": "https://x.com/OKX_Ventures/status/2121435837963657230",
+     "h": "OKX_Ventures"
+    },
+    {
+     "t": "FAA ground stop caps a week of outages and breaches (bearish, new)",
+     "u": "https://x.com/larryvc/status/2121384849235976354",
+     "d": "x.com",
+     "x": "https://x.com/larryvc/status/2121384849235976354",
+     "h": "larryvc"
+    },
+    {
+     "t": "Nines Robotics launches autonomous robots for AI data centers",
+     "u": "https://x.com/taerimcreates/status/2121302791318901070",
+     "d": "x.com",
+     "x": "https://x.com/taerimcreates/status/2121302791318901070",
+     "h": "taerimcreates"
+    },
+    {
+     "t": "Update: Garry Tan signs 'Stand with Jensen' as Nvidia slips below Apple in value (mixed, continuing)",
+     "u": "https://x.com/snowmaker/status/2121473274676961676",
+     "d": "x.com",
+     "x": "https://x.com/snowmaker/status/2121473274676961676",
+     "h": "snowmaker"
+    },
+    {
+     "t": "Update: Anthropic IPO roadshow chart on pretraining efficiency stirs debate (bullish for Anthropic, mixed overall)",
+     "u": "https://x.com/ohabryka/status/2121474222937579791",
+     "d": "x.com",
+     "x": "https://x.com/ohabryka/status/2121474222937579791",
+     "h": "ohabryka"
+    },
+    {
+     "t": "Update: FAA outage doesn't look like a cyberattack, but breach response is overwhelmed (mixed, change)",
+     "u": "https://sam.gov/workspace/contract/opp/1e503e0fd15e459bb26979eb591e15d7/view",
+     "d": "sam.gov",
+     "x": "https://x.com/nicoleperlroth/status/2121422089978867789",
+     "h": "nicoleperlroth"
+    },
+    {
+     "t": "YC's Intelligence (S25) builds benchmarks for the hardest-to-measure parts of AI",
+     "u": "https://x.com/ycombinator/status/2121279562252517785",
+     "d": "x.com",
+     "x": "https://x.com/ycombinator/status/2121279562252517785",
+     "h": "ycombinator"
+    },
+    {
+     "t": "Mnemonic Labs (YC F26) launches a foundation model for quant trading",
+     "u": "https://x.com/videhps/status/2121318961900130728",
+     "d": "x.com",
+     "x": "https://x.com/videhps/status/2121318961900130728",
+     "h": "videhps"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "General Tech",
+   "items": [
+    {
+     "t": "Starship Flight 15 lifts off",
+     "u": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html?__source=twitter%7Ctech&taid=6af79d2ad0eea100019ae8f9&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter",
+     "d": "cnbc.com",
+     "x": "https://x.com/elonmusk/status/2121388517540716839",
+     "h": "elonmusk"
+    },
+    {
+     "t": "David Sacks fires back after NYT says he's \"spreading conspiracy theories\"",
+     "u": "https://x.com/DavidSacks/status/2121415263128019098",
+     "d": "x.com",
+     "x": "https://x.com/DavidSacks/status/2121415263128019098",
+     "h": "DavidSacks"
+    },
+    {
+     "t": "Claude reportedly stops helping a fan build an AI-powered Pok\u00e9mon game",
+     "u": "https://x.com/Pirat_Nation/status/2121454324651888668",
+     "d": "x.com",
+     "x": "https://x.com/Pirat_Nation/status/2121454324651888668",
+     "h": "Pirat_Nation"
+    },
+    {
+     "t": "Sundar Pichai recaps a big week of Google launches",
+     "u": "https://cloud.google.com/blog/topics/ai-infrastructure/tpu-8tx-and-tpu-8i-max?utm_source=twitter&utm_medium=unpaidsoc&utm_campaign=fy26q4-googlecloud-blog-ai-in_feed-no-brand-global&utm_content=-&utm_term=-&linkId=64401266",
+     "d": "cloud.google.com",
+     "x": "https://x.com/sundarpichai/status/2121338095664808238",
+     "h": "sundarpichai"
+    },
+    {
+     "t": "Update: Push to reinstate Jensen Huang grows",
+     "u": "https://x.com/jgebbia/status/2121359033802342721",
+     "d": "x.com",
+     "x": "https://x.com/jgebbia/status/2121359033802342721",
+     "h": "jgebbia"
+    },
+    {
+     "t": "Michael Dell: H100 rental prices are up 58% in a year",
+     "u": "https://x.com/MichaelDell/status/2121372048048161223",
+     "d": "x.com",
+     "x": "https://x.com/MichaelDell/status/2121372048048161223",
+     "h": "MichaelDell"
+    },
+    {
+     "t": "Nintendo sends GitHub DMCA takedowns targeting Switch emulators and mod-chip firmware",
+     "u": "https://x.com/Pirat_Nation/status/2121392668471328904",
+     "d": "x.com",
+     "x": "https://x.com/Pirat_Nation/status/2121392668471328904",
+     "h": "Pirat_Nation"
+    },
+    {
+     "t": "AMD's Lisa Su opens a new Micro Center in Austin",
+     "u": "https://x.com/AMD/status/2121370078285598863",
+     "d": "x.com",
+     "x": "https://x.com/AMD/status/2121370078285598863",
+     "h": "AMD"
+    },
+    {
+     "t": "Uber confirms a driver data breach via third party Fireworks AI",
+     "u": "https://cybersecuritynews.com/uber-confirms-data-breach/",
+     "d": "cybersecuritynews.com",
+     "x": "https://x.com/The_Cyber_News/status/2121415496235131179",
+     "h": "The_Cyber_News"
+    },
+    {
+     "t": "Update: Paul Graham and Jason Calacanis question Nvidia's board",
+     "u": "https://x.com/paulg/status/2121276381925650469",
+     "d": "x.com",
+     "x": "https://x.com/paulg/status/2121276381925650469",
+     "h": "paulg"
+    }
+   ]
+  },
+  {
+   "id": "cyber",
+   "title": "Cybersecurity",
+   "items": [
+    {
+     "t": "FAA halts all U.S. flights over a telecommunications outage; officials see no sign of an attack so far",
+     "u": "https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/",
+     "d": "securityweek.com",
+     "x": "https://x.com/FAANews/status/2121363171361575176",
+     "h": "FAANews"
+    },
+    {
+     "t": "OpenAI previews automated patching and red-teaming tools; researchers question access",
+     "u": "https://openai.com/cyber-at-the-frontier/",
+     "d": "openai.com",
+     "x": "https://x.com/thsottiaux/status/2121036562058400200",
+     "h": "thsottiaux"
+    },
+    {
+     "t": "Microsoft says its 365 outage was not a cyberattack and blames a network capacity upgrade",
+     "u": "https://x.com/clamanna/status/2121363062058070344",
+     "d": "x.com",
+     "x": "https://x.com/clamanna/status/2121363062058070344",
+     "h": "clamanna"
+    },
+    {
+     "t": "Update: FBI warns that threat actors have weaponized ARTEX since at least August",
+     "u": "https://x.com/FBICyberBranch/status/2121317398305186287",
+     "d": "x.com",
+     "x": "https://x.com/FBICyberBranch/status/2121317398305186287",
+     "h": "FBICyberBranch"
+    },
+    {
+     "t": "Departure boards at Dublin's Connolly Station reported hacked",
+     "u": "https://x.com/jason_corcoran/status/2121213649133990303",
+     "d": "x.com",
+     "x": "https://x.com/jason_corcoran/status/2121213649133990303",
+     "h": "jason_corcoran"
+    },
+    {
+     "t": "Update: Google's threat intelligence team publishes research on ARTEX and other agentic offensive frameworks",
+     "u": "https://cloud.google.com/blog/topics/threat-intelligence/artex-and-friends-enter-agentic-offensive-frameworks?hl=en",
+     "d": "cloud.google.com",
+     "x": "https://x.com/pentest_swissky/status/2121225566661853650",
+     "h": "pentest_swissky"
+    },
+    {
+     "t": "Google Project Zero moves to strict 90-day disclosure, then 60 and 30 days",
+     "u": "https://projectzero.google/2026/11/disclosure-policy.html",
+     "d": "projectzero.google",
+     "x": "https://x.com/WeldPond/status/2121295325453291569",
+     "h": "WeldPond"
+    },
+    {
+     "t": "Update: John Hammond sees another wave of SCKit compromises against ScreenConnect servers",
+     "u": "https://x.com/_JohnHammond/status/2121391342865547644",
+     "d": "x.com",
+     "x": "https://x.com/_JohnHammond/status/2121391342865547644",
+     "h": "_JohnHammond"
+    },
+    {
+     "t": "DFIR Radar: five AI attack frameworks seen in real intrusions skip authorization checks by default",
+     "u": "https://www.elastic.co/security-labs/threat-command/agentic-offensive-frameworks-detection-artex",
+     "d": "elastic.co",
+     "x": "https://x.com/DFIR_Radar/status/2121287724430774519",
+     "h": "DFIR_Radar"
+    },
+    {
+     "t": "Huntress sees a spike in ScreenConnect detections tied to the SCKit worm",
+     "u": "https://www.huntress.com/blog/sckit-worm-rogue-screenconnect?utm_source=twitter&utm_medium=social&utm_campaign=cy26-11-camp-multi-global-broad-all-x-x-x-security_blog&hnt=gihgwfp4lx7o",
+     "d": "huntress.com",
+     "x": "https://x.com/HuntressLabs/status/2121324602400125052",
+     "h": "HuntressLabs"
+    }
+   ]
+  },
+  {
+   "id": "hb",
+   "title": "Huntington Beach / OC",
+   "items": [
+    {
+     "t": "The Wedge Surf Report, Surf Forecast and Surf Cams",
+     "u": "https://www.surfline.com/surf-report/the-wedge/5842041f4e65fad6a770882b",
+     "d": "surfline.com"
+    },
+    {
+     "t": "Huntington Beach Boys Varsity Basketball @ PCOC (CO-OP)",
+     "u": "https://www.maxpreps.com/ca/basketball/game/huntington-beach-vs-pacifica-christian-oc-newport-beach/11-20-2026/?c=4a1e0605-5400-430b-8cc1-403cea6d98b4",
+     "d": "maxpreps.com"
+    },
+    {
+     "t": "21551 Brookhurst St Apt 206, Huntington Beach, CA 92646",
+     "u": "https://www.realtor.com/rentals/details/21551-Brookhurst-St-Apt-206_Huntington-Beach_CA_92646_M98110-63750",
+     "d": "realtor.com"
+    }
+   ]
+  }
+ ]
+}
