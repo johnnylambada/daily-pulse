@@ -1,0 +1,540 @@
+{
+ "run": "2026-11-15_0458",
+ "stamp": "2026-11-15 04:58",
+ "date": "2026-11-15",
+ "sections": [
+  {
+   "id": "top",
+   "title": "Top Stories",
+   "items": [
+    {
+     "t": "Update: Musk posts tower videos of the Starship ship catch and says he \u201chugged ship 42\u201d",
+     "u": "https://x.com/elonmusk/status/2121763396190179414",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2121763396190179414",
+     "h": "elonmusk"
+    },
+    {
+     "t": "Update: SpaceX\u2019s tower catches the Flight 15 Starship ship for the first time, and Musk says Ship 42 \u201clooks great\u201d",
+     "u": "https://tech.yahoo.com/science/articles/spacex-starship-test-attempt-first-035915093.html",
+     "d": "tech.yahoo.com",
+     "x": "https://x.com/SpaceX/status/2121715216597827756",
+     "h": "SpaceX"
+    },
+    {
+     "t": "Update: Starship\u2019s ship completes its deorbit burn and reenters, with a landing burn due around 1:20 PM PT",
+     "u": "https://www.france24.com/en/spacex-starship-set-for-return-to-earth-after-failed-booster-catch?utm_slink=go.france24.com%2F7Sxl&utm_term=France24_en&utm_campaign=twitter&utm_source=nonli&utm_medium=social",
+     "d": "france24.com",
+     "x": "https://x.com/elonmusk/status/2121701421183853007",
+     "h": "elonmusk"
+    },
+    {
+     "t": "Update: Musk says Starship\u2019s booster was lost because its engines slightly underperformed, and all 26 Starlink V3 satellites are healthy",
+     "u": "https://x.com/elonmusk/status/2121648438144024943",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2121648438144024943",
+     "h": "elonmusk"
+    },
+    {
+     "t": "Grok Bot harness optimizations give users about 7% more usage per plan, up to about 15% on routine runs",
+     "u": "https://x.com/elonmusk/status/2121628295234023654",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2121628295234023654",
+     "h": "elonmusk"
+    },
+    {
+     "t": "Humanoid whole-body controllers now train in minutes on one GPU instead of a week on 128, a roboticist says",
+     "u": "https://x.com/make_robot_go/status/2121684866102399332",
+     "d": "x.com",
+     "x": "https://x.com/make_robot_go/status/2121684866102399332",
+     "h": "make_robot_go"
+    },
+    {
+     "t": "Grok folds image and video creation into the main Grok app",
+     "u": "https://x.com/grok/status/2121673185540378797",
+     "d": "x.com",
+     "x": "https://x.com/grok/status/2121673185540378797",
+     "h": "grok"
+    },
+    {
+     "t": "Update: NBC News projects Mary Peltola wins Alaska\u2019s Senate race",
+     "u": "https://www.nbcnews.com/politics/2026-election/democrat-mary-peltola-likely-win-alaska-senate-race-rcna608673?cid=sm_npd_nn_tw_ma&taid=6af8cb26d0eea100019af1af&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter",
+     "d": "nbcnews.com",
+     "x": "https://x.com/NBCNews/status/2121709044125557073",
+     "h": "NBCNews"
+    },
+    {
+     "t": "Gavin Baker calls Chinese labs renting GPUs in Southeast Asia US leverage, not a loophole, as Bessent outlines a US-China AI dialogue",
+     "u": "https://x.com/GavinSBaker/status/2121804692770701734",
+     "d": "x.com",
+     "x": "https://x.com/GavinSBaker/status/2121804692770701734",
+     "h": "GavinSBaker"
+    },
+    {
+     "t": "Netanyahu says it is time to remove the Iran threat \u201conce and for all,\u201d as Massie seeks GOP votes to end the war",
+     "u": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/?ftag=CNM-00-10aab7e&linkId=1037651274",
+     "d": "cbsnews.com",
+     "x": "https://x.com/CBSNews/status/2121767635159236832",
+     "h": "CBSNews"
+    }
+   ]
+  },
+  {
+   "id": "us",
+   "title": "US News",
+   "items": [
+    {
+     "t": "Flights expected to normalize by tonight after ground stop. Here's what to know",
+     "u": "https://www.cbsnews.com/news/faa-ground-stop-canceled-flights-travelers-what-we-know/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "What to Know About Continued Flight Disruptions",
+     "u": "https://www.nytimes.com/2026/11/14/us/flight-delays-cancelations-what-to-know.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business",
+     "u": "https://www.nytimes.com/2026/11/15/us/politics/trump-lutnick-ai-chips-cantor-fitzgerald.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "After Midterms Triumph, Democrats Look Quickly and Eagerly Ahead to 2028",
+     "u": "https://www.nytimes.com/2026/11/15/us/politics/democrats-2028-presidential-candidates.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Embattled Federal Employees Look to a Democratic Congress for a Lifeline",
+     "u": "https://www.nytimes.com/2026/11/15/us/politics/federal-employees-democratic-congress-lifeline.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "The Reward for Black Women\u2019s Work in Georgia: Leaders Who Look Like Them",
+     "u": "https://www.nytimes.com/2026/11/15/us/black-women-georgia-leaders.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "A Campus Sexual Assault Lawsuit Tests an Unusual Legal Strategy",
+     "u": "https://www.nytimes.com/2026/11/15/us/sexual-assault-lawsuit-texas-christian-university-consumer-protection.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "\u2018I Love Being a Girl\u2019: Inside the Life of a Sorority Influencer",
+     "u": "https://www.nytimes.com/2026/11/15/us/haley-dekreek-influencer-college.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "New Mexico wanted free childcare for all. This is what's worked \u2014 and what hasn't",
+     "u": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
+     "d": "npr.org"
+    },
+    {
+     "t": "Oregon community suspects foul play when beloved shopkeeper disappears",
+     "u": "https://www.cbsnews.com/news/susan-phoenix-lane-fournier-mount-hood-oregon-murder-48-hours/",
+     "d": "cbsnews.com"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "World News",
+   "items": [
+    {
+     "t": "Washington Post: Trump falsely claimed no US troops were killed in the past five months",
+     "u": "https://www.washingtonpost.com/politics/2026/11/13/trump-falsely-claims-nobodys-been-killed-iran-war-last-five-months/?utm_campaign=wp_main&utm_source=twitter&utm_medium=social",
+     "d": "washingtonpost.com",
+     "x": "https://x.com/washingtonpost/status/2121770182393622580",
+     "h": "washingtonpost"
+    },
+    {
+     "t": "India arrests two people with alleged Pakistan links over the Rajasthan rail-track blast",
+     "u": "https://www.ndtv.com/india-news/2-with-pakistan-links-arrested-in-punjab-for-rajasthan-sri-ganganagar-train-track-blast-12328795",
+     "d": "ndtv.com",
+     "x": "https://x.com/ndtv/status/2121831243767812125",
+     "h": "ndtv"
+    },
+    {
+     "t": "Rep. Thomas Massie seeks more Republican votes for a new bid to end the Iran war",
+     "u": "https://www.newsweek.com/thomas-massie-republicans-maga-iran-war-12716741?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1794702319",
+     "d": "newsweek.com",
+     "x": "https://x.com/Newsweek/status/2121761860802216260",
+     "h": "Newsweek"
+    },
+    {
+     "t": "Texas governor-elect Gina Hinojosa vows moderation over culture wars",
+     "u": "https://www.washingtonpost.com/nation/2026/11/14/texass-democratic-gov-elect-vows-trade-gop-culture-wars-moderation/?utm_campaign=wp_main&utm_source=twitter&utm_medium=social",
+     "d": "washingtonpost.com",
+     "x": "https://x.com/washingtonpost/status/2121656930032669172",
+     "h": "washingtonpost"
+    },
+    {
+     "t": "CNBC: Trump\u2019s midterm setback may give the US\u2013India trade deal a final push",
+     "u": "https://x.com/CNBC/status/2121815486593700180",
+     "d": "x.com",
+     "x": "https://x.com/CNBC/status/2121815486593700180",
+     "h": "CNBC"
+    },
+    {
+     "t": "Reports: a UPS Boeing 767 and a Copa Airlines 737 collided while taxiing at Miami International Airport",
+     "u": "https://x.com/WBC24News/status/2121792454600868042",
+     "d": "x.com",
+     "x": "https://x.com/WBC24News/status/2121792454600868042",
+     "h": "WBC24News"
+    },
+    {
+     "t": "Update: Speaker Johnson says no investigation is needed into the ground stop as Democrats pledge one and Duffy asks Congress for up to $50 billion",
+     "u": "https://thehill.com/policy/transportation/6220851-mike-johnson-faa-ground-stop/",
+     "d": "thehill.com",
+     "x": "https://x.com/thehill/status/2121696167599697939",
+     "h": "thehill"
+    },
+    {
+     "t": "Judge temporarily blocks Trump from closing East Potomac Golf Links for his redevelopment",
+     "u": "https://www.washingtonpost.com/sports/2026/11/14/judge-blocks-trump-administration-closing-east-potomac-park/?utm_campaign=wp_main&utm_source=twitter&utm_medium=social",
+     "d": "washingtonpost.com",
+     "x": "https://x.com/washingtonpost/status/2121791204744454181",
+     "h": "washingtonpost"
+    },
+    {
+     "t": "Washington Post: a surveillance plane seen near CIA-linked boat attacks off the Gal\u00e1pagos was first owned by a firm in The Villages",
+     "u": "https://www.washingtonpost.com/investigations/2026/11/14/spy-plane-tied-covert-attacks-leads-back-floridas-largest-senior-community/?utm_campaign=wp_main&utm_source=twitter&utm_medium=social",
+     "d": "washingtonpost.com",
+     "x": "https://x.com/washingtonpost/status/2121815469577453654",
+     "h": "washingtonpost"
+    },
+    {
+     "t": "ProPublica: Russian gas executives are steering a proposed gas plant off Alaska\u2019s coast",
+     "u": "https://www.propublica.org/article/alaska-prudhoe-lng-polar-novatek?utm_campaign=propublica-sprout&utm_content=1794693607&utm_medium=social&utm_source=twitter",
+     "d": "propublica.org",
+     "x": "https://x.com/propublica/status/2121724890256384141",
+     "h": "propublica"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI",
+   "items": [
+    {
+     "t": "IMF reportedly puts AI circular financing at $1.4 trillion",
+     "u": "https://x.com/USAnt_IDEA/status/2121412623497613598",
+     "d": "x.com",
+     "x": "https://x.com/USAnt_IDEA/status/2121412623497613598",
+     "h": "USAnt_IDEA"
+    },
+    {
+     "t": "Image and video creation move into the main Grok app",
+     "u": "https://x.com/imagine/status/2121672946968318285",
+     "d": "x.com",
+     "x": "https://x.com/imagine/status/2121672946968318285",
+     "h": "imagine"
+    },
+    {
+     "t": "Deirdre Bosa: Anthropic is a major winner of the Nvidia fallout",
+     "u": "https://x.com/dee_bosa/status/2121752850565148856",
+     "d": "x.com",
+     "x": "https://x.com/dee_bosa/status/2121752850565148856",
+     "h": "dee_bosa"
+    },
+    {
+     "t": "Gavin Baker defends selling weaker GPUs to China as Sacks says Beijing wants them out",
+     "u": "https://www.ft.com/content/3efa9733-fbb4-47c2-83ba-b01e548ef277",
+     "d": "ft.com",
+     "x": "https://x.com/GavinSBaker/status/2121767631124570302",
+     "h": "GavinSBaker"
+    },
+    {
+     "t": "Joanna Stern says Siri still stumbles on Apple's new HomeView",
+     "u": "https://x.com/JoannaStern/status/2121646621725495373",
+     "d": "x.com",
+     "x": "https://x.com/JoannaStern/status/2121646621725495373",
+     "h": "JoannaStern"
+    },
+    {
+     "t": "All-In's Friedberg warns of chip \"kill switch\" laws as Musk questions Nvidia's board",
+     "u": "https://x.com/theallinpod/status/2121502872844091493",
+     "d": "x.com",
+     "x": "https://x.com/theallinpod/status/2121502872844091493",
+     "h": "theallinpod"
+    },
+    {
+     "t": "Gemini 4 models show off in UI building and Factorio",
+     "u": "https://x.com/rauchg/status/2121804295381377342",
+     "d": "x.com",
+     "x": "https://x.com/rauchg/status/2121804295381377342",
+     "h": "rauchg"
+    },
+    {
+     "t": "Deirdre Bosa: three years of China chip limits have helped China's own AI stack",
+     "u": "https://x.com/dee_bosa/status/2121706479489331699",
+     "d": "x.com",
+     "x": "https://x.com/dee_bosa/status/2121706479489331699",
+     "h": "dee_bosa"
+    },
+    {
+     "t": "Doctors report acting on AI diagnoses in real cases",
+     "u": "https://www.wsj.com/health/wellness/how-ai-diagnosed-a-medical-mystery-my-doctors-missed-for-decades-cd5fa842?st=3TYxMj&reflink=desktopwebshare_permalink",
+     "d": "wsj.com",
+     "x": "https://x.com/EricTopol/status/2121637287268389318",
+     "h": "EricTopol"
+    },
+    {
+     "t": "Obsidian ships seven agent skills for running vaults",
+     "u": "https://x.com/kepano/status/2121671411119059034",
+     "d": "x.com",
+     "x": "https://x.com/kepano/status/2121671411119059034",
+     "h": "kepano"
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "title": "Investing & Markets",
+   "items": [
+    {
+     "t": "SpaceX catches Starship for the first time, and investors talk up cheaper launch (bullish, change)",
+     "u": "https://x.com/emerge_be/status/2121720499621499192",
+     "d": "x.com",
+     "x": "https://x.com/emerge_be/status/2121720499621499192",
+     "h": "emerge_be"
+    },
+    {
+     "t": "Update: Weekend crypto liquidations top the Covid crash (bearish, deepening)",
+     "u": "https://x.com/Donaxbt/status/2121780920369766612",
+     "d": "x.com",
+     "x": "https://x.com/Donaxbt/status/2121780920369766612",
+     "h": "Donaxbt"
+    },
+    {
+     "t": "Bland introduces Tofu-1, its speech-to-speech model",
+     "u": "https://x.com/Brian__Gong/status/2121774590099697874",
+     "d": "x.com",
+     "x": "https://x.com/Brian__Gong/status/2121774590099697874",
+     "h": "Brian__Gong"
+    },
+    {
+     "t": "Garry Tan calls Aside Browser a huge unlock for AI agents",
+     "u": "https://x.com/garrytan/status/2121824006819258485",
+     "d": "x.com",
+     "x": "https://x.com/garrytan/status/2121824006819258485",
+     "h": "garrytan"
+    },
+    {
+     "t": "Investors debate Nvidia's governance safeguards (mixed, new)",
+     "u": "https://x.com/bgurley/status/2121651204031959545",
+     "d": "x.com",
+     "x": "https://x.com/bgurley/status/2121651204031959545",
+     "h": "bgurley"
+    },
+    {
+     "t": "Kino launches to make videos end to end with Claude Code and Codex",
+     "u": "https://x.com/eve_bouff/status/2121791050897592607",
+     "d": "x.com",
+     "x": "https://x.com/eve_bouff/status/2121791050897592607",
+     "h": "eve_bouff"
+    },
+    {
+     "t": "Chip stocks: a look at past 15% drops followed by 15% rallies (mixed, new)",
+     "u": "https://x.com/bespokeinvest/status/2121803697437225343",
+     "d": "x.com",
+     "x": "https://x.com/bespokeinvest/status/2121803697437225343",
+     "h": "bespokeinvest"
+    },
+    {
+     "t": "Update: CNBC says two major investors urged Nvidia's board to consider bringing back Jensen Huang (mixed, continuing)",
+     "u": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html?taid=6af89d7ac6e5210001708b05&utm_campaign=trueanthem&utm_content=main&utm_medium=social&utm_source=twitter",
+     "d": "cnbc.com",
+     "x": "https://x.com/wilsonkriegel/status/2121741099563950227",
+     "h": "wilsonkriegel"
+    },
+    {
+     "t": "Investors debate who wins from Nvidia's turmoil (mixed, new)",
+     "u": "https://x.com/omarneversleeps/status/2121792016287781211",
+     "d": "x.com",
+     "x": "https://x.com/omarneversleeps/status/2121792016287781211",
+     "h": "omarneversleeps"
+    },
+    {
+     "t": "Sheel Mohnot flags a report that the Synapse founder's new startup can't make payroll",
+     "u": "https://www.cnbc.com/amp/2026/11/14/foundation-payroll-ceo-loan.html",
+     "d": "cnbc.com",
+     "x": "https://x.com/pitdesi/status/2121652530799055237",
+     "h": "pitdesi"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "General Tech",
+   "items": [
+    {
+     "t": "Update: SpaceX catches Starship's upper stage for the first time",
+     "u": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html?__source=twitter%7Ctech&taid=6af8d981c6e5210001708cc9&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter",
+     "d": "cnbc.com",
+     "x": "https://x.com/elonmusk/status/2121726288968720709",
+     "h": "elonmusk"
+    },
+    {
+     "t": "Update: Musk says Huang always delivered on his word",
+     "u": "https://x.com/elonmusk/status/2121624209675665519",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2121624209675665519",
+     "h": "elonmusk"
+    },
+    {
+     "t": "Tech leaders hail the Starship catch",
+     "u": "https://x.com/sundarpichai/status/2121721987794174178",
+     "d": "x.com",
+     "x": "https://x.com/sundarpichai/status/2121721987794174178",
+     "h": "sundarpichai"
+    },
+    {
+     "t": "Discord and Duolingo post teasers at the same moment",
+     "u": "https://x.com/discord/status/2121619297428512918",
+     "d": "x.com",
+     "x": "https://x.com/discord/status/2121619297428512918",
+     "h": "discord"
+    },
+    {
+     "t": "Musk: Grok text watermarking only where the law requires or users ask",
+     "u": "https://x.com/elonmusk/status/2121644169462681818",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2121644169462681818",
+     "h": "elonmusk"
+    },
+    {
+     "t": "Discord's new Rust client brings overlay and more features to Linux and macOS",
+     "u": "https://x.com/discord/status/2121673217370955794",
+     "d": "x.com",
+     "x": "https://x.com/discord/status/2121673217370955794",
+     "h": "discord"
+    },
+    {
+     "t": "Tech voices clash over Huang and the WSJ's coverage",
+     "u": "https://x.com/stevesi/status/2121810069515886794",
+     "d": "x.com",
+     "x": "https://x.com/stevesi/status/2121810069515886794",
+     "h": "stevesi"
+    },
+    {
+     "t": "Nvidia RTX 5090 and 5080 prices drop up to 22% in Japan",
+     "u": "https://x.com/Pirat_Nation/status/2121665213879722032",
+     "d": "x.com",
+     "x": "https://x.com/Pirat_Nation/status/2121665213879722032",
+     "h": "Pirat_Nation"
+    },
+    {
+     "t": "Take-Two CEO calls out OpenAI and Anthropic over AI-recreated games",
+     "u": "https://x.com/Pirat_Nation/status/2121649367706903029",
+     "d": "x.com",
+     "x": "https://x.com/Pirat_Nation/status/2121649367706903029",
+     "h": "Pirat_Nation"
+    },
+    {
+     "t": "Naughty Dog's Intergalactic is playable and in its final stage of production",
+     "u": "https://x.com/Pirat_Nation/status/2121816209037668694",
+     "d": "x.com",
+     "x": "https://x.com/Pirat_Nation/status/2121816209037668694",
+     "h": "Pirat_Nation"
+    }
+   ]
+  },
+  {
+   "id": "cyber",
+   "title": "Cybersecurity",
+   "items": [
+    {
+     "t": "Update: Microsoft email outage delayed chlorine alarms at a German theme-park hotel",
+     "u": "https://x.com/Pirat_Nation/status/2121724858488762370",
+     "d": "x.com",
+     "x": "https://x.com/Pirat_Nation/status/2121724858488762370",
+     "h": "Pirat_Nation"
+    },
+    {
+     "t": "Update: Microsoft warns of an active phishing campaign using the Microsoft 365 outage as a lure",
+     "u": "https://cybersecuritynews.com/active-password-stealing-attack-microsoft-365/",
+     "d": "cybersecuritynews.com",
+     "x": "https://x.com/The_Cyber_News/status/2121569566749044901",
+     "h": "The_Cyber_News"
+    },
+    {
+     "t": "Update: Telegram widget RCE now gets past Telegram's new seccomp sandbox",
+     "u": "https://x.com/nebusecurity/status/2121776296829342128",
+     "d": "x.com",
+     "x": "https://x.com/nebusecurity/status/2121776296829342128",
+     "h": "nebusecurity"
+    },
+    {
+     "t": "Cloudflare warns AI-orchestrated pentest platforms like ARTEX enable effective attacks",
+     "u": "https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/",
+     "d": "blog.cloudflare.com",
+     "x": "https://x.com/Cloudflare/status/2121727861773987969",
+     "h": "Cloudflare"
+    },
+    {
+     "t": "Update: Microsoft cites \"elevated loads\" as it works to end the outage hitting business customers",
+     "u": "https://www.wired.com/story/major-microsoft-outlook-outage-hits-365-customers-north-america/?utm_content=buffera054c&utm_medium=social&utm_source=twitter&utm_campaign=aud-dev",
+     "d": "wired.com",
+     "x": "https://x.com/WIRED/status/2121763868867195271",
+     "h": "WIRED"
+    },
+    {
+     "t": "A \"no-refusal\" cyber graft for DeepSeek V4.1 Flash circulates; Hugging Face's CEO calls policy-change talk FUD",
+     "u": "https://x.com/0x0SojalSec/status/2121754986485055604",
+     "d": "x.com",
+     "x": "https://x.com/0x0SojalSec/status/2121754986485055604",
+     "h": "0x0SojalSec"
+    },
+    {
+     "t": "AI security tooling: an AI harness for vulnerability research, Sandboxcheckr for agent swarms and secret redaction in harnesses",
+     "u": "https://grahamhelton.github.io/harness-engineering-workshop-book/introduction.html",
+     "d": "grahamhelton.github.io",
+     "x": "https://x.com/payloadartist/status/2121611610376765709",
+     "h": "payloadartist"
+    },
+    {
+     "t": "appstorectl 1.2.0 adds iOS 27 support for installing and decrypting App Store apps",
+     "u": "https://github.com/appknox/appstorectl",
+     "d": "github.com",
+     "x": "https://x.com/Xplo8E/status/2121692853126791208",
+     "h": "Xplo8E"
+    },
+    {
+     "t": "Update: ARTEX has 50+ public forks and AI-refactored variants, so static IOCs fall short",
+     "u": "https://x.com/cantinasecurity/status/2121641064675279142",
+     "d": "x.com",
+     "x": "https://x.com/cantinasecurity/status/2121641064675279142",
+     "h": "cantinasecurity"
+    },
+    {
+     "t": "Google DeepMind paper: agent swarms still break prompt-injection defenses in most scenarios",
+     "u": "https://x.com/alexbieyx/status/2121279795891737054",
+     "d": "x.com",
+     "x": "https://x.com/alexbieyx/status/2121279795891737054",
+     "h": "alexbieyx"
+    }
+   ]
+  },
+  {
+   "id": "hb",
+   "title": "Huntington Beach / OC",
+   "items": [
+    {
+     "t": "HB in November - walk 10 minutes out your front door and see Smashing Pumpkins at the beach.",
+     "u": "https://www.reddit.com/r/huntingtonbeach/comments/1xwm78u/hb_in_november_walk_10_minutes_out_your_front/",
+     "d": "reddit.com"
+    },
+    {
+     "t": "Rare sea turtle hatchlings released into ocean after historic West Coast nesting",
+     "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWU10bWlGU1B3djZwcHdxOFh4NWdoZGVPdkZ2a0pPYnVmUXlEVVpXQ3ViQjNCVDcxWUY5X0JLZXpjT2NKeDIxc2RQSkRxLWg1WXE2a0lyR1ZtZ2pDOXdkUkk3eXp0RDluZS1QMk1Nc1NrWjFGdnB5bWF6Sm5ya0NVaUtLc092b09XaTR3ZEVB0gGWAUFVX3lxTE5uS3RFRFhsY1M2TFZyWk8xU3VJamZvOGdTV3NzdEF3bmVET29qY2xPZFZwMVpfNGV1RGpTVWRrVXo1TFdVbGRscjAyd0NBNldaWHNxWnRISl90R25JcHh4cjlFcTFfQ1BydnVCXzl2ZFJJSUp1eFhXMVFCME5POF9ldmVJVzFqTFBxWDhTM2twNngtb21zdw?oc=5",
+     "d": "nbclosangeles.com"
+    },
+    {
+     "t": "\ud83c\udfd0\u2600\ufe0f RECRUITING 2 MEN & 2 WOMEN \u2013 SUNDAY PREMIER BEACH VOLLEYBALL!",
+     "u": "https://www.reddit.com/r/huntingtonbeach/comments/1xweupy/recruiting_2_men_2_women_sunday_premier_beach/",
+     "d": "reddit.com"
+    }
+   ]
+  }
+ ]
+}
