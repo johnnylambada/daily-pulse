@@ -1,0 +1,540 @@
+{
+ "run": "2026-11-16_0502",
+ "stamp": "2026-11-16 05:02",
+ "date": "2026-11-16",
+ "sections": [
+  {
+   "id": "top",
+   "title": "Top Stories",
+   "items": [
+    {
+     "t": "Musk: Starship Ship 42\u2019s heat shield and engines look great, and it could fly again after a few weeks of refurbishment",
+     "u": "https://x.com/elonmusk/status/2122092374016806969",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2122092374016806969",
+     "h": "elonmusk"
+    },
+    {
+     "t": "Musk: Starship V4 will be about 70 m long with nine engines and more than 60% more propellant",
+     "u": "https://x.com/elonmusk/status/2122141019894383027",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2122141019894383027",
+     "h": "elonmusk"
+    },
+    {
+     "t": "WSJ: Nvidia\u2019s days as an open checkbook for the AI boom are numbered, putting $50 billion or more in financing at risk",
+     "u": "https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388?st=QdBiw8",
+     "d": "wsj.com",
+     "x": "https://x.com/anissagardizy8/status/2122153860537975087",
+     "h": "anissagardizy8"
+    },
+    {
+     "t": "Bitly confirms bad actors repurposed old short links, as pranksters redirect links in Trump, McDonald\u2019s and Burger King posts",
+     "u": "https://slashdot.org/story/26/11/15/2311255/pranksters-redirect-bitlys-links-in-x-posts-for-trump-mcdonalds-and-burger-king?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+     "d": "slashdot.org",
+     "x": "https://x.com/Bitly/status/2122045450786152588",
+     "h": "Bitly"
+    },
+    {
+     "t": "Kuo: new OpenAI and Anthropic orders extend Google\u2019s TPU shipment visibility to 2029",
+     "u": "https://www.ft.com/content/ee5b23b3-89b3-41f7-9158-56c1586759c2",
+     "d": "ft.com",
+     "x": "https://x.com/mingchikuo/status/2122133109630194098",
+     "h": "mingchikuo"
+    },
+    {
+     "t": "Judge lets the DRAM price-fixing lawsuit against Samsung, Micron and SK hynix go ahead",
+     "u": "https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge",
+     "d": "tomshardware.com",
+     "x": "https://x.com/tomshardware/status/2121984706258616491",
+     "h": "tomshardware"
+    },
+    {
+     "t": "ULA\u2019s Vulcan fails about 10 minutes after liftoff, losing 40 Amazon Leo satellites",
+     "u": "https://x.com/AmazonLeo/status/2122044843459330183",
+     "d": "x.com",
+     "x": "https://x.com/AmazonLeo/status/2122044843459330183",
+     "h": "AmazonLeo"
+    },
+    {
+     "t": "Alibaba launches Qwen4-Max, a cheaper Chinese frontier model with native vision and a 1M-token context",
+     "u": "https://x.com/QwenDevs/status/2122156218928242799",
+     "d": "x.com",
+     "x": "https://x.com/QwenDevs/status/2122156218928242799",
+     "h": "QwenDevs"
+    },
+    {
+     "t": "OpenAI misalignment report: agents broke into its research systems using notes left by earlier runs",
+     "u": "https://x.com/davideoks/status/2120280505920721214",
+     "d": "x.com",
+     "x": "https://x.com/davideoks/status/2120280505920721214",
+     "h": "davideoks"
+    },
+    {
+     "t": "Attacks today: Steam game CivIdle\u2019s chat used to push a Windows Trojan, and Australia\u2019s Coles hit by a cyberattack",
+     "u": "https://www.news24.com.au/national/crime/major-supermarket-chain-coles-hit-with-cyber-attack-as-experts-race-to-determine-source-of-breach/news-story/a89b30b2e1efb405ac3091c4f4e83af9",
+     "d": "news24.com.au",
+     "x": "https://x.com/Pirat_Nation/status/2122097473602601369",
+     "h": "Pirat_Nation"
+    }
+   ]
+  },
+  {
+   "id": "us",
+   "title": "US News",
+   "items": [
+    {
+     "t": "Watch Live: Lindsay Clancy hearing on possible retrial and on what charges",
+     "u": "https://www.cbsnews.com/news/lindsay-clancy-hearing/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "Mamdani Disbands Controversial NYPD Protest Unit",
+     "u": "https://www.wsj.com/politics/mamdani-disbands-controversial-nypd-protest-unit-e6e0d6cb?mod=rss_usnews",
+     "d": "wsj.com"
+    },
+    {
+     "t": "Thanksgiving travel likely to dip a bit due to prices, AAA says",
+     "u": "https://www.cbsnews.com/news/thanksgiving-travel-likely-dip-prices/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "Air traffic controllers' union head on the nationwide ground stop",
+     "u": "https://www.npr.org/2026/11/16/nx-s1-6041644/air-traffic-controllers-union-head-on-the-nationwide-ground-stop",
+     "d": "npr.org"
+    },
+    {
+     "t": "\u2018Steering Failure\u2019 Likely Caused Tanker\u2019s Collision With Riverboat, N.T.S.B. Says",
+     "u": "https://www.nytimes.com/2026/11/16/us/new-orleans-cruise-ship-steering-failure.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Fewer foreign students studying at U.S. universities, study shows",
+     "u": "https://www.cbsnews.com/news/us-universities-fewer-foreign-students-trump-administration-policies/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "Officials received years of warnings before FAA ground stop",
+     "u": "https://www.cbsnews.com/news/faa-ground-stop-warnings-records/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "Judge Could Set New Trial Date for Lindsay Clancy",
+     "u": "https://www.nytimes.com/2026/11/16/us/lindsay-clancy-trial-hearing.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Raman Has Lots of Plans. Los Angeles Has Lots of Obstacles.",
+     "u": "https://www.nytimes.com/2026/11/16/us/raman-la-mayor-priorities.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Democrats Will Wield Enormous Power in Statehouses. What Will They Do?",
+     "u": "https://www.nytimes.com/2026/11/16/us/politics/democrats-state-government-control-priorities.html",
+     "d": "nytimes.com"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "World News",
+   "items": [
+    {
+     "t": "Ken Wyatt named Western Australia\u2019s first Aboriginal governor",
+     "u": "https://www.abc.net.au/news/2026-11-16/ken-wyatt-named-as-wa-s-first-indigenous-governor/107391360",
+     "d": "abc.net.au",
+     "x": "https://x.com/abcnews/status/2122206728020451639",
+     "h": "abcnews"
+    },
+    {
+     "t": "Washington Post: the administration told the military to explore a criminal case against a top general accused of leaking",
+     "u": "https://www.washingtonpost.com/national-security/2026/11/15/pentagon-prepares-its-own-prosecution-lt-gen-brett-sylvia/?utm_campaign=wp_main&utm_source=twitter&utm_medium=social",
+     "d": "washingtonpost.com",
+     "x": "https://x.com/washingtonpost/status/2122064610400321991",
+     "h": "washingtonpost"
+    },
+    {
+     "t": "Daily Mail: EU capitals to unveil a deal to start sending rejected migrants to Rwanda",
+     "u": "https://www.dailymail.com/news/article-16294489/Several-EU-capitals-announce-deal-migrants-Rwanda.html?ns_mchannel=rss&ns_campaign=1490&ito=social-twitter_mailonline",
+     "d": "dailymail.com",
+     "x": "https://x.com/DailyMail/status/2122089094444445732",
+     "h": "DailyMail"
+    },
+    {
+     "t": "Biden memoir says he wishes he had been screened earlier, calls claims he hid his cancer \u201cabsurd\u201d",
+     "u": "https://www.ms.now/news/biden-book-prostate-cancer-health-trump-excerpt-promise-me-america?cid=sm_npd_ms_tw_ma&taid=6afa28f1d0eea100019afd79&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter",
+     "d": "ms.now",
+     "x": "https://x.com/MSNOWNews/status/2122084631876960320",
+     "h": "MSNOWNews"
+    },
+    {
+     "t": "Six months on, Congo\u2019s Ebola outbreak remains out of control",
+     "u": "https://www.pbs.org/newshour/world/ebola-outbreak-remains-out-of-control-in-congo-6-months-into-response",
+     "d": "pbs.org",
+     "x": "https://x.com/NewsHour/status/2122076425624666179",
+     "h": "NewsHour"
+    },
+    {
+     "t": "Zelenskyy says Starshield restrictions are hurting Ukraine\u2019s drone defenses and that talks on a European position are being prepared",
+     "u": "https://www.pbs.org/newshour/world/zelenskyy-says-starshield-restrictions-threaten-ukraines-energy-defenses-ahead-of-winter",
+     "d": "pbs.org",
+     "x": "https://x.com/NewsHour/status/2122057805238555048",
+     "h": "NewsHour"
+    },
+    {
+     "t": "China\u2019s slowdown deepens as October output, retail sales and investment all miss forecasts",
+     "u": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html?taid=6afa68568a00c900012278ab&utm_campaign=trueanthem&utm_content=main&utm_medium=social&utm_source=twitter",
+     "d": "cnbc.com",
+     "x": "https://x.com/CNBC/status/2122152701727318202",
+     "h": "CNBC"
+    },
+    {
+     "t": "Fighting between Ethiopia\u2019s army and Tigray\u2019s ruling party has resumed",
+     "u": "https://www.economist.com/middle-east-and-africa/2026/09/23/a-disastrous-new-war-threatens-in-africa?taid=6afa0f4bd0eea100019afc8b&utm_campaign=editorial-social&utm_content=discovery.content&utm_medium=social-media.content.np&utm_source=twitter",
+     "d": "economist.com",
+     "x": "https://x.com/TheEconomist/status/2122057091586105366",
+     "h": "TheEconomist"
+    },
+    {
+     "t": "Pope Leo demands justice for slain Indigenous leaders as he tours Peru\u2019s Andes and Amazon",
+     "u": "https://www.pbs.org/newshour/world/pope-crosses-peru-in-the-finale-of-a-trip-home-to-visit-flock-high-in-andes-and-deep-in-amazon",
+     "d": "pbs.org",
+     "x": "https://x.com/AFP/status/2122067911678251100",
+     "h": "AFP"
+    },
+    {
+     "t": "Update: FBI takes over the investigation into the explosive device at a Peoria ethanol plant",
+     "u": "https://abcnews.com/video/138155445/?cid=social_twitter_wnt",
+     "d": "abcnews.com",
+     "x": "https://x.com/ABCWorldNews/status/2122132551724597580",
+     "h": "ABCWorldNews"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI",
+   "items": [
+    {
+     "t": "Alibaba launches Qwen4-Max, the first Qwen4 model, with native vision and a 1M-token context",
+     "u": "https://x.com/i/status/2122148127520289151",
+     "d": "x.com",
+     "x": "https://x.com/i/status/2122148127520289151",
+     "h": "i"
+    },
+    {
+     "t": "OpenAI starts a science blog with a physicist's GPT-6 Astra work on the Standard Model",
+     "u": "https://openai.com/index/step-toward-defining-the-standard-model",
+     "d": "openai.com",
+     "x": "https://x.com/OpenAI/status/2122123437141553630",
+     "h": "OpenAI"
+    },
+    {
+     "t": "The \"normal technology\" versus AGI split, in one chart",
+     "u": "https://x.com/chrisalbon/status/2122081442549391738",
+     "d": "x.com",
+     "x": "https://x.com/chrisalbon/status/2122081442549391738",
+     "h": "chrisalbon"
+    },
+    {
+     "t": "Gemini subscriptions are coming to Hermes Agent, with Google's sign-off",
+     "u": "https://x.com/HermesWatcher/status/2122026878387290301",
+     "d": "x.com",
+     "x": "https://x.com/HermesWatcher/status/2122026878387290301",
+     "h": "HermesWatcher"
+    },
+    {
+     "t": "Qwen4-Max posts strong early benchmark results, especially in coding and agent work",
+     "u": "https://x.com/ArtificialAnlys/status/2122161629592953032",
+     "d": "x.com",
+     "x": "https://x.com/ArtificialAnlys/status/2122161629592953032",
+     "h": "ArtificialAnlys"
+    },
+    {
+     "t": "Anthropic researcher's 1.3-year superhuman AI estimate goes viral",
+     "u": "https://x.com/kimmonismus/status/2122163929736794622",
+     "d": "x.com",
+     "x": "https://x.com/kimmonismus/status/2122163929736794622",
+     "h": "kimmonismus"
+    },
+    {
+     "t": "The Browser Company shows a prototype mixing full-duplex voice with regular app screens",
+     "u": "https://x.com/joshm/status/2122081456646393919",
+     "d": "x.com",
+     "x": "https://x.com/joshm/status/2122081456646393919",
+     "h": "joshm"
+    },
+    {
+     "t": "Genesis AI announces Eden, a robot learning framework built for coding agents",
+     "u": "https://x.com/kashu_yamazaki/status/2121634263963718118",
+     "d": "x.com",
+     "x": "https://x.com/kashu_yamazaki/status/2121634263963718118",
+     "h": "kashu_yamazaki"
+    },
+    {
+     "t": "Update: Gemini 4 Carbon is now generally available, and Hydrogen undercuts on price",
+     "u": "https://x.com/Saboo_Shubham_/status/2122169537592430882",
+     "d": "x.com",
+     "x": "https://x.com/Saboo_Shubham_/status/2122169537592430882",
+     "h": "Saboo_Shubham_"
+    },
+    {
+     "t": "Paul Christiano tells Dwarkesh there is a 1 in 3 chance of extreme superintelligence within a year",
+     "u": "https://x.com/dwarkesh_sp/status/2122064955545686119",
+     "d": "x.com",
+     "x": "https://x.com/dwarkesh_sp/status/2122064955545686119",
+     "h": "dwarkesh_sp"
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "title": "Investing & Markets",
+   "items": [
+    {
+     "t": "California's wealth-tax ban and Bay Area unicorn odds cheer founders (bullish, new)",
+     "u": "https://x.com/AlexKolicich/status/2122057314337489119",
+     "d": "x.com",
+     "x": "https://x.com/AlexKolicich/status/2122057314337489119",
+     "h": "AlexKolicich"
+    },
+    {
+     "t": "A consumer agent startup advised through Intro reached $22 million in ARR, says Raad",
+     "u": "https://x.com/Raadmobrem/status/2121442856586096703",
+     "d": "x.com",
+     "x": "https://x.com/Raadmobrem/status/2121442856586096703",
+     "h": "Raadmobrem"
+    },
+    {
+     "t": "Small startups now manage agents instead of doing ops, sales and support by hand, says immad",
+     "u": "https://x.com/immad/status/2122061360960086336",
+     "d": "x.com",
+     "x": "https://x.com/immad/status/2122061360960086336",
+     "h": "immad"
+    },
+    {
+     "t": "Screenless, voice-first AI wearables are back in favor two years after Humane (bullish, shift)",
+     "u": "https://x.com/drewcoffman/status/2122103024961417281",
+     "d": "x.com",
+     "x": "https://x.com/drewcoffman/status/2122103024961417281",
+     "h": "drewcoffman"
+    },
+    {
+     "t": "SpaceX's launch lead keeps feeding bulls as Falcon 9 retirement and ULA's failure draw debate (bullish, continuing)",
+     "u": "https://x.com/PTrubey/status/2122106763780714685",
+     "d": "x.com",
+     "x": "https://x.com/PTrubey/status/2122106763780714685",
+     "h": "PTrubey"
+    },
+    {
+     "t": "Vibe Kanban shut down after failing to switch its interface fast enough, says investor Theo",
+     "u": "https://x.com/theo/status/2122201981167251877",
+     "d": "x.com",
+     "x": "https://x.com/theo/status/2122201981167251877",
+     "h": "theo"
+    },
+    {
+     "t": "An AI-made ad produced $1.4 million in ARR for a Series A startup, says Greg Isenberg",
+     "u": "https://x.com/gregisenberg/status/2122112289255870714",
+     "d": "x.com",
+     "x": "https://x.com/gregisenberg/status/2122112289255870714",
+     "h": "gregisenberg"
+    },
+    {
+     "t": "Qwen4 launched, billed as the best open-weight model, with smaller open models promised",
+     "u": "https://qwen.ai/blog?id=qwen4-max",
+     "d": "qwen.ai",
+     "x": "https://x.com/TeksEdge/status/2122154949379510514",
+     "h": "TeksEdge"
+    },
+    {
+     "t": "Anthropic's IPO marks a hand-off from AI infrastructure to applications, says Raging Capital (bearish on infrastructure, new)",
+     "u": "https://x.com/RagingVentures/status/2122108447252693249",
+     "d": "x.com",
+     "x": "https://x.com/RagingVentures/status/2122108447252693249",
+     "h": "RagingVentures"
+    },
+    {
+     "t": "Does Anthropic win or lose from Nvidia's turmoil? (mixed, new)",
+     "u": "https://x.com/lutherlowe/status/2122151360669855882",
+     "d": "x.com",
+     "x": "https://x.com/lutherlowe/status/2122151360669855882",
+     "h": "lutherlowe"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "General Tech",
+   "items": [
+    {
+     "t": "Elon Musk: if money alone built rockets, explain catching Starships with chopsticks",
+     "u": "https://x.com/elonmusk/status/2122114284779925897",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2122114284779925897",
+     "h": "elonmusk"
+    },
+    {
+     "t": "Elon Musk revisits his 2014 fight with ULA after the Vulcan failure",
+     "u": "https://x.com/elonmusk/status/2122186399575396604",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2122186399575396604",
+     "h": "elonmusk"
+    },
+    {
+     "t": "Paul Graham: \"the limiting factor isn't investment. It's founder ability\"",
+     "u": "https://x.com/paulg/status/2122033524857589799",
+     "d": "x.com",
+     "x": "https://x.com/paulg/status/2122033524857589799",
+     "h": "paulg"
+    },
+    {
+     "t": "Musk: \"Grok @Bot can do almost anything\"",
+     "u": "https://x.com/elonmusk/status/2122164224382447808",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2122164224382447808",
+     "h": "elonmusk"
+    },
+    {
+     "t": "Balaji: \"All Jensen has to do is tweet\" that he wants back",
+     "u": "https://x.com/balajis/status/2122093003116519827",
+     "d": "x.com",
+     "x": "https://x.com/balajis/status/2122093003116519827",
+     "h": "balajis"
+    },
+    {
+     "t": "Balaji: the Nvidia \"spy\" story appears to be fake",
+     "u": "https://www.atlanticcouncil.org/",
+     "d": "atlanticcouncil.org",
+     "x": "https://x.com/balajis/status/2122115418659967289",
+     "h": "balajis"
+    },
+    {
+     "t": "Update: Samsung to invest $1.9 billion in Austin to make Starlink chips",
+     "u": "https://x.com/elonmusk/status/2122127355502071854",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2122127355502071854",
+     "h": "elonmusk"
+    },
+    {
+     "t": "Some GTA 6 physical copies arrive without download codes",
+     "u": "https://x.com/Pirat_Nation/status/2122177843136512023",
+     "d": "x.com",
+     "x": "https://x.com/Pirat_Nation/status/2122177843136512023",
+     "h": "Pirat_Nation"
+    },
+    {
+     "t": "Report: Samsung to make Starlink chips in Austin",
+     "u": "https://x.com/elonmusk/status/2122068253564350768",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2122068253564350768",
+     "h": "elonmusk"
+    },
+    {
+     "t": "Update: Tech leaders sign on to bring Huang back, as an Nvidia VP disowns a fake letter",
+     "u": "https://x.com/dhh/status/2122086159425982563",
+     "d": "x.com",
+     "x": "https://x.com/dhh/status/2122086159425982563",
+     "h": "dhh"
+    }
+   ]
+  },
+  {
+   "id": "cyber",
+   "title": "Cybersecurity",
+   "items": [
+    {
+     "t": "AWS restores US-EAST-1 after a three-hour outage hit sign-ins and sign-ups",
+     "u": "https://cybersecuritynews.com/aws-services-outage/",
+     "d": "cybersecuritynews.com",
+     "x": "https://x.com/The_Cyber_News/status/2122175303820915182",
+     "h": "The_Cyber_News"
+    },
+    {
+     "t": "Update: Luxor confirms its Commander tool was used to redirect client hashrate; clients to be paid in full",
+     "u": "https://x.com/luxor/status/2122018094914601464",
+     "d": "x.com",
+     "x": "https://x.com/luxor/status/2122018094914601464",
+     "h": "luxor"
+    },
+    {
+     "t": "Haifei Li reports a new zero-click Outlook RCE zero-day to Microsoft",
+     "u": "https://x.com/HaifeiLi/status/2122136468202344882",
+     "d": "x.com",
+     "x": "https://x.com/HaifeiLi/status/2122136468202344882",
+     "h": "HaifeiLi"
+    },
+    {
+     "t": "ARTEX's harness used to build a self-rewriting C2 with autonomous EDR evasion",
+     "u": "https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/",
+     "d": "blog.cloudflare.com",
+     "x": "https://x.com/zakmorris/status/2122160083907809778",
+     "h": "zakmorris"
+    },
+    {
+     "t": "Claude helps an owner read and run code on a 1994 Jeep engine computer",
+     "u": "https://cybersecuritynews.com/claude-cracks-32-year-old-jeep-ecu/",
+     "d": "cybersecuritynews.com",
+     "x": "https://x.com/The_Cyber_News/status/2122152438815920160",
+     "h": "The_Cyber_News"
+    },
+    {
+     "t": "Have I Been Pwned's Pwned Passwords topped 1 billion requests a day for a week",
+     "u": "https://x.com/troyhunt/status/2122053980184604758",
+     "d": "x.com",
+     "x": "https://x.com/troyhunt/status/2122053980184604758",
+     "h": "troyhunt"
+    },
+    {
+     "t": "Seller advertises an iPhone exploit and remote-control kit claiming iOS 13 to 27.2 support (unverified)",
+     "u": "https://x.com/DailyDarkWeb/status/2122022923699630546",
+     "d": "x.com",
+     "x": "https://x.com/DailyDarkWeb/status/2122022923699630546",
+     "h": "DailyDarkWeb"
+    },
+    {
+     "t": "Belarus cloud host ActiveCloud confirms ransomware encrypted part of its infrastructure",
+     "u": "https://x.com/DailyDarkWeb/status/2122201416315912392",
+     "d": "x.com",
+     "x": "https://x.com/DailyDarkWeb/status/2122201416315912392",
+     "h": "DailyDarkWeb"
+    },
+    {
+     "t": "Actor claims 400GB stolen from Canc\u00fan's municipal government (unverified)",
+     "u": "https://x.com/DailyDarkWeb/status/2122090145692205432",
+     "d": "x.com",
+     "x": "https://x.com/DailyDarkWeb/status/2122090145692205432",
+     "h": "DailyDarkWeb"
+    },
+    {
+     "t": "Mustang Panda targets Thailand with Lotuslite V2 backdoor",
+     "u": "https://antares-research.com/reports/lotuslite-v2",
+     "d": "antares-research.com",
+     "x": "https://x.com/Chilaikun/status/2121980362217885951",
+     "h": "Chilaikun"
+    }
+   ]
+  },
+  {
+   "id": "hb",
+   "title": "Huntington Beach / OC",
+   "items": [
+    {
+     "t": "Seeking a hidden coastal overlook with easy beach access for a proposal",
+     "u": "https://www.reddit.com/r/huntingtonbeach/comments/1xxizmi/seeking_a_hidden_coastal_overlook_with_easy_beach/",
+     "d": "reddit.com"
+    },
+    {
+     "t": "Seeking a hidden coastal overlook with easy beach access for a proposal",
+     "u": "https://www.reddit.com/r/huntingtonbeach/comments/1xxizbn/seeking_a_hidden_coastal_overlook_with_easy_beach/",
+     "d": "reddit.com"
+    },
+    {
+     "t": "Bilingual Vietnamese Sales",
+     "u": "https://www.reddit.com/r/huntingtonbeach/comments/1xxgz3b/bilingual_vietnamese_sales/",
+     "d": "reddit.com"
+    }
+   ]
+  }
+ ]
+}
