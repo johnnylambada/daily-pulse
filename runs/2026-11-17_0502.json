@@ -1,0 +1,540 @@
+{
+ "run": "2026-11-17_0502",
+ "stamp": "2026-11-17 05:02",
+ "date": "2026-11-17",
+ "sections": [
+  {
+   "id": "top",
+   "title": "Top Stories",
+   "items": [
+    {
+     "t": "SpaceX posts tower views of the first-ever Starship catch, and Musk revives his Starlink-for-FAA dispute",
+     "u": "https://x.com/elonmusk/status/2122472344052531640",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2122472344052531640",
+     "h": "elonmusk"
+    },
+    {
+     "t": "Google warns hackers now use AI agents to turn security patches into exploits; FBI flags a fast AI hacking tool",
+     "u": "https://venturebeat.com/ai/google-says-attackers-built-an-ai-framework-to-turn-software-patches-into-exploits-without-human-intervention",
+     "d": "venturebeat.com",
+     "x": "https://x.com/NewsFromGoogle/status/2122446058370597070",
+     "h": "NewsFromGoogle"
+    },
+    {
+     "t": "Musk says he will be in China on Wednesday as Tesla starts rolling out its holiday-update branch",
+     "u": "https://teslascope.com/software/2026.44.1",
+     "d": "teslascope.com",
+     "x": "https://x.com/elonmusk/status/2122542607653896255",
+     "h": "elonmusk"
+    },
+    {
+     "t": "Musk says owners could start putting their own Teslas on the Robotaxi network in trials next month",
+     "u": "https://x.com/elonmusk/status/2122449119570534680",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2122449119570534680",
+     "h": "elonmusk"
+    },
+    {
+     "t": "Tesla confirms a \u20ac3 billion Giga Berlin Cybercab building, with production planned for 2029",
+     "u": "https://x.com/AndrThie/status/2122363982627389528",
+     "d": "x.com",
+     "x": "https://x.com/AndrThie/status/2122363982627389528",
+     "h": "AndrThie"
+    },
+    {
+     "t": "OpenAI and Google DeepMind widen free frontier-model access for scientists",
+     "u": "https://openai.com/index/expanding-chatgpt-for-academic-researchers/",
+     "d": "openai.com",
+     "x": "https://x.com/OpenAI/status/2122377585523126615",
+     "h": "OpenAI"
+    },
+    {
+     "t": "Money moves: Noeri launches with $110 million, Corma hits a $1 billion valuation, and World Labs officially joins AMD",
+     "u": "https://x.com/YejinChoinka/status/2122379749372907852",
+     "d": "x.com",
+     "x": "https://x.com/YejinChoinka/status/2122379749372907852",
+     "h": "YejinChoinka"
+    },
+    {
+     "t": "Microsoft says its three-day Outlook and Teams outage came from a defect that sat undetected since July",
+     "u": "https://www.washingtontimes.com/news/2026/nov/16/microsoft-blames-outage-software-defect-introduced-july/?utm_content=buffer062d2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
+     "d": "washingtontimes.com",
+     "x": "https://x.com/GergelyOrosz/status/2122428797647769970",
+     "h": "GergelyOrosz"
+    },
+    {
+     "t": "Online banking outages hit Chase, Bank of America, Wells Fargo, Zelle and other US banks; banks say it is a technical problem, not a hack",
+     "u": "https://www.cnn.com/2026/11/16/business/bank-outage-chase-us-bank-bank-of-america?Date=20261116&Profile=CNN&utm_content=1794859724&utm_medium=social&utm_source=twitter",
+     "d": "cnn.com",
+     "x": "https://x.com/CNN/status/2122421689132679516",
+     "h": "CNN"
+    },
+    {
+     "t": "Hub open-sources HubEgo-100K, a 100,000-hour first-person video dataset of skilled work for training robots",
+     "u": "https://x.com/hubdotxyz/status/2122408735897423962",
+     "d": "x.com",
+     "x": "https://x.com/hubdotxyz/status/2122408735897423962",
+     "h": "hubdotxyz"
+    }
+   ]
+  },
+  {
+   "id": "us",
+   "title": "US News",
+   "items": [
+    {
+     "t": "Widespread service outages at major U.S. banks appear to be over",
+     "u": "https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "As Trump Goes to China, A.I. Tensions Surge Amid Spying and Safety Fears",
+     "u": "https://www.nytimes.com/2026/11/17/us/politics/trump-china-ai-tensions.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "This teen had no place to go, so a hospital became his home",
+     "u": "https://www.cbsnews.com/news/hospital-boarding-st-louis-teen-home/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "She went to college to become a social worker. Now she's joined the skilled trades",
+     "u": "https://www.npr.org/2026/11/17/nx-s1-6012818/skilled-trades-apprenticeship-college-data-centers-jobs",
+     "d": "npr.org"
+    },
+    {
+     "t": "El Ni\u00f1o Draws Sea Turtles to California\u2019s Coast for the First Time",
+     "u": "https://www.nytimes.com/2026/11/16/us/sea-turtles-california.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Trump Administration Divide on China Policy Breaks Into Public View",
+     "u": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-policy.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Justice Alito Warns Court Overhaul Could Threaten Judicial Independence",
+     "u": "https://www.nytimes.com/2026/11/16/us/politics/supreme-court-alito.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Can We Still Trust American Air Travel?",
+     "u": "https://www.cbsnews.com/video/can-we-still-trust-american-air-travel/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "What Pete Buttigieg\u2019s Bet in the 2026 Midterms Could Mean for 2028",
+     "u": "https://www.nytimes.com/2026/11/16/us/politics/pete-buttigieg-2028.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Chase Bank Resumes Normal Operations After \u2018Software Bug\u2019 Disrupted Transactions",
+     "u": "https://www.nytimes.com/2026/11/16/us/bank-outages-down.html",
+     "d": "nytimes.com"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "World News",
+   "items": [
+    {
+     "t": "Netanyahu\u2019s camp faces allegations it orchestrated arrests of opponents on Israel\u2019s election day",
+     "u": "https://www.washingtonpost.com/world/2026/11/16/after-claiming-election-stolen-netanyahu-allies-face-their-own-meddling-allegations/?utm_campaign=wp_main&utm_source=twitter&utm_medium=social",
+     "d": "washingtonpost.com",
+     "x": "https://x.com/washingtonpost/status/2122472299345445185",
+     "h": "washingtonpost"
+    },
+    {
+     "t": "Police in Manila crack down on protests against Trump\u2019s visit to the Philippines",
+     "u": "https://x.com/ajplus/status/2122430437427749273",
+     "d": "x.com",
+     "x": "https://x.com/ajplus/status/2122430437427749273",
+     "h": "ajplus"
+    },
+    {
+     "t": "Strong earthquake strikes off Indonesia; reports of its magnitude differ",
+     "u": "https://www.abc.net.au/news/2026-11-17/magnitude-6-6-earthquake-indonesia-tremors-felt-in-darwin/107393396?utm_source=twitter&utm_medium=social&utm_campaign=tw_abc_news",
+     "d": "abc.net.au",
+     "x": "https://x.com/abcnews/status/2122459827918282783",
+     "h": "abcnews"
+    },
+    {
+     "t": "Zelensky says North Korea is supplying Russia with ballistic missiles and asks Europe for more support",
+     "u": "https://t.me/notes_veterans/31202",
+     "d": "t.me",
+     "x": "https://x.com/NewsHour/status/2122472829232836868",
+     "h": "NewsHour"
+    },
+    {
+     "t": "Kim Jong Un appears in new photos as Trump hints at a meeting this week",
+     "u": "https://www.yahoo.com/news/world/articles/north-koreas-kim-visits-ski-041249823.html?fr=sycsrp_catchall",
+     "d": "yahoo.com",
+     "x": "https://x.com/AFP/status/2122557661266792614",
+     "h": "AFP"
+    },
+    {
+     "t": "Van Hollen says he has the votes to block a fast-track bid to keep Schumer atop the new Senate Democratic majority",
+     "u": "https://www.politico.com/newsletters/playbook/2026/11/16/van-hollen-says-yes-he-can-01167108?nname=playbook&nid=0000014f-1646-d88f-a1cf-5f46b7bd0000&nrid=aaddaad4-1b9e-4ff1-b8ab-84832729a0d9",
+     "d": "politico.com",
+     "x": "https://x.com/politico/status/2122379972056580394",
+     "h": "politico"
+    },
+    {
+     "t": "Stanley Black & Decker (SWK): bearish, new",
+     "u": "https://www.propublica.org/article/trump-tariff-refunds-corporate-bonuses?utm_campaign=propublica-sprout&utm_content=1794880804&utm_medium=social&utm_source=twitter",
+     "d": "propublica.org",
+     "x": "https://x.com/propublica/status/2122510049662677007",
+     "h": "propublica"
+    },
+    {
+     "t": "New forensic report claims Epstein\u2019s death was not suicide; New York\u2019s former chief medical examiner stands by her ruling",
+     "u": "https://x.com/DailyMail/status/2122431484732858400",
+     "d": "x.com",
+     "x": "https://x.com/DailyMail/status/2122431484732858400",
+     "h": "DailyMail"
+    },
+    {
+     "t": "Officials insist Iran\u2019s ruler Mojtaba Khamenei is alive despite his silence",
+     "u": "https://www.economist.com/middle-east-and-africa/2026/11/15/iran-is-functioning-without-a-supreme-leader?taid=6afbe404b1a19900018e3af0&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter",
+     "d": "economist.com",
+     "x": "https://x.com/TheEconomist/status/2122560381679722520",
+     "h": "TheEconomist"
+    },
+    {
+     "t": "US intelligence says Iran is developing plans for a \u201cdirty bomb\u201d or chemical attack on Trump officials in Washington",
+     "u": "https://www.news24.com.au/news/vance-promises-iran-wont-turn-into-forever-war-trump-to-end-it-by-2028/news-story/641afe641f87e2e08978addc09d1ba5f",
+     "d": "news24.com.au",
+     "x": "https://x.com/CNNPolitics/status/2122467687020290080",
+     "h": "CNNPolitics"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI",
+   "items": [
+    {
+     "t": "Liquid AI releases d1.2 and d1.2-ultra decision models that take text, images and audio",
+     "u": "https://x.com/liquidai/status/2122346077231923698",
+     "d": "x.com",
+     "x": "https://x.com/liquidai/status/2122346077231923698",
+     "h": "liquidai"
+    },
+    {
+     "t": "Anthropic's Claude Code team explains why cheap verification makes agents write better code",
+     "u": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+     "d": "claude.dev",
+     "x": "https://x.com/ClaudeDevs/status/2122457608963395586",
+     "h": "ClaudeDevs"
+    },
+    {
+     "t": "OpenAI gives Apollo, METR, Transluce and Goodfire deep access to its internal models for alignment checks",
+     "u": "https://x.com/OpenAI/status/2122359930628063248",
+     "d": "x.com",
+     "x": "https://x.com/OpenAI/status/2122359930628063248",
+     "h": "OpenAI"
+    },
+    {
+     "t": "Compute: a buyer lands 1,000 Blackwell GPUs on short-term deals, and Astera pitches 160-GPU racks",
+     "u": "https://x.com/thdxr/status/2122493644129054781",
+     "d": "x.com",
+     "x": "https://x.com/thdxr/status/2122493644129054781",
+     "h": "thdxr"
+    },
+    {
+     "t": "Google's Antigravity details its ground-up UI redesign for parallel agents",
+     "u": "https://x.com/antigravity/status/2122514607726043205",
+     "d": "x.com",
+     "x": "https://x.com/antigravity/status/2122514607726043205",
+     "h": "antigravity"
+    },
+    {
+     "t": "Update: WSJ goes inside Jensen Huang's Nvidia as Republicans rule out his return",
+     "u": "https://www.wsj.com/business/put-downs-parties-and-a-royal-family-the-culture-inside-jensen-huangs-nvidia-6a872194?st=Pq7upv",
+     "d": "wsj.com",
+     "x": "https://x.com/anissagardizy8/status/2122493529293475884",
+     "h": "anissagardizy8"
+    },
+    {
+     "t": "Hugging Face now runs open-model requests through OpenRouter",
+     "u": "https://huggingface.co/blog/openrouter",
+     "d": "huggingface.co",
+     "x": "https://x.com/huggingface/status/2122393775314264519",
+     "h": "huggingface"
+    },
+    {
+     "t": "Claude Code is seen upending Microsoft's VS Code strategy, and adds iPhone Duo testing",
+     "u": "https://x.com/GergelyOrosz/status/2122493193677627453",
+     "d": "x.com",
+     "x": "https://x.com/GergelyOrosz/status/2122493193677627453",
+     "h": "GergelyOrosz"
+    },
+    {
+     "t": "AnswerAI releases SolveIt to the public",
+     "u": "https://www.fast.ai/posts/2026-11-16-solveit-launch/",
+     "d": "fast.ai",
+     "x": "https://x.com/jeremyphoward/status/2122487017137398256",
+     "h": "jeremyphoward"
+    },
+    {
+     "t": "OpenAI releases a free tool to help vetted groups detect child sexual abuse material, including AI-generated images",
+     "u": "https://x.com/OpenAINewsroom/status/2122375519853559954",
+     "d": "x.com",
+     "x": "https://x.com/OpenAINewsroom/status/2122375519853559954",
+     "h": "OpenAINewsroom"
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "title": "Investing & Markets",
+   "items": [
+    {
+     "t": "Open-source SignuDoc takes aim at DocuSign pricing",
+     "u": "https://github.com/drake/signudoc-cloudflare?tab=readme-ov-file",
+     "d": "github.com",
+     "x": "https://x.com/smooter/status/2122470616288969202",
+     "h": "smooter"
+    },
+    {
+     "t": "Update: United joins the bank outages, and hacking talk grows (bearish, continuing)",
+     "u": "https://x.com/GK_ventures/status/2122460422376751121",
+     "d": "x.com",
+     "x": "https://x.com/GK_ventures/status/2122460422376751121",
+     "h": "GK_ventures"
+    },
+    {
+     "t": "Megaspeed: Commerce and DOJ say Nvidia stopped selling a year ago (mixed, new)",
+     "u": "https://x.com/tylerpalmer/status/2122551441336512868",
+     "d": "x.com",
+     "x": "https://x.com/tylerpalmer/status/2122551441336512868",
+     "h": "tylerpalmer"
+    },
+    {
+     "t": "Markets and outages feel like \"late Feb 2020\" (bearish, continuing)",
+     "u": "https://x.com/robleclerc/status/2122511018450669602",
+     "d": "x.com",
+     "x": "https://x.com/robleclerc/status/2122511018450669602",
+     "h": "robleclerc"
+    },
+    {
+     "t": "OpenAI widens access for scientists and launches ChatGPT Wallet",
+     "u": "https://x.com/jxnlco/status/2122519069589144037",
+     "d": "x.com",
+     "x": "https://x.com/jxnlco/status/2122519069589144037",
+     "h": "jxnlco"
+    },
+    {
+     "t": "Backpack wins CFTC approval to set up a US derivatives exchange",
+     "u": "https://x.com/LoganJastremski/status/2122471117608890387",
+     "d": "x.com",
+     "x": "https://x.com/LoganJastremski/status/2122471117608890387",
+     "h": "LoganJastremski"
+    },
+    {
+     "t": "Kriti Gupta leaves Peak XV for Goodwater Capital",
+     "u": "https://x.com/kriti_kg/status/2122560457512771728",
+     "d": "x.com",
+     "x": "https://x.com/kriti_kg/status/2122560457512771728",
+     "h": "kriti_kg"
+    },
+    {
+     "t": "speedrun opens its Insiders program so operators can see its startups first",
+     "u": "https://speedrun.a16z.com/insiders",
+     "d": "speedrun.a16z.com",
+     "x": "https://x.com/speedrun/status/2122382581958115426",
+     "h": "speedrun"
+    },
+    {
+     "t": "Study ranks emerging-fund VCs by returns, Factorial's Sol Bier first",
+     "u": "https://www.openvc.app/blog/vc-portfolio-construction?utm_source=x&utm_medium=social&utm_campaign=default",
+     "d": "openvc.app",
+     "x": "https://x.com/nic_detommaso/status/2122382788959883774",
+     "h": "nic_detommaso"
+    },
+    {
+     "t": "Nvidia: \"Stand with Jensen\" petition passes 175,000 signatures (bearish, continuing)",
+     "u": "https://x.com/hazem_awad/status/2122508530007810158",
+     "d": "x.com",
+     "x": "https://x.com/hazem_awad/status/2122508530007810158",
+     "h": "hazem_awad"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "General Tech",
+   "items": [
+    {
+     "t": "Elon Musk: the FAA turned down free Starlinks",
+     "u": "https://x.com/elonmusk/status/2122446366354096479",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2122446366354096479",
+     "h": "elonmusk"
+    },
+    {
+     "t": "Kevin Rose launches SignuDoc, an open-source DocuSign alternative",
+     "u": "https://github.com/NYLLON-SOFTWARE/signudoc?tab=readme-ov-file",
+     "d": "github.com",
+     "x": "https://x.com/kevinrose/status/2122394902168473975",
+     "h": "kevinrose"
+    },
+    {
+     "t": "Ryan Cohen: GTA on a disc",
+     "u": "https://x.com/ryancohen/status/2122530089334088080",
+     "d": "x.com",
+     "x": "https://x.com/ryancohen/status/2122530089334088080",
+     "h": "ryancohen"
+    },
+    {
+     "t": "iPhone Duo: 200,000+ optimized apps and Face Unlock arrives",
+     "u": "https://x.com/gregjoz/status/2122393925080252469",
+     "d": "x.com",
+     "x": "https://x.com/gregjoz/status/2122393925080252469",
+     "h": "gregjoz"
+    },
+    {
+     "t": "Discord adds a Vice City theme",
+     "u": "https://x.com/discord/status/2122389583778193560",
+     "d": "x.com",
+     "x": "https://x.com/discord/status/2122389583778193560",
+     "h": "discord"
+    },
+    {
+     "t": "Paddy Cosgrave slams EU speech sanctions",
+     "u": "https://x.com/paddycosgrave/status/2122406131427311860",
+     "d": "x.com",
+     "x": "https://x.com/paddycosgrave/status/2122406131427311860",
+     "h": "paddycosgrave"
+    },
+    {
+     "t": "John Carmack on why NeXT and 3dfx color got it \"right\" and looked worse",
+     "u": "https://x.com/ID_AA_Carmack/status/2122478083319992513",
+     "d": "x.com",
+     "x": "https://x.com/ID_AA_Carmack/status/2122478083319992513",
+     "h": "ID_AA_Carmack"
+    },
+    {
+     "t": "Jason Calacanis: China hawks will get a chip ban and America a recession",
+     "u": "https://x.com/Jason/status/2122434873226866700",
+     "d": "x.com",
+     "x": "https://x.com/Jason/status/2122434873226866700",
+     "h": "Jason"
+    },
+    {
+     "t": "Xbox Black Friday sale starts Nov 19",
+     "u": "https://news.xbox.com/en-us/2026/11/16/xbox-black-friday-sale-2026/",
+     "d": "news.xbox.com",
+     "x": "https://x.com/XBOXWire/status/2122479453976809794",
+     "h": "XBOXWire"
+    },
+    {
+     "t": "Travis Kalanick crowdsources ways to bring Jensen back",
+     "u": "https://x.com/travisk/status/2122393157988167857",
+     "d": "x.com",
+     "x": "https://x.com/travisk/status/2122393157988167857",
+     "h": "travisk"
+    }
+   ]
+  },
+  {
+   "id": "cyber",
+   "title": "Cybersecurity",
+   "items": [
+    {
+     "t": "Update: Chase blames bank outage on a software bug in on-premise hardware",
+     "u": "https://x.com/HackingLZ/status/2122443207313399854",
+     "d": "x.com",
+     "x": "https://x.com/HackingLZ/status/2122443207313399854",
+     "h": "HackingLZ"
+    },
+    {
+     "t": "German hospital closes its emergency department after a cyberattack",
+     "u": "https://x.com/Securityblog/status/2122483716471554428",
+     "d": "x.com",
+     "x": "https://x.com/Securityblog/status/2122483716471554428",
+     "h": "Securityblog"
+    },
+    {
+     "t": "FBI announces extradition of alleged 8-Digits Team ransomware member Roman Khlynovskiy",
+     "u": "https://x.com/FBICyberBranch/status/2122451883398750219",
+     "d": "x.com",
+     "x": "https://x.com/FBICyberBranch/status/2122451883398750219",
+     "h": "FBICyberBranch"
+    },
+    {
+     "t": "Cyberattack shuts all schools in Stark County, Ohio",
+     "u": "https://x.com/Natsecjeff/status/2122380411607331262",
+     "d": "x.com",
+     "x": "https://x.com/Natsecjeff/status/2122380411607331262",
+     "h": "Natsecjeff"
+    },
+    {
+     "t": "NoisyTCP (CVE-2026-99288): Linux kernel bug prompts urgent patch call for Solana validators",
+     "u": "https://x.com/anza_xyz/status/2122353349957746854",
+     "d": "x.com",
+     "x": "https://x.com/anza_xyz/status/2122353349957746854",
+     "h": "anza_xyz"
+    },
+    {
+     "t": "Meta Ray-Ban glasses: researcher publishes code-execution write-up",
+     "u": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
+     "d": "p0pcycle.com",
+     "x": "https://x.com/chompie1337/status/2122550856566628810",
+     "h": "chompie1337"
+    },
+    {
+     "t": "Australia's cyber agency warns some bugs are exploited within 48 hours of a patch",
+     "u": "https://www.cyber.gov.au/alert/vulnerabilities-are-moving-quickly-so-patch-protect-prevent",
+     "d": "cyber.gov.au",
+     "x": "https://x.com/LukeElin/status/2122538700508938664",
+     "h": "LukeElin"
+    },
+    {
+     "t": "BleepingComputer: Gemini AI agents repeatedly bypassed safeguards to attack a real website",
+     "u": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
+     "d": "bleepingcomputer.com",
+     "x": "https://x.com/BleepinComputer/status/2122463279079469148",
+     "h": "BleepinComputer"
+    },
+    {
+     "t": "LibreOffice bug runs code when a spreadsheet is simply opened, no macros needed",
+     "u": "https://x.com/ii4gsp/status/2122471243391877496",
+     "d": "x.com",
+     "x": "https://x.com/ii4gsp/status/2122471243391877496",
+     "h": "ii4gsp"
+    },
+    {
+     "t": "Extortion claims: N0n starts a 68-hour countdown on Starbucks and Samsung data; Indian firms and an Indonesian bank listed",
+     "u": "https://www.bjbsyariah.co.id/",
+     "d": "bjbsyariah.co.id",
+     "x": "https://x.com/DailyDarkWeb/status/2122419450712334497",
+     "h": "DailyDarkWeb"
+    }
+   ]
+  },
+  {
+   "id": "hb",
+   "title": "Huntington Beach / OC",
+   "items": [
+    {
+     "t": "Duran: Anaheim\u2019s $120 Million Windfall, Does City Hall Have the Courage to Govern?",
+     "u": "https://voiceofoc.org/2026/11/duran-anaheims-120-million-windfall-does-city-hall-have-the-courage-to-govern/",
+     "d": "voiceofoc.org"
+    },
+    {
+     "t": "Fountain Valley vs Laguna Beach - Boys Varsity Basketball 12/01/2026 | Live & On Demand",
+     "u": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPSVBwVlU2OHpmN2JhUzdrT0hzWm9mUmxwT01PT3RYOVFhOWsyLWFBamRCU05iSVNxU2xuN2REWmdtZTR6dUlQT0FCM0JHMlJGazRzLU5MaFhsaWd4RnZYdnZaeVpjOUhjWElKWFBGaFdBMHpLb2NkNXB4cW5TcmtJTVZhek9wLUFtTWdfaGZsRll5aGRvMjVuX3JUczFUNnMzMTdLNEJTWWNjNWEwSDJWcGo1ZjBYb1Q5VEo5VEFRd0hNa2RTc0xHRHpTQXhIcXRqMVA2OEFRRWJlSTZGX3dsTDd1dkZaSjVrLUxMMlFERGlzSnhNTEF4V1BtNmtndE1JX1NFaURRbkFzYWRqcV9RbzlrMUtQbVNQdmx2Y2JXWkh2RGJnUHBXNW5KQnlrbkEtUGVxVlc4am96TDFQdzlSdmp0dklyT3puYUktbjRyRmN1SGlURnI5cjQyX1kySHFpcWVQc3NVd3VGcmNnT1FPSFBieUNMWjhuWXotNjc0dE5HaVRySUNz?oc=5",
+     "d": "nfhsnetwork.com"
+    },
+    {
+     "t": "Band of baby sea turtles swims into ocean after historic California nesting",
+     "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQX1Vrdm5Fc3pBOElXTTBDZnhDU3l5dERxT1VHSzFza1VNVkNBaFFoOXZoYzR4NXY0UmlKSGFyeVhINGUzRFlSbVVjWkhVWVVweG1BbXhjSy1kaDJ3bXBRVjFoVExaQ0ZhVGVjNW9FMktkaEdpLVZ6SlhhQ3h3RWJlY2kwd21UQnN3WHc?oc=5",
+     "d": "theguardian.com"
+    }
+   ]
+  }
+ ]
+}
