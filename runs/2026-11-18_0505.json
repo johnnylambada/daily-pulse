@@ -1,0 +1,540 @@
+{
+ "run": "2026-11-18_0505",
+ "stamp": "2026-11-18 05:05",
+ "date": "2026-11-18",
+ "sections": [
+  {
+   "id": "top",
+   "title": "Top Stories",
+   "items": [
+    {
+     "t": "Jensen Huang says he\u2019d be \u201chonored\u201d to return as Nvidia CEO; board reportedly not looking to reinstate him",
+     "u": "https://www.washingtonpost.com/technology/2026/11/17/jensen-huang-says-hed-be-willing-return-nvidia-first-remarks-since-exit/?utm_campaign=wp_main&utm_source=twitter&utm_medium=social",
+     "d": "washingtonpost.com",
+     "x": "https://x.com/JensenHuang/status/2122726005219737649",
+     "h": "JensenHuang"
+    },
+    {
+     "t": "OpenAI launches GPT-6.2 Astra and Sol at lower prices",
+     "u": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+     "d": "openai.com",
+     "x": "https://x.com/OpenAI/status/2122750124543926515",
+     "h": "OpenAI"
+    },
+    {
+     "t": "Tesla unveils Powercore, a 7.4 MW solid-state grid transformer coming in 2027",
+     "u": "https://x.com/Tesla_Megapack/status/2122721563493744771",
+     "d": "x.com",
+     "x": "https://x.com/Tesla_Megapack/status/2122721563493744771",
+     "h": "Tesla_Megapack"
+    },
+    {
+     "t": "CISA urges immediate patching of Java4Shell as fixed Java builds ship",
+     "u": "https://go.dhs.gov/5CC",
+     "d": "go.dhs.gov",
+     "x": "https://x.com/CISACyber/status/2122821451635916849",
+     "h": "CISACyber"
+    },
+    {
+     "t": "Nvidia posts a $115.8 billion quarter as its board rules out Jensen Huang\u2019s return",
+     "u": "https://www.cnn.com/2026/11/17/tech/nvidia-earnings-jensen-huang-exit?Date=20261117&Profile=CNN&utm_content=1794956299&utm_medium=social&utm_source=twitter",
+     "d": "cnn.com",
+     "x": "https://x.com/CNN/status/2122826771884056592",
+     "h": "CNN"
+    },
+    {
+     "t": "Officials tell Congress the outage wave came from rushing to patch AI-found flaws",
+     "u": "https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages",
+     "d": "washingtonsun.com",
+     "x": "https://x.com/jstein_sun/status/2122854283536105498",
+     "h": "jstein_sun"
+    },
+    {
+     "t": "Brave: the Optimizely CDN script also skimmed cards and loaded iOS exploit code",
+     "u": "https://x.com/brave/status/2122875782955757805",
+     "d": "x.com",
+     "x": "https://x.com/brave/status/2122875782955757805",
+     "h": "brave"
+    },
+    {
+     "t": "OpenAI launches ChatGPT for Sales with 30+ partner plugins",
+     "u": "https://x.com/ChatGPT/status/2122818162995634504",
+     "d": "x.com",
+     "x": "https://x.com/ChatGPT/status/2122818162995634504",
+     "h": "ChatGPT"
+    },
+    {
+     "t": "Google makes Gemini Tasks free for hundreds of millions; Perplexity passes $1 billion ARR",
+     "u": "https://research.perplexity.ai",
+     "d": "research.perplexity.ai",
+     "x": "https://x.com/GeminiApp/status/2122737596971503885",
+     "h": "GeminiApp"
+    },
+    {
+     "t": "Nvidia\u2019s board is reportedly split over Jensen Huang\u2019s return as shareholders threaten a fight",
+     "u": "https://www.semafor.com/article/11/17/2026/some-nvidia-directors-push-to-bring-huang-back-despite-board-opposition",
+     "d": "semafor.com",
+     "x": "https://x.com/ReedAlbergotti/status/2122879650196300031",
+     "h": "ReedAlbergotti"
+    }
+   ]
+  },
+  {
+   "id": "us",
+   "title": "US News",
+   "items": [
+    {
+     "t": "How Mary Peltola Triumphed in Alaska\u2019s Senate Race",
+     "u": "https://www.nytimes.com/2026/11/18/us/politics/peltola-victory-alaska-senate.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "The Latest Way to Make College More Affordable: Shorter Degrees",
+     "u": "https://www.wsj.com/us-news/education/college-three-year-degrees-cost-bachelors-5b19b5cb?mod=rss_usnews",
+     "d": "wsj.com"
+    },
+    {
+     "t": "House Democrats Cast Wide Net as They Prepare Trump Investigations",
+     "u": "https://www.nytimes.com/2026/11/18/us/politics/democrats-cast-investigative-net.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Putin Will Continue Ukraine War Despite Plans to Meet Trump, Intelligence Says",
+     "u": "https://www.nytimes.com/2026/11/18/us/politics/trump-putin-ukraine-war.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "American A.I. Models Have Potential to Be Turned Against U.S., Study Finds",
+     "u": "https://www.nytimes.com/2026/11/18/us/politics/audit-ai-terrorist-attack-plans.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Fans Flock to This Famous Sign. Neighbors Say, Get Off My Road.",
+     "u": "https://www.nytimes.com/2026/11/18/us/hollywood-sign-lawsuit.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "U.S. Catholic Bishops to Discuss A.I. at Annual Meeting",
+     "u": "https://www.nytimes.com/2026/11/18/us/us-catholic-bishops-meeting-ai.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "How the East Potomac golf course became a D.C. landmark \u2014 and what could happen to it",
+     "u": "https://www.npr.org/2026/11/18/nx-s1-6042889/east-potomac-golf-history-future",
+     "d": "npr.org"
+    },
+    {
+     "t": "Iran-backed militias tortured him, but Iraqi environmentalist refuses to quit",
+     "u": "https://www.npr.org/2026/11/18/nx-s1-6043167/iraq-environmentalist-marshes-iran-backed-militia-kidnapped",
+     "d": "npr.org"
+    },
+    {
+     "t": "She retired early to care for family. New work rules for food aid disrupted that",
+     "u": "https://www.npr.org/2026/11/18/nx-s1-5954231/snap-work-rules-retirees",
+     "d": "npr.org"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "World News",
+   "items": [
+    {
+     "t": "AP calls North Carolina's 3rd District for Democrat Raymond Smith, a flip",
+     "u": "https://x.com/kylegriffin1/status/2122795754146381957",
+     "d": "x.com",
+     "x": "https://x.com/kylegriffin1/status/2122795754146381957",
+     "h": "kylegriffin1"
+    },
+    {
+     "t": "Trump in Manila says he is \u201cnot concerned at all\u201d about South China Sea tensions",
+     "u": "https://x.com/CBSNews/status/2122924792042950670",
+     "d": "x.com",
+     "x": "https://x.com/CBSNews/status/2122924792042950670",
+     "h": "CBSNews"
+    },
+    {
+     "t": "Pakistani man gets 27.5 years for IRGC-directed murder plot that eyed Trump and Biden",
+     "u": "https://www.politico.com/news/2026/11/17/prison-assassination-plot-iran-01171713",
+     "d": "politico.com",
+     "x": "https://x.com/CBSNews/status/2122822381001392376",
+     "h": "CBSNews"
+    },
+    {
+     "t": "Thousands rally in Haiti's capital for Bukele and Salvadoran troops fighting gangs",
+     "u": "https://uk.news.yahoo.com/thousands-march-haiti-support-salvadoran-235635292.html",
+     "d": "uk.news.yahoo.com",
+     "x": "https://x.com/AFP/status/2122878315400757604",
+     "h": "AFP"
+    },
+    {
+     "t": "Update: Xi and Putin hold talks in Shenzhen a day before the Trump\u2013Xi\u2013Putin summit",
+     "u": "https://www.yahoo.com/news/politics/articles/xi-putin-huddle-ahead-historic-021802789.html?fr=sycsrp_catchall",
+     "d": "yahoo.com",
+     "x": "https://x.com/AFP/status/2122926124711727329",
+     "h": "AFP"
+    },
+    {
+     "t": "Update: FAA official oversaw an Arkansas line switch before the ground stop as senators balk at $50B",
+     "u": "https://www.washingtonpost.com/transportation/2026/11/17/faa-oversaw-signed-off-repair-work-before-nationwide-ground-stop/?utm_campaign=wp_main&utm_source=twitter&utm_medium=social",
+     "d": "washingtonpost.com",
+     "x": "https://x.com/washingtonpost/status/2122827011601076239",
+     "h": "washingtonpost"
+    },
+    {
+     "t": "Man accused of destroying a $60 million US military plane with an ax in Ireland",
+     "u": "https://www.cbsnews.com/news/us-military-plane-irish-airport/?ftag=CNM-00-10aab7e&linkId=1039387392",
+     "d": "cbsnews.com",
+     "x": "https://x.com/CBSNews/status/2122877454104555930",
+     "h": "CBSNews"
+    },
+    {
+     "t": "Update: Rubio says the outages are unrelated as DHS chief points to AI and aging infrastructure",
+     "u": "https://www.washingtontimes.com/news/2026/nov/17/homeland-security-secretary-markwayne-mullin-warns-ai-upgrades-could/?utm_content=buffere4679&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
+     "d": "washingtontimes.com",
+     "x": "https://x.com/CBSNews/status/2122867142454387139",
+     "h": "CBSNews"
+    },
+    {
+     "t": "Schumer says he has the votes to beat Van Hollen for Senate majority leader",
+     "u": "https://thehill.com/homenews/senate/6226192-schumer-vs-van-hollen-leadership-race/",
+     "d": "thehill.com",
+     "x": "https://x.com/thehill/status/2122788451607306564",
+     "h": "thehill"
+    },
+    {
+     "t": "Appeals court blocks the Pentagon from forcing out more than two dozen transgender troops",
+     "u": "https://x.com/EdKrassen/status/2122838450323783787",
+     "d": "x.com",
+     "x": "https://x.com/EdKrassen/status/2122838450323783787",
+     "h": "EdKrassen"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI",
+   "items": [
+    {
+     "t": "OpenAI launches GPT-6.2 Astra and GPT-6.2 Sol, and Astra tops Mercor's new long-horizon coding benchmark",
+     "u": "https://x.com/thsottiaux/status/2122753991000133943",
+     "d": "x.com",
+     "x": "https://x.com/thsottiaux/status/2122753991000133943",
+     "h": "thsottiaux"
+    },
+    {
+     "t": "Isomorphic Labs raises $5 billion to pursue AI drug design",
+     "u": "https://x.com/demishassabis/status/2122662616367853670",
+     "d": "x.com",
+     "x": "https://x.com/demishassabis/status/2122662616367853670",
+     "h": "demishassabis"
+    },
+    {
+     "t": "HeyGen launches Avatar 6",
+     "u": "https://x.com/HeyGen/status/2122738284405117217",
+     "d": "x.com",
+     "x": "https://x.com/HeyGen/status/2122738284405117217",
+     "h": "HeyGen"
+    },
+    {
+     "t": "Cognition introduces Devin Bots that lead teams of agents",
+     "u": "https://x.com/cognition/status/2122737511684587551",
+     "d": "x.com",
+     "x": "https://x.com/cognition/status/2122737511684587551",
+     "h": "cognition"
+    },
+    {
+     "t": "Kling launches Kling Image 4.0",
+     "u": "https://x.com/Kling_ai/status/2122872423699914837",
+     "d": "x.com",
+     "x": "https://x.com/Kling_ai/status/2122872423699914837",
+     "h": "Kling_ai"
+    },
+    {
+     "t": "Update: Anthropic's IPO arrives as Jeff Dean congratulates co-founder Chris Olah",
+     "u": "https://x.com/JeffDean/status/2122905202760249514",
+     "d": "x.com",
+     "x": "https://x.com/JeffDean/status/2122905202760249514",
+     "h": "JeffDean"
+    },
+    {
+     "t": "Mistral makes Vibe free in Europe for three months and adds a desktop app",
+     "u": "https://x.com/MistralAI/status/2122713540666806397",
+     "d": "x.com",
+     "x": "https://x.com/MistralAI/status/2122713540666806397",
+     "h": "MistralAI"
+    },
+    {
+     "t": "Anthropic adds a Latest release channel to Claude Desktop",
+     "u": "https://x.com/ClaudeDevs/status/2122821051910684824",
+     "d": "x.com",
+     "x": "https://x.com/ClaudeDevs/status/2122821051910684824",
+     "h": "ClaudeDevs"
+    },
+    {
+     "t": "Mirelo launches Sound Agent for prompt-driven video sound design",
+     "u": "https://mirelo.ai/audio-editor",
+     "d": "mirelo.ai",
+     "x": "https://x.com/MireloAI/status/2122676360388940043",
+     "h": "MireloAI"
+    },
+    {
+     "t": "Alljoined introduces AIR-O, decoding attention from noninvasive brain scans",
+     "u": "https://x.com/alljoined/status/2122736523007447048",
+     "d": "x.com",
+     "x": "https://x.com/alljoined/status/2122736523007447048",
+     "h": "alljoined"
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "title": "Investing & Markets",
+   "items": [
+    {
+     "t": "Update: Investors push for a 15% shareholder vote over Nvidia's board (mixed, continuing)",
+     "u": "https://x.com/garrytan/status/2122910329537728747",
+     "d": "x.com",
+     "x": "https://x.com/garrytan/status/2122910329537728747",
+     "h": "garrytan"
+    },
+    {
+     "t": "Anthropic's $1.4 trillion valuation questioned ahead of its IPO (bearish, new)",
+     "u": "https://x.com/alvinfoo/status/2122906918549323793",
+     "d": "x.com",
+     "x": "https://x.com/alvinfoo/status/2122906918549323793",
+     "h": "alvinfoo"
+    },
+    {
+     "t": "AI frontier progress looks steady, not accelerating (mixed, new)",
+     "u": "https://x.com/ramez/status/2122869348994093320",
+     "d": "x.com",
+     "x": "https://x.com/ramez/status/2122869348994093320",
+     "h": "ramez"
+    },
+    {
+     "t": "Nvidia beats and raises without Jensen Huang (bullish, new)",
+     "u": "https://x.com/EconomyApp/status/2122805536165093464",
+     "d": "x.com",
+     "x": "https://x.com/EconomyApp/status/2122805536165093464",
+     "h": "EconomyApp"
+    },
+    {
+     "t": "Update: GPT-6.2 backlash continues as some users defend it (mixed, continuing)",
+     "u": "https://x.com/mattshumer_/status/2122895253468295605",
+     "d": "x.com",
+     "x": "https://x.com/mattshumer_/status/2122895253468295605",
+     "h": "mattshumer_"
+    },
+    {
+     "t": "a16z invests in First Person Labs for private personal agents",
+     "u": "https://x.com/a16z/status/2122756295744983543",
+     "d": "x.com",
+     "x": "https://x.com/a16z/status/2122756295744983543",
+     "h": "a16z"
+    },
+    {
+     "t": "Investors pan GPT-6.2 Astra (bearish on OpenAI's new model, new)",
+     "u": "https://x.com/mattshumer_/status/2122878504333087108",
+     "d": "x.com",
+     "x": "https://x.com/mattshumer_/status/2122878504333087108",
+     "h": "mattshumer_"
+    },
+    {
+     "t": "Nvidia's Singapore revenue draws scrutiny (bearish, new)",
+     "u": "https://x.com/SuhnyllaKler/status/2122834790655340832",
+     "d": "x.com",
+     "x": "https://x.com/SuhnyllaKler/status/2122834790655340832",
+     "h": "SuhnyllaKler"
+    },
+    {
+     "t": "Higgsfield launches Miracle for editing part of a video shot",
+     "u": "https://x.com/GopinathRashmi/status/2122873525359030365",
+     "d": "x.com",
+     "x": "https://x.com/GopinathRashmi/status/2122873525359030365",
+     "h": "GopinathRashmi"
+    },
+    {
+     "t": "Science Corp pauses Nvidia spending to test AMD and Tenstorrent (bearish on Nvidia's lock-in, new)",
+     "u": "https://x.com/maxhodak_/status/2122907420456534039",
+     "d": "x.com",
+     "x": "https://x.com/maxhodak_/status/2122907420456534039",
+     "h": "maxhodak_"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "General Tech",
+   "items": [
+    {
+     "t": "Tesla touts solid-state transformers at scale",
+     "u": "https://www.votetesla.com/",
+     "d": "votetesla.com",
+     "x": "https://x.com/elonmusk/status/2122733232894468308",
+     "h": "elonmusk"
+    },
+    {
+     "t": "Jeff Bezos confirms Robert Pattinson as James Bond",
+     "u": "https://www.fastcompany.com/91644187/if-ai-doesnt-take-your-job-robert-patterson-might?utm_medium=social&utm_source=twitter",
+     "d": "fastcompany.com",
+     "x": "https://x.com/FutureJurvetson/status/2122814608906108946",
+     "h": "FutureJurvetson"
+    },
+    {
+     "t": "Update: Microsoft Ignite brings Copilot Workspaces, Perception and HorizonDB",
+     "u": "https://x.com/satyanadella/status/2122793040058442116",
+     "d": "x.com",
+     "x": "https://x.com/satyanadella/status/2122793040058442116",
+     "h": "satyanadella"
+    },
+    {
+     "t": "Twitch drops GTA VI Ultimate Edition codes and rare badges for launch",
+     "u": "https://x.com/Twitch/status/2122892347566600510",
+     "d": "x.com",
+     "x": "https://x.com/Twitch/status/2122892347566600510",
+     "h": "Twitch"
+    },
+    {
+     "t": "Tesla: customer solar now generates over twice what its operations use",
+     "u": "https://x.com/Tesla/status/2122812849710088504",
+     "d": "x.com",
+     "x": "https://x.com/Tesla/status/2122812849710088504",
+     "h": "Tesla"
+    },
+    {
+     "t": "Nvidia's $150 billion buyback draws fire",
+     "u": "https://x.com/Jason/status/2122805175043629514",
+     "d": "x.com",
+     "x": "https://x.com/Jason/status/2122805175043629514",
+     "h": "Jason"
+    },
+    {
+     "t": "Update: Gemini Tasks in the US can now call shops and wait on hold for you",
+     "u": "https://x.com/Google/status/2122766682716307482",
+     "d": "x.com",
+     "x": "https://x.com/Google/status/2122766682716307482",
+     "h": "Google"
+    },
+    {
+     "t": "Tech leaders rally to bring Jensen back",
+     "u": "https://x.com/travisk/status/2122731214670844149",
+     "d": "x.com",
+     "x": "https://x.com/travisk/status/2122731214670844149",
+     "h": "travisk"
+    },
+    {
+     "t": "\"Bring Jensen back\": the founder campaign keeps growing, and so does the pushback",
+     "u": "https://x.com/garrytan/status/2122759128724767179",
+     "d": "x.com",
+     "x": "https://x.com/garrytan/status/2122759128724767179",
+     "h": "garrytan"
+    },
+    {
+     "t": "Is the outage wave a coincidence? Tech leaders split",
+     "u": "https://www.wired.com/story/how-to-tell-if-its-a-cyberattack-or-just-an-outage/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev",
+     "d": "wired.com",
+     "x": "https://x.com/nikesharora/status/2122788568817123551",
+     "h": "nikesharora"
+    }
+   ]
+  },
+  {
+   "id": "cyber",
+   "title": "Cybersecurity",
+   "items": [
+    {
+     "t": "Update: FBI says it is helping with the FAA outage probe and has not taken equipment",
+     "u": "https://x.com/FBICyberBranch/status/2122674318039564514",
+     "d": "x.com",
+     "x": "https://x.com/FBICyberBranch/status/2122674318039564514",
+     "h": "FBICyberBranch"
+    },
+    {
+     "t": "Rakuten Securities: up to 11.25 million accounts may have leaked",
+     "u": "https://news.yahoo.co.jp/pickup/6602935",
+     "d": "news.yahoo.co.jp",
+     "x": "https://x.com/tkm2261/status/2122665063811338583",
+     "h": "tkm2261"
+    },
+    {
+     "t": "Phrack issue 73 is out",
+     "u": "https://phrack.org/issues/73/1",
+     "d": "phrack.org",
+     "x": "https://x.com/phrack/status/2122741801995911526",
+     "h": "phrack"
+    },
+    {
+     "t": "Norway's Equinor reported to be fighting a cyberattack",
+     "u": "https://www.equinor.com/news/20261711-equinor-detected-cyber-attack",
+     "d": "equinor.com",
+     "x": "https://x.com/hackerfantastic/status/2122782334940524961",
+     "h": "hackerfantastic"
+    },
+    {
+     "t": "Cohere acquires AISLE, the AI security lab credited with 500+ zero-days",
+     "u": "https://x.com/stanislavfort/status/2122733533710127439",
+     "d": "x.com",
+     "x": "https://x.com/stanislavfort/status/2122733533710127439",
+     "h": "stanislavfort"
+    },
+    {
+     "t": "Update: Java4Shell: NYT story includes a full reproduction as embargo complaints grow",
+     "u": "https://cybersecuritynews.com/java4shell/",
+     "d": "cybersecuritynews.com",
+     "x": "https://x.com/brucedang/status/2122864562139709564",
+     "h": "brucedang"
+    },
+    {
+     "t": "Jira CVE-2026-21601: unauthenticated information disclosure said to affect every public Jira instance",
+     "u": "https://jira.atlassian.com/browse/JSDSERVER-16892",
+     "d": "jira.atlassian.com",
+     "x": "https://x.com/galnagli/status/2122787201176019399",
+     "h": "galnagli"
+    },
+    {
+     "t": "CISA adds the UK's NCSC as a CVE Partner",
+     "u": "https://www.cve.org/PartnerInformation/Partner",
+     "d": "cve.org",
+     "x": "https://x.com/CISACyber/status/2122809007047922013",
+     "h": "CISACyber"
+    },
+    {
+     "t": "Airbyte takes its cloud offline after an attack it ties to a broader global campaign",
+     "u": "https://x.com/airbytehq/status/2122797250275578017",
+     "d": "x.com",
+     "x": "https://x.com/airbytehq/status/2122797250275578017",
+     "h": "airbytehq"
+    },
+    {
+     "t": "Microsoft Ignite: Perception goes GA, ISOC in Defender, and local-first security tools after the outages",
+     "u": "https://www.microsoft.com/en-us/security/blog/2026/11/17/security-for-the-agentic-era-powered-by-microsoft-perception/?ocid=cmmlv87lyb7",
+     "d": "microsoft.com",
+     "x": "https://x.com/msftsecurity/status/2122789374249037852",
+     "h": "msftsecurity"
+    }
+   ]
+  },
+  {
+   "id": "hb",
+   "title": "Huntington Beach / OC",
+   "items": [
+    {
+     "t": "Newport Upper Jetties Surf Report, Surf Forecast and Surf Cams",
+     "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdWQwVFBTMjVQeWpmR3BtM2w3OUFNcHN2aG9yNkwxVlBMQ3g2MndmWC1qMGRCQXdFUUY4MTBPWXAwaEZLbEtaeGFZM3dYclZvb2l5U0QyT3hRcm94cXhzd2NxVDZ0RUxMc3pQMXN5V1hRUzVmRm1tRTJfWm9JMy1ScU9zUjhRMU9TWjVB?oc=5",
+     "d": "surfline.com"
+    },
+    {
+     "t": "Crystal Cove Surf Report, Surf Forecast and Surf Cam",
+     "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GSHdDLTA5cEU2b2xpX285Y2Jsc1hsQ1JLcHBHaEU0TFlqOC1mSl85aEJudFV6d052SmlyS0dBRjRFQWZoRjB3RWVUNnRrMVlwZW1NbFlEdmxoUUMwZi1lbTZzdnVWZlRtbE9ESVZ4S0lnTmRXMVl0WWh2d3ZFVDg?oc=5",
+     "d": "surfline.com"
+    },
+    {
+     "t": "Presley Johnson",
+     "u": "https://www.si.com/high-school/stats/california/baseball/teams/272978-marina-vikings/players/1514930-presley-johnson",
+     "d": "si.com"
+    }
+   ]
+  }
+ ]
+}
