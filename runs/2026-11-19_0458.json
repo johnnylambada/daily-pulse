@@ -1,0 +1,540 @@
+{
+ "run": "2026-11-19_0458",
+ "stamp": "2026-11-19 04:58",
+ "date": "2026-11-19",
+ "sections": [
+  {
+   "id": "top",
+   "title": "Top Stories",
+   "items": [
+    {
+     "t": "Anthropic prices the largest IPO ever at $83 a share and starts trading on Nasdaq Thursday as ANT",
+     "u": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+     "d": "anthropic.com",
+     "x": "https://x.com/AnthropicAI/status/2123196808675405860",
+     "h": "AnthropicAI"
+    },
+    {
+     "t": "GTA VI launches as Twitch\u2019s biggest game launch ever",
+     "u": "https://indianexpress.com/article/technology/gaming/grand-theft-auto-vi-draws-rave-reviews-as-gamers-enter-vice-city-10969301/",
+     "d": "indianexpress.com",
+     "x": "https://x.com/Twitch/status/2123230452013994219",
+     "h": "Twitch"
+    },
+    {
+     "t": "Google launches Gemini 4 Neon, and developers say it rivals the top models at a lower price",
+     "u": "https://x.com/demishassabis/status/2123168218743554465",
+     "d": "x.com",
+     "x": "https://x.com/demishassabis/status/2123168218743554465",
+     "h": "demishassabis"
+    },
+    {
+     "t": "Patch nginx now: nginx2root chains five flaws into a pre-auth path to root",
+     "u": "https://x.com/brian_pak/status/2123071121553854545",
+     "d": "x.com",
+     "x": "https://x.com/brian_pak/status/2123071121553854545",
+     "h": "brian_pak"
+    },
+    {
+     "t": "Grok Bot can now book flights, hotels and rental cars",
+     "u": "https://x.com/bot/status/2123121401762918718",
+     "d": "x.com",
+     "x": "https://x.com/bot/status/2123121401762918718",
+     "h": "bot"
+    },
+    {
+     "t": "Palo Alto Networks buys Applied Compute for $4.5 billion, and Isomorphic Labs raises a $5 billion Series C",
+     "u": "https://indianexpress.com/article/technology/tech-news-technology/palo-alto-raises-annual-forecast-signs-4-5-billion-deal-for-applied-compute-10969320/",
+     "d": "indianexpress.com",
+     "x": "https://x.com/ypatil125/status/2123175975093784902",
+     "h": "ypatil125"
+    },
+    {
+     "t": "Live: San Francisco breaks a 1918 rain record as flash flooding hits the Bay Area and Waymo pauses service",
+     "u": "https://www.sfchronicle.com/sf/article/waymo-service-paused-storm-rain-22537988.php?taid=6afe8bb9270c7800019d9443&utm_campaign=trueanthem%2B3988&utm_medium=social&utm_source=twitter",
+     "d": "sfchronicle.com",
+     "x": "https://x.com/NWSBayArea/status/2123188349783715872",
+     "h": "NWSBayArea"
+    },
+    {
+     "t": "ruby2\u00dfhell: a one-byte Ruby bug turned into unauthenticated takeover of stock Rails, GitLab and Mastodon apps",
+     "u": "https://verialabs.com/ruby2shell/",
+     "d": "verialabs.com",
+     "x": "https://x.com/0jayden_/status/2123274181861314993",
+     "h": "0jayden_"
+    },
+    {
+     "t": "Crypto: Ledger confirms tampered wallets in Berlin and Dubai while bitcoin holds near $63,300",
+     "u": "https://x.com/CoinMarketCap/status/2123272312770228329",
+     "d": "x.com",
+     "x": "https://x.com/CoinMarketCap/status/2123272312770228329",
+     "h": "CoinMarketCap"
+    },
+    {
+     "t": "OpenAI publishes detailed data on how much AI speeds its own research, and says AI-assisted design gave AMD a year of chip progress in five months",
+     "u": "https://x.com/ramez/status/2123273722501210149",
+     "d": "x.com",
+     "x": "https://x.com/ramez/status/2123273722501210149",
+     "h": "ramez"
+    }
+   ]
+  },
+  {
+   "id": "us",
+   "title": "US News",
+   "items": [
+    {
+     "t": "Anthropic's IPO set for blastoff in key test for AI boom",
+     "u": "https://www.cbsnews.com/news/anthropic-ipo-ai-boom-nasdaq-debut/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "Boston\u2019s Beloved Citgo Sign Returns After Rebuild, 30 Feet Higher",
+     "u": "https://www.nytimes.com/2026/11/19/us/boston-citgo-sign-fenway-park.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "South Florida severe weather and flooding live updates",
+     "u": "https://www.cbsnews.com/live-updates/south-florida-flooding-live-updates-heavy-rain-broward-miami-dade/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "Anthropic Employees Work Hard, but Don\u2019t Expect Them to Play Hard",
+     "u": "https://www.nytimes.com/2026/11/19/us/anthropic-ipo-spending-wealth-san-francisco.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "In Bending to Trump, Law Firm Did $11.8 Million of Free Work for Administration",
+     "u": "https://www.nytimes.com/2026/11/19/us/politics/kirkland-ellis-law-firm-trump.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Three MAGA Women Who Defined an Era in Congress Are Exiting",
+     "u": "https://www.nytimes.com/2026/11/19/us/politics/three-maga-women-who-defined-an-era-in-congress-are-exiting.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "\u2018GTA Flu\u2019 Has Schools and Jobs Bracing for Sick Days",
+     "u": "https://www.nytimes.com/2026/11/18/us/gta-6-sick-work-school.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Hardcore GTA fans ditch work so they have time to play",
+     "u": "https://www.cbsnews.com/news/gta-6-fans-take-pto-launch/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "Costco sees surge in panic buying after tech outages, report says",
+     "u": "https://www.cbsnews.com/news/costco-panic-buying-tech-outages-generators/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "Ericka Lomick\u2019s Texas House Win Faces Challenge in State Supreme Court",
+     "u": "https://www.nytimes.com/2026/11/18/us/texas-house-election-ericka-lomick.html",
+     "d": "nytimes.com"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "World News",
+   "items": [
+    {
+     "t": "Russian national indicted for allegedly spying on a Silicon Valley defense contractor",
+     "u": "https://www.washingtonpost.com/nation/2026/11/18/russian-national-charged-with-spying-silicon-valley-defense-contractor/?utm_campaign=wp_main&utm_source=twitter&utm_medium=social",
+     "d": "washingtonpost.com",
+     "x": "https://x.com/washingtonpost/status/2123287660680663069",
+     "h": "washingtonpost"
+    },
+    {
+     "t": "Fighting resumes between Ethiopia's army and Tigray's ruling party as Ethiopia\u2013Eritrea tensions rise",
+     "u": "https://www.economist.com/middle-east-and-africa/2026/09/23/a-disastrous-new-war-threatens-in-africa?taid=6afe8bbb79338c000111df4e&utm_campaign=editorial-social&utm_content=discovery.content&utm_medium=social-media.content.np&utm_source=twitter",
+     "d": "economist.com",
+     "x": "https://x.com/TheEconomist/status/2123290217331237355",
+     "h": "TheEconomist"
+    },
+    {
+     "t": "Update: Israeli tanks push into a Hamas-held area of central Gaza amid heavy shelling",
+     "u": "https://www.nbcnews.com/world/gaza/israel-tanks-gaza-ground-operation-ceasefire-hamas-rcna609979?cid=sm_npd_nn_tw_ma&taid=6afe825ff6426c00014a6144&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter",
+     "d": "nbcnews.com",
+     "x": "https://x.com/AFP/status/2123278804235800908",
+     "h": "AFP"
+    },
+    {
+     "t": "Trump tells APEC leaders the US opposes \u201cany form of globalist regulation\u201d of AI",
+     "u": "https://www.hindustantimes.com/world-news/ai-almost-completely-good-but-has-some-bad-elements-us-president-donald-trump-opposes-regulation-china-apec-summit-101795060741465.html",
+     "d": "hindustantimes.com",
+     "x": "https://x.com/AFP/status/2123272509151744263",
+     "h": "AFP"
+    },
+    {
+     "t": "Diageo (DEO) and other Scotch makers: bearish, new",
+     "u": "https://www.reuters.com/world/india/india-charge-bulk-scotch-imports-1625-duty-tax-amid-uk-pact-standoff-2026-11-18/?utm_source=Twitter&utm_medium=Social",
+     "d": "reuters.com",
+     "x": "https://x.com/ReutersBiz/status/2123268162934243499",
+     "h": "ReutersBiz"
+    },
+    {
+     "t": "Trump tells people stockpiling food and water amid outages to \u201crelax\u201d",
+     "u": "https://thehill.com/homenews/administration/6229375-trump-downplays-outage-concerns/",
+     "d": "thehill.com",
+     "x": "https://x.com/thehill/status/2123276581401509970",
+     "h": "thehill"
+    },
+    {
+     "t": "Update: Odisha evacuates about 50,000 people as Cyclone Akvan heads for landfall",
+     "u": "https://x.com/PTI_News/status/2123280954601140579",
+     "d": "x.com",
+     "x": "https://x.com/PTI_News/status/2123280954601140579",
+     "h": "PTI_News"
+    },
+    {
+     "t": "Update: Trump meets Putin for nearly an hour in Shenzhen, then begins talks with Xi ahead of the three-way summit",
+     "u": "https://www.hindustantimes.com/world-news/trump-says-he-would-not-strike-ukraine-deal-with-putin-without-zelensky-s-input-apec-summit-china-shenzhen-101795054506394.html",
+     "d": "hindustantimes.com",
+     "x": "https://x.com/AlArabiya_Eng/status/2123291153839571020",
+     "h": "AlArabiya_Eng"
+    },
+    {
+     "t": "Japan's Takaichi and South Korea's Lee hold talks with Putin at APEC",
+     "u": "https://ebx.sh/olmAYR",
+     "d": "ebx.sh",
+     "x": "https://x.com/japantimes/status/2123274510396719283",
+     "h": "japantimes"
+    },
+    {
+     "t": "Crimean Bridge traffic halted after a third Ukrainian attack this week",
+     "u": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-crimea-bridge-putin-zelensky-b3087642.html",
+     "d": "independent.co.uk",
+     "x": "https://x.com/Independent/status/2123281103880679636",
+     "h": "Independent"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI",
+   "items": [
+    {
+     "t": "OpenAI shares data on how AI is changing its own research",
+     "u": "https://x.com/OpenAI/status/2123191365983248653",
+     "d": "x.com",
+     "x": "https://x.com/OpenAI/status/2123191365983248653",
+     "h": "OpenAI"
+    },
+    {
+     "t": "OrcaRouter launches Shield to deceive attacking AI agents",
+     "u": "https://www.orcarouter.ai/cyber#shield",
+     "d": "orcarouter.ai",
+     "x": "https://x.com/OrcaRouter/status/2123258076921053596",
+     "h": "OrcaRouter"
+    },
+    {
+     "t": "OpenAI cuts API prices up to 40% for work that can wait",
+     "u": "https://developers.openai.com/api/docs/guides/background",
+     "d": "developers.openai.com",
+     "x": "https://x.com/OpenAIDevs/status/2123188195202617408",
+     "h": "OpenAIDevs"
+    },
+    {
+     "t": "Vercel introduces board, a shared message board for people and agents",
+     "u": "https://vercel.com/blog/introducing-vercel-board",
+     "d": "vercel.com",
+     "x": "https://x.com/vercel/status/2123234769236619673",
+     "h": "vercel"
+    },
+    {
+     "t": "Surge AI and Mercor rank Gemini 4 Neon near the top of work benchmarks",
+     "u": "https://x.com/HelloSurgeAI/status/2123213638819348485",
+     "d": "x.com",
+     "x": "https://x.com/HelloSurgeAI/status/2123213638819348485",
+     "h": "HelloSurgeAI"
+    },
+    {
+     "t": "Artificial Analysis finds GPT-6.2 models write shorter, plainer answers",
+     "u": "https://x.com/ArtificialAnlys/status/2123236464003588136",
+     "d": "x.com",
+     "x": "https://x.com/ArtificialAnlys/status/2123236464003588136",
+     "h": "ArtificialAnlys"
+    },
+    {
+     "t": "Orca says GitHub hid its organization without explanation",
+     "u": "https://x.com/orca_build/status/2123273878730633531",
+     "d": "x.com",
+     "x": "https://x.com/orca_build/status/2123273878730633531",
+     "h": "orca_build"
+    },
+    {
+     "t": "Anthropic prices the biggest IPO ever and starts trading on Nasdaq tomorrow as ANT",
+     "u": "https://x.com/HedgieMarkets/status/2123254474298835361",
+     "d": "x.com",
+     "x": "https://x.com/HedgieMarkets/status/2123254474298835361",
+     "h": "HedgieMarkets"
+    },
+    {
+     "t": "Nvidia's leadership fight: co-founder backs the board as Ron Conway pushes back",
+     "u": "https://x.com/firstadopter/status/2123262083793899757",
+     "d": "x.com",
+     "x": "https://x.com/firstadopter/status/2123262083793899757",
+     "h": "firstadopter"
+    },
+    {
+     "t": "Arena launches the Agent Arena Index",
+     "u": "https://x.com/arena/status/2123234410032214464",
+     "d": "x.com",
+     "x": "https://x.com/arena/status/2123234410032214464",
+     "h": "arena"
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "title": "Investing & Markets",
+   "items": [
+    {
+     "t": "Cheaper inference: OpenCode serves 44% of tokens on its own GPUs; Cloudflare's document reader runs locally",
+     "u": "https://x.com/ycombinator/status/2123253013141987522",
+     "d": "x.com",
+     "x": "https://x.com/ycombinator/status/2123253013141987522",
+     "h": "ycombinator"
+    },
+    {
+     "t": "Physical-world bets: EarthAI revives a copper-gold deposit; US synthetic graphite; Varda's fourth reentry",
+     "u": "https://x.com/fiftyyears/status/2123225020067721575",
+     "d": "x.com",
+     "x": "https://x.com/fiftyyears/status/2123225020067721575",
+     "h": "fiftyyears"
+    },
+    {
+     "t": "Power and permits: Texas approves data centers again as grid limits loom (mixed, no change)",
+     "u": "https://x.com/anni_sen/status/2123285741254082658",
+     "d": "x.com",
+     "x": "https://x.com/anni_sen/status/2123285741254082658",
+     "h": "anni_sen"
+    },
+    {
+     "t": "Hyperliquid's non-crypto markets keep growing (bullish, continuing)",
+     "u": "https://x.com/OKX_Ventures/status/2123237046215192984",
+     "d": "x.com",
+     "x": "https://x.com/OKX_Ventures/status/2123237046215192984",
+     "h": "OKX_Ventures"
+    },
+    {
+     "t": "Early rounds: Odin Dynamics raises $17 million, Unsiloed AI a $7.5 million seed, Boltz a Series A",
+     "u": "https://x.com/frontrunvc/status/2123208792321990974",
+     "d": "x.com",
+     "x": "https://x.com/frontrunvc/status/2123208792321990974",
+     "h": "frontrunvc"
+    },
+    {
+     "t": "Prediction markets draw pushback (bearish, a change from this morning's note on Kalshi's lead)",
+     "u": "https://x.com/marvinliao/status/2123286607365333382",
+     "d": "x.com",
+     "x": "https://x.com/marvinliao/status/2123286607365333382",
+     "h": "marvinliao"
+    },
+    {
+     "t": "Agents design a CPU: Architect Labs' Frostbite",
+     "u": "https://x.com/TQVentures/status/2123212885551632616",
+     "d": "x.com",
+     "x": "https://x.com/TQVentures/status/2123212885551632616",
+     "h": "TQVentures"
+    },
+    {
+     "t": "Launches: Daydream Agent, Resolve AI's SRE-1 and Model Factory",
+     "u": "https://x.com/trueventures/status/2123217522816430172",
+     "d": "x.com",
+     "x": "https://x.com/trueventures/status/2123217522816430172",
+     "h": "trueventures"
+    },
+    {
+     "t": "Isomorphic Labs secures a $5 billion Series C",
+     "u": "https://x.com/StepStoneVC/status/2123193035240489363",
+     "d": "x.com",
+     "x": "https://x.com/StepStoneVC/status/2123193035240489363",
+     "h": "StepStoneVC"
+    },
+    {
+     "t": "Backing news: Lyra Capital backs DeepReach AI; Tonic gets the Spirit Airlines data job",
+     "u": "https://x.com/LyraCapital/status/2123220451182923811",
+     "d": "x.com",
+     "x": "https://x.com/LyraCapital/status/2123220451182923811",
+     "h": "LyraCapital"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "General Tech",
+   "items": [
+    {
+     "t": "Starship caught by the tower: \"the last major piece of the puzzle\"",
+     "u": "https://x.com/elonmusk/status/2123220899264679988",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2123220899264679988",
+     "h": "elonmusk"
+    },
+    {
+     "t": "Google launches Gemini 4 Neon, now in GitHub Copilot",
+     "u": "https://x.com/GoogleDeepMind/status/2123167884411077030",
+     "d": "x.com",
+     "x": "https://x.com/GoogleDeepMind/status/2123167884411077030",
+     "h": "GoogleDeepMind"
+    },
+    {
+     "t": "DDR6 previewed and Bluetooth 7.0 ratified",
+     "u": "https://blog.adafruit.com/2026/11/18/bluetooth-7-0-specification-ratified-with-hdt-high-data-throughput-support/",
+     "d": "blog.adafruit.com",
+     "x": "https://x.com/Pirat_Nation/status/2123235561238573194",
+     "h": "Pirat_Nation"
+    },
+    {
+     "t": "PHP team warns of critical flaws ahead of Thursday's security release",
+     "u": "https://cybersecuritynews.com/php-critical-vulnerabilities/",
+     "d": "cybersecuritynews.com",
+     "x": "https://x.com/The_Cyber_News/status/2123233606986551773",
+     "h": "The_Cyber_News"
+    },
+    {
+     "t": "F5 patches critical NGINX remote-code flaws found with AI help",
+     "u": "https://serverpilot.io/blog/nginx-vulnerabilities-cve-2026-123007/",
+     "d": "serverpilot.io",
+     "x": "https://x.com/NewsFromGoogle/status/2123185688522977309",
+     "h": "NewsFromGoogle"
+    },
+    {
+     "t": "Salesforce says 226,000 custom agents now run on Slack",
+     "u": "https://x.com/Benioff/status/2123249365875904551",
+     "d": "x.com",
+     "x": "https://x.com/Benioff/status/2123249365875904551",
+     "h": "Benioff"
+    },
+    {
+     "t": "Lenny Rachitsky: demand for software engineers is falling",
+     "u": "https://x.com/lennysan/status/2123210143491867010",
+     "d": "x.com",
+     "x": "https://x.com/lennysan/status/2123210143491867010",
+     "h": "lennysan"
+    },
+    {
+     "t": "GitHub Copilot adds verified one-click connectors",
+     "u": "https://x.com/github/status/2123217310752342095",
+     "d": "x.com",
+     "x": "https://x.com/github/status/2123217310752342095",
+     "h": "github"
+    },
+    {
+     "t": "Quora names a new CEO as Adam D'Angelo moves to executive chair",
+     "u": "https://quorablog.quora.com/Welcome-John-Peacock-as-Quora-CEO",
+     "d": "quorablog.quora.com",
+     "x": "https://x.com/adamdangelo/status/2123207058673873112",
+     "h": "adamdangelo"
+    },
+    {
+     "t": "Researcher claims Ruby flaw allows remote takeover of stock Rails apps",
+     "u": "https://x.com/danielha/status/2123285121604407485",
+     "d": "x.com",
+     "x": "https://x.com/danielha/status/2123285121604407485",
+     "h": "danielha"
+    }
+   ]
+  },
+  {
+   "id": "cyber",
+   "title": "Cybersecurity",
+   "items": [
+    {
+     "t": "NSA network outage tied to an AI-found PHP bug; NSANet restoration could take days",
+     "u": "https://www.nytimes.com/2026/11/18/us/politics/tech-outages-trump-national-security.html?unlocked_article_code=1.RlE.u6LD._9zCJ68b81rl&smid=url-share",
+     "d": "nytimes.com",
+     "x": "https://x.com/dnvolz/status/2123225063273197766",
+     "h": "dnvolz"
+    },
+    {
+     "t": "Russian national charged with entering the US to spy on Palantir employees",
+     "u": "https://www.justice.gov/opa/pr/russian-national-indicted-acting-foreign-agent-russia-target-silicon-valley-technology-and",
+     "d": "justice.gov",
+     "x": "https://x.com/ImposeCost/status/2123232685883899929",
+     "h": "ImposeCost"
+    },
+    {
+     "t": "n0n extortion group lists cancer-test maker GRAIL",
+     "u": "https://x.com/DailyDarkWeb/status/2123221842752061826",
+     "d": "x.com",
+     "x": "https://x.com/DailyDarkWeb/status/2123221842752061826",
+     "h": "DailyDarkWeb"
+    },
+    {
+     "t": "Ukraine and FBI arrest four in AI-voice IT-support scam tied to $40.5M in ransom payments",
+     "u": "https://x.com/DailyDarkWeb/status/2123274564322955632",
+     "d": "x.com",
+     "x": "https://x.com/DailyDarkWeb/status/2123274564322955632",
+     "h": "DailyDarkWeb"
+    },
+    {
+     "t": "Hunt.io finds Russian-speaking crew's exposed loot store with live US bank, IRS and Social Security logins",
+     "u": "https://x.com/HackingButLegal/status/2123266179699745045",
+     "d": "x.com",
+     "x": "https://x.com/HackingButLegal/status/2123266179699745045",
+     "h": "HackingButLegal"
+    },
+    {
+     "t": "Bitdefender: rebuilt EggStreme implant can sit silent instead of beaconing",
+     "u": "https://x.com/DailyDarkWeb/status/2123238127540056427",
+     "d": "x.com",
+     "x": "https://x.com/DailyDarkWeb/status/2123238127540056427",
+     "h": "DailyDarkWeb"
+    },
+    {
+     "t": "Everskies user database with 22M+ accounts allegedly for sale",
+     "u": "https://x.com/DailyDarkWeb/status/2123216892370321674",
+     "d": "x.com",
+     "x": "https://x.com/DailyDarkWeb/status/2123216892370321674",
+     "h": "DailyDarkWeb"
+    },
+    {
+     "t": "GTIG and Mandiant: COLD RELIC (formerly COLDRIVER) weaponized stolen data",
+     "u": "https://x.com/JohnHultquist/status/2123256768348266666",
+     "d": "x.com",
+     "x": "https://x.com/JohnHultquist/status/2123256768348266666",
+     "h": "JohnHultquist"
+    },
+    {
+     "t": "Chrome 158 patches 204 vulnerabilities",
+     "u": "https://www.securityweek.com/chrome-158-patches-204-vulnerabilities/",
+     "d": "securityweek.com",
+     "x": "https://x.com/SecurityWeek/status/2123234815105192351",
+     "h": "SecurityWeek"
+    },
+    {
+     "t": "ASUS fixes 12 flaws in routers and Control Center, including a CVSS 10.0 bug",
+     "u": "https://securityonline.info/asus-fixes-12-flaws-cve-2026-114202/",
+     "d": "securityonline.info",
+     "x": "https://x.com/Daily_CyberSec/status/2123223195612241938",
+     "h": "Daily_CyberSec"
+    }
+   ]
+  },
+  {
+   "id": "hb",
+   "title": "Huntington Beach / OC",
+   "items": [
+    {
+     "t": "Whittier Boys Freshman Basketball @ Huntington Beach",
+     "u": "https://www.maxpreps.com/ca/basketball/game/huntington-beach-vs-whittier/freshman/11-24-2026/?c=08c4ed5a-b67c-4c94-84af-ec35b0485ded",
+     "d": "maxpreps.com"
+    },
+    {
+     "t": "Ocean View vs Century - Girls Junior Varsity Soccer 11/19/2026 | Watch Live & On Demand",
+     "u": "https://www.nfhsnetwork.com/events/ocean-view-high-school-huntington-beach-ca/gama2f1be0842",
+     "d": "nfhsnetwork.com"
+    },
+    {
+     "t": "Wolf Garage Door Services Launches New Website and Huntington Beach Location to Expand Service Accessibility",
+     "u": "https://www.digitaljournal.com/pr/news/prodigy-press-wire/wolf-garage-door-services-launches-1250819577.html",
+     "d": "digitaljournal.com"
+    }
+   ]
+  }
+ ]
+}
