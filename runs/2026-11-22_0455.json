@@ -1,0 +1,540 @@
+{
+ "run": "2026-11-22_0455",
+ "stamp": "2026-11-22 04:55",
+ "date": "2026-11-22",
+ "sections": [
+  {
+   "id": "top",
+   "title": "Top Stories",
+   "items": [
+    {
+     "t": "Tesla starts rolling out FSD v15 with 'Reality View'",
+     "u": "https://x.com/i/status/2124222447855743019",
+     "d": "x.com",
+     "x": "https://x.com/i/status/2124222447855743019",
+     "h": "i"
+    },
+    {
+     "t": "Musk warns of an AI \"cash shortage\" next year as compute takes months to start earning",
+     "u": "https://x.com/elonmusk/status/2124271725927903388",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2124271725927903388",
+     "h": "elonmusk"
+    },
+    {
+     "t": "Update: The Lean FRO and Mathlib formally certify the Claude-assisted Riemann Hypothesis proof, and independent mathematicians say it's real",
+     "u": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/",
+     "d": "scientificamerican.com",
+     "x": "https://x.com/leanprover/status/2124159121645801562",
+     "h": "leanprover"
+    },
+    {
+     "t": "Update: Tesla FSD v15 spreads to owners' cars, with pick-your-spot parking and an AI-generated 'Reality View'",
+     "u": "https://x.com/SawyerMerritt/status/2124302138771943728",
+     "d": "x.com",
+     "x": "https://x.com/SawyerMerritt/status/2124302138771943728",
+     "h": "SawyerMerritt"
+    },
+    {
+     "t": "Update: Tesla FSD v15.0.1 reaches its first customer cars in the U.S. and Canada",
+     "u": "https://x.com/SawyerMerritt/status/2124271378073530460",
+     "d": "x.com",
+     "x": "https://x.com/SawyerMerritt/status/2124271378073530460",
+     "h": "SawyerMerritt"
+    },
+    {
+     "t": "Update: A Cybercab dodges a crash as FSD v15 owner clips spread, but \"25x safer\" claims stretch Tesla's own figure",
+     "u": "https://x.com/SawyerMerritt/status/2124371559057940761",
+     "d": "x.com",
+     "x": "https://x.com/SawyerMerritt/status/2124371559057940761",
+     "h": "SawyerMerritt"
+    },
+    {
+     "t": "Update: What FSD v15 is expected to bring when it goes wide in December",
+     "u": "https://x.com/SawyerMerritt/status/2124183811202187404",
+     "d": "x.com",
+     "x": "https://x.com/SawyerMerritt/status/2124183811202187404",
+     "h": "SawyerMerritt"
+    },
+    {
+     "t": "Gemini 4 Neon in Google's Antigravity CLI takes #1 on Artificial Analysis' Coding Agent Index",
+     "u": "https://x.com/_mohansolo/status/2124286882188284171",
+     "d": "x.com",
+     "x": "https://x.com/_mohansolo/status/2124286882188284171",
+     "h": "_mohansolo"
+    },
+    {
+     "t": "Update: West Coast faces 40\u201360 foot offshore waves, a king tide and a strong atmospheric river Tuesday",
+     "u": "https://x.com/RyanWeather/status/2124269465143476539",
+     "d": "x.com",
+     "x": "https://x.com/RyanWeather/status/2124269465143476539",
+     "h": "RyanWeather"
+    },
+    {
+     "t": "Google will require Android developer verification worldwide from January 2027",
+     "u": "https://x.com/Pirat_Nation/status/2124232631340630226",
+     "d": "x.com",
+     "x": "https://x.com/Pirat_Nation/status/2124232631340630226",
+     "h": "Pirat_Nation"
+    }
+   ]
+  },
+  {
+   "id": "us",
+   "title": "US News",
+   "items": [
+    {
+     "t": "How a Crash Into a Cruise Ship in New Orleans Became a \u2018Miracle on the Mississippi\u2019",
+     "u": "https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-tanker-tick-tock.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Republicans Debate Why They Lost the Midterms, and if Trump Is to Blame",
+     "u": "https://www.nytimes.com/2026/11/22/us/politics/republican-midterm-loss-debate-trump.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "What\u2019s Legal Under Florida\u2019s New Anti-D.E.I. Law? It\u2019s Anyone\u2019s Guess.",
+     "u": "https://www.nytimes.com/2026/11/22/us/florida-anti-dei-law-consequences.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "A Riverboat Captain Recalls a Crash on the Mississippi",
+     "u": "https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-captain.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Fact-Checking Stephen Miller, the New White House Chief of Staff",
+     "u": "https://www.nytimes.com/2026/11/22/us/politics/stephen-miller-fact-check.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Is Annie Andrews Too Real for the Senate? South Carolinians Are About to Find Out.",
+     "u": "https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "He expected a small-business loan. It turned out to be a trap",
+     "u": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance",
+     "d": "npr.org"
+    },
+    {
+     "t": "ICE Officers Arrest 2 Passengers Boarding a Flight at Seattle Airport",
+     "u": "https://www.nytimes.com/2026/11/22/us/ice-arrest-passengers-seattle-airport.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Kansas City Current capture first NWSL trophy",
+     "u": "https://www.cbsnews.com/news/nwsl-championship-kansas-city-current-washington-spirit/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "ICE officers arrest 2 passengers boarding flight in Seattle",
+     "u": "https://www.cbsnews.com/news/ice-arrest-alaska-airlines-flight-seattle/",
+     "d": "cbsnews.com"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "World News",
+   "items": [
+    {
+     "t": "Update: Democrat Chuck Hubbard leads Rep. Virginia Foxx by 330 votes after recount",
+     "u": "https://thehill.com/homenews/campaign/6235449-hubbard-leads-foxx-recount/",
+     "d": "thehill.com",
+     "x": "https://x.com/thehill/status/2124285730922893763",
+     "h": "thehill"
+    },
+    {
+     "t": "Nvidia (NVDA) \u2014 bearish, a change from mixed",
+     "u": "https://x.com/DanielTNiles/status/2124287119304642769",
+     "d": "x.com",
+     "x": "https://x.com/DanielTNiles/status/2124287119304642769",
+     "h": "DanielTNiles"
+    },
+    {
+     "t": "Trump names a former makeup executive as National Cyber Director",
+     "u": "https://www.dailymail.com/news/article-16309145/trump-new-national-cyber-director.html?ns_mchannel=rss&ns_campaign=1490&ito=social-twitter_dailymailus",
+     "d": "dailymail.com",
+     "x": "https://x.com/Daily_MailUS/status/2124178825395216719",
+     "h": "Daily_MailUS"
+    },
+    {
+     "t": "Big companies line up for billions in Trump tariff refunds",
+     "u": "https://projects.propublica.org/trump-tariff-refund-ieepa/?utm_campaign=propublica-sprout&utm_content=1795309204&utm_medium=social&utm_source=twitter",
+     "d": "projects.propublica.org",
+     "x": "https://x.com/propublica/status/2124306891404701889",
+     "h": "propublica"
+    },
+    {
+     "t": "Iran\u2019s IRGC says it attacked two US-used bases in Bahrain; Bahrain reports a fire at an industrial facility",
+     "u": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles",
+     "d": "aljazeera.com",
+     "x": "https://x.com/AJENews/status/2124241648406442310",
+     "h": "AJENews"
+    },
+    {
+     "t": "Trump says he would work with Democrats to cap credit card interest at 10%",
+     "u": "https://www.axios.com/2026/11/21/trump-credit-cards-rates-warren?utm_campaign=mrf-utm_source=x&utm_medium=organic_social&utm_campaign=editorial&utm_source=twitter&utm_medium=social&mrfcid=202611216af6c3846c765e4bb100df75",
+     "d": "axios.com",
+     "x": "https://x.com/axios/status/2124185078741844426",
+     "h": "axios"
+    },
+    {
+     "t": "Update: Trump shrugs off alarm over Russian missiles crashing in Poland",
+     "u": "https://www.washingtonpost.com/world/2026/11/21/poland-says-russian-missiles-hit-its-territory-trump-calls-it-mistake/?utm_campaign=wp_main&utm_source=twitter&utm_medium=social",
+     "d": "washingtonpost.com",
+     "x": "https://x.com/washingtonpost/status/2124276700993261894",
+     "h": "washingtonpost"
+    },
+    {
+     "t": "ProPublica: DOJ is filling vacancies with lawyers fresh out of law school",
+     "u": "https://www.propublica.org/article/federal-prosecutors-hiring-trump-doj?utm_campaign=propublica-sprout&utm_content=1795320002&utm_medium=social&utm_source=twitter",
+     "d": "propublica.org",
+     "x": "https://x.com/propublica/status/2124352180542972056",
+     "h": "propublica"
+    },
+    {
+     "t": "Update: Zelensky says the US has proposed new trilateral peace talks before Christmas",
+     "u": "https://www.washingtonpost.com/world/2026/11/21/zelensky-suggests-new-round-peace-talks-could-happen-during-g-20-summit/?utm_campaign=wp_main&utm_source=twitter&utm_medium=social",
+     "d": "washingtonpost.com",
+     "x": "https://x.com/washingtonpost/status/2124257805154632034",
+     "h": "washingtonpost"
+    },
+    {
+     "t": "Senate Republicans poised to block two Trump Pentagon nominees as Democrats press Hegseth on blocked promotions",
+     "u": "https://www.washingtonpost.com/national-security/2026/11/21/gop-set-block-trump-pentagon-picks-other-military-moves-face-headwinds/?utm_campaign=wp_main&utm_source=twitter&utm_medium=social",
+     "d": "washingtonpost.com",
+     "x": "https://x.com/washingtonpost/status/2124193643883897027",
+     "h": "washingtonpost"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI",
+   "items": [
+    {
+     "t": "Google resets Gemini quotas in Antigravity, says caching stretches them 22% further",
+     "u": "https://x.com/_mohansolo/status/2124070033534161407",
+     "d": "x.com",
+     "x": "https://x.com/_mohansolo/status/2124070033534161407",
+     "h": "_mohansolo"
+    },
+    {
+     "t": "Update: Tesla FSD v15 reaches owners; Tesla engineer says it is 25x safer than v14 across the fleet",
+     "u": "https://x.com/pduan/status/2124265867336966182",
+     "d": "x.com",
+     "x": "https://x.com/pduan/status/2124265867336966182",
+     "h": "pduan"
+    },
+    {
+     "t": "Debate: Fran\u00e7ois Chollet calls the AI stock selloff a rare buying opportunity",
+     "u": "https://x.com/fchollet/status/2124246742644461569",
+     "d": "x.com",
+     "x": "https://x.com/fchollet/status/2124246742644461569",
+     "h": "fchollet"
+    },
+    {
+     "t": "Update: Claude-assisted Riemann Hypothesis proof passes independent kernel checks",
+     "u": "https://x.com/atulit_gaur/status/2124028966373916967",
+     "d": "x.com",
+     "x": "https://x.com/atulit_gaur/status/2124028966373916967",
+     "h": "atulit_gaur"
+    },
+    {
+     "t": "Tesla's FSD v15 \"Reality View\" is generated end-to-end by AI in real time",
+     "u": "https://x.com/aelluswamy/status/2124315882021433716",
+     "d": "x.com",
+     "x": "https://x.com/aelluswamy/status/2124315882021433716",
+     "h": "aelluswamy"
+    },
+    {
+     "t": "OpenCode cuts GLM 5.3 and DeepSeek V4.1 Flash prices by 60%",
+     "u": "https://x.com/thdxr/status/2124265777217802707",
+     "d": "x.com",
+     "x": "https://x.com/thdxr/status/2124265777217802707",
+     "h": "thdxr"
+    },
+    {
+     "t": "Google DeepMind engineer: Gemini subscribers won't be banned for using T3 Code",
+     "u": "https://x.com/patricktoulme/status/2124265732540387418",
+     "d": "x.com",
+     "x": "https://x.com/patricktoulme/status/2124265732540387418",
+     "h": "patricktoulme"
+    },
+    {
+     "t": "Atomic Chat releases uncensored Inkling 2 Mini quants for 12GB laptops",
+     "u": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+     "d": "huggingface.co",
+     "x": "https://x.com/atomic_chat_hq/status/2124147181418602912",
+     "h": "atomic_chat_hq"
+    },
+    {
+     "t": "Debate: Developers push back on inference providers' committed-spend contracts",
+     "u": "https://x.com/thdxr/status/2124268471290876125",
+     "d": "x.com",
+     "x": "https://x.com/thdxr/status/2124268471290876125",
+     "h": "thdxr"
+    },
+    {
+     "t": "Nathan Lambert lays out Trillium Labs' post-training research agenda",
+     "u": "https://x.com/natolambert/status/2124152733145923892",
+     "d": "x.com",
+     "x": "https://x.com/natolambert/status/2124152733145923892",
+     "h": "natolambert"
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "title": "Investing & Markets",
+   "items": [
+    {
+     "t": "Arcfront launches with four of the five frontier labs as customers",
+     "u": "https://x.com/anshuman_ssh/status/2123848140575182946",
+     "d": "x.com",
+     "x": "https://x.com/anshuman_ssh/status/2123848140575182946",
+     "h": "anshuman_ssh"
+    },
+    {
+     "t": "SoftBank's loan-to-value cushion comes into question (bearish, new)",
+     "u": "https://x.com/i/status/2124091047043367359",
+     "d": "x.com",
+     "x": "https://x.com/i/status/2124091047043367359",
+     "h": "i"
+    },
+    {
+     "t": "Idea: hackathons that take 10% founder equity are predatory",
+     "u": "https://x.com/jackminong/status/2124163428965056657",
+     "d": "x.com",
+     "x": "https://x.com/jackminong/status/2124163428965056657",
+     "h": "jackminong"
+    },
+    {
+     "t": "Investors split on Nvidia's China exposure (mixed, new)",
+     "u": "https://x.com/GavinSBaker/status/2124242071896965406",
+     "d": "x.com",
+     "x": "https://x.com/GavinSBaker/status/2124242071896965406",
+     "h": "GavinSBaker"
+    },
+    {
+     "t": "China's AI industry mood sours (bearish, new)",
+     "u": "https://x.com/robert_baiguan/status/2123954717177090097",
+     "d": "x.com",
+     "x": "https://x.com/robert_baiguan/status/2123954717177090097",
+     "h": "robert_baiguan"
+    },
+    {
+     "t": "Doubt about public tech stocks deepens (bearish, continuing)",
+     "u": "https://x.com/APompliano/status/2124315851323019644",
+     "d": "x.com",
+     "x": "https://x.com/APompliano/status/2124315851323019644",
+     "h": "APompliano"
+    },
+    {
+     "t": "Weekend bounce calls and a bullish memory datapoint (mixed, continuing)",
+     "u": "https://x.com/DougKass/status/2124164321227771912",
+     "d": "x.com",
+     "x": "https://x.com/DougKass/status/2124164321227771912",
+     "h": "DougKass"
+    },
+    {
+     "t": "Ramp vs. BILL: growth, not category, earned the multiple (mixed, new)",
+     "u": "https://x.com/kwharrison13/status/2124156631441088535",
+     "d": "x.com",
+     "x": "https://x.com/kwharrison13/status/2124156631441088535",
+     "h": "kwharrison13"
+    },
+    {
+     "t": "Inference market: crowded, but margins still high (mixed, new)",
+     "u": "https://x.com/akashi203/status/2124337281553326155",
+     "d": "x.com",
+     "x": "https://x.com/akashi203/status/2124337281553326155",
+     "h": "akashi203"
+    },
+    {
+     "t": "Mixed GPU price signals behind the semis sell-off (mixed, new)",
+     "u": "https://x.com/JaredSleeper/status/2124205213221285977",
+     "d": "x.com",
+     "x": "https://x.com/JaredSleeper/status/2124205213221285977",
+     "h": "JaredSleeper"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "General Tech",
+   "items": [
+    {
+     "t": "Update: Musk says \"FSD is GTA irl\" as V15 owners show garage parking and crash avoidance",
+     "u": "https://x.com/elonmusk/status/2124340719397781824",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2124340719397781824",
+     "h": "elonmusk"
+    },
+    {
+     "t": "@elonmusk: real-time AI video on half of one AI4 chip",
+     "u": "https://x.com/elonmusk/status/2124270426402836626",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2124270426402836626",
+     "h": "elonmusk"
+    },
+    {
+     "t": "Update: Musk says FSD v15 goes to wide release next month",
+     "u": "https://x.com/elonmusk/status/2124042864891982292",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2124042864891982292",
+     "h": "elonmusk"
+    },
+    {
+     "t": "@paulg: everyone in tech thinks Nvidia's board made a huge mistake",
+     "u": "https://x.com/paulg/status/2124041291046785484",
+     "d": "x.com",
+     "x": "https://x.com/paulg/status/2124041291046785484",
+     "h": "paulg"
+    },
+    {
+     "t": "@drfeifei: 'Week One at AMD accomplished!'",
+     "u": "https://x.com/drfeifei/status/2124199134118948957",
+     "d": "x.com",
+     "x": "https://x.com/drfeifei/status/2124199134118948957",
+     "h": "drfeifei"
+    },
+    {
+     "t": "Proshop loses a customer's \u20ac2,369 RTX 5090 sent in for warranty repair",
+     "u": "https://x.com/Pirat_Nation/status/2124322725141344546",
+     "d": "x.com",
+     "x": "https://x.com/Pirat_Nation/status/2124322725141344546",
+     "h": "Pirat_Nation"
+    },
+    {
+     "t": "Update: GTA 6 faces an unverified player-profiling claim and PS5 crashes",
+     "u": "https://www.eurogamer.net/gta-6-ps5-crashing-ce-108255-1-error-fix",
+     "d": "eurogamer.net",
+     "x": "https://x.com/Pirat_Nation/status/2124156631319454038",
+     "h": "Pirat_Nation"
+    },
+    {
+     "t": "@chamath: all company software 'needs to be rewritten' by AI models",
+     "u": "https://x.com/chamath/status/2124263605046779941",
+     "d": "x.com",
+     "x": "https://x.com/chamath/status/2124263605046779941",
+     "h": "chamath"
+    },
+    {
+     "t": "WSJ: new details on the Amodei siblings leading Anthropic",
+     "u": "https://www.wsj.com/tech/ai/anthropic-dario-daniela-amodei-siblings-ipo-be84ad11?mod=mhp",
+     "d": "wsj.com",
+     "x": "https://x.com/ZeffMax/status/2124251429439512902",
+     "h": "ZeffMax"
+    },
+    {
+     "t": "Update: FSD v15 reaches customer cars, with official release notes",
+     "u": "https://x.com/SawyerMerritt/status/2124271896606712275",
+     "d": "x.com",
+     "x": "https://x.com/SawyerMerritt/status/2124271896606712275",
+     "h": "SawyerMerritt"
+    }
+   ]
+  },
+  {
+   "id": "cyber",
+   "title": "Cybersecurity",
+   "items": [
+    {
+     "t": "Upload2Shell: Ghostscript font-loader bug (CVE-2026-125396) turns uploads, email previews and print jobs into remote code execution",
+     "u": "https://pwn.ai/upload2shell",
+     "d": "pwn.ai",
+     "x": "https://x.com/pwn_ai/status/2124201550122041564",
+     "h": "pwn_ai"
+    },
+    {
+     "t": "Update: OpenRouter off-boards three inference providers over data-handling problems",
+     "u": "https://x.com/OpenRouter/status/2124315081899200715",
+     "d": "x.com",
+     "x": "https://x.com/OpenRouter/status/2124315081899200715",
+     "h": "OpenRouter"
+    },
+    {
+     "t": "Microsoft publishes full post-incident review of the Outlook outage",
+     "u": "https://x.com/tianyin_xu/status/2124084473306460481",
+     "d": "x.com",
+     "x": "https://x.com/tianyin_xu/status/2124084473306460481",
+     "h": "tianyin_xu"
+    },
+    {
+     "t": "Together AI discloses leak of customer prompts after an AI coding agent committed a credential",
+     "u": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+     "d": "together.ai",
+     "x": "https://x.com/vipulved/status/2124283543266496765",
+     "h": "vipulved"
+    },
+    {
+     "t": "NYT: AI has rapidly reshaped cybersecurity, and severe tech disruptions may become more common",
+     "u": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html?unlocked_article_code=1.SFE.S71t.fUi4pHRxbral&smid=url-share",
+     "d": "nytimes.com",
+     "x": "https://x.com/dnvolz/status/2124202084064997499",
+     "h": "dnvolz"
+    },
+    {
+     "t": "pam-mysql authentication bypass (CVE-2026-124749, CVSS 9.8) lets attackers log in over SSH with any password",
+     "u": "https://x.com/thecybersecguru/status/2123674937844195671",
+     "d": "x.com",
+     "x": "https://x.com/thecybersecguru/status/2123674937844195671",
+     "h": "thecybersecguru"
+    },
+    {
+     "t": "MIT's Fractal kernel finds Phantom speculation and instruction-cache side channels on Apple M1",
+     "u": "https://x.com/0xpwnie/status/2124249511929229464",
+     "d": "x.com",
+     "x": "https://x.com/0xpwnie/status/2124249511929229464",
+     "h": "0xpwnie"
+    },
+    {
+     "t": "Norway: attacks on Equinor and Skagerak Energi exploited the same Microsoft Azure API Management vulnerability",
+     "u": "https://x.com/CoffeReport/status/2123919183255679053",
+     "d": "x.com",
+     "x": "https://x.com/CoffeReport/status/2123919183255679053",
+     "h": "CoffeReport"
+    },
+    {
+     "t": "Chainflip vault drained of ~$4.86M, apparently with its real aggregate signing key",
+     "u": "https://x.com/DefimonAlerts/status/2124043470151004633",
+     "d": "x.com",
+     "x": "https://x.com/DefimonAlerts/status/2124043470151004633",
+     "h": "DefimonAlerts"
+    },
+    {
+     "t": "David Litchfield proposes VESS, a score for how likely a vulnerability is to be exploited",
+     "u": "https://x.com/dlitchfield/status/2123316490506010944",
+     "d": "x.com",
+     "x": "https://x.com/dlitchfield/status/2123316490506010944",
+     "h": "dlitchfield"
+    }
+   ]
+  },
+  {
+   "id": "hb",
+   "title": "Huntington Beach / OC",
+   "items": [
+    {
+     "t": "Victim of Costa Mesa ebike collision identified as 65-year old Huntington Beach man; ninth bike rider killed in Orange County this year",
+     "u": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNV1l0SEZoajR4Qkk4UC1EWVUwWDhWR0Y5T1lEVEN3eG1OTlZzNV9MTTI1REFBdE82WHRPaFdWSVh1WnZsU0RHRVpSbjBFNExoaW5qZVdXYVR1Q0ZCZ3dVMHlQdjJyQ3dRcEthbU1PTllFOTBQVENibW5mUVFRa2tIUnUzYl9SdVJBTzJROGJnWDFrNjRwcGF0MzUzWWIwVHI0SVpEVWJfNEdvOHFZSVJDY1BDeEZ2cktXQko2Xzc5RkZheGViMWw1V0hkamh4RmVCc2U5eTJZRTRsZ293TEUxcmtiTkRrZlhJZ09rTDdUUXQtbmI0bmluRF93N09Ydw?oc=5",
+     "d": "bikinginla.com"
+    },
+    {
+     "t": "Newport Upper Jetties Surf Report, Surf Forecast and Surf Cams",
+     "u": "https://www.surfline.com/surf-report/newport-upper-jetties/5842041f4e65fad6a7708e54",
+     "d": "surfline.com"
+    },
+    {
+     "t": "Goldenwest Surf Report, Surf Forecast and Surf Cam",
+     "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN0lzQThwZ3UtZTd2SHY0c3U1R2JURE0xZkxnalZJMWZjMHRCWUgzUUJsNXlSZGhPN2pIeDR4OHBnb05TeHhNeG5UV3QwLW1WOVRPRktoejRVVDRUYXIxZkpYaEdGcTNzTkJreFBXX3cyZXBrc0JKSTJDOGh4N2E5OU1ZUUc?oc=5",
+     "d": "surfline.com"
+    }
+   ]
+  }
+ ]
+}
