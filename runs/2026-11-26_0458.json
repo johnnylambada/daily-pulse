@@ -1,0 +1,540 @@
+{
+ "run": "2026-11-26_0458",
+ "stamp": "2026-11-26 04:58",
+ "date": "2026-11-26",
+ "sections": [
+  {
+   "id": "top",
+   "title": "Top Stories",
+   "items": [
+    {
+     "t": "OpenAI fixes a GPT-6.2 billing mistake: Astra users will hit plan limits 40% faster, Sol 25% faster",
+     "u": "https://x.com/thsottiaux/status/2125784147889393806",
+     "d": "x.com",
+     "x": "https://x.com/thsottiaux/status/2125784147889393806",
+     "h": "thsottiaux"
+    },
+    {
+     "t": "Karpathy: Claude Opus 5.5 spent 7 hours and wrote 45K lines to build a Civilization-style US map from 31 real datasets",
+     "u": "https://x.com/karpathy/status/2125779541952246039",
+     "d": "x.com",
+     "x": "https://x.com/karpathy/status/2125779541952246039",
+     "h": "karpathy"
+    },
+    {
+     "t": "SpaceX: FCC approves up to 1 million orbital AI-compute satellites, and Musk pledges two SpaceX shares for every U.S. child",
+     "u": "https://x.com/BrendanCarrFCC/status/2125623026918002860",
+     "d": "x.com",
+     "x": "https://x.com/BrendanCarrFCC/status/2125623026918002860",
+     "h": "BrendanCarrFCC"
+    },
+    {
+     "t": "Neuralink gets FDA approval for LINK, the first US pivotal trial of an implantable brain-computer interface",
+     "u": "https://neuralink.com/trials/device-control/",
+     "d": "neuralink.com",
+     "x": "https://x.com/neuralink/status/2125694580544680185",
+     "h": "neuralink"
+    },
+    {
+     "t": "Update: Tesla expands its Dallas Robotaxi area 83% to 150 square miles as driverless miles pass 6 million, and raises Cyberbeast's price $5,000",
+     "u": "https://x.com/SawyerMerritt/status/2125656460759535686",
+     "d": "x.com",
+     "x": "https://x.com/SawyerMerritt/status/2125656460759535686",
+     "h": "SawyerMerritt"
+    },
+    {
+     "t": "OpenAI posts claimed proofs on matrix multiplication and FFT, as Scott Aaronson relays unconfirmed rumors that an AI lab found fast factoring",
+     "u": "http://scottaaronson.blog/?p=10379",
+     "d": "scottaaronson.blog",
+     "x": "https://x.com/Plinz/status/2125765250180087906",
+     "h": "Plinz"
+    },
+    {
+     "t": "Gemini 4 Neon usage doubles day over day on Perplexity, topping 100B tokens in a day",
+     "u": "https://x.com/AravSrinivas/status/2125816545897312752",
+     "d": "x.com",
+     "x": "https://x.com/AravSrinivas/status/2125816545897312752",
+     "h": "AravSrinivas"
+    },
+    {
+     "t": "Update: The inland Thanksgiving nor'easter postpones the Macy's parade for the first time, with the worst winds due Thursday morning",
+     "u": "https://www.forbes.com/sites/siladityaray/2026/11/26/thanksgiving-storm-disrupts-holiday-celebrations-macys-parade-postponed-philadelphia-parade-canceled/?utm_campaign=forbes&utm_medium=social&utm_source=twitter&utm_term=se-breaking",
+     "d": "forbes.com",
+     "x": "https://x.com/capitalweather/status/2125751580062343315",
+     "h": "capitalweather"
+    },
+    {
+     "t": "Update: Microsoft declares \"Code Red\" after its day-long Microsoft 365 outage",
+     "u": "https://x.com/Pirat_Nation/status/2125816822092251380",
+     "d": "x.com",
+     "x": "https://x.com/Pirat_Nation/status/2125816822092251380",
+     "h": "Pirat_Nation"
+    },
+    {
+     "t": "New US license rule for AI chips in Southeast Asia and Brazil freezes data-center loans, as S&P warns it may cut Nvidia's rating",
+     "u": "https://www.hindustantimes.com/world-news/nvidia-halts-chip-shipments-to-southeast-asia-report-101795670060435.html",
+     "d": "hindustantimes.com",
+     "x": "https://x.com/HedgieMarkets/status/2125802833517658136",
+     "h": "HedgieMarkets"
+    }
+   ]
+  },
+  {
+   "id": "us",
+   "title": "US News",
+   "items": [
+    {
+     "t": "We\u2019re Investigating a $300 Million Mystery",
+     "u": "https://www.nytimes.com/video/us/100000011287370/were-investigating-a-300-million-mystery.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "How a Thanksgiving Tradition Connects to Presidential Powers",
+     "u": "https://www.nytimes.com/video/us/politics/100000011304420/trump-president-turkey-pardon-thanksgiving.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "What's open and closed today on Thanksgiving Day 2026?",
+     "u": "https://www.cbsnews.com/news/thanksgiving-store-hours-open-closed-2026-black-friday/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "Flights at Miami Airport Are Disrupted After FedEx Jet Overshoots Runway",
+     "u": "https://www.nytimes.com/2026/11/26/us/fedex-plane-miami-airport.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "A Beloved Deli, a Stolen Van and the Neighborhood That Got It Back",
+     "u": "https://www.nytimes.com/2026/11/26/us/deli-owner-van-stolen-philadelphia.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Bipartisan Desire to Regulate A.I. Faces Obstacles in Congress",
+     "u": "https://www.nytimes.com/2026/11/26/us/politics/ai-regulation-congress-nvidia.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "To Many, Turkeys Are Dinner. To These Artists, They\u2019re the Perfect Muse.",
+     "u": "https://www.nytimes.com/2026/11/26/us/turkey-art-stamps-thanksgiving-minnesota.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "'Memories of a Good Meal': How food made a difference during WWII",
+     "u": "https://www.npr.org/2026/11/26/nx-s1-6028781/memories-of-a-good-meal-cookbook-chef-alon-shaya",
+     "d": "npr.org"
+    },
+    {
+     "t": "At Albuquerque's Indian Pueblo Kitchen, Native American dishes are the main course",
+     "u": "https://www.npr.org/2026/11/26/nx-s1-5983712/indian-pueblo-kitchen-native-american-food-albuquerque",
+     "d": "npr.org"
+    },
+    {
+     "t": "Morning news brief",
+     "u": "https://www.npr.org/2026/11/26/nx-s1-6044262/morning-news-brief",
+     "d": "npr.org"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "World News",
+   "items": [
+    {
+     "t": "Nvidia (NVDA): bearish, shifting from mixed",
+     "u": "https://www.hindustantimes.com/world-news/us-news/nvidia-faces-potential-credit-downgrade-as-s-p-questions-board-independence-101795662606629.html",
+     "d": "hindustantimes.com",
+     "x": "https://x.com/CNBC/status/2125801779069624394",
+     "h": "CNBC"
+    },
+    {
+     "t": "AIG (AIG): bearish, new",
+     "u": "https://www.abc.net.au/news/2026-11-26/corporate-regulator-asic-sues-aig-failing-to-manage-complaints/107398204?utm_source=twitter",
+     "d": "abc.net.au",
+     "x": "https://x.com/abcnews/status/2125806329067618660",
+     "h": "abcnews"
+    },
+    {
+     "t": "North Korea's Kim calls for expanding the nuclear arsenal",
+     "u": "https://www.cnbc.com/2026/11/26/north-korea-kim-nuclear-weapons-expansion.html?taid=6b07c16db40adf000184cc99&utm_campaign=trueanthem&utm_content=main&utm_medium=social&utm_source=twitter",
+     "d": "cnbc.com",
+     "x": "https://x.com/CNBC/status/2125821773560021168",
+     "h": "CNBC"
+    },
+    {
+     "t": "Shanghai party chief Chen Jining appears to be the latest official felled by Xi's purge",
+     "u": "https://www.nbcnews.com/world/china/rising-star-china-latest-victim-xis-purge-chen-jining-rcna611258?cid=sm_npd_nn_tw_ma&taid=6b07b377b40adf000184cc4e&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter",
+     "d": "nbcnews.com",
+     "x": "https://x.com/NBCNews/status/2125806785080553835",
+     "h": "NBCNews"
+    },
+    {
+     "t": "Hong Kong warns against 'disorder' on the anniversary of its deadliest fire",
+     "u": "https://x.com/AFP/status/2125808647695413373",
+     "d": "x.com",
+     "x": "https://x.com/AFP/status/2125808647695413373",
+     "h": "AFP"
+    },
+    {
+     "t": "Judge temporarily blocks the FCC from reviewing ABC's station licenses",
+     "u": "https://www.cbsnews.com/news/judge-temporarily-blocks-fcc-from-reviewing-abc-licenses/?ftag=CNM-00-10aab7e&linkId=1044604115",
+     "d": "cbsnews.com",
+     "x": "https://x.com/CBSNews/status/2125808548839862487",
+     "h": "CBSNews"
+    },
+    {
+     "t": "US unveils proposed tariffs on the EU, China and a dozen other countries",
+     "u": "https://www.arabnews.com/world/us-unveils-tariffs-on-eu-china-and-others-over-unfair-trade-3014077",
+     "d": "arabnews.com",
+     "x": "https://x.com/arabnews/status/2125806754579533889",
+     "h": "arabnews"
+    },
+    {
+     "t": "Ukraine says it knocked out five Russian warplanes in a strike on a major base",
+     "u": "https://www.independent.co.uk/news/world/europe/russia-ukraine-war-live-putin-drones-nuclear-weapons-casualties-b3091880.html",
+     "d": "independent.co.uk",
+     "x": "https://x.com/Independent/status/2125809045303165276",
+     "h": "Independent"
+    },
+    {
+     "t": "Trump and NATO chief Rutte urge Russia not to expand the Ukraine war",
+     "u": "https://www.reuters.com/world/china/trump-nato-chief-urge-russia-avoid-actions-that-widen-ukraine-war-2026-11-26/?taid=6b07bcecea3e5e0001e1d947&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter",
+     "d": "reuters.com",
+     "x": "https://x.com/ReutersChina/status/2125816937829527768",
+     "h": "ReutersChina"
+    },
+    {
+     "t": "Fuel tanker crash on Cairo's Ring Road kills at least 31",
+     "u": "https://x.com/republic/status/2125816345204068447",
+     "d": "x.com",
+     "x": "https://x.com/republic/status/2125816345204068447",
+     "h": "republic"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI",
+   "items": [
+    {
+     "t": "Obsidian ships official connectors for every AI agent",
+     "u": "https://x.com/obsdmd/status/2125700941156651151",
+     "d": "x.com",
+     "x": "https://x.com/obsdmd/status/2125700941156651151",
+     "h": "obsdmd"
+    },
+    {
+     "t": "Compute pricing shifts: SpaceX reportedly cuts Blackwell rental rates as Anthropic declines to renew 50K H200s, while CoreWeave says demand far outstrips supply",
+     "u": "https://x.com/SpaceInvestor_D/status/2125578664599302172",
+     "d": "x.com",
+     "x": "https://x.com/SpaceInvestor_D/status/2125578664599302172",
+     "h": "SpaceInvestor_D"
+    },
+    {
+     "t": "Perplexity launches Time Machine, letting models see the web as it was on any past date",
+     "u": "https://x.com/AravSrinivas/status/2125707364053680383",
+     "d": "x.com",
+     "x": "https://x.com/AravSrinivas/status/2125707364053680383",
+     "h": "AravSrinivas"
+    },
+    {
+     "t": "GPT-6.2 Astra tops SemiAnalysis' GDPx leaderboard",
+     "u": "https://x.com/SemiAnalysis_/status/2125743598587003170",
+     "d": "x.com",
+     "x": "https://x.com/SemiAnalysis_/status/2125743598587003170",
+     "h": "SemiAnalysis_"
+    },
+    {
+     "t": "OpenAI begins testing Private Inference, confidential computing for prompts and responses",
+     "u": "https://x.com/gdb/status/2125824585027272727",
+     "d": "x.com",
+     "x": "https://x.com/gdb/status/2125824585027272727",
+     "h": "gdb"
+    },
+    {
+     "t": "Artificial Analysis launches FrontierPhysics leaderboard",
+     "u": "https://x.com/ArtificialAnlys/status/2125691597602058284",
+     "d": "x.com",
+     "x": "https://x.com/ArtificialAnlys/status/2125691597602058284",
+     "h": "ArtificialAnlys"
+    },
+    {
+     "t": "Thinking Machines' Inkling 2 Mini and Small land on Ollama and Fireworks",
+     "u": "https://x.com/ollama/status/2125780317747466548",
+     "d": "x.com",
+     "x": "https://x.com/ollama/status/2125780317747466548",
+     "h": "ollama"
+    },
+    {
+     "t": "GPT-6.2 Astra tops the GDPx leaderboard, while critics say it lags at software engineering",
+     "u": "https://x.com/dylan522p/status/2125791910543360088",
+     "d": "x.com",
+     "x": "https://x.com/dylan522p/status/2125791910543360088",
+     "h": "dylan522p"
+    },
+    {
+     "t": "Sand AI's MAGI-2 debuts at #1 in Artificial Analysis Image-to-Video",
+     "u": "https://x.com/ArtificialAnlys/status/2125759745655210113",
+     "d": "x.com",
+     "x": "https://x.com/ArtificialAnlys/status/2125759745655210113",
+     "h": "ArtificialAnlys"
+    },
+    {
+     "t": "RoboCurve presents SET, a robotics benchmark frontier models score 0% on",
+     "u": "https://x.com/robocurve/status/2125754721847988381",
+     "d": "x.com",
+     "x": "https://x.com/robocurve/status/2125754721847988381",
+     "h": "robocurve"
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "title": "Investing & Markets",
+   "items": [
+    {
+     "t": "SpaceX and Musk pledge two SpaceX shares for every U.S. child with a Trump Account (~$22B)",
+     "u": "https://x.com/elonmusk/status/2125797463047258119",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2125797463047258119",
+     "h": "elonmusk"
+    },
+    {
+     "t": "Abstract raises $2.5M from HF0 to run robot AI in the cloud",
+     "u": "https://x.com/quantbagel/status/2125650766438523377",
+     "d": "x.com",
+     "x": "https://x.com/quantbagel/status/2125650766438523377",
+     "h": "quantbagel"
+    },
+    {
+     "t": "OpenAI tests Private Inference for business customers",
+     "u": "https://x.com/sama/status/2125638790593274259",
+     "d": "x.com",
+     "x": "https://x.com/sama/status/2125638790593274259",
+     "h": "sama"
+    },
+    {
+     "t": "1Password reportedly hacked (bearish, new)",
+     "u": "https://x.com/exec_sum/status/2125686942897463547",
+     "d": "x.com",
+     "x": "https://x.com/exec_sum/status/2125686942897463547",
+     "h": "exec_sum"
+    },
+    {
+     "t": "Update: Nvidia's board brings back Jensen Huang, but most of Monday's gain has faded (mixed, a change)",
+     "u": "https://x.com/saranormous/status/2125602695545504105",
+     "d": "x.com",
+     "x": "https://x.com/saranormous/status/2125602695545504105",
+     "h": "saranormous"
+    },
+    {
+     "t": "SoftBank's market cap falls below the implied value of its OpenAI stake (bearish on OpenAI's private mark, a change)",
+     "u": "https://x.com/liquidtrading/status/2125636221720576508",
+     "d": "x.com",
+     "x": "https://x.com/liquidtrading/status/2125636221720576508",
+     "h": "liquidtrading"
+    },
+    {
+     "t": "YC F26: boat.dev tops the investor-follow ranking before the Dec 2 demo day",
+     "u": "https://x.com/frontrunvc/status/2125601069384319004",
+     "d": "x.com",
+     "x": "https://x.com/frontrunvc/status/2125601069384319004",
+     "h": "frontrunvc"
+    },
+    {
+     "t": "Nasdaq 100 back in a 20% bear market as money rotates out of tech (bearish, a reversal of Monday's rally)",
+     "u": "https://x.com/bespokeinvest/status/2125602510492536953",
+     "d": "x.com",
+     "x": "https://x.com/bespokeinvest/status/2125602510492536953",
+     "h": "bespokeinvest"
+    },
+    {
+     "t": "CoreWeave credit spreads top 1,000 bps; Cathie Wood expects them to settle (bearish, not a change)",
+     "u": "https://x.com/ARKInvest/status/2125609243877224859",
+     "d": "x.com",
+     "x": "https://x.com/ARKInvest/status/2125609243877224859",
+     "h": "ARKInvest"
+    },
+    {
+     "t": "Silicon Exchange lets investors own a share of the GPUs AI companies rent",
+     "u": "https://x.com/alliance/status/2125640855495094357",
+     "d": "x.com",
+     "x": "https://x.com/alliance/status/2125640855495094357",
+     "h": "alliance"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "General Tech",
+   "items": [
+    {
+     "t": "Sridhar Vembu: AI makes you work harder",
+     "u": "https://x.com/svembu/status/2125799629887508506",
+     "d": "x.com",
+     "x": "https://x.com/svembu/status/2125799629887508506",
+     "h": "svembu"
+    },
+    {
+     "t": "Ubisoft calls its CEO's 'quadruple-A' Skull and Bones claim 'classic puffery' in court",
+     "u": "https://x.com/Pirat_Nation/status/2125786626936930593",
+     "d": "x.com",
+     "x": "https://x.com/Pirat_Nation/status/2125786626936930593",
+     "h": "Pirat_Nation"
+    },
+    {
+     "t": "Xiaomi posts Q3 2026: RMB107.2B revenue, 100,975 vehicles delivered",
+     "u": "https://x.com/leijun/status/2125793505029324894",
+     "d": "x.com",
+     "x": "https://x.com/leijun/status/2125793505029324894",
+     "h": "leijun"
+    },
+    {
+     "t": "The Information: Chinese AI developers brace for a 'dire future' as US curbs chips and tokens",
+     "u": "https://www.theinformation.com/articles/chinese-ai-firms-confront-dire-future-u-s-tightens-access-chips-tokens",
+     "d": "theinformation.com",
+     "x": "https://x.com/jingyanghk/status/2125806501847781537",
+     "h": "jingyanghk"
+    },
+    {
+     "t": "Unconfirmed Taiwan reports: Micron weighs pausing Taiwan investment over a labor dispute",
+     "u": "https://x.com/MelvinInvests/status/2125824383050797430",
+     "d": "x.com",
+     "x": "https://x.com/MelvinInvests/status/2125824383050797430",
+     "h": "MelvinInvests"
+    },
+    {
+     "t": "1Password says an attacker used an employee's GitHub account to steal some customer data",
+     "u": "https://cybersecuritynews.com/1password-hacked-2/",
+     "d": "cybersecuritynews.com",
+     "x": "https://x.com/The_Cyber_News/status/2125809864928809155",
+     "h": "The_Cyber_News"
+    },
+    {
+     "t": "Apple quietly drops native DVD playback in macOS 27",
+     "u": "https://appleinsider.com/inside/macos-27/tips/how-to-keep-watching-dvds-with-vlc-as-apple-phases-out-mac-dvd-support",
+     "d": "appleinsider.com",
+     "x": "https://x.com/appleinsider/status/2125799384554025376",
+     "h": "appleinsider"
+    },
+    {
+     "t": "Treasury's FinCEN confirms a cyberattack and takes some systems offline",
+     "u": "https://cybersecuritynews.com/fincen-confirms-cyberattack/",
+     "d": "cybersecuritynews.com",
+     "x": "https://x.com/The_Cyber_News/status/2125783535164518454",
+     "h": "The_Cyber_News"
+    },
+    {
+     "t": "Linux Mint 27 beta arrives with Cinnamon 6.8 on Ubuntu 26.04 LTS",
+     "u": "https://9to5linux.com/linux-mint-27-beta-is-now-available-for-download-with-cinnamon-6-8",
+     "d": "9to5linux.com",
+     "x": "https://x.com/9to5linux/status/2125788041830707517",
+     "h": "9to5linux"
+    },
+    {
+     "t": "Weixin Pay and WeChat Pay HK now work on Netflix Hong Kong",
+     "u": "https://x.com/Weixin_WeChat/status/2125798222002340143",
+     "d": "x.com",
+     "x": "https://x.com/Weixin_WeChat/status/2125798222002340143",
+     "h": "Weixin_WeChat"
+    }
+   ]
+  },
+  {
+   "id": "cyber",
+   "title": "Cybersecurity",
+   "items": [
+    {
+     "t": "OEMpocalypse Part 2: rooting Samsung Galaxy S26 and S26 Ultra through Knox DualDAR (CVE-2026-21102)",
+     "u": "https://calif.io/research/oempocalypse-part-2",
+     "d": "calif.io",
+     "x": "https://x.com/calif_io/status/2125794987086606352",
+     "h": "calif_io"
+    },
+    {
+     "t": "Palo Alto ships PAN-OS fixes for exploited Fragnesia Linux kernel flaw (CVE-2026-46300)",
+     "u": "https://x.com/DailyDarkWeb/status/2125766746262904959",
+     "d": "x.com",
+     "x": "https://x.com/DailyDarkWeb/status/2125766746262904959",
+     "h": "DailyDarkWeb"
+    },
+    {
+     "t": "DIVD publishes forensic reconstruction of its September breach, with signs an AI agent drove the intrusion",
+     "u": "https://x.com/DailyDarkWeb/status/2125802802572070965",
+     "d": "x.com",
+     "x": "https://x.com/DailyDarkWeb/status/2125802802572070965",
+     "h": "DailyDarkWeb"
+    },
+    {
+     "t": "Cyberattack disrupts U.S. steelmaker Vinton Steel's internal network",
+     "u": "https://x.com/DailyDarkWeb/status/2125808067564474742",
+     "d": "x.com",
+     "x": "https://x.com/DailyDarkWeb/status/2125808067564474742",
+     "h": "DailyDarkWeb"
+    },
+    {
+     "t": "Drupal core install.php flaw (CVE-2026-132165) allows unauthenticated site reinstall and takeover",
+     "u": "https://en.fofa.info/result?qbase64=YXBwPSJEcnVwYWwi",
+     "d": "en.fofa.info",
+     "x": "https://x.com/fofabot/status/2125787542192881930",
+     "h": "fofabot"
+    },
+    {
+     "t": "PolinRider malware found in 375 GitHub repos, force-pushed into AsyncAPI, CircuitVerse and Open Food Facts PRs",
+     "u": "https://safedep.io/blog/polinrider-python-loader-ethereum-calldata",
+     "d": "safedep.io",
+     "x": "https://x.com/DailyDarkWeb/status/2125782387875279182",
+     "h": "DailyDarkWeb"
+    },
+    {
+     "t": "Seekom's iBex hotel booking platform breached through a legacy app flaw",
+     "u": "https://x.com/DailyDarkWeb/status/2125777196732002314",
+     "d": "x.com",
+     "x": "https://x.com/DailyDarkWeb/status/2125777196732002314",
+     "h": "DailyDarkWeb"
+    },
+    {
+     "t": "Flight Centre warns customer records may have been accessed via a third-party accommodation booking system",
+     "u": "https://x.com/DailyDarkWeb/status/2125813552741060683",
+     "d": "x.com",
+     "x": "https://x.com/DailyDarkWeb/status/2125813552741060683",
+     "h": "DailyDarkWeb"
+    },
+    {
+     "t": "Update: CHU de la Guadeloupe suspends radiotherapy after Nov 21 cyberattack",
+     "u": "https://x.com/DailyDarkWeb/status/2125771881462554895",
+     "d": "x.com",
+     "x": "https://x.com/DailyDarkWeb/status/2125771881462554895",
+     "h": "DailyDarkWeb"
+    },
+    {
+     "t": "Leak-site and forum claims: Kleinanzeigen (50M+ lines), Colombian clinic (254K patients), Everest on Koh Young",
+     "u": "https://x.com/DailyDarkWeb/status/2125787579047883190",
+     "d": "x.com",
+     "x": "https://x.com/DailyDarkWeb/status/2125787579047883190",
+     "h": "DailyDarkWeb"
+    }
+   ]
+  },
+  {
+   "id": "hb",
+   "title": "Huntington Beach / OC",
+   "items": [
+    {
+     "t": "In-N-Out Returns Cruisin 2 Freedom to Huntington Beach",
+     "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PdjZFWjdzVUdGZmZha3BrWGlXX3lCdF9qNVJvRTR2TnNrOUhkWkI3UFBqYUdRM25NSFl5N0g4NmVneWtsZzZRaHRFWjRJQmtLOTBnOHZDaG96alMxRThiR2lRaHZZaFFUbmtCSFFQNmY?oc=5",
+     "d": "bsinews.id"
+    },
+    {
+     "t": "Westwood Financial Buys Huntington Beach Shopping Center",
+     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTG4tRGtTR1Y0enYxVFE5UlR5bUdjRVF1NlJLYnVvVWNqQ0lBV0lKV05jN21KUWsxYlpFQzNpZkRjTzJZZ2tJSlR3YXBmWTlOeHlBbHVyS0FwMGxJbHVZaVdKb1dKcjFNMzNqQ3FuNTJKaGo2VEsxV1BfMW5FRlBnSjVIenRKMkI0aThPT1FlTzVQb2VpckphaDdvWlp4V0MxMkQ5Xw?oc=5",
+     "d": "wisevoter.com"
+    },
+    {
+     "t": "In-N-Out Car Cruise Returns to Huntington Beach in January",
+     "u": "https://www.limapagi.id/en/in-n-out-car-cruise-huntington-beach",
+     "d": "limapagi.id"
+    }
+   ]
+  }
+ ]
+}
