@@ -1,0 +1,540 @@
+{
+ "run": "2026-11-27_0457",
+ "stamp": "2026-11-27 04:57",
+ "date": "2026-11-27",
+ "sections": [
+  {
+   "id": "top",
+   "title": "Top Stories",
+   "items": [
+    {
+     "t": "Update: Musk says he'll give every US child another SpaceX share every year",
+     "u": "https://x.com/elonmusk/status/2126064597039997254",
+     "d": "x.com",
+     "x": "https://x.com/elonmusk/status/2126064597039997254",
+     "h": "elonmusk"
+    },
+    {
+     "t": "Update: Sam Altman praises physicist Ven Chandrasekaran's AI-assisted quantum-gravity paper as critics push back",
+     "u": "https://x.com/sama/status/2125990371897557278",
+     "d": "x.com",
+     "x": "https://x.com/sama/status/2125990371897557278",
+     "h": "sama"
+    },
+    {
+     "t": "Tesla registers a record 285 Cybercabs in one day, passing 1,000",
+     "u": "https://x.com/SawyerMerritt/status/2126037832611303689",
+     "d": "x.com",
+     "x": "https://x.com/SawyerMerritt/status/2126037832611303689",
+     "h": "SawyerMerritt"
+    },
+    {
+     "t": "GTA 6 linked to a wave of Xbox Series X|S overheating reports",
+     "u": "https://x.com/Pirat_Nation/status/2126088616149479796",
+     "d": "x.com",
+     "x": "https://x.com/Pirat_Nation/status/2126088616149479796",
+     "h": "Pirat_Nation"
+    },
+    {
+     "t": "Unconfirmed: the Claude 'sabotage' debate grows, though one accuser walks his claim back",
+     "u": "https://x.com/travisk/status/2126096718358012005",
+     "d": "x.com",
+     "x": "https://x.com/travisk/status/2126096718358012005",
+     "h": "travisk"
+    },
+    {
+     "t": "Early testers call an unannounced Claude \"Opus 5.6\" a major leap (unconfirmed)",
+     "u": "https://x.com/kimmonismus/status/2125986784853262662",
+     "d": "x.com",
+     "x": "https://x.com/kimmonismus/status/2125986784853262662",
+     "h": "kimmonismus"
+    },
+    {
+     "t": "Coinbase gets federal approval to operate as a national trust bank, Pete Rizzo says (not yet confirmed)",
+     "u": "https://x.com/pete_rizzo_/status/2126074770043121936",
+     "d": "x.com",
+     "x": "https://x.com/pete_rizzo_/status/2126074770043121936",
+     "h": "pete_rizzo_"
+    },
+    {
+     "t": "Sber releases GigaChat 4, a 708B-parameter open-weight MoE under an MIT license",
+     "u": "https://huggingface.co/ai-sage/GigaChat4-708B-A41B",
+     "d": "huggingface.co",
+     "x": "https://x.com/NeoAIForecast/status/2126029350206406718",
+     "h": "NeoAIForecast"
+    },
+    {
+     "t": "Rumor-level: a new US Strategic Bitcoin Reserve bill could let the government buy 5% of bitcoin's supply",
+     "u": "https://x.com/bitcoinlfgo/status/2126160727342002397",
+     "d": "x.com",
+     "x": "https://x.com/bitcoinlfgo/status/2126160727342002397",
+     "h": "bitcoinlfgo"
+    },
+    {
+     "t": "Israel steps up targeted killings of Hamas leaders in Gaza",
+     "u": "https://www.cnn.com/2026/11/26/middleeast/israel-gaza-assassinations-intl?Date=20261126&Profile=CNN&utm_content=1795707201&utm_medium=social&utm_source=twitter",
+     "d": "cnn.com",
+     "x": "https://x.com/CNN/status/2125998174602985694",
+     "h": "CNN"
+    }
+   ]
+  },
+  {
+   "id": "us",
+   "title": "US News",
+   "items": [
+    {
+     "t": "Thanksgiving Storm Leaves Half a Million Without Power on the East Coast",
+     "u": "https://www.nytimes.com/2026/11/27/us/thanksgiving-weather-east-coast-storm.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
+     "u": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court",
+     "d": "npr.org"
+    },
+    {
+     "t": "Here's how GLP-1 drugs are changing people's shopping habits",
+     "u": "https://www.cbsnews.com/news/glp-1-drugs-food-apparel-shopping-habits/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "Anchoring on DayQuil, hiding from JLO and losing Bruce Springsteen | Straight Up with Vlad and Kelly",
+     "u": "https://www.cbsnews.com/video/anchoring-on-dayquil-hiding-from-jlo-and-losing-bruce-springsteen-straight-up-with-vlad-and-kelly/",
+     "d": "cbsnews.com"
+    },
+    {
+     "t": "From Thanksgiving blackouts to Black Friday, a holiday hit by wild weather and economic woes",
+     "u": "https://www.npr.org/2026/11/27/nx-s1-6054884/thanksgiving-weather-black-friday",
+     "d": "npr.org"
+    },
+    {
+     "t": "After Deadly Bondi Beach Shooting, Two Non-Jews Marry Under a Huppah",
+     "u": "https://www.nytimes.com/2026/11/27/us/australia-bondi-beach-shooting-wedding.html",
+     "d": "nytimes.com"
+    },
+    {
+     "t": "Can luxury save Macy's?",
+     "u": "https://www.npr.org/2026/11/27/nx-s1-6026486/macys-tries-to-reinvent-with-luxury",
+     "d": "npr.org"
+    },
+    {
+     "t": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
+     "u": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court",
+     "d": "npr.org"
+    },
+    {
+     "t": "Has the AR-15 Become Too Big to Ban?",
+     "u": "https://www.wsj.com/us-news/law/ar-15-guns-ban-laws-737d0dc8?mod=rss_usnews",
+     "d": "wsj.com"
+    },
+    {
+     "t": "Strangers connect by sharing stories of their favorite relatives",
+     "u": "https://www.npr.org/2026/11/27/nx-s1-6050829/strangers-connect-by-sharing-stories-of-their-favorite-relatives",
+     "d": "npr.org"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "World News",
+   "items": [
+    {
+     "t": "Iran sentences a 21-year-old woman to death after alleged torture; rights activist arrested",
+     "u": "https://www.dailymail.com/news/article-16324123/Iranian-woman-sentenced-death-tortured-mother-not-recognise-confess-sister-raped.html?ns_mchannel=rss&ns_campaign=1490&ito=social-twitter_mailonline",
+     "d": "dailymail.com",
+     "x": "https://x.com/DailyMail/status/2125996577412022481",
+     "h": "DailyMail"
+    },
+    {
+     "t": "Kushner says Putin has 'shown restraint' by not using nuclear weapons",
+     "u": "https://www.newsweek.com/how-russia-reacted-kushner-praising-putin-political-grandmaster-12770391?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1795703308",
+     "d": "newsweek.com",
+     "x": "https://x.com/CNN/status/2125953122967159288",
+     "h": "CNN"
+    },
+    {
+     "t": "Update: Storm outages near 1 million customers across five states",
+     "u": "https://x.com/WBC24News/status/2126143608474501131",
+     "d": "x.com",
+     "x": "https://x.com/WBC24News/status/2126143608474501131",
+     "h": "WBC24News"
+    },
+    {
+     "t": "Costa Rica bars a UN rapporteur who accused Israel of genocide",
+     "u": "https://today.rtl.lu/news/world/costa-rica-bars-entry-to-un-rapporteur-over-links-to-terrorist-acts-1123591068",
+     "d": "today.rtl.lu",
+     "x": "https://x.com/AFP/status/2126176896744366403",
+     "h": "AFP"
+    },
+    {
+     "t": "Tesla (TSLA): bullish, new",
+     "u": "https://x.com/cb_doge/status/2125965017824809469",
+     "d": "x.com",
+     "x": "https://x.com/cb_doge/status/2125965017824809469",
+     "h": "cb_doge"
+    },
+    {
+     "t": "Ukraine shoots down a Russian attack drone with a laser for the first time",
+     "u": "https://x.com/CBSNews/status/2125952606652502139",
+     "d": "x.com",
+     "x": "https://x.com/CBSNews/status/2125952606652502139",
+     "h": "CBSNews"
+    },
+    {
+     "t": "Update: Israel's Katz boasts of killing the Gaza Interior Ministry's security chief",
+     "u": "https://x.com/DropSiteNews/status/2126056153956434325",
+     "d": "x.com",
+     "x": "https://x.com/DropSiteNews/status/2126056153956434325",
+     "h": "DropSiteNews"
+    },
+    {
+     "t": "Campaign to oust Trump's ambassador reaches Canada's Parliament",
+     "u": "https://www.politico.com/news/2026/11/26/trump-ambassador-hoekstra-canada-parliament-01184307",
+     "d": "politico.com",
+     "x": "https://x.com/politico/status/2126093660412350673",
+     "h": "politico"
+    },
+    {
+     "t": "Sirens sound at Jordan's Muwaffaq al Salti Air Base; cause unclear",
+     "u": "https://x.com/FotrosYadegaar/status/2126100027919802517",
+     "d": "x.com",
+     "x": "https://x.com/FotrosYadegaar/status/2126100027919802517",
+     "h": "FotrosYadegaar"
+    },
+    {
+     "t": "Eisenkot strikes coalition deal giving the Democrats four ministries",
+     "u": "https://www.timesofisrael.com/liveblog_entry/eisenkot-golan-announce-coalition-deal-handing-democrats-4-ministerial-posts/",
+     "d": "timesofisrael.com",
+     "x": "https://x.com/TimesofIsrael/status/2125958782002090446",
+     "h": "TimesofIsrael"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI",
+   "items": [
+    {
+     "t": "Google's Antigravity sees a wave of new users from Japan",
+     "u": "https://x.com/_mohansolo/status/2126102493805555970",
+     "d": "x.com",
+     "x": "https://x.com/_mohansolo/status/2126102493805555970",
+     "h": "_mohansolo"
+    },
+    {
+     "t": "Mustafa Suleyman: AI chip overbuilding fears are wrong, \"things are just getting started\"",
+     "u": "https://x.com/mustafasuleyman/status/2125709603275243636",
+     "d": "x.com",
+     "x": "https://x.com/mustafasuleyman/status/2125709603275243636",
+     "h": "mustafasuleyman"
+    },
+    {
+     "t": "Moonshot AI offers free Kimi API credits for scientific research",
+     "u": "https://x.com/Kimi_Moonshot/status/2126154696947871760",
+     "d": "x.com",
+     "x": "https://x.com/Kimi_Moonshot/status/2126154696947871760",
+     "h": "Kimi_Moonshot"
+    },
+    {
+     "t": "Robbyant releases LingBot-Map 2.0 for streaming 3D reconstruction",
+     "u": "https://x.com/robbyant_brain/status/2125998143938699655",
+     "d": "x.com",
+     "x": "https://x.com/robbyant_brain/status/2125998143938699655",
+     "h": "robbyant_brain"
+    },
+    {
+     "t": "shadcn explains why he is building \"UI SDK\"",
+     "u": "https://x.com/shadcn/status/2126032449582813307",
+     "d": "x.com",
+     "x": "https://x.com/shadcn/status/2126032449582813307",
+     "h": "shadcn"
+    },
+    {
+     "t": "@thdxr: most open-weight model makers will add commercial restrictions within six months",
+     "u": "https://x.com/thdxr/status/2126034662187581563",
+     "d": "x.com",
+     "x": "https://x.com/thdxr/status/2126034662187581563",
+     "h": "thdxr"
+    },
+    {
+     "t": "Frameo rebrands as Manto, an AI agent for long-form video production",
+     "u": "https://x.com/Manto_ai/status/2125963031436042515",
+     "d": "x.com",
+     "x": "https://x.com/Manto_ai/status/2125963031436042515",
+     "h": "Manto_ai"
+    },
+    {
+     "t": "Robbyant open-sources LingBot-Navi, a navigation model with reusable 3D spatial memory",
+     "u": "https://x.com/robbyant_brain/status/2126020732610302086",
+     "d": "x.com",
+     "x": "https://x.com/robbyant_brain/status/2126020732610302086",
+     "h": "robbyant_brain"
+    },
+    {
+     "t": "Update: Tencent posts DFly2 speed numbers for DeepSeek and GLM sparse models",
+     "u": "https://x.com/TencentAI_News/status/2125968859450802415",
+     "d": "x.com",
+     "x": "https://x.com/TencentAI_News/status/2125968859450802415",
+     "h": "TencentAI_News"
+    },
+    {
+     "t": "Obsidian launches official connectors for AI agents; Hermes Agent plugs in",
+     "u": "https://hermes-agent.nousresearch.com/marketplace/obsidian",
+     "d": "hermes-agent.nousresearch.com",
+     "x": "https://x.com/i/status/2125989568721637578",
+     "h": "i"
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "title": "Investing & Markets",
+   "items": [
+    {
+     "t": "Update: Musk says he'll give every U.S. child another SpaceX share every year (bullish, not a change)",
+     "u": "https://x.com/altcap/status/2126076039558467658",
+     "d": "x.com",
+     "x": "https://x.com/altcap/status/2126076039558467658",
+     "h": "altcap"
+    },
+    {
+     "t": "A portfolio founder fields a $1B post-money term sheet on Thanksgiving",
+     "u": "https://x.com/jonchu/status/2126071727503663227",
+     "d": "x.com",
+     "x": "https://x.com/jonchu/status/2126071727503663227",
+     "h": "jonchu"
+    },
+    {
+     "t": "Perplexity Teammates usage is doubling every ten days",
+     "u": "https://x.com/AravSrinivas/status/2126038741622104256",
+     "d": "x.com",
+     "x": "https://x.com/AravSrinivas/status/2126038741622104256",
+     "h": "AravSrinivas"
+    },
+    {
+     "t": "Startup ideas right now: inference, everywhere",
+     "u": "https://x.com/michael_chomsky/status/2126127992560665043",
+     "d": "x.com",
+     "x": "https://x.com/michael_chomsky/status/2126127992560665043",
+     "h": "michael_chomsky"
+    },
+    {
+     "t": "AMD vs. Nvidia comes to a head as analysts downgrade (mixed, not a change)",
+     "u": "https://x.com/Beth_Kindig/status/2126089212445233225",
+     "d": "x.com",
+     "x": "https://x.com/Beth_Kindig/status/2126089212445233225",
+     "h": "Beth_Kindig"
+    },
+    {
+     "t": "Martin Casado: encouraging distillation may be the smart competitive play (mixed, a new angle)",
+     "u": "https://x.com/martin_casado/status/2126120505904418998",
+     "d": "x.com",
+     "x": "https://x.com/martin_casado/status/2126120505904418998",
+     "h": "martin_casado"
+    },
+    {
+     "t": "Jevons Paradox still holds for AI, but it's weaker than in early 2026 (mixed, a change)",
+     "u": "https://x.com/PeterJ_Walker/status/2125998857821766024",
+     "d": "x.com",
+     "x": "https://x.com/PeterJ_Walker/status/2125998857821766024",
+     "h": "PeterJ_Walker"
+    },
+    {
+     "t": "Morgan Stanley and MUFG reportedly prep a $4.5B CoreWeave loan sale",
+     "u": "https://x.com/qinbafrank/status/2126134226672402532",
+     "d": "x.com",
+     "x": "https://x.com/qinbafrank/status/2126134226672402532",
+     "h": "qinbafrank"
+    },
+    {
+     "t": "Leopold Aschenbrenner's fund reportedly fell 65% in Q3 but is up 88% this year (mixed, a change)",
+     "u": "https://x.com/APompliano/status/2126120395795517619",
+     "d": "x.com",
+     "x": "https://x.com/APompliano/status/2126120395795517619",
+     "h": "APompliano"
+    },
+    {
+     "t": "Rex hits #8 in the App Store's Developer category while still invite-only",
+     "u": "https://x.com/almonk/status/2126103768596987915",
+     "d": "x.com",
+     "x": "https://x.com/almonk/status/2126103768596987915",
+     "h": "almonk"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "General Tech",
+   "items": [
+    {
+     "t": "Rockstar explains why GTA 6 has no chainsaws or katanas",
+     "u": "https://x.com/Pirat_Nation/status/2126119062526689680",
+     "d": "x.com",
+     "x": "https://x.com/Pirat_Nation/status/2126119062526689680",
+     "h": "Pirat_Nation"
+    },
+    {
+     "t": "Denuvo still can't unmask the \"voices38\" game pirate",
+     "u": "https://x.com/Pirat_Nation/status/2126028968071516370",
+     "d": "x.com",
+     "x": "https://x.com/Pirat_Nation/status/2126028968071516370",
+     "h": "Pirat_Nation"
+    },
+    {
+     "t": "@djseo: Neuralink is \"working hard to make Blindsight happen\"",
+     "u": "https://x.com/djseo/status/2126181706118160696",
+     "d": "x.com",
+     "x": "https://x.com/djseo/status/2126181706118160696",
+     "h": "djseo"
+    },
+    {
+     "t": "PS5 technician measures GTA 6 drawing up to 274W",
+     "u": "https://x.com/Pirat_Nation/status/2126104213856161867",
+     "d": "x.com",
+     "x": "https://x.com/Pirat_Nation/status/2126104213856161867",
+     "h": "Pirat_Nation"
+    },
+    {
+     "t": "Denuvo cracker voices38 responds to the company's legal push to identify him",
+     "u": "https://x.com/Pirat_Nation/status/2126164611636593030",
+     "d": "x.com",
+     "x": "https://x.com/Pirat_Nation/status/2126164611636593030",
+     "h": "Pirat_Nation"
+    },
+    {
+     "t": "Tesla's US homepage now features FSD V15",
+     "u": "https://x.com/SawyerMerritt/status/2126021341359005926",
+     "d": "x.com",
+     "x": "https://x.com/SawyerMerritt/status/2126021341359005926",
+     "h": "SawyerMerritt"
+    },
+    {
+     "t": "Shopify's BFCM globe returns as a multiplayer skate-park game",
+     "u": "https://bfcm.shopify.com/",
+     "d": "bfcm.shopify.com",
+     "x": "https://x.com/tobi/status/2126118398203727896",
+     "h": "tobi"
+    },
+    {
+     "t": "@dhh: Thinking Machines' open-weight Inkling2 Mini beat Qwen3.8 27B in his local eval",
+     "u": "https://x.com/dhh/status/2125845831051858053",
+     "d": "x.com",
+     "x": "https://x.com/dhh/status/2125845831051858053",
+     "h": "dhh"
+    },
+    {
+     "t": "@dhh: the Omarchy install now runs in 3.67 seconds",
+     "u": "https://x.com/dhh/status/2126069157057716703",
+     "d": "x.com",
+     "x": "https://x.com/dhh/status/2126069157057716703",
+     "h": "dhh"
+    },
+    {
+     "t": "@paulg: assume AIs think when making predictions",
+     "u": "https://x.com/paulg/status/2126066121333715109",
+     "d": "x.com",
+     "x": "https://x.com/paulg/status/2126066121333715109",
+     "h": "paulg"
+    }
+   ]
+  },
+  {
+   "id": "cyber",
+   "title": "Cybersecurity",
+   "items": [
+    {
+     "t": "SAP confirms security incident: stolen employee GitHub tokens used to alter and copy source code",
+     "u": "https://cybersecuritynews.com/sap-security-incident/",
+     "d": "cybersecuritynews.com",
+     "x": "https://x.com/The_Cyber_News/status/2126161926422163886",
+     "h": "The_Cyber_News"
+    },
+    {
+     "t": "New AI hacking techniques using data compression and linguistic 'gadgets' written up after Prompt2Pwn",
+     "u": "https://www.monke.ie/p/human-model-differentials-and-language-hacking",
+     "d": "monke.ie",
+     "x": "https://x.com/monkehack/status/2125568597774750138",
+     "h": "monkehack"
+    },
+    {
+     "t": "Fusionist ACE bridge exploited for about $2M",
+     "u": "https://x.com/wyckoffweb/status/2125882522080866486",
+     "d": "x.com",
+     "x": "https://x.com/wyckoffweb/status/2125882522080866486",
+     "h": "wyckoffweb"
+    },
+    {
+     "t": "Node.js 27 alpha adds HTTP connection-reuse security fixes and deprecates TLS 1.2 renegotiation",
+     "u": "https://cybersecuritynews.com/node-js-27-alpha/",
+     "d": "cybersecuritynews.com",
+     "x": "https://x.com/The_Cyber_News/status/2126134380942995553",
+     "h": "The_Cyber_News"
+    },
+    {
+     "t": "Sophos EDR added to the EDR Telemetry Project with a 29.15 Windows score",
+     "u": "https://x.com/Kostastsale/status/2126006643385380951",
+     "d": "x.com",
+     "x": "https://x.com/Kostastsale/status/2126006643385380951",
+     "h": "Kostastsale"
+    },
+    {
+     "t": "oss-security thread flags slow Ubuntu security response times",
+     "u": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+     "d": "openwall.com",
+     "x": "https://x.com/jedisct1/status/2126000523916759521",
+     "h": "jedisct1"
+    },
+    {
+     "t": "Vietnam-linked WeaveLotus compromised Thai and Philippine government and military targets",
+     "u": "https://socradar.io/blog/redops-weavelotus-southeast-asian-governments/",
+     "d": "socradar.io",
+     "x": "https://x.com/Cyber_O51NT/status/2125966181831970866",
+     "h": "Cyber_O51NT"
+    },
+    {
+     "t": "Mitel MiCollab zero-days exploited for data theft; CISA adds five flaws to KEV (CVSS up to 10.0)",
+     "u": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/",
+     "d": "securityweek.com",
+     "x": "https://x.com/SecurityWeek/status/2126171657756963161",
+     "h": "SecurityWeek"
+    },
+    {
+     "t": "Fake paid expert interviews impersonate brands to steal Google logins",
+     "u": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
+     "d": "bleepingcomputer.com",
+     "x": "https://x.com/BleepinComputer/status/2126002600436793825",
+     "h": "BleepinComputer"
+    },
+    {
+     "t": "'Order 66' claims 931K files from Sinaloa, Mexico's state tax authority (SATES)",
+     "u": "https://x.com/DailyDarkWeb/status/2126167156140245243",
+     "d": "x.com",
+     "x": "https://x.com/DailyDarkWeb/status/2126167156140245243",
+     "h": "DailyDarkWeb"
+    }
+   ]
+  },
+  {
+   "id": "hb",
+   "title": "Huntington Beach / OC",
+   "items": [
+    {
+     "t": "Huntington State Beach Surf Report, Surf Forecast and Surf Cams",
+     "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaGRfSUdkUnNxd2RFRnJOWkx5aVJjdGpwbXVuMmJOdks5dDduclpxZGhEN29wbzUzeHRKeU9faXFYQ3hqbEJMbUhpVG1ZV1dXdWdUd2tWSmFXNTJ2SzZPUkE5NlR4MTdpc250RTNGY0tHdnI3ZFlPbkJraDAyV1ZUajBaNkJQeFotUjYweA?oc=5",
+     "d": "surfline.com"
+    },
+    {
+     "t": "Goldenwest Surf Report, Surf Forecast and Surf Cam",
+     "u": "https://www.surfline.com/surf-report/goldenwest/5842041f4e65fad6a77088ea",
+     "d": "surfline.com"
+    },
+    {
+     "t": "High tides to close several Huntington Beach roads",
+     "u": "https://www.newsbreak.com/huntington-beach-ca-daily-brief-373154556/5032719272270-high-tides-to-close-several-huntington-beach-roads",
+     "d": "newsbreak.com"
+    }
+   ]
+  }
+ ]
+}
